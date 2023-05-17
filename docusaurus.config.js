@@ -139,6 +139,12 @@ const config = {
         customCss: require.resolve('./src/css/custom.css'),
       },
     }),
+    scripts: [
+      {
+        src: 'https://static.buho.la/fastura/documentacion.js',
+        async: true,
+      },
+    ],
 };
 
 module.exports = config;
