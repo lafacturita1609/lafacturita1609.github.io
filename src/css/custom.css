@@ -39,3 +39,9 @@ a.navbar__brand {
     right: unset !important;
   }
 }
+
+@media (min-width: 400px){
+  .aa-Autocomplete {
+    width: 320px;
+  }
+}
