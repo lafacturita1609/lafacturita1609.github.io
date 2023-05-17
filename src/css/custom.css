@@ -29,6 +29,13 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-footer {
+footer,
+a.navbar__brand {
   display: none;
+}
+
+@media (max-width: 996px){
+  .searchBox_node_modules-\@docusaurus-theme-classic-lib-theme-Navbar-Search-styles-module {
+    right: unset !important;
+  }
 }
