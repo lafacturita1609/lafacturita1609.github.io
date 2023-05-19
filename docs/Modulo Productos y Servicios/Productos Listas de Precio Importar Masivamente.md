@@ -23,7 +23,7 @@ En este archivo tendrá que completar los siguientes campos necesarios:
 
 **3.  Código Tipo de Unidad:** Ingresa el código según corresponda el producto o el servicio.
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:**
 _Si no cuenta con un código interno en su empresa puede agregar por ejemplo 001, 002, etc._
 
 ![Alt text](img/Listas%20de%20Precio%20Importar%20Masivamente_05.jpg)
@@ -36,7 +36,7 @@ _Si no cuenta con un código interno en su empresa puede agregar por ejemplo 001
 
 ![Alt text](img/Listas%20de%20Precio%20Importar%20Masivamente_06.jpg)
 
-**IMPORTANTE:** <br> 
+**IMPORTANTE:**  
 _Ningún campo puede quedar vacío._
 
 Una vez rellenado el archivo excel, deberá seleccionar el botón **Selecciona un archivo (xlsx)**, para subir el archivo pdf correspondiente.

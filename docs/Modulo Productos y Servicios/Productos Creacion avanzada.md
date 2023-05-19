@@ -34,7 +34,7 @@ Posteriormente aparecerá el formulario para llenar los datos del **Nuevo produc
 
 **11.  Tipo de afectación:** Por defecto se selecciona **Gravado - Operación Onerosa** en caso de que utilice un tipo de afectación de IGV distinto, puede seleccionarlo.
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:**
 _Consulte con su contador si tiene dudas sobre que tipo de afectación deberá utilizar._
 
 **12.  Almacén:** Selecciona en qué almacén se va a ubicar el producto.
@@ -43,7 +43,7 @@ _Consulte con su contador si tiene dudas sobre que tipo de afectación deberá u
 
 **14.  Stock Mínimo:** Ingresa la cantidad mínima de stock; la cantidad mínima de existencias de un producto que se puede permitir tener en su almacén.
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:**
 _Para habilitar la venta con restricción del stock mínimo, se tiene que configurar desde el módulo **Configuración** en la sección **Avanzado** y la subcategoría **Inventarios.** Posteriormente deberá activar el botón **Venta con restricción de stock._**
 
 **15.  Fec. Vencimiento:** Ingresa la fecha de vencimiento del producto.
@@ -52,12 +52,12 @@ _Para habilitar la venta con restricción del stock mínimo, se tiene que config
 
 **17.  Código interno:** Identifica el producto, ayuda a la gestión de inventarios.Es importante colocar el código interno para que los productos puedan visualizarse en su Tienda Virtual. 
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:**
 _Si no cuenta con un código interno en su empresa puede configurar automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoría **Inventarios.** Posteriormente deberá activar el botón **Generar automáticamente código interno del producto.**_
 
 **18.  Código SUNAT:** Inserta código sunat, este código se lo proporciona la SUNAT.
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:**
 _Insertar el código si la **SUNAT** lo requiere._
 
 **19.  Línea de producto:** Inserta la línea de producto, grupo de productos que tienen relación directa entre sí. 
@@ -86,7 +86,7 @@ Es otra manera de agregar precios del producto sin alterar los precios en el alm
 
 ![Alt text](img/Creacion%20avanzada_04.jpg)
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:**
 _Verificar en qué casilla están colocados los precios y seleccionar la casilla en **P.Defecto.**_
 
 De esta manera podrá emitir el comprobante electrónico de la manera más fácil, ya que contará con el acceso en la parte posterior al seleccionar el producto, asimismo podrá elegir el producto según lo que su cliente solicite.

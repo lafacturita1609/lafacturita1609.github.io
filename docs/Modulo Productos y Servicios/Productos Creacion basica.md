@@ -2,7 +2,8 @@
 En esta área te ayudaremos a crear productos de una manera sencilla.Sigue estos pasos para realizarlo:
 
 ## Crear producto
-Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos**. <br> En la parte superior derecha selecciona el botón **Nuevo**.
+Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos**. 
+En la parte superior derecha selecciona el botón **Nuevo**.
 
 
 ![Alt text](img/Creacion%20basica_01.jpg)
@@ -27,5 +28,5 @@ Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría *
 
 **7.  Código interno:** Identifica el producto, ayuda a la gestión de inventarios.Es importante colocar el código interno para que los productos puedan visualizarse en su Tienda Virtual.
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:**
 _Si no cuenta con un código interno en su empresa, puede configurar para que se asignen automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoria **Inventarios**._
