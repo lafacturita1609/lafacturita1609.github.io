@@ -22,13 +22,13 @@ En este archivo tendrá que completar los siguientes campos necesarios:
 
 **2.  Código Interno:** Ingresa el código interno del producto.
 
-**IMPORTANTE:** 
-_Si no cuenta con un código interno en su empresa puede configurar automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoría **Inventarios.**
+**IMPORTANTE:** <br>
+_Si no cuenta con un código interno en su empresa puede configurar automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoría **Inventarios.**_
 
 **3.  Código tipo de Unidad:** Ingresa el código según corresponda el producto o el servicio.
 
-**IMPORTANTE:**
-Este listado lo pueden ubicar en el módulo Configuración en la sección Sunat en la subcategoría Listado de unidades.
+**IMPORTANTE:**<br>
+_Este listado lo pueden ubicar en el módulo **Configuración** en la sección Sunat en la subcategoría **Listado de unidades.**_
 
 **4.  Código Tipo Moneda:** Ingresa **PEN** para soles o **USD** para dólares.
 
