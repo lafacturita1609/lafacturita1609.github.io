@@ -2,7 +2,9 @@
 En esta área conocerá cómo crear una nueva categoría y gestionar la lista de categorías.
 
 Ingresa al módulo de **Productos/Servicios** y luego selecciona la subcategoría **Categorías.**
+
 ## Listado de Categorías
+
 Selecciona el botón **Nuevo** que está en la parte superior derecha de la página.
 
 ![img1](img/gestionar-mis-categorias_01.jpg)
