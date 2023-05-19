@@ -49,8 +49,8 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas.
 
 ![img7](img/Lista-de-productos_07.jpg)
 
-**RECOMENDACIÓN:** 
-Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro [artículo](#).
+**RECOMENDACIÓN:** <br>
+_Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro [artículo](#)._
 
 **8.  Importar:**
 
@@ -62,7 +62,7 @@ Al seleccionar el botón desplegable, encontraremos otras opciones:
 
 * **Actualizar Precios:** Permite actualizar la lista de precios(P.Unitario/P.Unitario Compra).
 
-**RECOMENDACIÓN:**
+**RECOMENDACIÓN:** <br>
 _Para conocer cómo importar de forma masiva, te invitamos a leer nuestro [artículo.](#)_
 
 **9.  Nuevo:** Permite crear un producto nuevo, creelo paso a paso en este [artículo.](#)
