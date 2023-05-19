@@ -49,8 +49,8 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas.
 
 ![img7](img/Lista-de-productos_07.jpg)
 
-**RECOMENDACIÓN:** <br> 
-_Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro [artículo](#)._ 
+**RECOMENDACIÓN:** 
+Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro [artículo](#).
 
 **8.  Importar:**
 
