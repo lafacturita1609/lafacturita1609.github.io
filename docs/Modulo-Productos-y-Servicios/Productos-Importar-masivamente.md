@@ -27,7 +27,7 @@ _Si no cuenta con un código interno en su empresa puede configurar automáticam
 
 **3.  Código tipo de Unidad:** Ingresa el código según corresponda el producto o el servicio.
 
-**IMPORTANTE:**<br>
+**IMPORTANTE:** <br>
 _Este listado lo pueden ubicar en el módulo **Configuración** en la sección Sunat en la subcategoría **Listado de unidades.**_
 
 **4.  Código Tipo Moneda:** Ingresa **PEN** para soles o **USD** para dólares.
