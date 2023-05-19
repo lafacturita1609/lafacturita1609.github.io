@@ -34,7 +34,7 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas.
 * **Inhabilitar:** No se elimina solo, se desactiva la existencia del producto.
 * **Cód Barras:** Es el conjunto de líneas paralelas de distinto grosor y espaciado que identifican un producto.
 * **Etiquetas:** Permite imprimir los códigos de barra en etiquetas para sus productos en tamaño 1x1 / 1x2 / 1x3.
-* 
+  
 **7.  Exportar:** Al seleccionar el botón desplegable, encontraremos otras opciones:
 
 * Listado: Permite descargar la lista completa de productos en excel. Se debe seleccionar el periodo y la fecha que desee exportar.
@@ -49,7 +49,7 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas.
 
 ![img7](img/Lista-de-productos_07.jpg)
 
-**RECOMENDACIÓN:**
+**RECOMENDACIÓN:** <br> 
 _Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro [artículo](#)._ 
 
 **8.  Importar:**
