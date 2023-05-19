@@ -10,7 +10,7 @@ Posteriormente aparecerá el formulario para llenar los datos del **Nuevo produc
 
 ## Sección general
 
-![img01](img/Creacion%20avanzada_01.jpg)
+![img01](img/Creacion-avanzada_01.jpg)
 
 **1.  Incluye IGV:** Selecciona la casilla de selección para aplicar IGV en su producto.
 
@@ -73,30 +73,30 @@ _Insertar el código si la **SUNAT** lo requiere._
 **24.  Este producto, ¿requiere insumos?:** Selecciona la casilla si el producto va a ser utilizado en el módulo de producción.
 
 **25.  Incluye ISC (Impuesto selectivo al consumo):** Selecciona la casilla de selección para aplicar ISC; elija el Tipo de sistema ISC que requiera; ingrese el porcentaje.
-![Alt text](img/Creacion%20avanzada_02.jpg)
+![Alt text](img/Creacion-avanzada_02.jpg)
 
 **26.  Sujeto a detracción:** Selecciona la casilla si el producto está sujeto a detracción.
 
 ## Sección almacenes
 Podrá colocar diferentes precios del producto según el almacén.Es decir el mismo producto podrá tener diferentes precios en diferentes almacenes.
-![Alt text](img/Creacion%20avanzada_03.jpg)
+![Alt text](img/Creacion-avanzada_03.jpg)
 
 ## Sección presentaciones
 Es otra manera de agregar precios del producto sin alterar los precios en el almacén.Te permite añadir diferentes presentaciones.
 
-![Alt text](img/Creacion%20avanzada_04.jpg)
+![Alt text](img/Creacion-avanzada_04.jpg)
 
 **IMPORTANTE:**
 _Verificar en qué casilla están colocados los precios y seleccionar la casilla en **P.Defecto.**_
 
 De esta manera podrá emitir el comprobante electrónico de la manera más fácil, ya que contará con el acceso en la parte posterior al seleccionar el producto, asimismo podrá elegir el producto según lo que su cliente solicite.
 
-![Alt text](img/Creacion%20avanzada_05.jpg)
+![Alt text](img/Creacion-avanzada_05.jpg)
 
 Selecciona la **casilla de confirmación** si desea agregar el producto.
 
 ## Sección atributos
-![Alt text](img/Creacion%20avanzada_06.jpg)
+![Alt text](img/Creacion-avanzada_06.jpg)
 
 **1.  Imagen:** Inserta la imagen del producto.
 
@@ -104,18 +104,18 @@ Selecciona la **casilla de confirmación** si desea agregar el producto.
 
 Deberá escribir el nombre de la categoría que desee crear y después seleccionar el botón  **[+Guardar].**
 
-![Alt text](img/Creacion%20avanzada_07.jpg)
+![Alt text](img/Creacion-avanzada_07.jpg)
 
 **3.  Marca:** Selecciona la marca del producto, caso contrario deberá crearlo seleccionando el botón **[+Nuevo].**
 
 Deberá escribir el nombre de la marca que desee crear y después seleccionar el botón  **[+Guardar].**
 
-![Alt text](img/Creacion%20avanzada_08.jpg)
+![Alt text](img/Creacion-avanzada_08.jpg)
 **4.  Listado:** Selecciona el botón **[+Agregar]** para agregar una lista de atributos, selecciona el tipo y añada una descripción si lo cree necesario.
 
 ## Sección compra
 
-![Alt text](img/Creacion%20avanzada_09.jpg)
+![Alt text](img/Creacion-avanzada_09.jpg)
 
 **1.  Precio Unitario:** Inserta el precio unitario del costo del producto.
 

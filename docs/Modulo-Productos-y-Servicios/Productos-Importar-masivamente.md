@@ -4,19 +4,19 @@ En esta área te ayudaremos a crear productos de manera masiva. Sigue estos paso
 Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos.**
 En la parte superior derecha selecciona el botón **Importar** después selecciona **Productos.**
 
-![img1](img/Importar%20masivamente_01.jpg)
+![img1](img/Importar-masivamente_01.jpg)
 
 Posteriormente aparecerá una ventana de **Importar** productos. Selecciona **Descargar** formato de ejemplo para importar.
 
-![img2](img/Importar%20masivamente_02.jpg)
+![img2](img/Importar-masivamente_02.jpg)
 
 Descargará un archivo en formato excel.
 
-![img3](img/Importar%20masivamente_03.jpg)
+![img3](img/Importar-masivamente_03.jpg)
 
 En este archivo tendrá que completar los siguientes campos necesarios:
 
-![img4](img/Importar%20masivamente_04.jpg)
+![img4](img/Importar-masivamente_04.jpg)
 
 **1.  Nombre:** Ingresa el nombre del producto.
 
@@ -51,7 +51,7 @@ _Si en el archivo desea ingresar sus [categorías](#) y [marcas](#) debe tener e
 
 Una vez rellenado el archivo excel, deberá seleccionar en que **almacén** desea importar los productos, después selecciona el botón **Selecciona un archivo (xlsx)**,para subir el archivo pdf correspondiente.
 
-![Alt text](img/Importar%20masivamente_05.jpg)
+![Alt text](img/Importar-masivamente_05.jpg)
 
 Finalmente selecciona el botón Procesar, se observará el [Listado de productos](#), donde podrá visualizar su producto agregado.
 

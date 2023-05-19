@@ -6,11 +6,11 @@ Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría *
 En la parte superior derecha selecciona el botón **Nuevo**.
 
 
-![Alt text](img/Creacion%20basica_01.jpg)
+![Alt text](img/Creacion-basica_01.jpg)
 
  Posteriormente aparecerá el formulario para llenar los datos del **Nuevo producto.**
  
- ![Alt text](img/Creacion%20basica_02.jpg)
+ ![Alt text](img/Creacion-basica_02.jpg)
 
  Se procederá a ingresar los siguientes datos:
 

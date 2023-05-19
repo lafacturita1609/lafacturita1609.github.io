@@ -1,26 +1,26 @@
-## Lista de productos
+# Lista de productos
 En esta área podrás conocer cómo gestionar la lista de productos y otras funciones importantes.
 
 Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos**
 
-![img1](img/Lista%20de%20productos_01.jpg)
+![img1](img/Lista-de-productos_01.jpg)
 
 ## Listado de Productos
 Se visualizarán diferentes funcionalidades de las secciones enumeradas.
 
-![img2](img/Lista%20de%20productos_02.jpg)
+![img2](img/Lista-de-productos_02.jpg)
 
 **1.  Filtrar por:** En esta sección encontrará la información de producto de una forma más rápida y puede filtrar la búsqueda con diferentes opciones.
 
 **2.  Historial:** Permite ver los detalles del Stock **/Últimas ventas/Últimas compras.**
 
-![img3](img/Lista%20de%20productos_03.jpg)
+![img3](img/Lista-de-productos_03.jpg)
 
 **3.  Stock:** Permite visualizar el **inventario disponible** de los productos.
 
-![img4](img/Lista%20de%20productos_04.jpg)
+![img4](img/Lista-de-productos_04.jpg)
 
 **4.  P.Unitario:** Valor del producto por unidad.
 
@@ -39,15 +39,15 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas.
 
 * Listado: Permite descargar la lista completa de productos en excel. Se debe seleccionar el periodo y la fecha que desee exportar.
 
-![img5](img/Lista%20de%20productos_05.jpg)
+![img5](img/Lista-de-productos_05.jpg)
 
 * Woocomerce: Permite descargar la lista completa de productos y porteriormente importarlo a Woocomerce.
 
-![img6](img/Lista%20de%20productos_06.jpg)
+![img6](img/Lista-de-productos_06.jpg)
 
 * Etiquetas: Permite imprimir etiquetas de forma masiva de los productos.
 
-![img7](img/Lista%20de%20productos_07.jpg)
+![img7](img/Lista-de-productos_07.jpg)
 
 **RECOMENDACIÓN:**
 _Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro [artículo](#)._ 

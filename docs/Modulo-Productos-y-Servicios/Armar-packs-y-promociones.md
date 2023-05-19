@@ -7,11 +7,11 @@ Ingresa al módulo **Productos/Servicios,** en la subcategoría **Conjuntos/Pack
 
 En la parte superior derecha selecciona el botón **Nuevo.**
 
-![Alt text](img/Armar%20packs%20y%20promociones_01.jpg)
+![Alt text](img/Armar-packs-y-promociones_01.jpg)
 
 Al seleccionar el botón **Nuevo,** se encontrará el formulario del nuevo producto compuesto.
 
-![Alt text](img/Armar%20packs%20y%20promociones_02.jpg)
+![Alt text](img/Armar-packs-y-promociones_02.jpg)
 
 **1.  Datos del producto compuesto**
 
@@ -27,7 +27,7 @@ Se procederá a ingresar los siguientes datos:
 
 Posteriormente selecciona el botón **Agregar producto** y se mostrará el siguiente formulario.
 
-![Alt text](img/Armar%20packs%20y%20promociones_03.jpg)
+![Alt text](img/Armar-packs-y-promociones_03.jpg)
 
 Se procederá a ingresar los siguientes datos:
 
@@ -47,7 +47,7 @@ Se procederá a ingresar los siguientes datos:
 
 Después selecciona el botón **Guardar**, donde visualizará la lista de los productos compuestos.
 
-![Alt text](img/Armar%20packs%20y%20promociones_04.png)
+![Alt text](img/Armar-packs-y-promociones_04.png)
 
 
 

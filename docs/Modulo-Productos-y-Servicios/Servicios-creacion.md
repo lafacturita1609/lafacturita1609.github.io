@@ -6,13 +6,13 @@ Ingresa al módulo de **Productos/Servicios** y luego selecciona la subcategorí
 ## Crear Servicios
 Selecciona el botón **Nuevo** que está en la parte superior derecha de la página.
 
-![Alt text](img/Servicios%20creacion_01.jpg)
+![Alt text](img/Servicios-creacion_01.jpg)
 
 Se encontrará el formulario de servicio y se completarán los siguientes datos.
 
 ## General
 
-![Alt text](img/Servicios%20creacion_02.jpg)
+![Alt text](img/Servicios-creacion_02.jpg)
 
 
   **1.  Incluye Igv:** Seleccione la casilla de selección para aplicar **IGV** en su servicio.
@@ -44,7 +44,7 @@ Se encontrará el formulario de servicio y se completarán los siguientes datos.
 
 ## Atributos
 
-![Alt text](img/Servicios%20creacion_02.jpg)
+![Alt text](img/Servicios-creacion_02.jpg)
 
 **1.  Imagen:** Inserta la imagen del servicio.
 
