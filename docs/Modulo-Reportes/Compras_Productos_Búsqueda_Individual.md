@@ -21,5 +21,3 @@ Podrá exportar los reportes, seleccionando el botón correspondiente.
 Luego seleccione el botón Buscar. Se observan las compras con el producto que seleccionó:
 
 ![Alt text](img/Compras_Producto_Busqueda_Individual_04.jpg)
-
-Holaa Miriam
