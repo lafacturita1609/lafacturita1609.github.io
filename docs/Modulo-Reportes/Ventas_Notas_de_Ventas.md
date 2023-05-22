@@ -11,6 +11,7 @@ Aparecerá lo siguiente:
 Completa los siguientes filtros:
 
 ![Alt text](img/Ventas_Notas_de_Ventas_03.jpg)
+
 **IMPORTANTE:** _Selecciona solo los filtros que requiera._
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
