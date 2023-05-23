@@ -7,6 +7,7 @@ Ingresa al módulo de **Inventario**, luego selecciona la subcategoría **Kardex
 ![Alt text](img/Reporte_Kardex_valorizado_01.jpg)
 
 ## Botón buscar
+
 Para el resumen de los productos, tenemos que llenar los siguientes filtros.
 ![Alt text](img/Reporte_Kardex_valorizado_02.jpg)
 **1.  Periodo:** Selecciona uno de los filtros de tu preferencia.
