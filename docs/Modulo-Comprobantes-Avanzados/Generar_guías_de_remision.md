@@ -39,12 +39,12 @@ Tendrá que rellenar los siguientes campos necesarios:
 
 ![Alt text](img/guiactualizada4.jpg)
 
-**Datos modo de traslado: (En caso sea  transporte privado)**
+## Datos modo de traslado: En caso sea  transporte privado
 
 - **Datos del conductor:** Selecciona el conductor, también puede crear un nuevo conductor seleccionando el botón **+Nuevo**.
 - **Datos del vehículo:** Selecciona el número de placa del vehículo que realizará el traslado, también puede crear un nuevo vehículo seleccionando el botón **+Nuevo**.
 
-**Datos modo de traslado: (En caso sea  transporte público)**
+## Datos modo de traslado: En caso sea  transporte público
 
 - Datos del transportista: Selecciona el transportista, también puede crear un nuevo transportista seleccionando el botón **+Nuevo**.
 
@@ -52,7 +52,7 @@ Tendrá que rellenar los siguientes campos necesarios:
 *- Las unidades de medida según SUNAT, ahora son solo dos: **KGM, TNE.***
 *- El sistema agarra por defecto la dirección del cliente seleccionado, si desea poner otra dirección puede agregarla desde el módulo clientes agregando un nuevo campo de dirección.*
 *- Para registrar la empresa de transportistas es obligatorio el MTC, puede solicitarlo a este link:
-[https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.)* <br>
+[https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.)*
 *- La placa del vehículo no puede contener guiones ni minúsculas.*
 
 ## Agregar producto
