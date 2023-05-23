@@ -8,13 +8,13 @@ Ingresa al **módulo de ventas** y luego selecciona la subcategoría **Oportunid
 
 En la parte superior derecha selecciona el botón **Nuevo**.
 
-![Alt text](../img/11_oport.jpg)
+![Alt text](img/11_oport.jpg)
 
 ## Crear oportunidad de venta
 
 Al seleccionar el botón **Nuevo**, se encontrará el formulario de la oportunidad de venta.
 
-![Alt text](../img/2_oportunidad.jpg)
+![Alt text](img/2_oportunidad.jpg)
 
 Se completarán los siguientes datos:
 
@@ -27,7 +27,7 @@ Se completarán los siguientes datos:
 
 Posteriormente selecciona el botón **Agregar producto** y encontrará el formulario de **Agregar producto o servicio**.
 
-![Alt text](../img/3_oportunidad.jpg)
+![Alt text](img/3_oportunidad.jpg)
 
 Se procederá a ingresar los siguientes datos:
 
@@ -37,17 +37,17 @@ Se procederá a ingresar los siguientes datos:
 
 Después selecciona el botón **Agregar**, donde visualizará la descripción del servicio/producto. Asimismo, completados estos pasos, procede a seleccionar el boton **Generar** y se creará la oportunidad de venta.
 
-![Alt text](../img/44_oport.jpg)
+![Alt text](img/44_oport.jpg)
 
 Por consiguiente, aparecerá una ventana de la **oportunidad registrada**, donde tendrá la opción de imprimirla en formato A4 ,además también puedes seleccionar los botones de **Ir a listado** y **crear nueva oportunidad de venta**.
 
-![Alt text](../img/5_oport.jpg)
+![Alt text](img/5_oport.jpg)
 
 ## Lista de oportunidades de ventas
 
 Al seleccionar el botón **Ir al listado**,se observará la lista de las oportunidades que se crearon.
 
-![Alt text](../img/7_oport.jpg)
+![Alt text](img/7_oport.jpg)
 
 Contaremos con las siguientes opciones o botones:
 
@@ -62,7 +62,7 @@ Contaremos con las siguientes opciones o botones:
 
 En esta sección te enseñaremos a detalle la funcionalidad del botón de Generar orden de compra, para ello selecciona el botón y se encontrará el siguiente formulario.
 
-![Alt text](../img/9_oport.jpg)
+![Alt text](img/9_oport.jpg)
 
 Se procederá a ingresar los siguientes datos:
 
@@ -76,7 +76,7 @@ Se procederá a ingresar los siguientes datos:
 
     - **Nombre:** Se autocompletará el nombre que corresponde al  tipo de documento Identidad.
 
-![Alt text](../img/10_oport.jpg)
+![Alt text](img/10_oport.jpg)
 
 La sección de **dirección y otros datos** deberá completarlos según el requerimiento de su empresa.
 
@@ -90,12 +90,12 @@ Después selecciona el botón **GUARDAR**.
 
 Posteriormente selecciona el botón **Agregar producto** y encontrará el formulario de **Agregar producto o servicio**.
 
-![Alt text](../img/3_oportventa.jpg)
+![Alt text](img/3_oportventa.jpg)
 
 Después selecciona el botón **Agregar**, donde visualizará la descripción del servicio/producto. Asimismo completado estos pasos, procede a seleccionar el boton **Generar** y se creará la orden de compra.
 
-![Alt text](../img/11_Oport2023.jpg)
+![Alt text](img/11_Oport2023.jpg)
 
 Por consiguiente, se habrá **creado la orden de compra**, y  finalmente nos redirigirá a la lista de ordenes de compras generadas, ubicado dentro del módulo compras y subcategoría ordenes de compras.
 
-![Alt text](../img/13_oportventa.jpg)
+![Alt text](img/13_oportventa.jpg)

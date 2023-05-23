@@ -4,11 +4,11 @@ En esta área podrás generar comprobantes de cotizaciones.Sigue estos pasos par
 
 Ingresa al módulo de **Ventas** y luego selecciona la subcategoría Cotizaciones.En la parte superior derecha selecciona el botón **Nuevo**.
 
-![Alt text](../img/Coti1.jpg)
+![Alt text](img/Coti1.jpg)
 
 ## Generar Cotización
 
-![Alt text](../img/coti2.jpg)
+![Alt text](img/coti2.jpg)
 
 **1. Cliente:** Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
 
@@ -34,13 +34,13 @@ Ingresa al módulo de **Ventas** y luego selecciona la subcategoría Cotizacione
 
 **13. Información Adicional:** En esta área podrá  agregar información adicional de la cotización.
 
-![Alt text](../img/Coti3.jpg)
+![Alt text](img/Coti3.jpg)
 
 **14. Agregar productos:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
 
 Después selecciona el botón Generar y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 
-![Alt text](../img/descarga%20(1).png)
+![Alt text](img/descarga-(1).png)
 
 Además podrás escoger el formato de la cotización en tamaño **A4(vertical), 80MM (ticket) y A5(horizontal)**.
 
@@ -52,7 +52,7 @@ Finalmente puedes seleccionar el botón  ir al listado, donde visualizará las c
 
 En esta área observará todas las cotizaciones que realizó.
 
-![Alt text](../img/cotz4.jpg)
+![Alt text](img/cotz4.jpg)
 
 **1. Filtros de búsqueda:** En esta área podrá buscar una cotización específica.
 
@@ -87,10 +87,10 @@ En esta área observará todas las cotizaciones que realizó.
 **2. Mostrar/Ocultar columnas**
 En esta área podrás modificar la tabla que te aparece por defecto; se pueden añadir por columnas.
 
-![Alt text](../img/cotiz5.jpg)
+![Alt text](img/cotiz5.jpg)
 
 **3. Estado**
-![Alt text](../img/coti6.jpg)
+![Alt text](img/coti6.jpg)
 
 Para tener un orden con todas las cotizaciones generadas. Se puede seleccionar:
 
@@ -103,12 +103,12 @@ Para tener un orden con todas las cotizaciones generadas. Se puede seleccionar:
 **4. Pagos**
 Al seleccionar el botón aparecerá una ventana para añadir un pago a la cotización realizada.
 
-![Alt text](../img/descarga.jpg)
+![Alt text](img/descarga.jpg)
 
 **5. PDF**
 En esta sección podrás reimprimir la cotización, de la misma manera podrá descargar la cotización. Además podrás escoger el formato de la cotización en tamaño **A4(vertical), 80MM (ticket) y A5(horizontal)**.
 
-![Alt text](../img/formatos.png)
+![Alt text](img/formatos.png)
 
 **6. Botones de Acción**
 Se encontrará una sección de botones, con las siguientes funciones

@@ -4,13 +4,13 @@ En esta área te ayudaremos a solicitar una cotización a tus proveedores. Sigue
 
 Ingresa al módulo de Compras y luego selecciona Proveedores seguidamente la subcategoría **Solicitar cotización**. En la parte superior derecha selecciona el botón **Nuevo**.
 
-![Alt text](../M%C3%B3dulo%20Compras/img/cotizacin1.jpg)
+![Alt text](../Modulo-Compras/img/cotizacin1.jpg)
 
 ## Generar cotización
 
 Complete los siguientes campos:
 
-![Alt text](../M%C3%B3dulo%20Compras/img/cotizacin4.jpg)
+![Alt text](../Modulo-Compras/img/cotizacin4.jpg)
 
 **1. Proveedor:** Selecciona el proveedor para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
 
@@ -18,13 +18,13 @@ Complete los siguientes campos:
 
 **3. Botón agregar:** Al seleccionar este botón te crea un campo de campo adicional, para poder agregar un nuevo proveedor y correo electrónico.
 
-![Alt text](../M%C3%B3dulo%20Compras/img/proveedores9.jpg)
+![Alt text](../Modulo-Compras/img/proveedores9.jpg)
 
 **4. Fecha de emisión:** Ingresa la fecha de emisión del comprobante.
 
 **5. Agregar producto:** Al seleccionar este botón se abrirá una ventana de Agregar Producto o Servicio.Agregue la cantidad a cotizar.
 
-![Alt text](../M%C3%B3dulo%20Compras/img/proveedores10.jpg)
+![Alt text](../Modulo-Compras/img/proveedores10.jpg)
 
 - **Producto/Servicio:** Selecciona el producto o servicio, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
 

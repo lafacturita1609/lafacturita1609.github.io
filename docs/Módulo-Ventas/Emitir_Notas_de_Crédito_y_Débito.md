@@ -4,26 +4,26 @@ En esta artículo podrás conocer como generar una nota de crédito o débito, s
 
 Ingresa al **módulo de ventas** y luego ir a subcategoría **Listado de Comprobantes**.
 
-![Alt text](../img/1_notascred.jpg)
+![Alt text](img/1_notascred.jpg)
 
 **IMPORTANTE:**
 *El plazo para comunicar de baja o anular directamente un comprobante de pago electrónico es de 7 días, contados desde el día que emites el comprobante. Luego de ese plazo es necesario realizar una nota de crédito para anular cualquier comprobante.*
 
 Luego selecciona los tres puntos verticales en la parte derecha y después ingresa a la sección **Nota**.
 
-![Alt text](../img/2_notas.jpg)
+![Alt text](img/2_notas.jpg)
 
 ## Nota de Crédito
 
 Son documentos que el vendedor **emite** para indicarle al cliente que tiene un saldo a su favor, como lo es acreditar la devolución de un valor determinado o para que la empresa pueda corregir errores en las facturas ya emitidas de una forma sencilla.
 
-![Alt text](../img/3_nc.jpg)
+![Alt text](img/3_nc.jpg)
 
 ## Nota de Débito
 
 Una **nota de débito** es un documento emitido por un vendedor a un comprador para notificarle las obligaciones de deuda en curso.
 
-![Alt text](../img/4_nd.jpg)
+![Alt text](img/4_nd.jpg)
 
 Los campos más importantes a llenar en ambos formularios,son los siguientes:
 
@@ -33,7 +33,7 @@ Los campos más importantes a llenar en ambos formularios,son los siguientes:
 
 En caso el motivo sea modificar la cantidad del monto, cantidad del producto o agregar uno nuevo. Selecciona el botón **Agregar producto** y posteriormente se encontrará el formulario para realizar estas acciones.
 
-![Alt text](../img/5_notas.jpg)
+![Alt text](img/5_notas.jpg)
 
 Se procederá a ingresar los siguientes datos:
 

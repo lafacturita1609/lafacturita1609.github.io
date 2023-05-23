@@ -8,13 +8,13 @@ Ingresa al módulo de **ventas** y luego selecciona la subcategoría **Servicio 
 
 En la parte superior derecha selecciona el botón Nuevo.
 
-![Alt text](../img/Servicio-tecnico1.jpg)
+![Alt text](img/Servicio-tecnico1.jpg)
 
 ## Generar ficha de soporte técnico
 
 En esta sección podrá empezar con la creación de la ficha de soporte técnico y realizar otras importantes configuraciones.
 
-![Alt text](../img/Servictecnico2.jpg)
+![Alt text](img/Servictecnico2.jpg)
 
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
@@ -48,7 +48,7 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 
 **11. Notas:** Si desea agregar una nota adicional seleccione el botón **[+Agregar]**.
 
-![Alt text](../img/servtecnico3.jpg)
+![Alt text](img/servtecnico3.jpg)
 
 **12. Agregar Producto:**
 
@@ -56,13 +56,13 @@ En el caso de que además del servicio, s e este vendiendo un producto, puede a�
 
 Posteriormente seleccione el botón **Guardar**.
 
-![Alt text](../img/servtecnico4.jpg)
+![Alt text](img/servtecnico4.jpg)
 
 Posteriormente le redirigirá a la lista de Servicios de soporte técnico.
 
 Lista de Servicios de soporte técnico.
 
-![Alt text](../img/servicio-tecnico-5e.jpg)
+![Alt text](img/servicio-tecnico-5e.jpg)
 
 **1. Filtros de búsqueda**
 
@@ -78,7 +78,7 @@ En esta área podrá buscar una ficha de servicio técnico específica.
 
 Al seleccionar aparecerá una ventana para añadir un pago a la ficha de servicio técnico realizada.
 
-![Alt text](../img/srvtecnico.jpg)
+![Alt text](img/srvtecnico.jpg)
 
 **3. PDF**
 
@@ -91,7 +91,7 @@ Se encontrará una sección de botones, con las siguientes funciones:
 - Generar comprobante: Permite generar los comprobantes electrónicos.
 Al seleccionarlo, aparecerá el formulario **servicio de soporte técnico** para generar el comprobante de pago. Los campos se autocompletarán con los datos ya ingresados.
 
-![Alt text](../img/servicio-tecnic.jpg)
+![Alt text](img/servicio-tecnic.jpg)
 
 - **Editar:** Podrá editar la ficha de servicio técnico.
 - **Eliminar:** Podrá eliminar la ficha de servicio técnico.

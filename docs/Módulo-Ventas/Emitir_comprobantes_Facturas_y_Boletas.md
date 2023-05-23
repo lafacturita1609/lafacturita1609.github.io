@@ -4,13 +4,13 @@ En esta área podrás generar comprobantes electrónicos y crear nuevos clientes
 
 Ingresa al **módulo de ventas** y luego selecciona subcategoría **comprobantes electrónicos**.
 
-![Alt text](../img/11_boletayfactura%20.jpg)
+![Alt text](/documentacion/docs/Módulo-Ventas/img/11_boletayfactura.jpg1_boletayfactu ra.jpg)
 
 **1. Crear comprobante**
 
 En esta sección podrá empezar con la creación de su comprobante electrónico y realizar otras importantes configuraciones.
 
-![Alt text](../img/22_em.jpg)
+![Alt text](img/22_em.jpg)
 
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
@@ -28,11 +28,11 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 **2. Crear nuevo cliente**
 En esta sección escogerá el cliente para la creación del comprobante, caso contrario deberá crearlo seleccionando el botón **[+Nuevo]**.
 
-![Alt text](../img/33_em.jpg)
+![Alt text](img/33_em.jpg)
 
 Posteriormente aparecerá el formulario de **Nuevo cliente**.
 
-![Alt text](../img/44_em.jpg)
+![Alt text](img/44_em.jpg)
 
 Se procederá a ingresar los siguientes datos:
 
@@ -49,11 +49,11 @@ Todos los campos que cuentan con **(*)** son obligatorios.
 **3. Agregar Producto**
 Selecciona el botón Agregar producto.
 
-![Alt text](../img/7_em.jpg)
+![Alt text](img/7_em.jpg)
 
 Posteriormente se encontrará el formulario de **Agregar Producto o Servicio**.
 
-![Alt text](../img/66_em.jpg)
+![Alt text](img/66_em.jpg)
 
 Se procederá a ingresar los siguientes datos:
 
@@ -68,7 +68,7 @@ Después selecciona el botón **GUARDAR**, donde visualizará la descripción de
 **4. Crear nuevo producto**
 Selecciona el botón Nuevo ,donde aparecerá el formulario para llenar los datos del nuevo producto:
 
-![Alt text](../img/6_conf.png)
+![Alt text](img/6_conf.png)
 
 Se procederá a ingresar los siguientes datos:
 
@@ -82,28 +82,28 @@ Se procederá a ingresar los siguientes datos:
 
 Después selecciona el botón **GUARDAR**, y se visualizará esta ventana en la sección descripción
 
-![Alt text](../img/8_em.jpg)
+![Alt text](img/8_em.jpg)
 
 **5. Condiciones de pago**
 Selecciona el tipo de condición de pago que mejor se acomode a tus requerimientos.
 
 - **Contado:** Deberá escoger el método de pago, el destino donde ingresará el dinero automáticamente,la referencia y el monto en total. Además también es factible añadir otros métodos de pago.
 
-![Alt text](../img/cond_011.jpg)
+![Alt text](img/cond_011.jpg)
 
 - **Crédito:** El método de pago y la fecha a pagar, pueden ser configurados en CONFIGURACIÓN - Métodos de pago - Ingreso .
 
-![Alt text](../img/cond_02.jpg)
+![Alt text](img/cond_02.jpg)
 
 - **Crédito a cuotas:** Deberá escoger la fecha de pago y el monto,asimismo también es factible añadir la cantidad de cuotas que requiera.
 
-![Alt text](../img/cond_03.jpg)
+![Alt text](img/cond_03.jpg)
 
 *Si escogió el método crédito o crédito a cuotas, podrá visualizar el pendiente de pago: Ingresando a módulo de finanzas y en la sección cuentas por cobrar.*
 
 Después selecciona el botón **GENERAR**, donde se visualizará  una ventana indicando que la factura ha sido aceptada.
 
-![Alt text](../img/ultimo_emitir.jpg)
+![Alt text](img/ultimo_emitir.jpg)
 
 Además podrás escoger el formato del comprobante electrónico en tamaño **A4(vertical), 80MM (ticket) y A5(horizontal)**.
 

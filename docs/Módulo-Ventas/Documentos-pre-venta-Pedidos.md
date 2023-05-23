@@ -4,12 +4,12 @@ En esta área podrás generar pedidos de venta. Sigue estos pasos para realizarl
 
 Ingresa al módulo de ventas y luego selecciona la subcategoría **Pedidos**.En la parte superior derecha selecciona el botón **Nuevo**.
 
-![Alt text](../img/pedidos1.jpg)
+![Alt text](img/pedidos1.jpg)
 
 Generar pedidos
 En esta sección podrá empezar con la creación de su formulario de pedido.
 
-![Alt text](../img/pedidos21.jpg)
+![Alt text](img/pedidos21.jpg)
 
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
@@ -35,7 +35,7 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 
 Después selecciona el botón Generar y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 
-![Alt text](../img/pedidos5.jpg)
+![Alt text](img/pedidos5.jpg)
 
 Además podrás escoger el formato de la cotización en tamaño **A4(vertical), 80MM (ticket) y A5(horizontal)**.Asimismo puedes enviarlo por correo electrónico o WhatsApp, ingresando el dato del destinatario y seleccionando el botón Enviar.
 
@@ -43,7 +43,7 @@ Finalmente puedes seleccionar el botón  ir al listado, donde visualizará los p
 
 ## Listado de pedidos
 
-![Alt text](../img/pedidos3.jpg)
+![Alt text](img/pedidos3.jpg)
 
 **1. Filtros de búsqueda**
 En esta área podrá buscar una cotización específica.
@@ -59,7 +59,7 @@ En esta área podrá buscar una cotización específica.
 **2. Generar comprobantes**
 Al seleccionar este botón aparecerá una ventana donde podrá elegir las que con las que desee generar comprobantes, de manera masiva.Estos comprobantes se generarán de manera independiente.
 
-![Alt text](../img/pedidos6.jpg)
+![Alt text](img/pedidos6.jpg)
 
 **IMPORTANTE:**
 *De esta manera no se pueden agregar pagos a diferencia de generar el comprobante de manera individual.*
@@ -67,7 +67,7 @@ Al seleccionar este botón aparecerá una ventana donde podrá elegir las que co
 **3. Mostrar/Ocultar columnas**
 En esta área podrás modificar la tabla que te aparece por defecto; se pueden añadir por columnas.
 
-![Alt text](../img/pedidos4.jpg)
+![Alt text](img/pedidos4.jpg)
 
 **4. PDF**
 Al seleccionar se descarga el archivo **PDF** de la ficha de servicio técnico.
@@ -78,7 +78,7 @@ Se encontrará una sección de botones, con las siguientes funciones:
 - **Generar comprobante:** Genera  un comprobante electrónico (Factura o Boleta).
 Al seleccionar  aparecerá un formulario para generar un comprobante de pago.Los campos se autocompleta con los datos ya ingresados.
 
-![Alt text](../img/pedidos7.jpg)
+![Alt text](img/pedidos7.jpg)
 
 - **Editar:**Podrá editar el comprobante de pedido.
 - **Anular:** Podrá anular el comprobante de pedido.

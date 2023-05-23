@@ -5,13 +5,13 @@ Ingresa al **módulo de ventas** y luego ir a subcategoría **Notas de venta**.
 
 A primera vista aparecerá la lista de las notas, para crear una nueva nota de venta tendrá que seleccionar el botón **Nuevo**.
 
-![Alt text](../img/1_nota_inicio.jpg)
+![Alt text](img/1_nota_inicio.jpg)
 
 ## Crea tu nota de venta
 
 En esta área te explicaremos la función de cada sección enumerada.
 
-![Alt text](../img/Nota-de-venta2.jpg)
+![Alt text](img/Nota-de-venta2.jpg)
 
 **1. Cliente**
 Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
@@ -40,11 +40,11 @@ Luego deberá escoger el producto para la creación del comprobante, si no está
 **9. Método de pago Destino**
 Selecciona el tipo de método de pago que mejor se acomode a tus requerimientos.
 
-![Alt text](../img/Nota%20de%20venta10.png)
+![Alt text](img/Nota-de-venta10.png)
 
 **IMPORTANTE:**
 *Si escogió el método crédito , podrá visualizar el detalle de su comprobante ingresando a módulo de finanzas y en la sección cuentas por cobrar.*
 
 Una vez llenado todos los campos requeridos, seleccionamos el botón Generar. Nos aparecerá una ventana con el comprobante virtual. Podrá seleccionar en qué formato imprimirlo y si desea podrá enviarlo por correo electrónico o por medio de whatsapp.
 
-![Alt text](../img/Nota%20de%20venta8.png)
+![Alt text](img/Nota-de-venta8.png)
