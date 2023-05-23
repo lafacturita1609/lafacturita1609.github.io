@@ -27,7 +27,7 @@ Aparecerá la lista de todos los productos detalladamente.
 
 ![Alt text](img/Reporte_Kardex_valorizado_03.jpg)
 
-Visualizaremos lo siguiente en la lista: 
+Visualizaremos lo siguiente en la lista:
 
 * **Producto:** El nombre del producto.
 * **Categoría:** La categoría del producto.
@@ -37,6 +37,6 @@ Visualizaremos lo siguiente en la lista:
 * **Costo unitario:** El precio unitario del producto.
 * **Valor de ventas:** El total de la ganancia bruta.
 * **Costo de productos:** El costo total del producto vendido.
-* **Unidad valorizada:** El total de la ganancia neta. 
+* **Unidad valorizada:** El total de la ganancia neta.
 * **Stock:** Al seleccionar el botón se puede observar cuanto de stock queda.
 * **Exportar:** Al seleccionar el botón, descarga un reporte detallado del producto.
