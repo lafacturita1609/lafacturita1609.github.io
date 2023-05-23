@@ -7,6 +7,7 @@ Ingresa al módulo de **Inventario**, luego selecciona la subcategoría **Devolu
 ![Alt text](img/Lista_de_devolucion_a_proveedor_01.jpg)
 
 ## Documento de devolución
+
 Posteriormente aparecerá el formulario para llenar los datos del Documento de devolución.
 
 ![Alt text](img/Lista_de_devolucion_a_proveedor_02.jpg)
@@ -15,7 +16,7 @@ Se completarán los siguientes datos:
 
 **1.  Motivo:** Selecciona el motivo de la devolución.
 
-**2.  Fec. Emisión:** Ingresa la fecha de emisión. 
+**2.  Fec. Emisión:** Ingresa la fecha de emisión.
 
 **3.  Observación:** Ingresa la observación.
 
@@ -30,3 +31,5 @@ Posteriormente aparecerá una ventana de **Agregar producto.**
 * **Producto:** Ingresa el producto al que se realizará el cambio.
 * **Cantidad:** Ingresa la cantidad del producto.
 Posteriormente selecciona el botón **Guardar.**
+
+Hola Ale
