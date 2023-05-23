@@ -17,4 +17,3 @@ Podrá modificar los siguientes campos:
 * **Facebook, Twitter, Instagram, Linkedin:** Ingrese el link de las respectivas redes sociales.
 * **Cambiar image de fondo:** Puede cambiar la imagen de fondo para que aparezca en su inicio.
 
-Seguido selecciona el botón **Guardar**.
