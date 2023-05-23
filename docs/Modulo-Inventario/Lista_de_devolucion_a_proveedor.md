@@ -31,5 +31,3 @@ Posteriormente aparecerá una ventana de **Agregar producto.**
 * **Producto:** Ingresa el producto al que se realizará el cambio.
 * **Cantidad:** Ingresa la cantidad del producto.
 Posteriormente selecciona el botón **Guardar.**
-
-Hola Ale
