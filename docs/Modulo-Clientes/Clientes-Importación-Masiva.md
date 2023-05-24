@@ -18,7 +18,7 @@ En este archivo complete los siguientes campos:
 
 ![Alt text](img/Clientes_Importacion_Masiva_04.jpg)
 
-1. ****Código documento de identidad:**** Ingresa el código según corresponda.
+1. **Código documento de identidad:** Ingresa el código según corresponda.
     * 1 para DNI
     * 4 para Carnet de extranjería
     * 6 para RUC
