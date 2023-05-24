@@ -108,4 +108,73 @@ En caso de contar con más de un local o establecimiento, debe configurar las se
 
 Ingresa al módulo de **Usuarios/Locales & Series**, luego a la sección Establecimientos.
 
-Para agregar las series, los pasos están este artículo.
+Para agregar las series, los pasos están este [artículo](#).
+
+:::info
+
+Si estas migrando desde otro proveedor a nuestra plataforma, para poder continuar con la numeración del correlativo de tus comprobantes,tenemos esta opción para ti:
+
+:::
+
+Ingresa al módulo de configuración ,luego selecciona numeración de facturación.
+
+![Alt text](img/11_conf.jpg)
+
+Por consiguiente seleccionamos el botón **Nuevo**, donde nos aparecerá el formulario.
+
+![Alt text](img/numeracion-nuevo.jpg)
+
+Se llenarán los siguientes datos:
+
+* Tipo de comprobante
+* Serie
+* Número (Correlativo a iniciar)
+
+![Alt text](img/12_conf.png)
+
+Posteriormente al **GUARDAR**, se podrá visualizar la lista de tipos de comprobantes y su **número a iniciar**.
+
+![Alt text](img/13_conf.png)
+
+## 8. Selecciona plantilla PDF
+
+Ingresa al módulo de configuración ,luego selecciona **PDF plantillas**. Elige la que más se adecue a tu empresa.
+
+![Alt text](img/19_conf.jpg)
+
+Selecciona el **establecimiento** y **activa la plantilla** que utilizará en sus comprobantes.
+
+![Alt text](img/20_conf.png)
+
+## 9. Configuración tu ingreso de dinero
+
+Para registrar el dinero que ingresa por las ventas de tus comprobantes o registrar los gastos de tu empresa, es necesario configurar destinos de gastos o ingresos de dinero, en nuestra plataforma contamos con dos destinos:
+
+* **Dinero en efectivo: Módulo POS**
+
+Ingresa al módulo de **POS** ,luego selecciona **Caja chica POS**, para abrir las cajas y los reportes revisa el siguiente [artículo](#).
+
+* **Dinero en cuentas bancarias**
+
+Ingresa al módulo de Configuración ,luego selecciona listas de cuentas bancarias.
+
+![Alt text](img/24_conf.jpg)
+
+Selecciona el botón **Nuevo** donde nos aparecerá el formulario:
+
+![Alt text](img/formulario_de-cuentas.jpg)
+
+Se llenarán los siguientes datos:
+
+* Banco
+* Descripción
+* Número de cuenta bancaria
+* Tipo de moneda 
+* Número de cuenta interbancaria (CCI)
+* Saldo inicial
+
+![Alt text](img/form_de_cuentas_bancarias.png)
+
+Después selecciona el botón **GUARDAR**, y se visualizará la lista de cuentas bancarias.
+
+![Alt text](img/26_conf.png)
