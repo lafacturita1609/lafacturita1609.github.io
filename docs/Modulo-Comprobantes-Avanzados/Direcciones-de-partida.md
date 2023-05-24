@@ -13,4 +13,4 @@ Completa los siguientes campos:
 - **Dirección:** Inserta la dirección de la nueva dirección de partida.
 - **Ubigeo:** Inserta el ubigeo de la dirección insertada.
 
-Seguido seleccione el botón Guardar. Y podrá visualizar la nueva dirección de partida creada.
+Seguido seleccione el botón **Guardar**. Y podrá visualizar la nueva dirección de partida creada.

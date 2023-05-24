@@ -38,6 +38,6 @@ Selecciona el botón Agregar Pago:
 - **Total:** Ingrese el monto total del comprobante.
 
 **IMPORTANTE:**
-*- Una vez agregado el pago se completara el Total pagado.*
+* Una vez agregado el pago se completara el Total pagado.
 
-Seguido selecciona el botón **Agregar** y después **Generar**.
+* Seguido selecciona el botón **Agregar** y después **Generar**.

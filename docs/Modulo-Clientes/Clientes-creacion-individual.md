@@ -39,7 +39,7 @@ Se completarán los siguientes datos:
 * **Distrito:** Ingresa el distrito.
 * **Dirección:** Ingresa dirección domiciliaria.
 * **Teléfono:** Ingresa teléfono de contacto.
-***Correo electrónico:** Ingresa el correo electrónico principal.
+* **Correo electrónico:** Ingresa el correo electrónico principal.
 
 ## Otros datos
 En esta sección se colocarán los datos de el personal encargado, es opcional.

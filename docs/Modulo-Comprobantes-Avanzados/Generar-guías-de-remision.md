@@ -48,12 +48,15 @@ Tendrá que rellenar los siguientes campos necesarios:
 
 - Datos del transportista: Selecciona el transportista, también puede crear un nuevo transportista seleccionando el botón **+Nuevo**.
 
+:::info IMPORTANTE
 **IMPORTANTE:**
-*- Las unidades de medida según SUNAT, ahora son solo dos: **KGM, TNE.***
-*- El sistema agarra por defecto la dirección del cliente seleccionado, si desea poner otra dirección puede agregarla desde el módulo clientes agregando un nuevo campo de dirección.*
-*- Para registrar la empresa de transportistas es obligatorio el MTC, puede solicitarlo a este link:
+* Las unidades de medida según SUNAT, ahora son solo dos: **KGM, TNE.*
+* El sistema agarra por defecto la dirección del cliente seleccionado, si desea poner otra dirección puede agregarla desde el módulo clientes agregando un nuevo campo de dirección.
+* Para registrar la empresa de transportistas es obligatorio el MTC, puede solicitarlo a este link:
 [https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.)*
-*- La placa del vehículo no puede contener guiones ni minúsculas.*
+* La placa del vehículo no puede contener guiones ni minúsculas.*
+
+:::
 
 ## Agregar producto
 
