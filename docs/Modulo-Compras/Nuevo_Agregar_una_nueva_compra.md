@@ -35,8 +35,11 @@ En esta sección podrá ingresar el  comprobante que le dio su proveedor y reali
 - **¿Desea agregar el cliente para esta compra?:** Al seleccionar esta opción se agregar un campo de texto donde podrá seleccionar su cliente.
 - **¿Desea agregar pagos a esta compra?:** Al seleccionar esta opción, detallaras las condiciones de pago del comprobante.
 
-**IMPORTANTE:**
-*Todos los campos que cuentan con (*) son obligatorios.*
+:::danger IMPORTANTE:
+
+Todos los campos que cuentan con (*) son obligatorios.
+
+:::
 
 ## Agregar Producto
 

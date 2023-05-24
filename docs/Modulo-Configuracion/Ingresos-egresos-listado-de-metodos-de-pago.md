@@ -1,4 +1,4 @@
-# Ingresos/Egresos : Listado de métodos de pago
+# Ingresos/Egresos: Listado de métodos de pago
 
 En este artículo te enseñaremos a agregar métodos de pago. Sigue estos pasos para realizarlo:
 

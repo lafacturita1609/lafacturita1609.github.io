@@ -2,11 +2,11 @@
 
 En este artículo te ayudaremos a ingresar las compra realizadas desde la **App Facturalo**. Sigue estos pasos para realizarlo:
 
-**1. Ingresa al módulo Compra.**
+1. Ingresa al módulo **Compra.**
 
 ![Alt text](img/compraapp.jpg)
 
-**2. Completa los siguientes campos necesarios:**
+2. Completa los siguientes campos necesarios:
 
 ![Alt text](img/compra1app.jpg)
 
@@ -29,18 +29,24 @@ En caso desee crear un nuevo proveedor, en la parte superior derecha selecciona 
 - **Teléfono:** Ingresa el teléfono del cliente.
 - **Correo electrónico:** Ingresa el correo electrónico del cliente.
 
-**IMPORTANTE:**
-*Todos los campos no mencionados son opcionales, según su necesidad.*
+:::info IMPORTANTE
+
+Todos los campos no mencionados son opcionales, según su necesidad.
+
+:::
 
 Después seleccione el botón **Guardar**. Y aparecerá la lista de proveedores.
 
-![Alt text](img/compra5app.jpg) 
+![Alt text](img/compra5app.jpg)
 
-- Añadir producto: Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto,puede agregar las cantidades; en la parte inferior derecha selecciona el botón con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el botón "+" ,y sigue los pasos en este [artículo].
+- **Añadir producto:** Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto,puede agregar las cantidades; en la parte inferior derecha selecciona el botón con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el botón "+" ,y sigue los pasos en este [artículo].
 
-**IMPORTANTE:**
-*-Todos los campos no mencionados son opcionales, según su necesidad.*
-*-Para que sus productos se visualicen en la app, deben de contar con código interno.*
+:::info IMPORTANTE
+
+-Todos los campos no mencionados son opcionales, según su necesidad.
+-Para que sus productos se visualicen en la app, deben de contar con código interno.
+
+:::
 
 Una vez que los que los campos estén rellenados, selecciona el botón Aceptar.
 

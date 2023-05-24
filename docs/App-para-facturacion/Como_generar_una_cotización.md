@@ -18,8 +18,11 @@ En este artículo te ayudaremos a generar una cotización desde la App Facturalo
 
 ![Alt text](img/app5.jpeg)
 
-**IMPORTANTE:**
-*Todos los campos no mencionados son opcionales, según su necesidad.*
+:::info IMPORTANTE
+
+Todos los campos no mencionados son opcionales, según su necesidad.
+
+:::
 
 Una vez que los que los campos estén rellenados, selecciona el botón **Aceptar**.
 
@@ -29,7 +32,6 @@ Seguido, aparecerá un mensaje de comprobante registrado. Tendrá cuatro opcione
 
 - **Imprimir:** Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo PDF.
 - **Ir a listado:** Al seleccionar esta opción podrá dirigirse al módulo listado de comprobantes, puede ver más en este [artículo](#Listado).
-
 - **Continuar:** Al seleccionar esta opción podrá seguir generando notas de venta.
 
 ![Alt text](img/cotizacion4.jpg)

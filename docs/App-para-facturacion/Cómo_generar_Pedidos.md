@@ -1,8 +1,8 @@
 # Cómo generar Pedidos
 
-En este artículo te ayudaremos a generar pedidos de venta desde la App Facturalo. Sigue estos pasos para realizarlo:
+En este artículo te ayudaremos a generar pedidos de venta desde la **App Facturalo**. Sigue estos pasos para realizarlo:
 
-1. Ingresar al módulo Pedido.
+1. Ingresar al módulo **Pedido**.
 
 ![Alt text](img/pedido.jpeg)
 
@@ -18,14 +18,18 @@ En este artículo te ayudaremos a generar pedidos de venta desde la App Factural
 
 ![Alt text](img/app6.jpeg)
 
-IMPORTANTE:
-Todos los campos no mencionados son opcionales, según su necesidad.
-Una vez que los que los campos estén rellenados, selecciona el botón Aceptar.
+:::info IMPORTANTE:
+
+- Todos los campos no mencionados son opcionales, según su necesidad.
+
+:::
+
+Una vez que los que los campos estén rellenados, selecciona el botón **Aceptar**.
 
 ![Alt text](img/pedido2.jpg)
 
 Seguido, aparecerá un mensaje de comprobante registrado. Tendrá tres opciones:
 
-- Imprimir: Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo PDF.
-- Ir a listado: Al seleccionar esta opción podrá dirigirse al módulo listado de comprobantes,
-- Continuar: Al seleccionar esta opción podrá seguir generando notas de venta.
+- **Imprimir:** Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo PDF.
+- **Ir a listado:** Al seleccionar esta opción podrá dirigirse al módulo listado de comprobantes,
+- **Continuar:** Al seleccionar esta opción podrá seguir generando notas de venta.

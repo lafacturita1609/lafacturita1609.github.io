@@ -18,7 +18,11 @@ Visualizará el siguiente formulario, proceda a completar los siguientes campos.
 
 **2. Tipo de afectación:** Por defecto se selecciona Gravado- Operación Onerosa en caso de que utilice un tipo de afectación de IGV distinto, puede seleccionarlo.
 
-IMPORTANTE: Consulte con su contador si tiene dudas sobre que tipo de afectación deberá utilizar.
+:::danger IMPORTANTE:
+
+Consulte con su contador si tiene dudas sobre que tipo de afectación deberá utilizar.
+
+:::
 
 **3. Descripción:** Ingresa una pequeña descripción.
 

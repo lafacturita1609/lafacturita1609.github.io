@@ -10,11 +10,14 @@ En este artículo te ayudaremos a observar tu listado de comprobantes electróni
 
 ![Alt text](img/caja6.jpg)
 
-- Establecimiento: Selecciona de que establecimiento desea el reporte.
-- Periodo: Selecciona en que periodo deseas el reporte.
-- Fecha: Ingresa la fecha.
+- **Establecimiento**: Selecciona de que establecimiento desea el reporte.
+- **Periodo:** Selecciona en que periodo deseas el reporte.
+- **Fecha:** Ingresa la fecha.
 
 ![Alt text](img/cotiza.jpg)
 
-**IMPORTANTE:**
-*El reporte es simplificado visual para revisar los totales de ventas.*
+:::info IMPORTANTE
+
+El reporte es simplificado visual para revisar los totales de ventas.
+
+:::

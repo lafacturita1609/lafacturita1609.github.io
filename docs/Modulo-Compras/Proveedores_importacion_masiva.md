@@ -33,7 +33,11 @@ En este archivo tendrá que completar los siguientes campos:
 
 5. **Código del País (*):** Ingresa el código de ubigeo.
 
-**Dato:** *Puede buscar el código de ubigeo aquí: [https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf](https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf)*
+:::info Dato:
+
+Puede buscar el código de ubigeo aquí: [https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf](https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf)
+
+:::
 
 6. **Dirección (*):** Ingresa la dirección del cliente.
 
@@ -41,10 +45,15 @@ En este archivo tendrá que completar los siguientes campos:
 
 8. **Tipo de Cliente:** Ingresa el tipo de cliente.
 
-**IMPORTANTE:**
-*-El tipo de cliente a ingresar debe tener en cuenta que en el sistema tiene que estar previamente agregados.*
-*-Todos los campos que cuentan con (*) son obligatorios.
-Una vez rellenado el archivo excel, deberá seleccionar el botón Seleccione un archivo (xlsx),para subir el archivo correspondiente.*
+:::danger IMPORTANTE:
+
+-El tipo de cliente a ingresar debe tener en cuenta que en el sistema tiene que estar previamente agregados.
+
+-Todos los campos que cuentan con (*) son obligatorios.
+
+:::
+
+Una vez rellenado el archivo excel, deberá seleccionar el botón **Seleccione un archivo (xlsx)**,para subir el archivo correspondiente.*
 
 ![Alt text](img/proveedores6.jpg)
 

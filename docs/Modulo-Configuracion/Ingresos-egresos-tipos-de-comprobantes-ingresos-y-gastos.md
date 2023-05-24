@@ -7,6 +7,7 @@ Ingresa al módulo de **Configuración**, y luego en **Ingresos/Egresos** selecc
 ![Alt text](img/metodosgastos8.jpg)
 
 ### Tipos de comprobantes (ingresos)
+
 Observará el listado de tipos de comprobantes, para crear uno selecciona el botón **Nuevo**.
 
 ![Alt text](img/tipocomprobantes1.jpg)

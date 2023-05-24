@@ -1,10 +1,12 @@
-En este artículo te ayudaremos a crear clientes desde la App Facturalo. Sigue estos pasos para realizarlo:
+# Cómo crear cliente
 
-1. Ingresar al módulo Clientes.
+En este artículo te ayudaremos a crear clientes desde la **App Facturalo**. Sigue estos pasos para realizarlo:
+
+1. Ingresar al módulo **Clientes**.
 
 ![Alt text](img/Clientes.jpg)
 
-2. En la parte superior derecha selecciona el botón "+" Nuevo.
+2. En la parte superior derecha selecciona el botón **"+" Nuevo**.
 
 ![Alt text](img/app8.jpeg)
 
@@ -12,17 +14,20 @@ En este artículo te ayudaremos a crear clientes desde la App Facturalo. Sigue e
 
 ![Alt text](img/app9.jpeg)
 
-Tipo Doc. Identidad: Selecciona RUC,DNI,Doc.trib.no.dom.sin.ruc.
-Número: Ingresa el número que corresponde al tipo de documento Identidad. Después selecciona el botón SUNAT o RUC (esto depende de que tipo de documento selecciono), para que se autocomplete el nombre y la dirección.
+- **Tipo Doc. Identidad:** Selecciona RUC,DNI,Doc.trib.no.dom.sin.ruc.
+- **Número:** Ingresa el número que corresponde al tipo de documento Identidad. Después selecciona el botón **SUNAT o RUC (esto depende de que tipo de documento selecciono)**, para que se autocomplete el nombre y la dirección.
 
 ![Alt text](img/app10.jpeg)
 
-- Nombre comercial: Ingresa la denominación que identifica a la empresa.
-- Teléfono: Ingresa el teléfono del cliente.
-- Correo electrónico: Ingresa el correo electrónico del cliente.
+- **Nombre comercial:** Ingresa la denominación que identifica a la empresa.
+- **Teléfono:** Ingresa el teléfono del cliente.
+- **Correo electrónico:** Ingresa el correo electrónico del cliente.
 
-**IMPORTANTE:**
-*Todos los campos no mencionados son opcionales, según su necesidad.*
+:::info IMPORTANTE:
+
+Todos los campos no mencionados son opcionales, según su necesidad.
+
+:::
 
 Finalmente seleccione el botón Guardar. Y aparecerá la lista de clientes.
 

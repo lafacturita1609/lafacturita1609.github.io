@@ -18,8 +18,11 @@ En este artículo te ayudaremos a emitir factura desde la App Facturalo. Sigue e
 
 ![Alt text](img/app6.jpeg)
 
-**IMPORTANTE:**
-*Todos los campos no mencionados son opcionales, según su necesidad.*
+:::info IMPORTANTE:
+
+Todos los campos no mencionados son opcionales, según su necesidad.
+
+:::
 
 Una vez que los que los campos estén rellenados, selecciona el botón **Aceptar**.
 

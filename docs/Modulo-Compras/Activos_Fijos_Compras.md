@@ -39,8 +39,11 @@ Visualizará el siguiente formulario, proceda a completar los siguientes campos.
 - **Cantidad:** Ingresa la cantidad del producto o servicio.
 - **Precio Unitario:** Ingresa el precio unitario.
 
-**IMPORTANTE:**
-*Consulte con su contador si tiene dudas sobre que tipo de afectación deberá utilizar.*
+:::danger IMPORTANTE:
+
+Consulte con su contador si tiene dudas sobre que tipo de afectación deberá utilizar.
+
+:::
 
 Luego presione el botón **Agregar**, observará los productos añadidos en el comprobante.
 

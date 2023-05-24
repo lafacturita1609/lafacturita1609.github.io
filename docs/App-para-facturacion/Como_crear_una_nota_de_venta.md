@@ -2,7 +2,7 @@
 
 En este artículo te ayudaremos a emitir nota de venta desde la App Facturalo. Sigue estos pasos para realizarlo:
 
-1. Ingresar al módulo Nota de venta.
+1. Ingresar al módulo **Nota de venta**.
 
 ![Alt text](img/notasdeventa1.jpg)
 
@@ -18,8 +18,11 @@ En este artículo te ayudaremos a emitir nota de venta desde la App Facturalo. S
 
 ![Alt text](img/app6.jpeg)
 
-**IMPORTANTE:**
-*Todos los campos no mencionados son opcionales, según su necesidad.*
+:::info IMPORTANTE:
+
+Todos los campos no mencionados son opcionales, según su necesidad.
+
+:::
 
 Una vez que los que los campos estén rellenados, selecciona el botón Aceptar.
 
@@ -30,3 +33,5 @@ Seguido, aparecerá un mensaje de comprobante registrado. Tendrá tres opciones:
 - **Imprimir:** Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo PDF.
 - **Ir a listado:** Al seleccionar esta opción podrá dirigirse al módulo listado de comprobantes, puede ver más en este artículo.
 - **Continuar:**Al seleccionar esta opción podrá seguir generando notas de venta.
+
+![Alt text](img/notaventa3.jpg)

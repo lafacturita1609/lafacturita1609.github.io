@@ -2,15 +2,15 @@
 
 En este artículo te ayudaremos a crear productos desde la App Facturalo. Sigue estos pasos para realizarlo:
 
-1.  Ingresa al módulo Productos.
+1. Ingresa al módulo Productos.
 
 ![Alt text](img/Productos.jpg)
 
-2.  En la parte superior derecha selecciona el "+" Nuevo.
+2. En la parte superior derecha selecciona el "+" Nuevo.
 
 ![Alt text](img/app15.jpeg)
 
-3.  Completar los siguientes datos :
+3. Completar los siguientes datos :
 
 ![Alt text](img/app16.jpeg)
 
@@ -20,5 +20,9 @@ En este artículo te ayudaremos a crear productos desde la App Facturalo. Sigue 
 - Interruptor IGV: En caso el producto incluye IGV, déjelo activado.
 - Cargar imagen: Ingresa una imagen del producto si es de su preferencia.
 
-**IMPORTANTE:** *Todos los campos no mencionados son opcionales, según su necesidad.
-Finalmente selecciona el botón Guardar. Y aparecerá en su lista de productos.*
+:::info IMPORTANTE:
+
+Todos los campos no mencionados son opcionales, según su necesidad.
+Finalmente selecciona el botón Guardar. Y aparecerá en su lista de productos.
+
+:::
