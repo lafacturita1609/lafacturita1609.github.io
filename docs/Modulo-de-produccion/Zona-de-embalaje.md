@@ -14,4 +14,4 @@ Para crear una zona de embalaje, completa los datos que requiere:
 
 ![Alt text](img/zonadeembalaje3.jpg)
 
-Podrá exportar un reporte en PDF y en Excel.
+Podrá exportar un reporte en **PDF** y en **Excel**.

@@ -18,28 +18,28 @@ En este archivo tendrá que completar los siguientes campos:
 
 ![Alt text](img/provedores5.jpg)
 
-**1. Código documento de identidad:** Ingresa el código según corresponda.
+1. **Código documento de identidad:** Ingresa el código según corresponda.
 
 - 1 para DNI
 - 4 para Carnet de extranjería
 - 6 para RUC
 - 7 para PASAPORTE
 
-**2. Número de documento (*):**  Ingresa su número de DNI, CARNET DE EXTRANJERÍA, RUC o PASAPORTE.
+2. **Número de documento (*):**  Ingresa su número de DNI, CARNET DE EXTRANJERÍA, RUC o PASAPORTE.
 
-**3. Nombre/Razón Social (*):** Ingresa el nombre de la persona o la empresa.
+3. **Nombre/Razón Social (*):** Ingresa el nombre de la persona o la empresa.
 
-**4. Nombre Comercial:** Ingresa el nombre comercial de la empresa.
+4. **Nombre Comercial:** Ingresa el nombre comercial de la empresa.
 
-**5. Código del País (*):** Ingresa el código de ubigeo.
+5. **Código del País (*):** Ingresa el código de ubigeo.
 
 **Dato:** *Puede buscar el código de ubigeo aquí: [https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf](https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf)*
 
-**6. Dirección (*):** Ingresa la dirección del cliente.
+6. **Dirección (*):** Ingresa la dirección del cliente.
 
-**7.  Correo electrónico:** Ingresa el correo electrónico del cliente.
+7. **Correo electrónico:** Ingresa el correo electrónico del cliente.
 
-**8. Tipo de Cliente:** Ingresa el tipo de cliente.
+8. **Tipo de Cliente:** Ingresa el tipo de cliente.
 
 **IMPORTANTE:**
 *-El tipo de cliente a ingresar debe tener en cuenta que en el sistema tiene que estar previamente agregados.*
