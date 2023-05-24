@@ -1,4 +1,4 @@
-# Proveedores : Creación Individual
+# Proveedores: Creación Individual
 
 En esta área te ayudaremos a crear proveedores de manera individual. Sigue estos pasos para realizarlo:
 
