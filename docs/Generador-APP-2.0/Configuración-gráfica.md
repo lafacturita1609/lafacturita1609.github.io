@@ -27,7 +27,6 @@ Selecciona el encabezado de su preferencia.
 :::info IMPORTANTE
 
 - Todos los cambios se visualizaran en el emulador del lado derecho.
-Modo.
 :::
 
 ## Modo
