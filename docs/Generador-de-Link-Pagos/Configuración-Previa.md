@@ -10,9 +10,11 @@ Aparecerá lo siguiente:
 
 ![Alt text](img/Configuracion_previa_02.jpg)
 
-Configurar lo siguiente:
+## Configurar lo siguiente
 
-**Yape:** Podrá habilitar yape, seleccionando el interruptor, al activar le aparecerán los siguientes campos:
+### Yape
+
+Podrá habilitar yape, seleccionando el interruptor, al activar le aparecerán los siguientes campos:
 ![Alt text](img/Configuracion_previa_03.jpg)
 
 * **Número de teléfono:** Inserta el número de teléfono que tiene registrado en yape.
@@ -20,10 +22,12 @@ Configurar lo siguiente:
 * **Adjuntar código QR (Imagen):** Inserta la imagen del código QR que te registra en yape.
 Seguido, selecciona el botón **Guardar.**
 
-* **Mercado de Pago:** Podrá habilitar Mercado Pago, seleccionando el interruptor, al activar le aparecerán los siguientes campos:
+### Mercado de Pago
+
+Podrá habilitar Mercado Pago, seleccionando el interruptor, al activar le aparecerán los siguientes campos:
 
 ![Alt text](img/Configuracion_previa_04.jpg)
 
-Los tokens se copiaran en su cuenta de mercado pago. 
+Los tokens se copiaran en su cuenta de mercado pago.
 
 Seguido, selecciona el botón **Guardar.**
