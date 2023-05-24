@@ -1,4 +1,4 @@
-# Activos Fijos : Ítems
+# Activos Fijos: Ítems
 
 En esta área te ayudaremos a ingresar tus activos fijos y tenerlos registrados. Sigue estos pasos para realizarlo:
 
