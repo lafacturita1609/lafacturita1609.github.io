@@ -1,1 +1,1 @@
-# Avanzado : Nota de venta
+# Avanzado: Nota de venta

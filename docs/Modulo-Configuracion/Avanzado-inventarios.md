@@ -1,4 +1,4 @@
-# Avanzado : Inventarios
+# Avanzado: Inventarios
 
 En este artículo te enseñaremos a realizar configuraciones previas acerca de Inventarios. Sigue estos pasos para realizarlo:
 
