@@ -15,7 +15,7 @@ Una vez comprado el certificado, como este certificado no te dio SUNAT, entonces
 
 Para subir un certificado digital a la SUNAT, sigue los siguientes pasos:
 
-1. Ingresa a la página web de la SUNAT: Para subir tu certificado digital, deberás ingresar a la página web de la SUNAT [www.sunat.gob.pe](www.sunat.gob.pe).
+1. Ingresa a la página web de la SUNAT: Para subir tu certificado digital, deberás ingresar a la página web de la SUNAT [sunat.gob.pe](https://www.sunat.gob.pe/).
 2. Accede a la sección "Certificados Digitales": Una vez que te encuentres en la página principal de la SUNAT, busca y selecciona la sección "Certificados Digitales".
 3. Selecciona la opción "Subir certificado digital": Dentro de la sección "Certificados Digitales", busca y selecciona la opción "Subir certificado digital".
 4. Ingresa tus datos: Se te pedirá que ingreses tus datos personales y los datos de tu certificado digital, como la clave privada, la clave pública y el código de activación.
