@@ -3,7 +3,7 @@
 En este artículo te enseñaremos a como crear transportistas para tu guía de remisión. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Comprobantes avanzados** y luego selecciona Guías de remisión y seguido la subcategoría Transportistas. 
-En la parte superior derecha selecciona el botón Nuevo.
+En la parte superior derecha selecciona el botón **Nuevo.**
 
 ![Alt text](img/modulotransportistas.jpg)
 

@@ -60,10 +60,10 @@ Finalmente para observar la lista de contratos creados, no ubicamos nuevamente e
 
 Contaremos con las siguientes opciones o botones:
 
-- Estado: Permite seleccionar si está entregado/rechazado/registrado
-- Editar: Se podrá editar el contenido del contrato
-- Anular: Se eliminará el contrato
-- Opciones: Permite imprimir o descargar la oportunidad en formato A4.
+- **Estado:** Permite seleccionar si está entregado/rechazado/registrado
+- **Editar:** Se podrá editar el contenido del contrato
+- **Anular:** Se eliminará el contrato
+- **Opciones:** Permite imprimir o descargar la oportunidad en formato A4.
 
 ## Órdenes de producción
 

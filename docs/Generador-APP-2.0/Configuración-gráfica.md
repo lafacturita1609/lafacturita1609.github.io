@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a realizar una configuración visual de tu app. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de Generador APP 2.0, se observara la configuración gráfica.
+Ingresa al módulo de **Generador APP 2.0**, se observará la configuración gráfica.
 
 ![Alt text](img/Configuracin20.jpg)
 
@@ -24,7 +24,7 @@ Selecciona el encabezado de su preferencia.
 
 ![Alt text](img/encabezado3.jpg)
 
-:::info IMPORTANTE
+:::danger IMPORTANTE:
 
 - Todos los cambios se visualizaran en el emulador del lado derecho.
 :::
@@ -37,8 +37,8 @@ Selecciona el modo de su preferencia.
 
 Tipos:
 
-- Standard: El modo standard al ingresar se visualizara todos los módulos.
-- Punto de venta: El modo punto de venta, es similar a Caja chica POS.
+- **Standard:** El modo standard al ingresar se visualizara todos los módulos.
+- **Punto de venta:** El modo punto de venta, es similar a Caja chica POS.
 
 ## Pack Premium
 

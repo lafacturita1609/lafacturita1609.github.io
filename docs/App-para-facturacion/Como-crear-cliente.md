@@ -1,6 +1,6 @@
 # Cómo crear cliente
 
-En este artículo te ayudaremos a crear clientes desde la **App Facturalo**. Sigue estos pasos para realizarlo:
+En este artículo te ayudaremos a crear clientes desde la **App Factúralo**. Sigue estos pasos para realizarlo:
 
 1. Ingresar al módulo **Clientes**.
 
@@ -23,12 +23,12 @@ En este artículo te ayudaremos a crear clientes desde la **App Facturalo**. Sig
 - **Teléfono:** Ingresa el teléfono del cliente.
 - **Correo electrónico:** Ingresa el correo electrónico del cliente.
 
-:::info IMPORTANTE:
+:::danger IMPORTANTE:
 
 Todos los campos no mencionados son opcionales, según su necesidad.
 
 :::
 
-Finalmente seleccione el botón Guardar. Y aparecerá la lista de clientes.
+Finalmente seleccione el botón **Guardar.** Y aparecerá la lista de clientes.
 
 ![Alt text](img/app11.jpeg)

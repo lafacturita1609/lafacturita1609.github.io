@@ -26,8 +26,8 @@ Completa los siguientes campos necesarios:
 
 Completa los siguientes campos:
 
-- Descripción: Agrega una pequeña descripción del ingreso.
-- Total: Ingrese el total del ingreso.
+- **Descripción:** Agrega una pequeña descripción del ingreso.
+- **Total:** Ingrese el total del ingreso.
 
 Seguido seleccione el botón **Agregar** , finalmente selecciona el botón **Generar** y su ingreso se registrará.
 

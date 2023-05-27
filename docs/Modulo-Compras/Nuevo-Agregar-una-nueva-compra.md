@@ -65,6 +65,6 @@ Se encontrará el formulario Agregar Producto o Servicio y se completarán los s
 
 **6. Información adicional atributos:** Ingresa si el producto le genero algún descuento, cargos o atributos.
 
-Selecciona el botón Agregar para agregar el producto.
+Selecciona el botón **Agregar** para agregar el producto.
 
-Una vez rellenado los campos, deberá selecciona el botón Guardar, asimismo podrá acceder a la Listado y observar todas sus compras realizadas.
+Una vez rellenado los campos, deberá selecciona el botón **Guardar**, asimismo podrá acceder a la Listado y observar todas sus compras realizadas.

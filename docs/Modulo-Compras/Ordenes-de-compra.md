@@ -2,11 +2,11 @@
 
 En esta área te ayudaremos a crear la solicitud de orden de compra. Sigue estos pasos:
 
-Ingresa al módulo de Compras y luego selecciona la subcategoría Órdenes de compra.
+Ingresa al módulo de **Compras** y luego selecciona la subcategoría **Órdenes de compra.**
 
 ## Crear orden de compra
 
-Selecciona el botón Nuevo que está en la parte superior derecha de la página.
+Selecciona el botón **Nuevo** que está en la parte superior derecha de la página.
 
 ![Alt text](img/2_ordenes.jpg)
 
@@ -33,7 +33,7 @@ Se deben añadir los siguientes campos:
 
 3. **Agregar producto:**
 
-Posteriormente selecciona el botón Agregar producto y encontrará el formulario de Agregar producto o servicio.
+Posteriormente selecciona el botón **Agregar producto** y encontrará el formulario de **Agregar producto o servicio.**
 
 ![Alt text](img/3_ordenes.png)
 

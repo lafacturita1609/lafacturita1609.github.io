@@ -13,8 +13,10 @@ Completa los siguientes filtros:
 
 ![Alt text](img/Ventas_productos_busquedaindividual_03.jpg)
 
-**IMPORTANTE:**
-_No es necesario completar todos los campos._
+:::danger IMPORTANTE:
+No es necesario completar todos los campos.
+
+:::
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 

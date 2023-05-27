@@ -1,8 +1,8 @@
-# Exportar formatos - Sis. Contable
+# Exportar formatos - Sist. Contable
 
 En este articulo te ayudaremos a exportar formatos de sistemas contables. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Contabilidad** y luego selecciona subcategoría **Exportar formatos - Sis. Contable**.
+Ingresa al módulo de **Contabilidad** y luego selecciona subcategoría **Exportar formatos - Sist. Contable**.
 
 ![Alt text](img/exportarformato3.jpg)
 

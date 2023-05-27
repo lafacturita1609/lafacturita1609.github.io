@@ -7,5 +7,6 @@ Ingresa al módulo de **Ventas** la subcategoría **Comprobante electrónico**. 
 ![Alt text](img/Error5.jpg)
 
 :::info IMPORTANTE:
--Es importante recordar que solo se puede realizar 4 días antes.
+
+Es importante recordar que solo se puede realizar 4 días antes.
 :::

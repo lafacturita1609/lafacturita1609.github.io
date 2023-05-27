@@ -28,5 +28,6 @@ En la parte superior derecha selecciona el botón **Nuevo**.
 
 **7.  Código interno:** Identifica el producto, ayuda a la gestión de inventarios.Es importante colocar el código interno para que los productos puedan visualizarse en su Tienda Virtual.
 
-**IMPORTANTE:**
-_Si no cuenta con un código interno en su empresa, puede configurar para que se asignen automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoria **Inventarios**._
+:::danger IMPORTANTE:
+Si no cuenta con un código interno en su empresa, puede configurar para que se asignen automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoria **Inventarios**.
+:::

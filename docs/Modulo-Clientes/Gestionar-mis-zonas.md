@@ -2,8 +2,6 @@
 
 En esta área conocerá cómo crear las zonas para clasificar a  sus clientes. Sigue estos pasos para realizarlo:
 
-
-
 ## Creación de zonas
 Para crear la zona, primero deberá ingresar al módulo de **Productos/Servicios** y luego selecciona la subcategoría **Zonas.**
 

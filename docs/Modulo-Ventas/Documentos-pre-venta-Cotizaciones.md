@@ -113,18 +113,18 @@ En esta sección podrás reimprimir la cotización, de la misma manera podrá de
 **6. Botones de Acción**
 Se encontrará una sección de botones, con las siguientes funciones
 
-- Generar comprobante: Genera  un comprobante electrónico (Factura o Boleta).
+- **Generar comprobante:** Genera  un comprobante electrónico (Factura o Boleta).
 
-- Generar nota de venta: Genera una nota de venta.
+- **Generar nota de venta:** Genera una nota de venta.
 
-- Editar:  Podrá editar la cotización.
+- **Editar:** Podrá editar la cotización.
 
-- Anular: Podrá anular la cotización.
+- **Anular:** Podrá anular la cotización.
 
-- Duplicar: Podrá duplicar la cotización.
+- **Duplicar:** Podrá duplicar la cotización.
 
-- Guía: Genera una guía.
+- **Guía:** Genera una guía.
 
-- Generar contrato: Podrá generar contrato de la cotización, podrá realizarlo paso a paso en este [artículo](#).
+- **Generar contrato:** Podrá generar contrato de la cotización, podrá realizarlo paso a paso en este [artículo](#).
 
-- Generar Pedido: Podrá generar pedido,podrá realizarlo paso a paso en este [artículo](#).
+- **Generar Pedido:** Podrá generar pedido,podrá realizarlo paso a paso en este [artículo](#).

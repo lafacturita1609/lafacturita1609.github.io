@@ -14,8 +14,10 @@ Completa los siguientes filtros:
 
 ![Alt text](img/Compras_reporte_general_03.jpg)
 
-**IMPORTANTE:**
-_Selecciona solo los filtros que requiera._
+:::danger IMPORTANTE:
+
+Selecciona solo los filtros que requiera.
+:::
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 

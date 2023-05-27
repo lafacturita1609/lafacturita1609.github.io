@@ -1,4 +1,4 @@
-# ¿Por que me sale el error dato ingresado como unidad de medida no corresponde al valor esperado?
+# Error ingresado como unidad de medida
 
 Este problema surge por que SUNAT y el sistema de facturación están vinculados entonces el sistema de facturación, válida que la unidad este registrada en SUNAT.
 

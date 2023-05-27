@@ -109,8 +109,9 @@ Se visualizará el formulario **Editar producto** y en la sección **Tags** aña
 
 ![Alt text](img/6_configurar_tienda.jpg)
 
-**Recuerda:**
-*Para que se visualicen los productos en la tienda virtual, es importante añadir el código interno dentro de cada producto.*
+:::danger RECUERDA:
+Para que se visualicen los productos en la tienda virtual, es importante añadir el código interno dentro de cada producto.
+:::
 
 Después selecciona el botón **Guardar**, y finalmente para visualizar los tags añadidos con sus productos, deberás ingresar a la **Tienda Virtual**, donde se mostrarán los cambios realizados.
 

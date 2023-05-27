@@ -30,7 +30,7 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas:
 - Pago sin verificar: Pago pendiente de verificación.
 - Pago verificado: Cuando el pago ha sido recibido.
 - Despachado: Cuando el pedido ya salió del almacen y está en curso.
-Confirmado por el cliente: Cuando el cliente recibió el pedido.
+- Confirmado por el cliente: Cuando el cliente recibió el pedido.
 
 **9. Documento:** Es el tipo de comprobante que escogió el cliente.
 

@@ -11,8 +11,9 @@ Aparecerá lo siguiente:
 ![Alt text](img/Ventas_Clientes_02.jpg)
 
 
-**IMPORTANTE:** _Selecciona solo los filtros que requiera._
-
+:::danger IMPORTANTE:
+Selecciona solo los filtros que requiera.
+:::
 
 Completa los siguientes filtros:
 

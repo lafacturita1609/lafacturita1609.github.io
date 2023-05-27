@@ -20,4 +20,6 @@ Seguido seleccione el botón **Buscar**. Observará el detallado de sus ingresos
 
 ![Alt text](img/finanzas3.jpg)
 
-**IMPORTANTE:** *Solo se visualizaran los movimientos que se realizaron con efectivo.*
+:::danger IMPORTANTE:
+Solo se visualizaran los movimientos que se realizaron con efectivo.
+:::

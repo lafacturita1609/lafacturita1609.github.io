@@ -12,7 +12,7 @@ Aparecerá la siguiente ventana:
 
 ![Alt text](img/articulo4.jpg)
 
-Seguido, inserta el número cuente con whatsApp, selecciona el botón **Enviar**.
+Seguido, inserta el número cuente con WhatsApp, selecciona el botón **Enviar**.
 
 Se abrirá una nueva pestaña, que mostrará lo siguiente:
 

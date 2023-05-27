@@ -8,7 +8,9 @@ Ingresa al módulo de **Restaurante**, selecciona **Mesas** y luego selecciona l
 
 En cada caja puede descargar un reporte detallado, reporte de productos, también puede enviar el reporte vía correo electrónico.
 
-**IMPORTANTE:**
-* _Para que aparezca la caja, en el listado, tiene que cerrar caja y enviar a la nube._
-* _Los pedidos para llevar y pedidos para comer en salón, vendrían manejando cajas diferentes._
-* _Es obligatorio abrir caja._ 
+:::danger IMPORTANTE:
+* Para que aparezca la caja, en el listado, tiene que cerrar caja y enviar a la nube.
+* Los pedidos para llevar y pedidos para comer en salón, vendrían manejando cajas diferentes.
+* Es obligatorio abrir caja.
+
+:::

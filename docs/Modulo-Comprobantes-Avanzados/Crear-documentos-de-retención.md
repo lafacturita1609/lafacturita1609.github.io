@@ -29,7 +29,7 @@ Completa los siguientes datos:
 - **Total a pagar:** Ingresa el total a pagar.
 - **Total pagado:** Se auto completa el **Importe total a pagar (neto) = Total pagos - Total retención**.
 
-Selecciona el botón Agregar Pago:
+Selecciona el botón **Agregar Pago:**
 
 ![Alt text](img/Preguntafrecuente25.jpg)
 

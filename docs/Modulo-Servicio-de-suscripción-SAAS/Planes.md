@@ -15,8 +15,10 @@ Completa los siguientes campos:
 - **Cantidad de periodos:** Inserta la cantidad de periodos.
 - **Descripción:** Inserta una pequeña descripción del plan.
 
-**IMPORTANTE:**
-*Es obligatorio agregar productos.*
+:::danger IMPORTANTE:
+
+Es obligatorio agregar productos.
+:::
 
 Agrega servicios al plan:
 

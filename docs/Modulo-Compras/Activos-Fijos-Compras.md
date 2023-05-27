@@ -6,7 +6,7 @@ Ingresa al módulo de **Compras**, luego selecciona **Activos fijos**, posterior
 
 ## Generar nueva compra
 
-En la parte superior derecha selecciona el botón Nuevo.
+En la parte superior derecha selecciona el botón **Nuevo.**
 
 ![Alt text](img/activos-fijos1.jpg)
 

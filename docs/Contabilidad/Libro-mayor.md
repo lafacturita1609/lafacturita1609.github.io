@@ -10,6 +10,6 @@ Completa lo siguiente:
 
 ![Alt text](img/libromayor2.jpg)
 
-* **Consultar Registro:** Selecciona el resgistro que va a exportar.
+* **Consultar Registro:** Selecciona el registro que va a exportar.
 
-Seguido selecciona el botón **Exportar Excel**. Se descargarpa el archivo excel correspondiente.
+Seguido selecciona el botón **Exportar Excel**. Se descargará el archivo excel correspondiente.

@@ -10,7 +10,7 @@ Ingresa al módulo de **Reportes** y luego en la subcategoría **General**, sele
 ## Generales
 Esta área resume todas los inicios de sesión de sesión en diferentes dispositivos que se hayan realizado.
 
-Dentro de Actividades del sistema, selecciona la subcategoría Generales.
+Dentro de Actividades del sistema, selecciona la subcategoría **Generales.**
 
 ![Alt text](img/General_Actividades_del_Sistema_02.jpg)
 

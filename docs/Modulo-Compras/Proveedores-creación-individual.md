@@ -4,7 +4,7 @@ En esta área te ayudaremos a crear proveedores de manera individual. Sigue esto
 
 ## Crear nuevo proveedor
 
-Ingresa al módulo de Compras y luego selecciona Proveedores seguidamente la subcategoría Listado. En la parte superior derecha selecciona el botón Nuevo.
+Ingresa al módulo de **Compras** y luego selecciona **Proveedores** seguidamente la subcategoría **Listado.** En la parte superior derecha selecciona el botón **Nuevo.**
 
 ![Alt text](img/listado1.jpg)
 

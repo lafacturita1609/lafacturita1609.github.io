@@ -123,9 +123,9 @@ Aparecerá las configuraciones posibles por hacer:
 
 * Elimina todos los documentos realizadas de prueba cuando el sistema se encontraba en modo prueba.
 
-:::info importante
+:::danger importante
 
- Elimina documentos de prueba, no elimina movimientos como número de stock, pagos ingresados.
+ Eliminar documentos de prueba, no elimina movimientos como número de stock, pagos ingresados.
 
 :::
 

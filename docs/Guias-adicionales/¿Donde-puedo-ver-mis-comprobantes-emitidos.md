@@ -22,7 +22,7 @@ Se puede consultar los siguientes documentos:
 - Liquidación de compra
 - Póliza de adjudicación electrónica
 :::
-Seguido selecciona el botón Consultar. Y aparecerá el estado del comprobante.
+Seguido selecciona el botón **Consultar.** Y aparecerá el estado del comprobante.
 
 ![Alt text](img/Preguntafrecuente3.jpg)
 
@@ -33,6 +33,7 @@ Existe de otra manera, seleccionando la siguiente opción:
 Deberá completar los datos necesarios:
 
 ![Alt text](img/Preguntafrecuente5.jpg)
+
 :::info IMPORTANTE:
 Se puede consultar los siguientes documentos:
 - Facturas emitidas

@@ -2,15 +2,15 @@
 
 En este artículo te enseñaremos los pasos esenciales para configurar tu plataforma de facturación, conectarte a SUNAT y empezar a facturar:
 
-1. Conectar tu cuenta con SUNAT: Pasar de DEMO a PRODUCCIÓN.
-2. Configurar el validador de documentos.
-3. Configuración para las guías electrónicas.
-4. Configuración para el envió automático de boletas y facturas.
-5. Agregar productos.
-6. Agregar clientes.
-7. Configurar tu establecimientos y series.
-8. Selecciona tu plantilla PDF.
-9. Configuración ingreso de dinero.
+1. **Conectar tu cuenta con SUNAT:** Pasar de DEMO a PRODUCCIÓN.
+2. **Configurar el validador de documentos.**
+3. **Configuración para las guías electrónicas.**
+4. **Configuración para el envió automático de boletas y facturas.**
+5. **Agregar productos.**
+6. **Agregar clientes.**
+7. **Configurar tu establecimientos y series.**
+8. **Selecciona tu plantilla PDF.**
+9. **Configuración ingreso de dinero.**
 
 ## 1.  Conectar a Sunat : DEMO A PRODUCCIÓN
 
@@ -110,7 +110,7 @@ Ingresa al módulo de **Usuarios/Locales & Series**, luego a la sección Estable
 
 Para agregar las series, los pasos están este [artículo](#).
 
-:::info
+:::info IMPORTANTE
 
 Si estas migrando desde otro proveedor a nuestra plataforma, para poder continuar con la numeración del correlativo de tus comprobantes,tenemos esta opción para ti:
 
@@ -156,7 +156,7 @@ Ingresa al módulo de **POS** ,luego selecciona **Caja chica POS**, para abrir l
 
 * **Dinero en cuentas bancarias**
 
-Ingresa al módulo de Configuración ,luego selecciona listas de cuentas bancarias.
+Ingresa al módulo de **Configuración** ,luego selecciona listas de cuentas bancarias.
 
 ![Alt text](img/24_conf.jpg)
 

@@ -15,7 +15,10 @@ Completa los siguientes filtros:
 ![Alt text](img/Ventas_documentos_03.jpg)
 
 
-**IMPORTANTE:** _Selecciona solo los filtros que requiera. Si no seleccionas ningún tipo de documento te aparecerán todos._
+:::danger IMPORTANTE:
+
+Selecciona solo los filtros que requiera. Si no seleccionas ningún tipo de documento te aparecerán todos.
+:::
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 

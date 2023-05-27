@@ -26,5 +26,6 @@ Ingresa al módulo de **Ventas**, selecciona la subcategoría **Lista de comprob
 
 Seguido podrá editar el comprobante electrónico.
 
-:::info IMPORTANTE: Para editar comprobantes deben hacerlo con el usuario que tenga asignado a esa serie.
+:::info IMPORTANTE: 
+Para editar comprobantes deben hacerlo con el usuario que tenga asignado a esa serie.
 :::

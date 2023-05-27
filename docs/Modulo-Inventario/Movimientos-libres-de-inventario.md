@@ -43,9 +43,9 @@ Se completarán los siguientes datos:
 * **Fecha registro:** Selecciona la fecha de salida.
 * **Comentarios:** Ingresa comentarios si es que tuviera.
 
-**IMPORTANTE:** 
-_Todos los campos que cuentan con (*) son obligatorios._
-
+:::danger IMPORTANTE:
+Todos los campos que cuentan con **(*)** son obligatorios.
+:::
 ## Botón trasladar
 Este botón se utiliza para mover producto entre almacenes.
 
@@ -55,7 +55,7 @@ Al seleccionar este botón aparecerá un pequeño formulario para llenar los dat
 
 ![Alt text](img/Movimientos_libres_de_Inventario_07.jpg)
 
-Los datos se autocompletan según el producto que se selecciono.
+Los datos se autocompletan según el producto que se seleccionó.
 
 Los siguientes datos se deben completar de manera obligatoria:
 
@@ -93,9 +93,10 @@ El campo que debe completar es:
 
 * **Stock real:** Ingresa el stock actual.
 
-**IMPORTANTE:** 
-_El botón Ajuste no aplica para productos con lotes y series._
+:::danger IMPORTANTE:
 
+El botón **Ajuste** no aplica para productos con lotes y series.
+:::
 ## Botón Imp. Ajuste de stock
 Este botón te ayuda a importar masivamente el ajuste de stock.
 

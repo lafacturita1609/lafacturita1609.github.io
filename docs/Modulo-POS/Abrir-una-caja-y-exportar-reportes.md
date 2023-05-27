@@ -7,7 +7,9 @@ Ingresa al módulo de **POS** y luego selecciona la subcategoría **Caja chica P
 ## Aperturar caja chica POS
 Para abrir una caja, en la parte superior derecha selecciona el botón **Aperturar caja chica POS.**
 
+:::danger IMPORTANTE:
 IMPORTANTE: No se puede abrir más de una caja por usuario. 
+:::
 
 Al seleccionar el botón **Aperturar caja chica POS**, se encontrará el formulario para aperturar caja chica **POS.**
 
@@ -16,6 +18,7 @@ Se completarán los siguientes datos:
 * **Vendedor**
 * **Saldo inicial**
 * **Número de referencia**
+  
 Después selecciona el botón **Guardar** y se visualizará el **listado de cajas.**
 
 ## Reporte general 

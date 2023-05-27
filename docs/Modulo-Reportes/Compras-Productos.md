@@ -14,9 +14,10 @@ Completa los siguientes filtros:
 
 ![Alt text](img/Compras_productos_03.jpg)
 
-**IMPORTANTE:** 
-_Selecciona solo los filtros que requiera._
+:::danger IMPORTANTE:
 
+Selecciona solo los filtros que requiera.
+:::
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 
 Luego seleccione el botón **Buscar**. Se observan las compras realizadas con el producto que selecciono, por cada producto aparecerá una diferente linea detallada a pesar que se encuentren en el mismo comprobante electrónico:

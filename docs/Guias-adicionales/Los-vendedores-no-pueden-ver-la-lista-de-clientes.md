@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a resolver el inconveniente acerca de que los vendedores no pueden acceder a la lista de clientes. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de Configuración, y luego en la categoría Empresa, selecciona Avanzado.
+Ingresa al módulo de **Configuración**, y luego en la categoría **Empresa**, selecciona **Avanzado.**
 
 ![Alt text](img/sistema2.jpg)
 

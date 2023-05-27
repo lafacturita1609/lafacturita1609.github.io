@@ -17,8 +17,8 @@ Para agregar una imagen a cada producto, deberá realizar lo siguiente:
 
 Implementar un campo, llamado image como se observa en la imagen. Y agregar el link de la imagen del producto.
 
-**IMPORTANTE:**
+:::danger IMPORTANTE:
 * La imagen debe encontrarse en Internet.
 * El link de la imagen debe acabar en el formato jpg o png, no acepta otro tipo de formatos.
-
+:::
 Seguido suba el archivo excel, y selecciona el botón **Procesar.**

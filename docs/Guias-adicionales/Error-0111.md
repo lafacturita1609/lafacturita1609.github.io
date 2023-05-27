@@ -1,9 +1,9 @@
 # Error 0111 - No tiene el perfil para enviar comprobantes electrónicos
 
-El Error 0111 es un problema común que se presenta en la emisión de comprobantes electrónicos cuando el contribuyente no cuenta con el perfil adecuado para hacerlo. Esto se debe a que no se han cumplido los requisitos necesarios para habilitar este servicio en la autoridad fiscal correspondiente.
+El **Error 0111** es un problema común que se presenta en la emisión de comprobantes electrónicos cuando el contribuyente no cuenta con el perfil adecuado para hacerlo. Esto se debe a que no se han cumplido los requisitos necesarios para habilitar este servicio en la autoridad fiscal correspondiente.
 
 :::info IMPORTANTE:
--Existen problemas de forma masiva con SUNAT, en ese caso para continuar emitiendo comprobantes se recomienda desactivar el envío de automático desde CONFIGURACIÓN - AVANZADO y en cuanto SUNAT restablezca el error se realiza el reenvío de forma manual.
+Existen problemas de forma masiva con SUNAT, en ese caso para continuar emitiendo comprobantes se recomienda desactivar el envío de automático desde **CONFIGURACIÓN - AVANZADO** y en cuanto SUNAT restablezca el error se realiza el reenvío de forma manual.
 :::
 
 Si el error 0111 proviene después de haber generado comprobantes electrónicos con normalidad, debemos revisar los siguiente:

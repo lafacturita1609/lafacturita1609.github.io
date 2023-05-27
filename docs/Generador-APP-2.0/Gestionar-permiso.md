@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a gestionar los permisos para los usuarios. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Generador APP 2.0**, se observara el área de Gestionar permisos.
+Ingresa al módulo de **Generador APP 2.0**, se observará el área de Gestionar permisos.
 
 ![Alt text](img/gestionarpermiso.jpg)
 
@@ -20,7 +20,7 @@ Selecciona todos los módulos que desea que el usuario acceda.
 
 Selecciona el botón **Guardar**.
 
-:::info IMPORTANTE
+:::danger IMPORTANTE:
 
 - El perfil de Administrador tiene todos los permisos asignados, no puede modificarlos.
 

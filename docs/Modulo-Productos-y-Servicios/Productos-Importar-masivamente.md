@@ -22,14 +22,14 @@ En este archivo tendrá que completar los siguientes campos necesarios:
 
 **2.  Código Interno:** Ingresa el código interno del producto.
 
-**IMPORTANTE:**
-_Si no cuenta con un código interno en su empresa puede configurar automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoría **Inventarios.**_
-
+:::danger IMPORTANTE:
+Si no cuenta con un código interno en su empresa puede configurar automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoría **Inventarios.**
+:::
 **3.  Código tipo de Unidad:** Ingresa el código según corresponda el producto o el servicio.
 
-**IMPORTANTE:**
-_Este listado lo pueden ubicar en el módulo **Configuración** en la sección Sunat en la subcategoría **Listado de unidades.**_
-
+:::danger IMPORTANTE:
+Este listado lo pueden ubicar en el módulo **Configuración** en la sección Sunat en la subcategoría **Listado de unidades.**
+:::
 **4.  Código Tipo Moneda:** Ingresa **PEN** para soles o **USD** para dólares.
 
 **5.  Precio Unitario venta:** Ingresa el precio del producto.
@@ -46,14 +46,15 @@ _Este listado lo pueden ubicar en el módulo **Configuración** en la sección S
 
 **11.   Stock Mínimo:** Ingresa la cantidad mínima de stock; la cantidad mínima de existencias de un producto que se puede permitir tener en su almacén.En en caso no lo consideren coloque 0.
 
-**IMPORTANTE:**
-_Si en el archivo desea ingresar sus [categorías](#) y [marcas](#) debe tener en cuenta que en el sistema tiene que estar previamente agregadas._
-
+:::danger IMPORTANTE:
+Si en el archivo desea ingresar sus [categorías](#) y [marcas](#) debe tener en cuenta que en el sistema tiene que estar previamente agregadas.
+:::
 Una vez rellenado el archivo excel, deberá seleccionar en que **almacén** desea importar los productos, después selecciona el botón **Selecciona un archivo (xlsx)**,para subir el archivo pdf correspondiente.
 
 ![Alt text](img/Importar-masivamente_05.jpg)
 
 Finalmente selecciona el botón Procesar, se observará el [Listado de productos](#), donde podrá visualizar su producto agregado.
 
-**IMPORTANTE:**
-_Si va realizar la importación dos o más veces, aumentará el stock de los productos que se encuentran en sistema._
+:::danger IMPORTANTE:
+Si va realizar la importación dos o más veces, aumentará el stock de los productos que se encuentran en sistema.
+:::

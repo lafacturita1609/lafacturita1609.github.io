@@ -10,8 +10,7 @@ Ingresa al módulo de Restaurante, selecciona **POS** y luego selecciona la subc
 En cada caja puede descargar un reporte detallado, reporte de productos, también puede enviar el reporte vía correo electrónico.
 
 
-
-:::info IMPORTANTE:
+:::danger IMPORTANTE:
 * Para que aparezca la caja, en el listado, tiene que cerrar caja y enviar a la nube.
 * Los pedidos para llevar y pedidos para comer en salón, vendrían manejando cajas diferentes.
 :::
