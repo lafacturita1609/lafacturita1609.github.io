@@ -16,11 +16,11 @@ Completa:
 
 * **Descripción:** Inserta la descripción de la categoría.
 * **Mostrar categoría:** Selecciona el interruptor si desea mostrar la categoría.
-* 
+  
 Seguido selecciona el botón **Guardar**.
 
 Se mostrará el listado de categorías:
 
 ![Alt text](img/categoras4.jpg)
 
-Podrá editar la categoría, seleccionando el botón verde; y eliminarla con el botón rojo.
+Podrá editar la categoría, seleccionando el botón verde, y eliminarla con el botón rojo.

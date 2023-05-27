@@ -2,7 +2,7 @@
 
 Para pasar a demo a producción en el sistema de facturación se deben realizar configuraciones previas, lo puede ver más detallado en el siguiente artículo; una de esas configuraciones es crear el **usuario secundario**.
 
-Para crear el Usuario secundario es importante tener en cuenta todos estos aspectos:
+Para crear el **Usuario secundario** es importante tener en cuenta todos estos aspectos:
 
 - Al crear un usuario secundario no utilizar palabras que contengan parte de nombre de la empresa.
 Ejemplo:

@@ -31,7 +31,7 @@ Luego selecciona el botón **Generar Link**
 Ahí podrá copiar el link, enviar correo, enviar whatsapp seleccionando el botón correspondiente. Seleccionando el botón adjuntar pago, podrá subir la foto del pago.
 
 ## De manera independiente
-Para  generar links de pagos de manera independiente, ingresa al módulo de Generador de link de pago. En la parte superior derecha selecciona el botón **Nuevo**.
+Para  generar links de pagos de manera independiente, ingresa al módulo de **Generador de link de pago.** En la parte superior derecha selecciona el botón **Nuevo**.
 
 ![Alt text](img/Genera-el-Link_05.jpg)
 
@@ -39,10 +39,10 @@ Completa el siguiente campo:
 
 ![Alt text](img/Genera-el-Link_06.jpg)
 
-* Tipo: Selecciona Yape o Mercado Pago.
-* Total: Inserta el total.
+* **Tipo:** Selecciona Yape o Mercado Pago.
+* **Total:** Inserta el total.
 
-Seguido selecciona el botón **Guardar**. Se observara los links de pago generados.
+Seguido selecciona el botón **Guardar**. Se observará los links de pago generados.
 
 ![Alt text](img/Genera-el-Link_07.jpg)
 

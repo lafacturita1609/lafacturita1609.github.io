@@ -14,7 +14,9 @@ Ingresa al módulo de **Reportes** y luego en la subcategoría **Pedidos**, sele
 
 ![Alt text](img/Pedidos_general_03.jpg)
 
-**IMPORTANTE:** _Selecciona solo los filtros que requiera._
+:::danger IMPORTANTE:
+Selecciona solo los filtros que requiera.
+:::
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 

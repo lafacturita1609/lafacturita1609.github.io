@@ -14,13 +14,13 @@ Posteriormente aparecerá el formulario para llenar los datos del Documento de d
 
 Se completarán los siguientes datos:
 
-**1.  Motivo:** Selecciona el motivo de la devolución.
+1.  **Motivo:** Selecciona el motivo de la devolución.
 
-**2.  Fec. Emisión:** Ingresa la fecha de emisión.
+2.  **Fec. Emisión:** Ingresa la fecha de emisión.
 
-**3.  Observación:** Ingresa la observación.
+3.  **Observación:** Ingresa la observación.
 
-**4.  Agregar producto:** Selecciona el botón para agregar productos.
+4.  **Agregar producto:** Selecciona el botón para agregar productos.
 
 ## Agregar producto
 

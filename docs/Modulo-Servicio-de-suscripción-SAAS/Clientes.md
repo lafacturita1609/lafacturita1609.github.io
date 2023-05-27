@@ -18,5 +18,7 @@ Completa los siguientes campos con los datos del nuevo cliente:
 
 Seguido seleccione el botón **Guardar**.
 
-**IMPORTANTE:**
-*El cliente se podrá visualizar en el módulo Clientes, la subcategoría clientes.*
+:::danger IMPORTANTE:
+
+El cliente se podrá visualizar en el módulo **Clientes**, la subcategoría **clientes**.
+:::

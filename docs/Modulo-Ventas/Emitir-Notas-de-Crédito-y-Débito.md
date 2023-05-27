@@ -6,8 +6,9 @@ Ingresa al **módulo de ventas** y luego ir a subcategoría **Listado de Comprob
 
 ![Alt text](img/1_notascred.jpg)
 
-**IMPORTANTE:**
-*El plazo para comunicar de baja o anular directamente un comprobante de pago electrónico es de 7 días, contados desde el día que emites el comprobante. Luego de ese plazo es necesario realizar una nota de crédito para anular cualquier comprobante.*
+:::danger IMPORTANTE:
+El plazo para comunicar de baja o anular directamente un comprobante de pago electrónico es de 7 días, contados desde el día que emites el comprobante. Luego de ese plazo es necesario realizar una nota de crédito para anular cualquier comprobante.
+:::
 
 Luego selecciona los tres puntos verticales en la parte derecha y después ingresa a la sección **Nota**.
 
@@ -37,12 +38,12 @@ En caso el motivo sea modificar la cantidad del monto, cantidad del producto o a
 
 Se procederá a ingresar los siguientes datos:
 
-- Producto/Servicio: Si el producto se creó previamente, se visualizará en la lista de opciones,si no lo está,podrá crear el producto paso a paso en nuestro artículo Emitir comprobantes: Facturas y Boletas.
-- Cantidad: Ingresa la cantidad de productos
-- Precio unitario: Indicará el monto de la nota.
-- Nombre del producto en PDF: Ingresa la descripción del producto
-- Agrega descuentos,cargos o Atributos especiales.
+- **Producto/Servicio:** Si el producto se creó previamente, se visualizará en la lista de opciones,si no lo está,podrá crear el producto paso a paso en nuestro artículo Emitir comprobantes: Facturas y Boletas.
+- **Cantidad:** Ingresa la cantidad de productos
+- **Precio unitario:** Indicará el monto de la nota.
+- **Nombre del producto en PDF:** Ingresa la descripción del producto
+- **Agrega descuentos,cargos o Atributos especiales.**
 
-Después selecciona el botón **GUARDAR**, donde visualizará la descripción del comprobante.
+Después selecciona el botón **Guardar**, donde visualizará la descripción del comprobante.
 
-Finalmente selecciona el botón **GENERAR**, para visualizar la nota creada.
+Finalmente selecciona el botón **Generar**, para visualizar la nota creada.

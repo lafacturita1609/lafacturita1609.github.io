@@ -20,7 +20,7 @@ Completa:
   
 Seguido selecciona el botón **Guardar**. Y podrá observar su método de pago creado, podrá editar y eliminar la tarjeta seleccionando el botón correspondiente.
 
-:::info importante
+:::danger importante
 
 Estas opciones aparecen cuando selecciona el tipo de operación: **Operación sujeto a detracción.**
 

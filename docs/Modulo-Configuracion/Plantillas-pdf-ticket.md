@@ -12,7 +12,7 @@ Selecciona el establecimiento y activa la plantilla que utilizará en sus ticket
 
 :::info importante
 
-SEn caso no visualice las plantillas selecciona el botón Actualizar listado en la parte superior derecha.
+En caso no visualice las plantillas selecciona el botón **Actualizar** listado en la parte superior derecha.
 
 :::
 

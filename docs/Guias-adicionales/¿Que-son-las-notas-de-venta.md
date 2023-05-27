@@ -10,6 +10,7 @@ La nota de venta es útil para la organización interna de la empresa y optimiza
 - Aportar al control de inventario.
 - Ayudar con el control interno de ventas de cada agente.
 - Clasificar las ventas y facilitar el análisis de rentabilidad.
+  
 :::danger IMPORTANTE:
 La nota de venta no tiene peso tributario.
 :::

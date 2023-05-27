@@ -42,8 +42,9 @@ Selecciona el tipo de método de pago que mejor se acomode a tus requerimientos.
 
 ![Alt text](img/Nota-de-venta10.png)
 
-**IMPORTANTE:**
-*Si escogió el método crédito , podrá visualizar el detalle de su comprobante ingresando a módulo de finanzas y en la sección cuentas por cobrar.*
+:::danger IMPORTANTE:
+Si escogió el método crédito , podrá visualizar el detalle de su comprobante ingresando a módulo de finanzas y en la sección cuentas por cobrar.
+:::
 
 Una vez llenado todos los campos requeridos, seleccionamos el botón Generar. Nos aparecerá una ventana con el comprobante virtual. Podrá seleccionar en qué formato imprimirlo y si desea podrá enviarlo por correo electrónico o por medio de whatsapp.
 

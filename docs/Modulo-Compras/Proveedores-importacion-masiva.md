@@ -2,7 +2,7 @@
 
 En esta área te ayudaremos a crear proveedores de manera masiva. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Compras** y luego selecciona **Proveedores** seguidamente la subcategoría **Listado**.En la parte superior derecha selecciona el botón **Importar**.
+Ingresa al módulo de **Compras** y luego selecciona **Proveedores** seguidamente la subcategoría **Listado**. En la parte superior derecha selecciona el botón **Importar**.
 
 ![Alt text](img/provedores1.jpg)
 

@@ -1,6 +1,6 @@
 # Cómo emitir factura
 
-En este artículo te ayudaremos a emitir factura desde la App Facturalo. Sigue estos pasos para realizarlo:
+En este artículo te ayudaremos a emitir factura desde la **App Factúralo.** Sigue estos pasos para realizarlo:
 
 1. Ingresar al módulo **Factura electrónica.**
 
@@ -18,7 +18,7 @@ En este artículo te ayudaremos a emitir factura desde la App Facturalo. Sigue e
 
 ![Alt text](img/app6.jpeg)
 
-:::info IMPORTANTE:
+:::danger IMPORTANTE:
 
 Todos los campos no mencionados son opcionales, según su necesidad.
 

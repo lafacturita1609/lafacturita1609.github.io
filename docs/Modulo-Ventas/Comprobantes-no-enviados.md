@@ -8,8 +8,8 @@ Encontrarás facturas y boletas que no han sido enviadas a la SUNAT.
 
 ![Alt text](img/1.jpg)
 
-**Importante:**
-*Por defecto deben aparecer solo las Boletas del día, ya que estas se envían a través de resúmenes diarios. De encontrar otros comprobantes aparte por favor notificar a Soporte. Asimismo, en caso nosotros le hayamos indicado desactivar el botón **“envío de comprobantes automático”**, (Ubicado en configuración, en la sección empresa y subcategoría avanzado). Siempre posteriormente, cuando esté en funcionamiento las respuestas de SUNAT, se procederá a notificar habilitarlo nuevamente.*
+:::danger IMPORTANTE:
+* Por defecto deben aparecer solo las Boletas del día, ya que estas se envían a través de resúmenes diarios. De encontrar otros comprobantes aparte por favor notificar a Soporte. Asimismo, en caso nosotros le hayamos indicado desactivar el botón **“envío de comprobantes automático”**, (Ubicado en configuración, en la sección empresa y subcategoría avanzado). Siempre posteriormente, cuando esté en funcionamiento las respuestas de SUNAT, se procederá a notificar habilitarlo nuevamente.
 
 ## Envia tus Facturas Pendientes
 
@@ -27,5 +27,5 @@ Finalmente selecciona el boton naranja Consultar y  se habrá enviado la boleta.
 
 ![Alt text](img/5_noenviado.jpg)
 
-**RECUERDE:**
+:::info RECUERDE:
 *Revisar periódicamente que los comprobantes electrónicos se hayan enviado a SUNAT dentro del plazo estimado de envío, asimismo lo podrá observar dentro de la **campana de notificaciones** que se encuentra en la parte superior derecha de su plataforma.*

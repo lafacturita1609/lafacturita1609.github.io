@@ -12,7 +12,8 @@ Podrá observar todas los comprobantes electrónicos que están pendientes por c
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 
-**IMPORTANTE:** *Solo selecciona los filtros que requieras.*
+:::danger IMPORTANTE:
+Solo selecciona los filtros que requieras.
 
 Se observan las siguientes cuentas pendientes:
 

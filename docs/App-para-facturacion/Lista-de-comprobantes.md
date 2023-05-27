@@ -1,6 +1,6 @@
 # Lista de comprobantes
 
-En este artículo te ayudaremos a observar tu listado de comprobantes electrónicos desde la App Facturalo. Sigue estos pasos para realizarlo:
+En este artículo te ayudaremos a observar tu listado de comprobantes electrónicos desde la **App Factúralo.** Sigue estos pasos para realizarlo:
 
 1. Ingresar al módulo **Listado de comprobantes**.
 

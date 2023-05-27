@@ -29,8 +29,9 @@ Se encontrará el formulario de servicio y se completarán los siguientes datos.
 
   **7.  Tipo de afectación:** Por defecto se selecciona **Gravado- Operación Onerosa** en caso de que utilice un tipo de afectación de **IGV** distinto, puede seleccionarlo.
 
-  **IMPORTANTE:** 
-  _Consulte con su contador si tiene dudas sobre que tipo de afectación deberá utilizar._
+:::danger IMPORTANTE:
+Consulte con su contador si tiene dudas sobre que tipo de afectación deberá utilizar.
+:::
 
 **8.  Código Sunat:** Ingresa el código sunat, este código se lo proporciona la **SUNAT** si esta obligado.
 

@@ -8,7 +8,7 @@ Ingresa al módulo de **Hoteles** y luego selecciona la subcategoría **Habitaci
 
 ## Crear habitaciones
 
-En la parte superior derecha selecciona el botón Nuevo. Aparecerá el siguiente formulario:
+En la parte superior derecha selecciona el botón **Nuevo**. Aparecerá el siguiente formulario:
 
 ![Alt text](img/habitacion2.jpg)
 

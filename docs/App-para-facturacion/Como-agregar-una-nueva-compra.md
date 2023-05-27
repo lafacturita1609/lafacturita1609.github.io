@@ -29,7 +29,7 @@ En caso desee crear un nuevo proveedor, en la parte superior derecha selecciona 
 - **Teléfono:** Ingresa el teléfono del cliente.
 - **Correo electrónico:** Ingresa el correo electrónico del cliente.
 
-:::info IMPORTANTE
+:::danger IMPORTANTE:
 
 Todos los campos no mencionados son opcionales, según su necesidad.
 
@@ -39,20 +39,20 @@ Después seleccione el botón **Guardar**. Y aparecerá la lista de proveedores.
 
 ![Alt text](img/compra5app.jpg)
 
-- **Añadir producto:** Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto,puede agregar las cantidades; en la parte inferior derecha selecciona el botón con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el botón "+" ,y sigue los pasos en este [artículo].
+- **Añadir producto:** Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto, puede agregar las cantidades, en la parte inferior derecha selecciona el botón con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el **botón "+"** ,y sigue los pasos en este [artículo].
 
-:::info IMPORTANTE
+:::danger IMPORTANTE:
 
--Todos los campos no mencionados son opcionales, según su necesidad.
--Para que sus productos se visualicen en la app, deben de contar con código interno.
+- Todos los campos no mencionados son opcionales, según su necesidad.
+- Para que sus productos se visualicen en la app, deben de contar con código interno.
 
 :::
 
-Una vez que los que los campos estén rellenados, selecciona el botón Aceptar.
+Una vez que los que los campos estén rellenados, selecciona el botón **Aceptar**.
 
 ![Alt text](img/compra7app.jpg)
 
-Seguido, aparecerá un mensaje de comprobante registrado. Tendrá cuatro opciones:
+Seguido, aparecerá un mensaje de comprobante registrado. Tendrá 3 opciones:
 
 - **Imprimir:** Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo PDF.
 - **Ir a listado:** Al seleccionar esta opción podrá dirigirse al módulo listado de comprobantes, puede ver más en este artículo.

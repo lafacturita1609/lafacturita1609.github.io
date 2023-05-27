@@ -101,7 +101,8 @@ Leyenda:
 * 7011 → Créditos Hipotecarios: Dirección del predio - Departamento
 * 7020 →  Partida Arancelaria
 
-**IMPORTANTE:**
+:::danger IMPORTANTE:
   *Puede crear un nuevo tipo de detracción, seleccionando el botón Nuevo, previamente averiguado el código que corresponde al listado de atributos.*
-
+:::
   ![Alt text](img/listadeatributos-1.jpeg)
+

@@ -17,7 +17,7 @@ Leyenda:
 * 025  → Fabricación de bienes por encargo
 * 027  → Servicio de transporte de carga
 
-**IMPORTANTE:**
+:::danger IMPORTANTE:
 *Puede crear un nuevo tipo de detracción, seleccionando el botón Nuevo, previamente averiguado el código que corresponde al listado de tipos de detracciones.*
-
+:::
 ![Alt text](img/Listatiposdeatribucin-1.jpeg)

@@ -8,5 +8,7 @@ Para cambiar el estado y sincronizarlo con el de SUNAT, debemos dirigirnos a REP
 
 Hacemos clic en REGULARIZAR DOCUMENTOS, y el estado en plataforma del comprobante quedará actualizado.
 
-**IMPORTANTE**
-*Recuerde que estas anulaciones solo se pueden realizar dentro de los primeros 7 días después de la emisión del comprobante, pasado el tiempo debe emitir una nota de crédito.*
+:::danger IMPORTANTE:
+Recuerde que estas anulaciones solo se pueden realizar dentro de los primeros 7 días después de la emisión del comprobante, pasado el tiempo debe emitir una nota de crédito.
+
+:::

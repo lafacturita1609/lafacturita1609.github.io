@@ -1,6 +1,6 @@
 # Validar cpe
 
-En este artículo te ayudaremos a validar el estado de comprobantes electrónicos desde la App Facturalo. Sigue estos pasos para realizarlo:
+En este artículo te ayudaremos a validar el estado de comprobantes electrónicos desde la **App Factúralo.** Sigue estos pasos para realizarlo:
 
 1. Ingresar al módulo **Validar cpe**.
 
@@ -14,6 +14,6 @@ Para validar el estado del comprobante, debe tener la versión PDF del comproban
 
 ![Alt text](img/cpe2.jpg)
 
-Al escanear el código QR saldrá la información del comprobante:
+Al escanear el **código QR** saldrá la información del comprobante:
 
 ![Alt text](img/cpe5.jpg)

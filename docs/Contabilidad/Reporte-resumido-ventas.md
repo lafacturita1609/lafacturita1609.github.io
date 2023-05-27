@@ -13,11 +13,11 @@ Completa lo siguiente:
 * **Fecha inicial:** Selecciona la fecha inicial.
 * **Fecha final:** Selecciona la fecha final.
 
-Seguido selecciona el botón buscar, para que puedas ver el detallado de tu reporte resumido. También podrá descargar un Excel, seleccionando el botón correspondiente.
+Seguido selecciona el botón **Buscar**, para que puedas ver el detallado de tu reporte resumido. También podrá descargar un Excel, seleccionando el botón correspondiente.
 
 ![Alt text](img/reporteresumido3.jpg)
 
-:::info importante
+:::danger IMPORTANTE:
 
 Solo se observaran los comprobantes electrónicos **ACEPTADOS**.
 

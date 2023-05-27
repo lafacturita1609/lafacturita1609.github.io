@@ -1,6 +1,6 @@
 # Cómo emitir boleta
 
-En este artículo te ayudaremos a emitir boleta desde la App  Sigue estos pasos para realizarlo:
+En este artículo te ayudaremos a emitir boleta desde la App. Sigue estos pasos para realizarlo:
 
 1. Ingresar al módulo **Boleta electrónica**.
 
@@ -18,7 +18,7 @@ En este artículo te ayudaremos a emitir boleta desde la App  Sigue estos pasos 
 
 ![Alt text](img/app_productos.jpeg)
 
-:::info IMPORTANTE
+:::danger IMPORTANTE:
 
 Todos los campos no mencionados son opcionales, según su necesidad.
 

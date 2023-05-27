@@ -10,7 +10,9 @@ Podrá observar todas los comprobantes electrónicos que están pendientes por p
 
 ![Alt text](img/pagar5.jpg)
 
-**IMPORTANTE:** *Solo selecciona los filtros que requieras.*
+:::danger IMPORTANTE:
+Solo selecciona los filtros que requieras.
+:::
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 

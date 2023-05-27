@@ -22,8 +22,11 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 - **Fecha de emisión:** Es el día que se emite el comprobante
 - **Fecha de vencimiento:** Es el día que se tiene que pagar el comprobante.
 
-**IMPORTANTE:**
-*Puede emitir boletas electrónicas por montos menores a 700 soles con el cliente "Clientes Varios", cuando el monto sea mayor es obligatorio colocar la identidad del cliente sea DNI o RUC.*
+:::danger IMPORTANTE:
+
+Puede emitir boletas electrónicas por montos menores a 700 soles con el cliente **"Clientes Varios"**, cuando el monto sea mayor es obligatorio colocar la identidad del cliente sea DNI o RUC.
+
+:::
 
 **2. Crear nuevo cliente**
 En esta sección escogerá el cliente para la creación del comprobante, caso contrario deberá crearlo seleccionando el botón **[+Nuevo]**.
@@ -42,12 +45,12 @@ Se procederá a ingresar los siguientes datos:
 
 La sección de **dirección y otros datos** deberá completarlos según el requerimiento de su empresa.
 
-Después selecciona el botón **GUARDAR**.
+Después selecciona el botón **Guardar**.
 
 Todos los campos que cuentan con **(*)** son obligatorios.
 
 **3. Agregar Producto**
-Selecciona el botón Agregar producto.
+Selecciona el botón **Agregar producto.**
 
 ![Alt text](img/7_em.jpg)
 
@@ -63,7 +66,7 @@ Se procederá a ingresar los siguientes datos:
 - **Nombre del producto en PDF:** Ingresa la descripción del producto
 - **Agrega descuentos,cargos o Atributos especiales**
 
-Después selecciona el botón **GUARDAR**, donde visualizará la descripción del comprobante.
+Después selecciona el botón **Guardar**, donde visualizará la descripción del comprobante.
 
 **4. Crear nuevo producto**
 Selecciona el botón Nuevo ,donde aparecerá el formulario para llenar los datos del nuevo producto:
@@ -101,7 +104,7 @@ Selecciona el tipo de condición de pago que mejor se acomode a tus requerimient
 
 *Si escogió el método crédito o crédito a cuotas, podrá visualizar el pendiente de pago: Ingresando a módulo de finanzas y en la sección cuentas por cobrar.*
 
-Después selecciona el botón **GENERAR**, donde se visualizará  una ventana indicando que la factura ha sido aceptada.
+Después selecciona el botón **Generar**, donde se visualizará  una ventana indicando que la factura ha sido aceptada.
 
 ![Alt text](img/ultimo_emitir.jpg)
 

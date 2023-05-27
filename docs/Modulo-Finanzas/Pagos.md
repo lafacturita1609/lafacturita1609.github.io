@@ -10,7 +10,8 @@ Completa los siguientes filtros:
 
 ![Alt text](img/pago2.jpg)
 
-**IMPORTANTE:** *Selecciona solo los filtros necesarios.*
+:::danger IMPORTANTE:
+Selecciona solo los filtros necesarios.
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 

@@ -10,8 +10,9 @@ Aparecen los totales. Completa los siguientes filtros:
 
 ![Alt text](img/balance2.jpg)
 
-**IMPORTANTE:** *Selecciona solo los filtros necesarios.*
-
+:::danger IMPORTANTE:
+Selecciona solo los filtros necesarios.
+:::
 **Botón Transferir entre cuentas:** Seleccionando este botón podrá transferir dinero entre sus cuentas.
 
 ![Alt text](img/balance3.jpg)

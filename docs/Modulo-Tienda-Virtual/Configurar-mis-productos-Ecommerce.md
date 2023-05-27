@@ -4,7 +4,7 @@ En esta área podrás editar la visibilidad de los productos que aparecerán en 
 
 Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de Tienda Virtual y luego selecciona la subcategoría Productos Tienda Virtual.
+Ingresa al módulo de **Tienda Virtual** y luego selecciona la subcategoría **Productos Tienda Virtual.**
 
 ## Lista de Productos
 
@@ -12,6 +12,8 @@ Se observa la lista de productos dentro del sistema, para habilitar la vista en 
 
 ![Alt text](img/tiendavir.jpg)
 
-**IMPORTANTE:** *Es necesario que los productos de la tienda virtual tengan un código interno.*
+:::danger IMPORTANTE:
+Es necesario que los productos de la tienda virtual tengan un código interno.
+:::
 
 De esta manera se observarán sus productos en la **tienda virtual**.

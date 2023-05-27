@@ -20,7 +20,7 @@ Seleccione el usuario que asignara el rol, seguido selecciona el rol se le asign
 * **Caja:** Con este rol, tendrá acceso a POS, Mesas, Pedidos.
 * **Cocina/Bar:** Con este rol, tendrá acceso a Comanda.
 * **Mozo:** Con este rol, tendrá acceso a POS, Mesas, Comanda.
-* 
+  
 Seguido selecciona el botón **Guardar.**
 
 ## Notas

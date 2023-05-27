@@ -11,11 +11,13 @@ Ingresa al portal de SUNAT con su clave SOL se dirige a la sección **Empresas**
 Completa los siguientes campos:
 
 ![Alt text](img/Preguntafrecuente8.jpg)
-:::inf IMPORTANTE:
+
+:::danger IMPORTANTE:
+
 Debe seleccionar el tipo de Consulta **BVE Recibidas**.
 :::
 
-Seguido selecciona Aceptar, y podrá visualizar una lista de las boletas.
+Seguido selecciona **Aceptar**, y podrá visualizar una lista de las boletas.
 
 ## FACTURAS
 
@@ -27,7 +29,8 @@ Seguido completa los siguientes datos:
 
 ![Alt text](img/Preguntafrecuente9.jpg)
 
-:::info IMPORTANTE:
+:::danger IMPORTANTE:
+
 Selecciona el Tipo de consulta FE Recibidas.
 :::
-Selecciona Aceptar y podrá visualizar la boleta.
+Selecciona **Aceptar** y podrá visualizar la boleta.

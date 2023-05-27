@@ -16,11 +16,11 @@ Completa:
 
 * **Nombre del piso:** Inserta el nombre del piso.
 * **Mostrar piso:** Selecciona el interruptor si desea mostrar el piso.
-* 
+  
 Seguido selecciona el botón **Guardar**.
 
 Se mostrará el listado de pisos:
 
 ![Alt text](img/pisos3.jpg)
 
-Podrá editar el piso, seleccionando el botón verde; y eliminarla con el botón rojo.
+Podrá editar el piso, seleccionando el botón verde, y eliminarla con el botón rojo.

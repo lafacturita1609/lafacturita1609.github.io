@@ -82,11 +82,11 @@ La sección de **dirección y otros datos** deberá completarlos según el reque
 
 Después selecciona el botón **GUARDAR**.
 
-- Fec Emisión: Es la fecha en la que se expide una factura.
-- Fec Vencimiento: Es la fecha límite de pago de una factura que un proveedor y su cliente pactan antes de la prestación del servicio.
-- Moneda: Selecciona el tipo de moneda en dólares americanos o Soles
-- Forma de Pago: Selecciona el tipo de pago conveniente
-- Botón seleccionar archivo: Permite añadir un archivo en PDF/JPG
+- **Fec Emisión:** Es la fecha en la que se expide una factura.
+- **Fec Vencimiento:** Es la fecha límite de pago de una factura que un proveedor y su cliente pactan antes de la prestación del servicio.
+- **Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles
+- **Forma de Pago:** Selecciona el tipo de pago conveniente
+- **Botón seleccionar archivo:** Permite añadir un archivo en PDF/JPG
 
 Posteriormente selecciona el botón **Agregar producto** y encontrará el formulario de **Agregar producto o servicio**.
 

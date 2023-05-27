@@ -17,10 +17,10 @@ En esta sección te explicaremos el formulario para la creación de su comproban
 **1. Tipo de comprobante**
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
-- Tipo de comprobante: Selecciona factura o boleta electrónica
-- Moneda: Seleccione moneda en dólares americanos o Soles
-- Fecha de emisión: Es el día que se emite el comprobante
-- Fecha de vencimiento: Es el día que se tiene que pagar el comprobante.
+- **Tipo de comprobante:** Selecciona factura o boleta electrónica
+- **Moneda:** Seleccione moneda en dólares americanos o Soles
+- **Fecha de emisión:** Es el día que se emite el comprobante
+- **Fecha de vencimiento:** Es el día que se tiene que pagar el comprobante.
 
 **2. Cliente**
 Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
@@ -40,8 +40,9 @@ Después selecciona el botón **Agregar**, donde visualizará la descripción de
 
 ![Alt text](img/12_deduccion.jpg)
 
-**IMPORTANTE:**
+:::danger IMPORTANTE:
 *Recuerde que podrás generar comprobantes por anticipo las veces que usted requiere, solo realizando los mismos pasos y colocando la cantidad de dinero que se anticipa.*
+:::
 
 **4. Activar botón de pago anticipado**
 En esta sección se activará el botón deslizante de **¿Es un pago anticipado?**, hasta que se muestre en azul y en **deducción de los pagos anticipados** se dejará por defecto la opción **Gravado**, de tener otra afectación seleccionela.
@@ -107,4 +108,6 @@ Finalmente escoge el formato y ya tendrás listo tu comprobante de deducción po
 
 ![Alt text](img/18_dec.jpg)
 
-**Importante:** *Recuerda que al utilizar esta modalidad, los comprobantes que generes deben tener el mismo producto o servicio. De añadir otro alterará el cálculo final.*
+:::danger IMPORTANTE:
+ Recuerda que al utilizar esta modalidad, los comprobantes que generes deben tener el mismo producto o servicio. De añadir otro alterará el cálculo final.
+:::
