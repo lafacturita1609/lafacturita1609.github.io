@@ -37,6 +37,11 @@
   --ifm-heading-color: #25c2a0;
 }
 
+html[data-theme='dark'] {
+  --ifm-background-color: #00122e;
+  --ifm-navbar-background-color: #00122e;
+}
+
 *{
   font-family: 'Poppins';
 }
@@ -58,7 +63,7 @@ a.navbar__brand {
   }
 }
 
-.img_node_modules-\@docusaurus-theme-classic-lib-theme-MDXComponents-Img-styles-module{
+.markdown p img{
   margin: 3rem auto;
   display: block;
   text-align: center;
@@ -84,20 +89,20 @@ main {
 ::-webkit-scrollbar {
   width: 10px;
 }
-.menu::-webkit-scrollbar {
+.menu.thin-scrollbar::-webkit-scrollbar {
   width: 5px;
 }
 ::-webkit-scrollbar-track,
-.menu::-webkit-scrollbar-track {
+.menu.thin-scrollbar::-webkit-scrollbar-track {
   background-color: transparent;
 }
 ::-webkit-scrollbar-thumb,
-.menu::-webkit-scrollbar-thumb {
+.menu.thin-scrollbar::-webkit-scrollbar-thumb {
   background-color: #e4e6ea;
   border-radius: 12px;
 }
 ::-webkit-scrollbar-thumb:hover,
-.menu::-webkit-scrollbar-thumb:hover {
+.menu.thin-scrollbar::-webkit-scrollbar-thumb:hover {
   background-color: #b1b8c2;
 }
 
