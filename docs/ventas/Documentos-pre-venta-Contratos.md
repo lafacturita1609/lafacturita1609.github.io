@@ -1,14 +1,17 @@
 # Documentos pre - venta: Contratos
 
 En esta área podrás generar contratos, Sigue estos pasos para realizarlo:
-Ingresa al módulo de ventas y luego selecciona la subcategoría desplegable contratos,donde estará la sección Listado y órdenes de Producción.
+Ingresa al módulo de **ventas** y luego selecciona la subcategoría desplegable **contratos**,donde estará la sección Listado y órdenes de Producción.
 
-## Listado:
+## Listado
+
 En esta sección veremos la lista de contratos creados, para crear uno nuevo selecciona el botón **Nuevo**.
 
 ![Alt text](img/1_contratos.jpg)
 
 Se encontrará el formulario de contrato y se completarán los siguientes datos:
+
+![Alt text](img/33_contratos.jpg)
 
 **1. Datos del cliente**
 Se deben añadir los siguientes campos:
@@ -17,7 +20,7 @@ Se deben añadir los siguientes campos:
 - **Fec. Emisión:** Es la fecha en la que se expide un contrato.
 - **Fec. Vencimiento:** Es la fecha en la que se culmina un contrato.
 - **Fec. Entrega:** Es la fecha en la que se entrega el servicio/producto.
-- **Dirección de envío:** Coloca la dirección del destinatario. 
+- **Dirección de envío:** Coloca la dirección del destinatario.
 - **Término de pago:** Selecciona la opción que más se amolde a sus requerimientos
 - **Número de cuenta:** Añada el número de cuenta donde se realizarán los depósitos bancarios.
 - **Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles
@@ -44,13 +47,13 @@ Se procederá a ingresar los siguientes datos:
 - **Cantidad:** Ingresa la cantidad de producto/servicio
 - **Precio unitario:** Deberá colocar el valor de su producto/servicio.
 
-Después selecciona el botón **Agregar**, donde visualizará la descripción del servicio/producto. 
+Después selecciona el botón **Agregar**, donde visualizará la descripción del servicio/producto.
 
 ![Alt text](img/4_contratos.jpg)
 
 Asimismo, completados estos pasos, procede a seleccionar el boton **Generar** y se creará el contrato.
 
-Por consiguiente, aparecerá una ventana de la **oportunidad registrada**, donde tendrá la opción de imprimir o descargar en formato A4. 
+Por consiguiente, aparecerá una ventana de la **oportunidad registrada**, donde tendrá la opción de imprimir o descargar en formato A4.
 
 ![Alt text](img/5_contratos.jpg)
 

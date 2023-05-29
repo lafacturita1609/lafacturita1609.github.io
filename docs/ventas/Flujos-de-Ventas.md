@@ -9,7 +9,7 @@ En esta lista conocerá los diferentes flujos posibles para concretar ventas:
 
 ## NOTAS DE VENTA
 
-- Notas de Venta → CPE 
+- Notas de Venta → CPE
 - Notas de Venta → CPE → Guías de Remisión
 - Notas de Venta → Guías de Remisión → CPE
 

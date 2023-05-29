@@ -4,7 +4,7 @@ En esta área podrás generar comprobantes electrónicos y crear nuevos clientes
 
 Ingresa al **módulo de ventas** y luego selecciona subcategoría **comprobantes electrónicos**.
 
-![Alt text](/documentacion/docs/Módulo-Ventas/img/11_boletayfactura.jpg1_boletayfactu ra.jpg)
+![Alt text](img/11_em.jpg)
 
 **1. Crear comprobante**
 
@@ -47,7 +47,11 @@ La sección de **dirección y otros datos** deberá completarlos según el reque
 
 Después selecciona el botón **Guardar**.
 
+:::danger
+
 Todos los campos que cuentan con **(*)** son obligatorios.
+
+:::
 
 **3. Agregar Producto**
 Selecciona el botón **Agregar producto.**
@@ -102,7 +106,11 @@ Selecciona el tipo de condición de pago que mejor se acomode a tus requerimient
 
 ![Alt text](img/cond_03.jpg)
 
-*Si escogió el método crédito o crédito a cuotas, podrá visualizar el pendiente de pago: Ingresando a módulo de finanzas y en la sección cuentas por cobrar.*
+:::info
+
+Si escogió el método crédito o crédito a cuotas, podrá visualizar el pendiente de pago: Ingresando a módulo de finanzas y en la sección cuentas por cobrar.
+
+:::
 
 Después selecciona el botón **Generar**, donde se visualizará  una ventana indicando que la factura ha sido aceptada.
 

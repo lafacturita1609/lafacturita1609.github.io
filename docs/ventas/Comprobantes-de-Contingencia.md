@@ -6,14 +6,13 @@ Sigue estos pasos para realizarlo:
 
 Previamente configura la serie de contingencia:
 
-1. Ingresa al módulo de Usuarios/Locales & Series y luego selecciona la subcategoría Establecimientos.
-2. Observara la lista de establecimientos.Seleccionamos el botón Series.
+1. Ingresa al módulo de **Usuarios/Locales & Series** y luego selecciona la subcategoría **Establecimientos**.
+2. Observara la lista de establecimientos.Seleccionamos el botón **Series**.
 
 ![Alt text](img/documento-de-contingencia-2.jpg)
 3. Nos aparecerá una ventana y seleccionamos el botón +Nuevo para agregar una serie.
-
 ![Alt text](img/documento_de_contingencia_3.jpg)
-1. Seguido aparecerá un pequeño formulario en donde se debe completar:
+4. Seguido aparecerá un pequeño formulario en donde se debe completar:
 
 ![Alt text](img/Tipodeoperacin4.jpg)
 
@@ -37,9 +36,9 @@ Ingresa al módulo de **Ventas** y luego selecciona la subcategoría **Comproban
 
 4. **Moneda:** Podrá seleccionar si desea el pago sea en dólares o soles.
 
-5. **Cliente:** Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
+5. **Cliente:** Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 
-6. **Agregar producto:** Luego deberá escoger el producto para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
+6. **Agregar producto:** Luego deberá escoger el producto para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 
 Después selecciona el botón **GENERAR**, donde se visualizará una ventana indicando que el comprobante ha sido aceptada.
 
@@ -51,4 +50,6 @@ Asimismo puedes enviarlo por correo electrónico o WhatsApp, ingresando el dato 
 
 Finalmente puedes seleccionar el botón  ir al listado, donde visualizará los comprobantes generados,  o proceder a crear **nuevo comprobante de contingencia**.
 
-*Para más información acerca de los comprobantes de contingencia: [https://cpe.sunat.gob.pe/informacion_general/procedimiento_contingencia](https://cpe.sunat.gob.pe/informacion_general/procedimiento_contingencia#:~:text=con%20determinados%20requisitos.-,Procedimiento%20de%20Contingencia,de%20pago%20de%20manera%20electr%C3%B3nica). Y/o, consulte a su área contable.*
+:::info
+Para más información acerca de los comprobantes de contingencia: [https://cpe.sunat.gob.pe/informacion_general/procedimiento_contingencia](https://cpe.sunat.gob.pe/informacion_general/procedimiento_contingencia#:~:text=con%20determinados%20requisitos.-,Procedimiento%20de%20Contingencia,de%20pago%20de%20manera%20electr%C3%B3nica). Y/o, consulte a su área contable.
+:::

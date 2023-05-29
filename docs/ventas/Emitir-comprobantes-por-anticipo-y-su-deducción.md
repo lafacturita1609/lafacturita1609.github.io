@@ -23,7 +23,7 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 - **Fecha de vencimiento:** Es el día que se tiene que pagar el comprobante.
 
 **2. Cliente**
-Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
+Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 
 **3. Agregar producto**
 Selecciona el botón **Agregar producto** y posteriormente encontrará el formulario de Agregar producto o servicio.
@@ -32,7 +32,7 @@ Selecciona el botón **Agregar producto** y posteriormente encontrará el formul
 
 Se procederá a ingresar los siguientes datos:
 
-- **Producto/Servicio:** Seleccione el producto creado previamente,si no está creado,podrá realizarlo paso a paso,en este [artículo](#).
+- **Producto/Servicio:** Seleccione el producto creado previamente,si no está creado,podrá realizarlo paso a paso,en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 - **Cantidad:** Ingresa la cantidad de producto/servicio
 - **Precio unitario:** Deberá colocar la **cantidad de dinero que se anticipa** o adelanta.
 
@@ -109,5 +109,7 @@ Finalmente escoge el formato y ya tendrás listo tu comprobante de deducción po
 ![Alt text](img/18_dec.jpg)
 
 :::danger IMPORTANTE:
+
  Recuerda que al utilizar esta modalidad, los comprobantes que generes deben tener el mismo producto o servicio. De añadir otro alterará el cálculo final.
+
 :::

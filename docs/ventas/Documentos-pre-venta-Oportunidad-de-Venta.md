@@ -18,7 +18,7 @@ Al seleccionar el botón **Nuevo**, se encontrará el formulario de la oportunid
 
 Se completarán los siguientes datos:
 
-- **Cliente:** Ingresa el cliente  para la creación de la oportunidad, si no está creado, podrá realizarlo paso a paso en este artículo.
+- **Cliente:** Ingresa el cliente  para la creación de la oportunidad, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 - **Fec. Emisión:** Es la fecha en la que se expide una factura.
 - **Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles
 - **Observaciones:** Ingresa alguna observacion respecto a la oportunidad de venta
@@ -31,7 +31,7 @@ Posteriormente selecciona el botón **Agregar producto** y encontrará el formul
 
 Se procederá a ingresar los siguientes datos:
 
-- **Producto/Servicio:** Selecciona el producto creado previamente,si no está creado,podrá realizarlo paso a paso,en este [artículo](#).
+- **Producto/Servicio:** Selecciona el producto creado previamente,si no está creado,podrá realizarlo paso a paso,en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 - **Cantidad:** Ingresa la cantidad de producto/servicio
 - **Precio unitario:** Deberá colocar el valor de su producto/servicio.
 
@@ -54,7 +54,7 @@ Contaremos con las siguientes opciones o botones:
 - **Archivos:** Se visualizará la imagen/archivo del producto
 - **Descarga:** Permite la descarga en PDF.
 - **Generar O.Compra:** Permite generar la orden de compra de nuestros proveedores.
-- **Generar Cotización:** Permite generar la cotización del proyecto. Te invitamos a leer nuestro artículo,donde te explicaremos paso a paso, la creación de una cotización.
+- **Generar Cotización:** Permite generar la cotización del proyecto. Te invitamos a leer nuestro [artículo](https://fastura.github.io/documentacion/ventas/Documentos-pre-venta-Cotizaciones) ,donde te explicaremos paso a paso, la creación de una cotización.
 - **Editar:** Permite la edición del formulario de la oportunidad de venta
 - **Opciones:** Permite imprimir la oportunidad en formato A4.
 

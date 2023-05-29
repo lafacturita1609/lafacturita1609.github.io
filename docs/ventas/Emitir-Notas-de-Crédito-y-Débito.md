@@ -38,7 +38,7 @@ En caso el motivo sea modificar la cantidad del monto, cantidad del producto o a
 
 Se procederá a ingresar los siguientes datos:
 
-- **Producto/Servicio:** Si el producto se creó previamente, se visualizará en la lista de opciones,si no lo está,podrá crear el producto paso a paso en nuestro artículo Emitir comprobantes: Facturas y Boletas.
+- **Producto/Servicio:** Si el producto se creó previamente, se visualizará en la lista de opciones,si no lo está,podrá crear el producto paso a paso en nuestro [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 - **Cantidad:** Ingresa la cantidad de productos
 - **Precio unitario:** Indicará el monto de la nota.
 - **Nombre del producto en PDF:** Ingresa la descripción del producto

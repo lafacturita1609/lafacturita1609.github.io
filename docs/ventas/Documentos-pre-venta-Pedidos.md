@@ -7,13 +7,14 @@ Ingresa al módulo de ventas y luego selecciona la subcategoría **Pedidos**.En 
 ![Alt text](img/pedidos1.jpg)
 
 ## Generar pedidos
+
 En esta sección podrá empezar con la creación de su formulario de pedido.
 
 ![Alt text](img/pedidos21.jpg)
 
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
-1. **Cliente:** Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este artículo.
+1. **Cliente:** Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 
 2. **Fec.Emisión:** Colocar la fecha en la que se realiza el pedido.
 
@@ -31,13 +32,13 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 
 9. **Observación:** Si desea colocar alguna observación acerca del pedido.
 
-10. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este artículo.
+10. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas) artículo.
 
 Después selecciona el botón **Generar** y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 
 ![Alt text](img/pedidos5.jpg)
 
-Además podrás escoger el formato de la cotización en tamaño **A4(vertical), 80MM (ticket) y A5(horizontal)**. 
+Además podrás escoger el formato de la cotización en tamaño **A4(vertical), 80MM (ticket) y A5(horizontal)**.
 Asimismo puedes enviarlo por correo electrónico o WhatsApp, ingresando el dato del destinatario y seleccionando el botón **Enviar.**
 
 Finalmente puedes seleccionar el botón  ir al **listado**, donde visualizará los pedidos generados,  o proceder a un nuevo pedido.
@@ -63,8 +64,7 @@ Al seleccionar este botón aparecerá una ventana donde podrá elegir las que co
 ![Alt text](img/pedidos6.jpg)
 
 :::danger IMPORTANTE:
-
-*De esta manera no se pueden agregar pagos a diferencia de generar el comprobante de manera individual.*
+De esta manera no se pueden agregar pagos a diferencia de generar el comprobante de manera individual.
 :::
 
 **3. Mostrar/Ocultar columnas**

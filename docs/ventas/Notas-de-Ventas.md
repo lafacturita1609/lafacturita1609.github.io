@@ -14,7 +14,7 @@ En esta área te explicaremos la función de cada sección enumerada.
 ![Alt text](img/Nota-de-venta2.jpg)
 
 **1. Cliente**
-Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
+Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 
 **2. Fecha de emisión**
 Colocar la fecha de emisión
@@ -32,10 +32,10 @@ Un dato adicional, coloque aquí el número de la orden de compra en caso se req
 Un dato adicional, puede usarse para hacer un comentario de la empresa u otros.
 
 **7. Vendedor**
-Un dato adicional, el vendedor que realiza la nota. 
+Un dato adicional, el vendedor que realiza la nota.
 
 **8. Agregar Producto**
-Luego deberá escoger el producto para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](#).
+Luego deberá escoger el producto para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
 
 **9. Método de pago Destino**
 Selecciona el tipo de método de pago que mejor se acomode a tus requerimientos.
