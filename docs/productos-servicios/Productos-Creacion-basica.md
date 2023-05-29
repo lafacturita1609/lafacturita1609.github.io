@@ -1,15 +1,16 @@
 # Productos: Creación Básica
+
 En esta área te ayudaremos a crear productos de una manera sencilla.Sigue estos pasos para realizarlo:
 
 ## Crear producto
-Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos**. 
-En la parte superior derecha selecciona el botón **Nuevo**.
 
+Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos**.
+En la parte superior derecha selecciona el botón **Nuevo**.
 
 ![Alt text](img/Creacion-basica_01.jpg)
 
  Posteriormente aparecerá el formulario para llenar los datos del **Nuevo producto.**
- 
+
  ![Alt text](img/Creacion-basica_02.jpg)
 
  Se procederá a ingresar los siguientes datos:

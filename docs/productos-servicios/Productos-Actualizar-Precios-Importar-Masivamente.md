@@ -1,4 +1,5 @@
 # Productos: Actualizar Precios Importar Masivamente
+
 En esta área te ayudaremos a actualizar los precios de tus productos de manera masiva. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos.** En la parte superior derecha selecciona el botón **Importar** después selecciona **Actualizar precios.**

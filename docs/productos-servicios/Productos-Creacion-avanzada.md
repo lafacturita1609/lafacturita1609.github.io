@@ -1,7 +1,9 @@
 # Creación avanzada
+
 En esta área te ayudaremos a crear productos de una manera más detallada. Sigue estos pasos para realizarlo:
 
 ## Crear producto
+
 Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría Productos.
 
 En la parte superior derecha selecciona el botón **Nuevo.**
@@ -52,7 +54,7 @@ Para habilitar la venta con restricción del stock mínimo, se tiene que configu
 
 **16.  Código de barra:** En caso el producto ya tenga un código de barra, deberá ingresarlo.
 
-**17.  Código interno:** Identifica el producto, ayuda a la gestión de inventarios.Es importante colocar el código interno para que los productos puedan visualizarse en su Tienda Virtual. 
+**17.  Código interno:** Identifica el producto, ayuda a la gestión de inventarios.Es importante colocar el código interno para que los productos puedan visualizarse en su Tienda Virtual.
 
 :::danger IMPORTANTE:
 Si no cuenta con un código interno en su empresa puede configurar automáticamente desde el módulo **Configuración** en la sección **Avanzado** y la subcategoría **Inventarios.** Posteriormente deberá activar el botón **Generar automáticamente código interno del producto.**
@@ -64,7 +66,7 @@ Si no cuenta con un código interno en su empresa puede configurar automáticame
 Insertar el código si la **SUNAT** lo requiere.
 :::
 
-**19.  Línea de producto:** Inserta la línea de producto, grupo de productos que tienen relación directa entre sí. 
+**19.  Línea de producto:** Inserta la línea de producto, grupo de productos que tienen relación directa entre sí.
 
 **20.  Código de fábrica:** Inserta el código de fábrica, en el caso de productos tecnológicos cuentan con un código de fábrica.
 
@@ -82,10 +84,12 @@ Insertar el código si la **SUNAT** lo requiere.
 **26.  Sujeto a detracción:** Selecciona la casilla si el producto está sujeto a detracción.
 
 ## Sección almacenes
+
 Podrá colocar diferentes precios del producto según el almacén.Es decir el mismo producto podrá tener diferentes precios en diferentes almacenes.
 ![Alt text](img/Creacion-avanzada_03.jpg)
 
 ## Sección presentaciones
+
 Es otra manera de agregar precios del producto sin alterar los precios en el almacén.Te permite añadir diferentes presentaciones.
 
 ![Alt text](img/Creacion-avanzada_04.jpg)
@@ -101,6 +105,7 @@ De esta manera podrá emitir el comprobante electrónico de la manera más fáci
 Selecciona la **casilla de confirmación** si desea agregar el producto.
 
 ## Sección atributos
+
 ![Alt text](img/Creacion-avanzada_06.jpg)
 
 **1.  Imagen:** Inserta la imagen del producto.
