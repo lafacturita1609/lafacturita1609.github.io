@@ -5,11 +5,15 @@ En este artículo te enseñaremos a realizar la configuración previa para utili
 Ingresa al módulo de **Restaurante** y luego selecciona la subcategoría **Configuración.**
 
 ![Alt text](img/mesas_01.jpg)
+
 ## Ambientes
+
 En la siguiente sección. Podrá habilitar hasta 4 ambientes y la cantidad de mesas por ambiente.
 
 ![Alt text](img/mesas_02.jpg)
+
 ## Usuarios
+
 Podrá habilitar los roles y los accesos del usuario.
 
 ![Alt text](img/mesas_03.jpg)
@@ -24,6 +28,7 @@ Seleccione el usuario que asignara el rol, seguido selecciona el rol se le asign
 Seguido selecciona el botón **Guardar.**
 
 ## Notas
+
 Podrá agregar Notas.
 ![Alt text](img/mesas_04.jpg)
 

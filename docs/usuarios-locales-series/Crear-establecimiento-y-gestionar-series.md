@@ -24,7 +24,7 @@ Aparecerá el formulario para llenar los datos del **Nuevo Establecimiento**.
 * **Teléfono:** Ingresa el número de teléfono.
 * **Dirección web:** Ingresa la dirección web si tuviera.
 * **Información adicional:** Agrega alguna información adicional.
-* **Cliente por defecto:** Agregar si hubiera algún cliente específico para el establecimiento. 
+* **Cliente por defecto:** Agregar si hubiera algún cliente específico para el establecimiento.
 * **Cambiar logo del establecimiento:** Selecciona para poder cambiar el logo de tu establecimiento.
 * **Casilla de verificación:**
     * **Sujeto al IGV - Ley 31556:** Si perteneces al sector de: restaurantes, hoteles y agencias de turismo, selecciona esta casilla para aplicar el IGV que te corresponde.

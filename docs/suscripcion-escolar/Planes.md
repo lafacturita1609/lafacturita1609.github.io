@@ -29,7 +29,7 @@ Al seleccionar **Agregar Productos**, podrá agregar los productos correspondien
 
 ![Alt text](img/nuevoplan3.jpg)
 
-* **Producto/Servicio:** Selecciona el producto creado previamente, si aún no lo creo selecciona **+Nuevo** y sigue los pasos en este [artículo](#).
+* **Producto/Servicio:** Selecciona el producto creado previamente, si aún no lo creo selecciona **+Nuevo** y sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Creacion-basica)**.
 * **Cantidad:** Ingresa la cantidad del producto.
 
-Seguido selecciona el botón Guardar.
+Seguido selecciona el botón **Guardar**.

@@ -1,4 +1,5 @@
 # Armar packs y promociones
+
 En esta área te ayudaremos a crear **paquetes/promociones** para hacer más atractiva la forma de venta de tus productos o servicios.
 
 Sigue estos pasos para realizarlo:
@@ -44,10 +45,6 @@ Se procederá a ingresar los siguientes datos:
 * **Categoría:** Selecciona la categoría que pertenezca su paquete promocional
 * **Marca:** Selecciona la marca que pertenezca su paquete promocional
 
-
 Después selecciona el botón **Guardar**, donde visualizará la lista de los productos compuestos.
 
 ![Alt text](img/Armar-packs-y-promociones_04.png)
-
-
-

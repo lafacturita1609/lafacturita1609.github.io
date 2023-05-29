@@ -36,7 +36,7 @@ Ingresa al módulo de **Ventas** y luego selecciona la subcategoría Cotizacione
 
 ![Alt text](img/Coti3.jpg)
 
-**14. Agregar productos:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
+**14. Agregar productos:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
 
 Después selecciona el botón Generar y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 

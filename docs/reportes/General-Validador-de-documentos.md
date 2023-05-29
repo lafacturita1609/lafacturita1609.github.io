@@ -17,6 +17,3 @@ Completa los siguientes filtros:
 Podrá observar el estado del sistema y el estado de **SUNAT**, en caso que sean diferentes los estados; selecciona el botón **Validar documentos** para que los estados se igualen.
 
 ![Alt text](img/General_Validador_de_Documentos_04.jpg)
-
-
-

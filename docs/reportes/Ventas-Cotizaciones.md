@@ -21,6 +21,6 @@ Selecciona solo los filtros que requiera.
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 
-Luego seleccione el botón **Buscar**. Se observarán las cotizaciones realizadas, también podrá observar si la cotización esta anexada a alguna factura o nota de venta. 
+Luego seleccione el botón **Buscar**. Se observarán las cotizaciones realizadas, también podrá observar si la cotización esta anexada a alguna factura o nota de venta.
 
 ![Alt text](img/Ventas-cotizaciones_04.jpg)

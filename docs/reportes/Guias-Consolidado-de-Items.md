@@ -1,4 +1,5 @@
 # Guías: Consolidado de ítems
+
 En este artículo te mostraremos a como exportar las guías realizadas. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Reportes** y luego en la subcategoría **Guías**, selecciona **Consolidado de ítems.**

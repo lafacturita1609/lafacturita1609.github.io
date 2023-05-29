@@ -10,7 +10,6 @@ Aparecerá lo siguiente:
 
 ![Alt text](img/Ventas_Clientes_02.jpg)
 
-
 :::danger IMPORTANTE:
 Selecciona solo los filtros que requiera.
 :::

@@ -1,4 +1,5 @@
 # General: Consistencia de Documentos
+
 En este artículo te mostraremos como revisar la lista de los correlativos de los comprobantes electrónicos .Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Reportes** y luego en la subcategoría **General**, selecciona **Consistencia documentos**

@@ -23,7 +23,7 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 - **Fecha de vencimiento:** Es el día que se tiene que pagar el comprobante.
 
 **2. Cliente**
-Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
+Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
 
 **3. Agregar producto**
 Selecciona el botón **Agregar producto** y posteriormente encontrará el formulario de Agregar producto o servicio.
@@ -32,7 +32,7 @@ Selecciona el botón **Agregar producto** y posteriormente encontrará el formul
 
 Se procederá a ingresar los siguientes datos:
 
-- **Producto/Servicio:** Seleccione el producto creado previamente,si no está creado,podrá realizarlo paso a paso,en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
+- **Producto/Servicio:** Seleccione el producto creado previamente,si no está creado,podrá realizarlo paso a paso,en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
 - **Cantidad:** Ingresa la cantidad de producto/servicio
 - **Precio unitario:** Deberá colocar la **cantidad de dinero que se anticipa** o adelanta.
 
@@ -41,7 +41,7 @@ Después selecciona el botón **Agregar**, donde visualizará la descripción de
 ![Alt text](img/12_deduccion.jpg)
 
 :::danger IMPORTANTE:
-*Recuerde que podrás generar comprobantes por anticipo las veces que usted requiere, solo realizando los mismos pasos y colocando la cantidad de dinero que se anticipa.*
+Recuerde que podrás generar comprobantes por anticipo las veces que usted requiere, solo realizando los mismos pasos y colocando la cantidad de dinero que se anticipa.
 :::
 
 **4. Activar botón de pago anticipado**

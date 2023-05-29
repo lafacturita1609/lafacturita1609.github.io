@@ -32,7 +32,7 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 
 9. **Observación:** Si desea colocar alguna observación acerca del pedido.
 
-10. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas) artículo.
+10. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)** artículo.
 
 Después selecciona el botón **Generar** y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 

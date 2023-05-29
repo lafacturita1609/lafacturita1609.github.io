@@ -1,4 +1,5 @@
 # Gestionar mis marcas
+
 En esta área conocerá cómo crear una nueva marca y gestionar la lista de marcas.
 
 Ingresa al módulo de **Productos/Servicios** y luego selecciona la subcategoría **Marcas.**

@@ -14,7 +14,7 @@ Completa los siguientes filtros:
 
 ![Alt text](img/Ventas_Comisiones_Ventas_03.jpg)
 
-**IMPORTANTE:** 
+**IMPORTANTE:**
 _Selecciona solo los filtros que requiera._
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.
@@ -22,5 +22,3 @@ Podrá exportar los reportes, seleccionando el botón correspondiente.
 Luego seleccione el botón **Buscar**. Se observa las comisiones acumuladas de cada vendedor.
 
 ![Alt text](img/Ventas_Comisiones_Ventas_04.jpg)
-
-

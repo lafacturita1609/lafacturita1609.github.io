@@ -33,7 +33,7 @@ Selecciona la opción recrear documentos si deseas permitir que tu usuario tenga
 
 :::
 
-## Datos personales 
+## Datos personales
 
 En esta sección se completa con los datos personales del nuevo usuario. (Opcional)
 

@@ -54,6 +54,8 @@ Podrá visualizar la lista de los vendedores y cuanto de comisión generó hasta
 ![Alt text](img/Comisiones9.jpg)
 
 :::danger IMPORTANTE:
+
 - El vendedor y el producto tienen que tener activado la comisión; no genera comisión si uno de los dos no tiene.
 - Contabiliza la comisión del producto, así sea menor o mayor que el porcentaje del vendedor.
+
   :::
