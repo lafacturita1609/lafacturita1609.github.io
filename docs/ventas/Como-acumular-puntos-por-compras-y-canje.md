@@ -32,4 +32,6 @@ Como puede observar en la imagen, el cliente no tenia ningún punto acumulado, p
 
 Al momento de agregar el producto previamente configurado para canjear por puntos, te aparecerá una casilla de selección para canjear por puntos, selecciónala para que el cliente pueda canjear los puntos que tiene acumulado.
 
+![Alt text](img/puntos3.jpg)
+
 Al generar ese comprobante, en el comprobante electrónico aparecerá el producto canjeado por puntos, y cuantos puntos uso.
