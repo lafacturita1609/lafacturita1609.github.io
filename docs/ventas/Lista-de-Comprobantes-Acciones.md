@@ -100,5 +100,5 @@ Puedes descargar los comprobantes en diferentes formatos:
 
 ![Alt text](img/ultimo_emitir.jpg)
 
-- **Pago:**En esta sección podrás gestionar los pagos pendientes,caso contrario la ventana a mostrar estará vacia.
+- **Pago:** En esta sección podrás gestionar los pagos pendientes,caso contrario la ventana a mostrar estará vacia.
 ![Alt text](img/14__pago.jpg)

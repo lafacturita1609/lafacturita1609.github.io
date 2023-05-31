@@ -14,7 +14,7 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas:
 
 1. **Nuevo:** Permite crear un producto nuevo, créelo paso a paso en este **[artículo](https://fastura.github.io/documentacion/compras/Nuevo-Agregar-una-nueva-compra)**.
 
-2.**Importar:** Permite importar comprobantes de compra.
+2. **Importar:** Permite importar comprobantes de compra.
 
 3. Filtrar por:** Para encontrar un comprobante de compra de una manera más rápida puede filtrar la búsqueda con los siguientes datos.
 

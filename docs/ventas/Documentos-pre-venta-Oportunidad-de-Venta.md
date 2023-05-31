@@ -18,7 +18,7 @@ Al seleccionar el botón **Nuevo**, se encontrará el formulario de la oportunid
 
 Se completarán los siguientes datos:
 
-- **Cliente:** Ingresa el cliente  para la creación de la oportunidad, si no está creado, podrá realizarlo paso a paso en este [artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas).
+- **Cliente:** Ingresa el cliente  para la creación de la oportunidad, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
 - **Fec. Emisión:** Es la fecha en la que se expide una factura.
 - **Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles
 - **Observaciones:** Ingresa alguna observacion respecto a la oportunidad de venta

@@ -45,4 +45,4 @@ Una vez rellenado el archivo excel, deberá seleccionar el botón **Selecciona u
 
 ![Alt text](img/Listas-de-Precio-Importar-Masivamente_07.jpg)
 
-Finalmente selecciona el botón **Procesar**, se observará el [Listado de productos](#).
+Finalmente selecciona el botón **Procesar**, se observará el **[Listado de productos](https://fastura.github.io/documentacion/productos-servicios/Productos-Listas-de-Precio-Importar-Masivamente)**.
