@@ -1,7 +1,9 @@
 # Productos: Añadir Información de DIGEMID
+
 En este artículo te enseñaremos a crear productos y añadir información de DIGEMID. Sigue estos pasos para realizarlo:
 
-### Crear Producto
+## Crear Producto
+
 Ingresa al módulo **Productos**, y luego en la subcategoría **Productos**, selecciona el botón **Nuevo**.
 
 ![Alt text](img/nevoproductos-1.jpeg)

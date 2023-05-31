@@ -30,7 +30,7 @@ Se mostrará el listado de habitaciones:
 
 2. **Mantenimiento:** Al seleccionar, la habitación se pone en Mantenimiento.
 
-3. **Botones:** 
+3. **Botones:**
 
 * **Editar:** Selecciona el botón verde.
 * **Eliminar:** Selecciona el botón rojo.

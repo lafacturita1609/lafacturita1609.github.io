@@ -3,6 +3,7 @@
 En esta área te ayudaremos a crear links de pagos de dos maneras. Sigue estos pasos para realizarlo:
 
 ## Anexado a un comprobante electrónico
+
 Para generar un link de pago desde un comprobante electrónico, nos dirigimos a la lista de comprobantes, seleccionamos el botón con los tres puntos y selecciona **Pago.**
 
 ![Alt text](img/Genera-el-Link_01.jpg)
@@ -15,10 +16,9 @@ Completa lo siguiente:
 
 * **Método de pago:** Selecciona el método de pago.
 * **Destino:** Selecciona el destino.
-* **Monto:** El monto se podrá observar 
+* **Monto:** El monto se podrá observar
 * **¿Pago recibido?:** Selecciona si el pago fue recibido.
 * **Link de pago:** Selecciona el botón **Link de pago.**
-
 
 Podrá escoger si el link sera por **Yape** o **Mercado Pago**
 
@@ -31,6 +31,7 @@ Luego selecciona el botón **Generar Link**
 Ahí podrá copiar el link, enviar correo, enviar whatsapp seleccionando el botón correspondiente. Seleccionando el botón adjuntar pago, podrá subir la foto del pago.
 
 ## De manera independiente
+
 Para  generar links de pagos de manera independiente, ingresa al módulo de **Generador de link de pago.** En la parte superior derecha selecciona el botón **Nuevo**.
 
 ![Alt text](img/Genera-el-Link_05.jpg)
@@ -49,5 +50,3 @@ Seguido selecciona el botón **Guardar**. Se observará los links de pago genera
 Selecciona el botón **Copiar**, y tendrá el enlace.
 
 ![Alt text](img/Genera-el-Link_08.jpg)
-
-

@@ -14,7 +14,7 @@ Completa:
 
 ![Alt text](img/tarjetas4.jpg)
 
-* **Código:** Inserta el código que le dará a la tarjeta. 
+* **Código:** Inserta el código que le dará a la tarjeta.
 * **Descripción:** Inserta el nombre de la tarjeta.
   
 Seguido selecciona el botón **Guardar**. Y podrá observar su tarjeta creada en el listado de tarjetas, podrá editar y eliminar la tarjeta seleccionando el botón correspondiente.

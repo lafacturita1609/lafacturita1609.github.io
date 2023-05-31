@@ -11,14 +11,14 @@ Completa los siguientes datos:
 ![Alt text](img/liquidacipon2.jpg)
 
 - **Tipo comprobante:** Selecciona el establecimiento desde cual esta realizando el documento de liquidación de compras.
-- **Proveedor:** Selecciona el Proveedor a quien le realizaras el documento de detracción, si aún no esta creado puede crearlo siguiendo este [artículo].
+- **Proveedor:** Selecciona el Proveedor a quien le realizaras el documento de detracción, si aún no esta creado puede crearlo siguiendo este **[artículo]https://fastura.github.io/documentacion/compras/Proveedores-creaci%C3%B3n-individual()**.
 - **Observaciones:**
 - **Condición de pago:**
 - **Agregar Producto:**
 
 ![Alt text](img/descarga.png)
 
-- **Producto/Servicio:** Insertar el producto, si aún no lo creo selecciona +Nuevo, y sigue el siguiente [artículo].
+- **Producto/Servicio:** Insertar el producto, si aún no lo creo selecciona +Nuevo, y sigue el siguiente **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Creacion-basica)**.
 - **Cantidad:** Inserta la cantidad del producto.
 - **Almacén de destino:** Selecciona el almacén de destino para el producto.
 

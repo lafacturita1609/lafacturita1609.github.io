@@ -34,4 +34,5 @@ Completa:
 * **Descripción:** Inserta la descripción del método de pago.
 * **Tipo de pago:** Selecciona el tipo de pago. Si es contado o crédito.
   
-Seguido selecciona el botón **Guardar**. Y podrá observar su nuevo método de pago. 
+Seguido selecciona el botón **Guardar**. Y podrá observar su nuevo método de pago.
+

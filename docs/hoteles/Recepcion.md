@@ -18,7 +18,7 @@ Aparecerá lo siguiente:
 
 Completa:
 
-* **Cliente:** Selecciona al cliente que ocupará la habitación, caso contrario, cree uno nuevo [aquí](#).
+* **Cliente:** Selecciona al cliente que ocupará la habitación, caso contrario, cree uno nuevo **[aquí](https://fastura.github.io/documentacion/clientes/Clientes-creacion-individual)**.
 * **Tarifa:** Selecciona la tarifa correspondiente.
 Selecciona el botón Guardar.
 
@@ -53,4 +53,3 @@ Seguido Selecciona **Guardar y Generar Comprobante**.
 Una vez realizada toda la acción, el estado de la habitación se cambia automáticamente a estado de **LIMPIEZA**. Para cambiar el estado a Disponible selecciona el botón azul.
 
 ![Alt text](img/limpieza.jpg)
-

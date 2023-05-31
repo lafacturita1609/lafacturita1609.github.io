@@ -1,4 +1,4 @@
-# Listado de tipo de motivos de transferencias, para productos o servicios:
+# Listado de tipo de motivos de transferencias, para productos o servicios
 
 Leyenda:
 

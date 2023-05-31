@@ -24,7 +24,7 @@ Nos dirigimos a la sección entorno de sistema, en esta sección realizaremos:
 
 * Cambio de SOAP tipo **Demo a Producción**.
 Escoger SOAP envío **Sunat**.
-Colocar SOAP usuario y contraseña del [usuario secundario](#) creado previamente(Sigue los pasos en este [video](#)), tener en cuenta que al colocar el usuario debe agregar el RUC previamente, como la imagen indicada.
+Colocar SOAP usuario y contraseña del **usuario secundario** creado previamente(Sigue los pasos en este **[video](https://www.youtube.com/watch?v=PZ028aDpR3A&ab_channel=DigitalBuho)**), tener en cuenta que al colocar el usuario debe agregar el RUC previamente, como la imagen indicada.
 
 ![Alt text](img/entornoalsistema.jpg)
 
@@ -39,31 +39,31 @@ de la empresa.
     * **Usuario Secundario: C6NSJU4N (Correcto)**.
 * Al generar la contraseña secundario asegúrese de usar contraseñas que
 contengan números y letras con mayúsculas, y que no usen palabras de la
-empresa. Para generarla puede utilizar herramientas externas como: https://www.clavesegura.org/es/
+empresa. Para generarla puede utilizar herramientas externas como: **[https://www.clavesegura.org/es/](https://www.clavesegura.org/es/)**
 
 :::
 
 Para completar la conexión con SUNAT es necesario subir el certificado digital. En esta sección adjuntamos el archivo .pfx que nos brinda SUNAT.
 
-Para descargarlos sigue los pasos en este  [video](#).
+Para descargarlos sigue los pasos en este  **[video](https://www.youtube.com/watch?v=N8fse05yda8&ab_channel=DigitalBuho)**.
 
 ![Alt text](img/4_conf.png)
 
-## 2.  Configurar el validador de documentos.
+## 2. Configurar el validador de documentos
 
-Se requiere configurar el validador de documentos para que ante cualquier eventualidad con SUNAT se puedan regularizar el estado de sus comprobantes. Sigue los pasos en este [video](#). Agrega los token como en la imagen mostrada.
+Se requiere configurar el validador de documentos para que ante cualquier eventualidad con SUNAT se puedan regularizar el estado de sus comprobantes. Sigue los pasos en este **[video](https://www.youtube.com/watch?v=6YqtOrIjaDY&t=3s&ab_channel=DigitalBuho)**. Agrega los token como en la imagen mostrada.
 
 ![Alt text](img/certificado.jpg)
 
-## 3.  Configuración para las guías electrónicas.
+## 3. Configuración para las guías electrónicas
 
 Este paso es necesario para poder enviar tus guías y sean aceptados por **SUNAT**. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **configuración**,luego a la sección **empresa** y selecciona subcategoría **empresa**.
 
-Sigue todos los pasos en este [artículo](#).
+Sigue todos los pasos en este **[artículo](https://fastura.github.io/documentacion/configuracion/Configuracion-previa-guia-remision)**.
 
-## 4. Configuración para el envió automático de boletas y facturas a SUNAT.
+## 4. Configuración para el envió automático de boletas y facturas a SUNAT
 
 Este paso es necesario para que tus boletas y facturas se envíen de manera automática hacia **SUNAT**.
 
@@ -75,7 +75,7 @@ Tendrá que activar las siguientes opciones:
 
 ![Alt text](img/avanzado22.jpg)
 
-Tienen que permanecer en el **Si**. 
+Tienen que permanecer en el **Si**.
 
 :::info importante
 
@@ -89,8 +89,8 @@ Ingresa al módulo de **Productos/Servicios**, luego a sección **Productos**.
 
 Existen dos maneras para agregar productos en el sistema:
 
-* De manera individual, sigue los pasos en este [artículo](#). 
-* De manera masiva, sigue los pasos en este [artículo](#).
+* De manera individual, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Creacion-basica)**.
+* De manera masiva, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Importar-masivamente)**.
 
 ## 6.  Agregar clientes
 
@@ -98,17 +98,16 @@ Ingresa al módulo de **Clientes**, luego a sección **Clientes**.
 
 Existen dos maneras para agregar productos en el sistema:
 
-* De manera individual, sigue los pasos en este [artículo](#). 
-* De manera masiva, sigue los pasos en este [artículo](#).
+* De manera individual, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/clientes/Clientes-creacion-individual)**.
+* De manera masiva, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/clientes/Clientes-Importaci%C3%B3n-Masiva)**.
 
 ## 7.  Establecimientos y series
 
 En caso de contar con más de un local o establecimiento, debe configurar las series de los comprobantes correspondientes con cada uno. Sigue estos pasos para realizarlo.
 
-
 Ingresa al módulo de **Usuarios/Locales & Series**, luego a la sección Establecimientos.
 
-Para agregar las series, los pasos están este [artículo](#).
+Para agregar las series, los pasos están este **[artículo](https://fastura.github.io/documentacion/usuarios-locales-series/Crear-establecimiento-y-gestionar-series)**.
 
 :::info IMPORTANTE
 
@@ -152,7 +151,7 @@ Para registrar el dinero que ingresa por las ventas de tus comprobantes o regist
 
 * **Dinero en efectivo: Módulo POS**
 
-Ingresa al módulo de **POS** ,luego selecciona **Caja chica POS**, para abrir las cajas y los reportes revisa el siguiente [artículo](#).
+Ingresa al módulo de **POS** ,luego selecciona **Caja chica POS**, para abrir las cajas y los reportes revisa el siguiente **[artículo](https://fastura.github.io/documentacion/pos/Abrir-una-caja-y-exportar-reportes)**.
 
 * **Dinero en cuentas bancarias**
 
@@ -169,7 +168,7 @@ Se llenarán los siguientes datos:
 * Banco
 * Descripción
 * Número de cuenta bancaria
-* Tipo de moneda 
+* Tipo de moneda
 * Número de cuenta interbancaria (CCI)
 * Saldo inicial
 

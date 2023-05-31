@@ -14,7 +14,7 @@ Al seleccionar el botón **Nuevo,** se encontrará el formulario del nuevo produ
 
 ![Alt text](img/Armar-packs-y-promociones_02.jpg)
 
-**1.  Datos del producto compuesto**
+**1. Datos del producto compuesto**
 
 Se procederá a ingresar los siguientes datos:
 

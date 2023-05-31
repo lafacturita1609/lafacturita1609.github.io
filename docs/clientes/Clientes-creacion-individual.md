@@ -3,14 +3,15 @@
 En esta área te ayudaremos a cómo crear clientes de forma individual. Sigue estos pasos para realizarlo:
 
 ## Crear nuevo cliente
+
 Ingresa al módulo de **Clientes** y luego selecciona subcategoría **Clientes.**
 
 En la parte superior derecha selecciona el botón **Nuevo.**
 
 ![Alt text](img/Clientes_Creacion_Individual_01.jpg)
 
-
 ## Datos de cliente
+
 Posteriormente aparecerá el formulario para llenar los datos del **Nuevo Cliente.**
 
 ![Alt text](img/Clientes_Creacion_Individual_02.jpg)
@@ -23,7 +24,7 @@ Se completarán los siguientes datos:
 * **Nombre comercial:** Ingresa la denominación que identifica a la empresa.
 * **Días de crédito**
 * **Código Interno:** Ingresa el código del cliente.
-* **Tipo de cliente:** Ingresa la clasificación de su cliente, para conocer cómo crearlo, te invitamos a leer nuestro [artículo](#). 
+* **Tipo de cliente:** Ingresa la clasificación de su cliente, para conocer cómo crearlo, te invitamos a leer nuestro **[artículo](https://fastura.github.io/documentacion/clientes/Configurar-tipos-de-clientes)**.
 * **Código de barra:** Ingresa el código de barra del cliente.
 
 ## Dirección
@@ -42,6 +43,7 @@ Se completarán los siguientes datos:
 * **Correo electrónico:** Ingresa el correo electrónico principal.
 
 ## Otros datos
+
 En esta sección se colocarán los datos de el personal encargado, es opcional.
 
 ![Alt text](img/Clientes_Creacion_Individual_04.jpg)
@@ -52,6 +54,6 @@ Se completarán los siguientes datos:
 * **Teléfono:** Ingresa número celular.
 * **Sitio Web:** Ingresa página web.
 * **Observaciones:** Ingresa detalle o especificaciones importantes.
-* **Vendedor:** Ingresa el vendedor de la empresa. 
+* **Vendedor:** Ingresa el vendedor de la empresa.
 * **Zona [+Nuevo]:** Ingresa la zona o puede agregar otro, seleccionando el botón [+Nuevo].
 Posteriormente selecciona el botón **Guardar** y se visualizará la lista de los clientes generados.

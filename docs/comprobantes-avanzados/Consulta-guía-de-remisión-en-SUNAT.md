@@ -26,10 +26,7 @@ Selecciona el botón **Siguiente**. Seguido podrá visualizar la guía de remisi
 ![Alt text](img/Error9.jpg)
 
 :::danger IMPORTANTE:
-
-
-**IMPORTANTE:**
-* Esta opción es muy útil para consultar las GRE que tengan error **"1033
-*  El comprobante fue registrado previamente con otros datos"**.*
-* Desde esta opción se puede imprimir el PDF con QR.*
+* Esta opción es muy útil para consultar las GRE que tengan error"1033
+*  El comprobante fue registrado previamente con otros datos".
+* Desde esta opción se puede imprimir el PDF con QR.
 :::

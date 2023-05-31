@@ -31,7 +31,7 @@ Una vez que los que los campos estén rellenados, selecciona el botón **Aceptar
 Seguido, aparecerá un mensaje de comprobante registrado. Tendrá 3 opciones:
 
 - **Imprimir:** Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo PDF.
-- **Ir a listado:** Al seleccionar esta opción podrá dirigirse al módulo listado de comprobantes, puede ver más en este [artículo](#Listado).
+- **Ir a listado:** Al seleccionar esta opción podrá dirigirse al módulo listado de comprobante **[artículo](https://fastura.github.io/documentacion/app-para-facturacion/Lista-de-comprobantes)**.
 - **Continuar:** Al seleccionar esta opción podrá seguir generando notas de venta.
 
 ![Alt text](img/cotizacion4.jpg)

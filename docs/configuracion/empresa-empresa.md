@@ -12,7 +12,7 @@ Aparecerá lo siguiente:
 ![Alt text](img/download.png)
 
 ## 1.  Datos de la Empresa
-   
+
 Completa los siguientes campos:
 
 ![Alt text](img/datosempresaa2.jpg)
@@ -27,7 +27,7 @@ Favicon: Puede subir su favicon, es la imagen que aparece en la pestaña de nave
 
 * **SOAP TIPO:** Para habilitar tu sistema, deberá cambiarlo de Demo a Producción.
 * **SOAP Envio:** Seleccionar el SOAP de envío a Sunat.
-* Colocar **SOAP** usuario y contraseña del [usuario secundario](#) creado previamente(Sigue los pasos en este [video](#)), tener en cuenta que al colocar el usuario debe agregar el RUC previamente, como la imagen indicada.
+* Colocar **SOAP** usuario y contraseña del **usuario secundario** creado previamente(Sigue los pasos en este **[video](https://www.youtube.com/watch?v=PZ028aDpR3A&ab_channel=DigitalBuho)**), tener en cuenta que al colocar el usuario debe agregar el RUC previamente, como la imagen indicada.
 
 ![Alt text](img/datosempresaa3.jpg)
 
@@ -42,8 +42,7 @@ de la empresa.
     * **Usuario Secundario: C6NSJU4N (Correcto)**.
 * Al generar la contraseña secundario asegúrese de usar contraseñas que
 contengan números y letras con mayúsculas, y que no usen palabras de la
-empresa. Para generarla puede utilizar herramientas externas como: https://www.clavesegura.org/es/
-
+empresa. Para generarla puede utilizar herramientas externas como: **[https://www.clavesegura.org/es/](https://www.clavesegura.org/es/)**
 :::
 
 ## 2.  Certificado
@@ -51,7 +50,7 @@ empresa. Para generarla puede utilizar herramientas externas como: https://www.c
 ![Alt text](img/reportecertificado.jpg)
 
 * Para completar la conexión con SUNAT es necesario subir el certificado digital. En esta sección adjuntamos el archivo **.pfx** que nos brinda SUNAT.
-* Para descargarlos sigue los pasos en este  [video](#).
+* Para descargarlos sigue los pasos en este  **[video](https://www.youtube.com/watch?v=N8fse05yda8&ab_channel=DigitalBuho)**.
 
 ## 3.  Firma digital PSE
 
@@ -61,11 +60,11 @@ En caso de migrar a nuestro facturador y usar un proveedor **PSE**, coloca los a
 
 ## 4.  Consulta integrada de CPE- Validador de documentos
 
-Se requiere configurar el validador de documentos para que ante cualquier eventualidad con SUNAT se puedan regularizar el estado de sus comprobantes. Sigue los pasos en este [video](#). Agrega los token como en la imagen mostrada.
+Se requiere configurar el validador de documentos para que ante cualquier eventualidad con SUNAT se puedan regularizar el estado de sus comprobantes. Sigue los pasos en este **[video](https://www.youtube.com/watch?v=6YqtOrIjaDY&t=3s&ab_channel=DigitalBuho)**. Agrega los token como en la imagen mostrada.
 
 ![Alt text](img/datosempresaa4.jpg)
 
-## 5.  Configuración de pagos 
+## 5. Configuración de pagos
 
 Configuración para generar el link de pago para Yape y Mercado Pago.
 
@@ -83,7 +82,7 @@ Seguido, selecciona el botón **Guardar**.
 
 ![Alt text](img/mercadolibre.jpg)
 
-Los tokens se copiaran en su cuenta de mercado pago. 
+Los tokens se copiaran en su cuenta de mercado pago
 
 Seguido, selecciona el botón **Guardar**.
 
@@ -93,4 +92,4 @@ Se necesita hacer una configuración previa para enviar los pdf por whatsapp api
 
 ![Alt text](img/datosempresaa22.jpg)
 
-Para activarlo puede seguir la siguiente documentación: https://docs.google.com/document/d/1BW6EQBPH-JQNwoUEQQaFndRteTpNLLVM7w9YIqhKzdM/edit
+Para activarlo puede seguir la siguiente documentación: [https://docs.google.com/document/d1BW6EQBPH-JQNwoUEQQaFndRteTpNLLVM7w9YIqhKzdM/edit](https://docs.google.com/document/d/1BW6EQBPH-JQNwoUEQQaFndRteTpNLLVM7w9YIqhKzdM/edit)

@@ -25,9 +25,6 @@ Tendrá que rellenar los siguientes campos necesarios:
 - **Modo de traslado:** Selecciona si el modo es transporte privado o público.
 
 :::danger IMPORTANTE:
-
-**IMPORTANTE:**
-
  El transporte privado es cuando cuenta con una movilidad para el traslado, si usted va a realizar el envío por agencia selecciona transporte público.
 :::
 - **Motivo de traslado:** Selecciona el motivo que más se acomode a sus requerimientos.

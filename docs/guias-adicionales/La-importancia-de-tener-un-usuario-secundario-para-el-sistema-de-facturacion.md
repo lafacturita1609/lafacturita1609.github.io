@@ -6,4 +6,4 @@ La creación de un usuario secundario asegura que solo puedan realizar ciertas a
 
 El usuario secundario puede ser eliminado o suspendido en cualquier momento, lo que proporciona al contribuyente un mayor control sobre la seguridad de su información tributaria.
 
-Para crear un usuario secundario, sigue los pasos en este [vídeo](https://www.youtube.com/watch?v=PZ028aDpR3A&t=2s).
+Para crear un usuario secundario, sigue los pasos en este **[vídeo](https://www.youtube.com/watch?v=PZ028aDpR3A&t=2s)**.

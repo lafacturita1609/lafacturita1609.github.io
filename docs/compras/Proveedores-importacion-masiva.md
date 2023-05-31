@@ -35,7 +35,7 @@ En este archivo tendrá que completar los siguientes campos:
 
 :::info Dato:
 
-Puede buscar el código de ubigeo aquí: [https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf](https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf)
+Puede buscar el código de ubigeo aquí: **[https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf](https://portal.mtc.gob.pe/comunicaciones/autorizaciones/radiodifusion/documentos/1/CODIGOS%20DE%20AREA%20-%20PERU.pdf)**
 
 :::
 

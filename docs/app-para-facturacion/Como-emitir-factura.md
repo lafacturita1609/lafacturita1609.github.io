@@ -10,11 +10,11 @@ En este artículo te ayudaremos a emitir factura desde la **App Factúralo.** Si
 
 ![Alt text](img/app3.jpeg)
 
-- **Cliente:** Selecciona **CLIENTE** y aparecerá una lista de todos sus clientes ya registrados, elija al que le realizará la factura. En caso desee crear un nuevo cliente, en la parte superior derecha selecciona el **"+" Nuevo** ,y sigue los pasos en este (artículo)[#Cómo crear cliente].
+- **Cliente:** Selecciona **CLIENTE** y aparecerá una lista de todos sus clientes ya registrados, elija al que le realizará la factura. En caso desee crear un nuevo cliente, en la parte superior derecha selecciona el **"+" Nuevo** ,y sigue los pasos en este **[https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente] (https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente)**.
 
 ![Alt text](img/app4.jpeg)
 
-- **Añadir producto:** Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto,puede agregar las cantidades; en la parte inferior derecha selecciona el botón  con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el botón **"+"** ,y sigue los pasos en este [artículo](#).
+- **Añadir producto:** Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto,puede agregar las cantidades; en la parte inferior derecha selecciona el botón  con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el botón **"+"** ,y sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-un-producto)**.
 
 ![Alt text](img/app6.jpeg)
 

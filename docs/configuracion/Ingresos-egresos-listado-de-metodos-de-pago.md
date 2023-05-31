@@ -15,7 +15,7 @@ Completa:
 ![Alt text](img/listadodepago3.jpg)
 
 * **Código:** Insertar el código del nuevo método de pago.
-* **Descripción:** Inserta el nombre del nuevo método de pago. 
+* **Descripción:** Inserta el nombre del nuevo método de pago.
 * **Activo:** Selecciona si el método estará activo.
   
 Seguido selecciona el botón **Guardar**. Y podrá observar su método de pago creado, podrá editar y eliminar la tarjeta seleccionando el botón correspondiente.

@@ -1,4 +1,5 @@
 # Movimientos libres de inventario
+
 En esta área te ayudaremos a utilizar los diferentes botones dentro del **Listado de Inventario**. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Inventario**, luego selecciona la subcategoría **Movimientos.**
@@ -6,6 +7,7 @@ Ingresa al módulo de **Inventario**, luego selecciona la subcategoría **Movimi
 ![Alt text](img/Movimientos_libres_de_Inventario_01.jpg)
 
 ## Botón Ingreso
+
 Este botón registra el ingreso de producto al almacén.
 
 ![Alt text](img/Movimientos_libres_de_Inventario_02.jpg)
@@ -26,6 +28,7 @@ Se completarán los siguientes datos:
 Seguidamente selecciona el botón **Aceptar**, para guardar los cambios.
 
 ## Botón Salida
+
 Este botón registra la salida de producto del almacén.
 
 ![Alt text](img/Movimientos_libres_de_Inventario_04.jpg)
@@ -47,6 +50,7 @@ Se completarán los siguientes datos:
 Todos los campos que cuentan con **(*)** son obligatorios.
 :::
 ## Botón trasladar
+
 Este botón se utiliza para mover producto entre almacenes.
 
 ![Alt text](img/Movimientos_libres_de_Inventario_06.jpg)
@@ -63,6 +67,7 @@ Los siguientes datos se deben completar de manera obligatoria:
 * **Almacén final:** Selecciona el almacén a donde se trasladará el producto.
   
 ## Botón Remover
+
 Este botón es similar al **botón salida**, la diferencia es que en este botón no te pide el motivo de la salida del producto.
 
 ![Alt text](img/Movimientos_libres_de_Inventario_08.jpg)
@@ -71,23 +76,23 @@ Al seleccionar este botón aparecerá un pequeño formulario para llenar los dat
 
 ![Alt text](img/Movimientos_libres_de_Inventario_09.jpg)
 
-Los datos se autocompletan según el producto que se selecciono. 
+Los datos se autocompletan según el producto que se selecciono.
 
 El campo que debe completar es:
 
 * **Cantidad a retirar:** Ingresa la cantidad de producto que retirará del almacén.
   
 ## Botón Ajuste
+
 Este botón te ayuda a ajustar tu stock, en caso de que el stock del sistema no cuadre con el stock actual.
 
 ![Alt text](img/Movimientos_libres_de_Inventario_10.jpg)
 
 Al seleccionar este botón aparecerá un pequeño formulario para llenar los datos de **Ajuste de stock.**
 
-
 ![Alt text](img/Movimientos_libres_de_Inventario_11.jpg)
 
-Los datos se autocompletan según el producto que se selecciono. 
+Los datos se autocompletan según el producto que se selecciono.
 
 El campo que debe completar es:
 
@@ -98,10 +103,10 @@ El campo que debe completar es:
 El botón **Ajuste** no aplica para productos con lotes y series.
 :::
 ## Botón Imp. Ajuste de stock
+
 Este botón te ayuda a importar masivamente el ajuste de stock.
 
 ![Alt text](img/Movimientos_libres_de_Inventario_12.jpg)
-
 
 Al seleccionar este botón aparecerá un pequeño formulario para llenar los datos de **Importar Ajuste de stock.**
 
@@ -117,4 +122,3 @@ En el documento se completará:
 * **Stock real:** Ingresa el stock real del producto.
   
 Una vez rellenado el archivo excel, deberá seleccionar el botón **Seleccione un archivo (xlsx)** ,para subir el archivo correspondiente.
-

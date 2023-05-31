@@ -14,6 +14,6 @@ Completa:
 
 ![Alt text](img/bancos3.jpg)
 
-* **Descripción:** Inserta el nombre de su banco de preferencia. 
+* **Descripción:** Inserta el nombre de su banco de preferencia.
   
-Seguido selecciona el botón Guardar. Y podrá observar su banco creado en el listado de bancos. 
+Seguido selecciona el botón Guardar. Y podrá observar su banco creado en el listado de bancos.

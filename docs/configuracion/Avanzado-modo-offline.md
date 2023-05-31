@@ -13,5 +13,4 @@ Completa:
 * **URL Servidor**
 * **Token Servidor**
 
-
 Seguido selecciona el botón **Guardar**

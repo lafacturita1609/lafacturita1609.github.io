@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a como crear transportistas para tu guía de remisión. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Comprobantes avanzados** y luego selecciona Guías de remisión y seguido la subcategoría Transportistas. 
+Ingresa al módulo de **Comprobantes avanzados** y luego selecciona Guías de remisión y seguido la subcategoría Transportistas.
 En la parte superior derecha selecciona el botón **Nuevo.**
 
 ![Alt text](img/modulotransportistas.jpg)
@@ -19,7 +19,7 @@ Completa los siguientes campos:
 
 **3. Dirección fiscal:** Ingresa su dirección fiscal.
 
-**4. MTC:** Este dato se lo puede brindar la empresa. O buscarlo en el siguiente link: [https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx)
+**4. MTC:** Este dato se lo puede brindar la empresa. O buscarlo en el siguiente link: **[https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx)**
 
 **5. Predeterminado:** Activa si el transportista es de manera frecuente.
 

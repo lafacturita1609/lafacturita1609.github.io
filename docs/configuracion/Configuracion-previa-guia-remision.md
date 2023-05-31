@@ -24,10 +24,9 @@ Para registrar la aplicación, tendrá que completar:
 ![Alt text](img/nuevaguia8.jpg)
 
 * **Nombre de su aplicación:** Ingresa el nombre de su aplicación. Por ejemplo: Factura fácil.
-* **URL de su aplicación:** Ingresa la URL de su aplicación. Por ejemplo: https://buho.fastura.app
+* **URL de su aplicación:** Ingresa la URL de su aplicación. Por ejemplo: [buho.fastura.app](https://buho.fastura.app)
 * **Casillas de selección:** Selecciona la casilla GREE Emision de Comprobantes/v1/contribuyente/gem.
 * **Alcance:** Selecciona la casilla Desktop.
-* 
 Después selecciona el botón **Guardar**, se generará un token en los campos **ID** y **CLAVE**.
 
 ![Alt text](img/nuevaguia10.jpg)
@@ -41,4 +40,4 @@ Copiamos esos accesos y lo pegamos en:
 
 ![Alt text](img/nuevaguia.jpg)
 
-Selecciona el botón **Guardar** y ya puede generar su guía. Conoce como en el siguiente [artículo](#).
+Selecciona el botón **Guardar** y ya puede generar su guía. Conoce como en el siguiente [artículo](https://fastura.github.io/documentacion/comprobantes-avanzados/Generar-gu%C3%ADas-de-remision).

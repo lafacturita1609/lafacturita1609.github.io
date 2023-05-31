@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a agregar los tipos de comprobantes de ingresos y gastos. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Configuración**, y luego en **Ingresos/Egresos** selecciona la subcategoría **Tipos de comprobantes INGRESOS Y GASTOS**. 
+Ingresa al módulo de **Configuración**, y luego en **Ingresos/Egresos** selecciona la subcategoría **Tipos de comprobantes INGRESOS Y GASTOS**.
 
 ![Alt text](img/metodosgastos8.jpg)
 

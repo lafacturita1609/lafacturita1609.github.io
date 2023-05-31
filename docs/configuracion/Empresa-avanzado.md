@@ -23,21 +23,21 @@ Aparecerá las configuraciones posibles por hacer:
 
 ![Alt text](img/avanzado5.jpg)
 
-* **Restringir fecha de comprobante:** Para activar una alerta que no se puede emitir un comprobante con un fecha anterior a las que ya tenemos en cuenta. 
+* **Restringir fecha de comprobante:** Para activar una alerta que no se puede emitir un comprobante con un fecha anterior a las que ya tenemos en cuenta.
 * **Permitir editar precio unitario a vendedores:** Permite editar el precio del producto al vendedor, si esta desactivado utiliza el precio configurado en el producto.
 * **Permitir Ver el saldo en balance de finanzas a vendedores:** Decides si tu vendedor va a poder observar el balance de finanzas.
 * **Productos de una ubicación (Stock):** Mostrar stock de los productos de 1 almacén - Disponible en Listado de productos / POS Lista de productos.
 * **Aplicar precios por almacén:** Disponible POS.
 * **Seleccionar precio disponible - Lista de precios:** Disponible POS.
 * **Agrupar productos y cantidades - Generar CPE:** Agrupar/Sumar productos y cantidades al generar cpe desde múltiples notas de venta.
-* **Permitir Colocar dirección de llegada en guía:** En guías, cambia el selector a texto para poder introducir el valor. 
+* **Permitir Colocar dirección de llegada en guía:** En guías, cambia el selector a texto para poder introducir el valor.
   * Máximo 100 caracteres.
 * **Habilitar permiso para editar CPE:** Habilitar asignación de permiso para editar comprobantes - Disponible en usuarios (permisos).
 * **Mostrar precio de última venta:** Muestra el último precio de una venta en formulario producto
 * **Cantidad de elementos en el validador:** Aplica en el nuevo validador ./reports/validate-documents.
 * **Habilitar registro de propinas:** Disponible en POS - Nuevo CPE - Convertir pedido a CPE.
 * **Separar y ordenar transacciones en caja:** Muestra los ingresos/egresos por separado y ordenados por tipo de documento en reporte de caja POS - Disponible en formato A4.
-* **Permitir generar pedidos desde cotización a vendedores.** 
+* **Permitir generar pedidos desde cotización a vendedores.**
 * **Restringir selección de serie para vendedor:** Configurar la serie por defecto en el registro de usuarios - Disponible en Nuevo CPE y Notas de venta.
 * **Buscar productos por código de fábrica:** Disponible en Nuevo CPE y Nota de venta.
 * **Permitir generar comprobante de pago desde cotización a vendedores**
@@ -157,7 +157,7 @@ Aparecerá las configuraciones posibles por hacer:
 * **Seleccionar nota de venta por defecto:** Disponible POS y Venta rápida.
 * **Mostrar historial de compras:** Permite a los usuarios con perfil Vendedor, ver el historial de compras.
 * **Cantidad decimales POS:** Ingresa la cantidad de decimales, el mínimo es 2
-* **Ocultar vista previa de PDF:** Disponible en POS y Nuevo CPE. 
+* **Ocultar vista previa de PDF:** Disponible en POS y Nuevo CPE.
 * **Mostrar nombre completo:**  Mostrar nombre completo en listado de productos.
 * **Habilitar vista categorías y productos:** Disponible en POS.
 * **Modificar tipo de afectación:** Permite modificar el tipo de afectación Gravado a Exonerado o viceversa - Disponible en POS/Venta rápida.

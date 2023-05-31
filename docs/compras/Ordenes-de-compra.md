@@ -65,4 +65,4 @@ Contaremos con las siguientes opciones o botones de acción:
 - **Anular:** Permite anular la orden de compra.
 - **Opciones:** Permite descargar en formato A4.
 - **Generar Compra:** Cuando la orden de compra se confirma, se procederá a generar la compra, asimismo se creará un comprobante de pago.
-Para aprender a crear una nueva compra, te invitamos a leer el siguiente [artículo].
+Para aprender a crear una nueva compra, te invitamos a leer el siguiente **[artículo](https://fastura.github.io/documentacion/compras/Nuevo-Agregar-una-nueva-compra)**.

@@ -105,4 +105,3 @@ Leyenda:
   *Puede crear un nuevo tipo de detracción, seleccionando el botón Nuevo, previamente averiguado el código que corresponde al listado de atributos.*
 :::
   ![Alt text](img/listadeatributos-1.jpeg)
-

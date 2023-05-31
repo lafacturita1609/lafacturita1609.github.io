@@ -12,5 +12,5 @@ Completa lo siguiente:
 
 * **Periodo:**  Selecciona el periodo del que deseas generar un reporte.
 * **Exportar a:** Selecciona el sistema que desea exportar.
-* 
-Seguido selecciona el botón **Generar**. Se descargará un excel con el reporte según el sistema de contabilidad que selecciono. 
+
+Seguido selecciona el botón **Generar**. Se descargará un excel con el reporte según el sistema de contabilidad que selecciono.

@@ -17,7 +17,6 @@ Para acceder al certificado gratuito, los contribuyentes deben de cumplir con lo
 - No haber obtenido más de dos Certificados Digitales Tributarios en virtud de la norma.
 - Aceptar los términos y condiciones de uso del Certificado Digital Tributario incluidos en el contrato. En el contrato mencionado se especifica, las causales de cancelación del CDT, las obligaciones que debe cumplir el titular del CDT, entre otros.
 
-
 :::danger IMPORTANTE:
 
 Este certificado tiene vigencia de tres años.

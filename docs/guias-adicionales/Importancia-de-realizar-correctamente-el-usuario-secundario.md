@@ -14,6 +14,6 @@ Ejemplo:
 
 Para crear una contraseña segura es importante tener en cuenta todos estos aspectos:
 
-- Al generar la contraseña para el usuario secundario asegúrese de usar contraseñas que contengan números y letras con mayúsculas, y que no usen palabras de la empresa. Para generarla puede utilizar herramientas externas como: [https://www.clavesegura.org/es/](https://www.clavesegura.org/es/)
+- Al generar la contraseña para el usuario secundario asegúrese de usar contraseñas que contengan números y letras con mayúsculas, y que no usen palabras de la empresa. Para generarla puede utilizar herramientas externas como: **[https://www.clavesegura.org/es/](https://www.clavesegura.org/es/)**
 
 - También es importante saber que el usuario secundario una vez creado y insertado al sistema puede demorar unas 24 horas aproximadamente.
