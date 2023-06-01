@@ -10,7 +10,7 @@ En este artículo te ayudaremos a emitir factura desde la **App Factúralo.** Si
 
 ![Alt text](img/app3.jpeg)
 
-- **Cliente:** Selecciona **CLIENTE** y aparecerá una lista de todos sus clientes ya registrados, elija al que le realizará la factura. En caso desee crear un nuevo cliente, en la parte superior derecha selecciona el **"+" Nuevo** ,y sigue los pasos en este **[https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente] (https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente)**.
+- **Cliente:** Selecciona **CLIENTE** y aparecerá una lista de todos sus clientes ya registrados, elija al que le realizará la factura. En caso desee crear un nuevo cliente, en la parte superior derecha selecciona el **"+" Nuevo** ,y sigue los pasos en este **[https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente)**.
 
 ![Alt text](img/app4.jpeg)
 

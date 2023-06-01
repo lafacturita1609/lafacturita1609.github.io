@@ -30,7 +30,7 @@ También cuenta con modo nocturno.
 
 ![Alt text](img/mozo_pe_05.jpg)
 
-4.  **POS**, para los pedidos que se hacen en el restaurante y el pedido será para llevar. Seleccionamos los productos y selecciona el botón Finalizar Venta.
+4. **POS**, para los pedidos que se hacen en el restaurante y el pedido será para llevar. Seleccionamos los productos y selecciona el botón Finalizar Venta.
 
 ![Alt text](img/mozo_pe_06.jpg)
 
@@ -38,23 +38,22 @@ Emitir comprobante electrónico, puede seleccionar que tipo de comprobante elect
 
 ![Alt text](img/mozo_pe_07.jpg)
 
-5.  Mesas, se puede editar las mesas de forma cuadrada o circular seleccionando el botón Editar mesa.
+5. Mesas, se puede editar las mesas de forma cuadrada o circular seleccionando el botón Editar mesa.
 
 ![Alt text](img/mozo_pe_08.jpg)
 
 :::info importante
 
 El estado verde es disponible y el estado rojo es ocupado.
-
-Para realizar un pedido, seleccionamos la mesa, ingresa la cantidad de personas que estarán en la mesa, selecciona el cliente, selecciona el mozo y algún comentario si lo desea. Seguido seleccionamos el botón **Abrir mesa.**
-
 :::
 
+- Para realizar un pedido, seleccionamos la mesa, ingresa la cantidad de personas que estarán en la mesa, selecciona el cliente, selecciona el mozo y algún comentario si lo desea. Seguido seleccionamos el botón **Abrir mesa.**
+
+:::
 
 ![Alt text](img/mozo_pe_09.jpg)
 
 Selecciona los platillos que van a consumir, y seleccionamos enviar a comanda, según corresponda se envía a Cocina o a Bar.
-
 
 ![Alt text](img/mozo_pe_10.jpg)
 
@@ -62,9 +61,8 @@ Seguido nos dirigimos a Comanda:
 
 ![Alt text](img/mozo_pe_11.jpg)
 
-Al seleccionar **Siguiente**, así de Recibidos se pasa a Preparando y seguido a por Entregar, después de seleccionar siguiente en entregar, significa que el pedido ya esta listo. 
+Al seleccionar **Siguiente**, así de Recibidos se pasa a Preparando y seguido a por Entregar, después de seleccionar siguiente en entregar, significa que el pedido ya esta listo.
 
-1.  Pedido, una vez los pedidos realizados de manera online enviado a cocina, se puede visualizar el estado: en preparación, enviados, entregados.
+6. Pedido, una vez los pedidos realizados de manera online enviado a cocina, se puede visualizar el estado: en preparación, enviados, entregados.
 
 ![Alt text](img/mozo_pe_12.jpg)
-

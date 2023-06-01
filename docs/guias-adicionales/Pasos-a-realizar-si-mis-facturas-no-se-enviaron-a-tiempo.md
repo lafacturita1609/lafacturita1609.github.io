@@ -30,6 +30,7 @@ Nos dirigimos a la sección Permiso, activamos la casilla de selección: **Edita
 
 - Esta configuración sirve para boleta y factura, que tengan el estado **REGISTRADO**, no aplica para comprobantes con estado rechazados, anulados o aceptado.
 -Verificar si el estado del comprobantes sea RECHAZADO o ANULADO se encuentra en SUNAT, si no se subió el estado, puede seleccionar editar para poder registrarlo y seguido podrá enviar el comprobante.
+:::
 
 ## 3. Recrear comprobante electrónico
 

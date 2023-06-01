@@ -11,7 +11,7 @@ Si el error 0111 proviene después de haber generado comprobantes electrónicos 
 1. **Verificar el usuario secundario:** Es importante verificar que su usuario cuente con numerales, no utilizar palabras que contengan parte del nombre de la empresa. **Ejemplo: C6NSJU4N (Correcto)**.
 
 2. **Verificar la contraseña del usuario secundario:** Al generar la contraseña secundario asegúrese de usar contraseñas que contengan números y letras con mayúsculas, y que no usen palabras de la
-empresa. Para generarla puede utilizar herramientas externas como: [https://www.clavesegura.org/es/](https://www.clavesegura.org/es/).
+empresa. Para generarla puede utilizar herramientas externas como: **[https://www.clavesegura.org/es/](https://www.clavesegura.org/es/)**.
 Una vez verificado el usuario y la contraseña, y observa que el inconveniente persiste, entonces tendrá que seguir el siguiente paso:
 
 3. **Crear un nuevo usuario secundario:** El crear un usuario secundario es la solución más rápida que nos recomienda SUNAT, para crear un nuevo usuario secundario siga los pasos en este video.
