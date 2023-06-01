@@ -1,1 +1,0 @@
-# Avanzado: Nota de ventas

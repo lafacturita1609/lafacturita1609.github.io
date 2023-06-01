@@ -30,9 +30,9 @@ Tendrá que rellenar los siguientes campos:
 
  Si el punto de llegada no carga una vez seleccionado el cliente, selecciona el botón +Nuevo y sin necesidad de llenar algún dato seguido selecciona el botón Buscar y una vez cargado los datos selecciona el botón **Guardar**.
 
- :::
-
 ![Alt text](img/guiactualizada4.jpg)
+
+:::
 
 - **Datos del vehículo:** Selecciona el número de placa del vehículo que realizará el traslado, también puede crear un nuevo vehículo seleccionando el botón +Nuevo.
 - **Datos del conductor:** Selecciona el conductor, también puede crear un nuevo conductor seleccionando el botón +Nuevo.
@@ -43,7 +43,7 @@ Para agregar el producto que va a trasladar
 
 ![Alt text](img/remisin3.jpg)
 
-- **Producto:** Ingresa el nombre del producto en descripción, selecciona, en caso desee crear un nuevo producto, selecciona el botón Nuevo y sigue los pasos en este [artículo](#Productos: Creación Básica).
+- **Producto:** Ingresa el nombre del producto en descripción, selecciona, en caso desee crear un nuevo producto, selecciona el botón Nuevo y sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Creacion-basica)**.
 - **Cantidad:** Ingresa la cantidad del producto.
 
 Una vez completado los campos de producto, selecciona el botón **Agregar**, selecciona el botón **Generar**.

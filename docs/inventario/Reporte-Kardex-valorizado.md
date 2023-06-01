@@ -10,16 +10,16 @@ Ingresa al módulo de **Inventario**, luego selecciona la subcategoría **Kardex
 
 Para el resumen de los productos, tenemos que llenar los siguientes filtros.
 ![Alt text](img/Reporte_Kardex_valorizado_02.jpg)
-1.  **Periodo:** Selecciona uno de los filtros de tu preferencia.
+1. **Periodo:** Selecciona uno de los filtros de tu preferencia.
 
 * Por mes
 * Entre meses
 * Por fecha
 * Entre fechas
 
-2.  **Fecha:** Ingresa la fecha.
+2. **Fecha:** Ingresa la fecha.
 
-3.  **Establecimiento:** Selecciona el establecimiento de donde desea ver los productos.
+3. **Establecimiento:** Selecciona el establecimiento de donde desea ver los productos.
 
 Después selecciona el botón **Buscar.**
 

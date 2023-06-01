@@ -20,8 +20,9 @@ Seguido selecciona el botón **Buscar.** Aparecerá lo siguiente:
 
 Visualizará un detallado de cada producto como: la cantidad vendida, el precio de compra, el precio de venta, ganancia unidad, ganancia total.
 
-**IMPORTANTE:**
+:::info IMPORTANTE:
 _Este reporte hace el cálculo sobre el precio base del producto, en caso, utilice lista de precios u otros atributos adicionales, no aplicará ninguna variación._
+:::
 
 ## Guías Adicionales:
 

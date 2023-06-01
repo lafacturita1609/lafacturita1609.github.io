@@ -1,4 +1,5 @@
 # Reporte Kardex
+
 En esta área te ayudaremos a revisar el reporte organizado kardex que muestra el movimiento **(ingresos, salidas y a veces los ajustes)** de los productos, dentro del almacén.
 
 Sigue estos pasos para realizarlo:
@@ -31,5 +32,6 @@ Se encontrará la lista enumerada para realizar el reporte.
 * **Exportar Excel:** Permite descargar el reporte en Excel.
 7. Visualizarás el reporte completo.
 
-**IMPORTANTE:** 
+:::info IMPORTANTE:
 _Se exporta el reporte y visualiza los campos solo cuando el usuario que exporte el reporte kardex sea el asignado al establecimiento escogido._
+:::

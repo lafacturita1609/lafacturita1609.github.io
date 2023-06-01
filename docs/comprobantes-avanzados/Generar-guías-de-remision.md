@@ -2,7 +2,7 @@
 
 :::danger IMPORTANTE:
 
-**IMPORTANTE:** Por disposición de SUNAT con respécto a las guías de remisión, es necesario agregar tokens de conexión adicionales, tenemos una guia preparada en este [artículo](#Configuración previa - Guía de remisión).
+**IMPORTANTE:** Por disposición de SUNAT con respécto a las guías de remisión, es necesario agregar tokens de conexión adicionales, tenemos una guia preparada en este **[artículo](https://fastura.github.io/documentacion/configuracion/Configuracion-previa-guia-remision)**.
 :::
 
 En este artículo te enseñaremos a como generar tus guías de remisión. Sigue estos pasos para realizarlo:
@@ -60,7 +60,7 @@ Si el punto de llegada no carga una vez seleccionado el cliente, selecciona el b
 * Las unidades de medida según SUNAT, ahora son solo dos: **KGM, TNE.*
 * El sistema agarra por defecto la dirección del cliente seleccionado, si desea poner otra dirección puede agregarla desde el módulo clientes agregando un nuevo campo de dirección.
 * Para registrar la empresa de transportistas es obligatorio el MTC, puede solicitarlo a este link:
-[https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.)*
+**[https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.)***
 * La placa del vehículo no puede contener guiones ni minúsculas.*
 
 :::

@@ -12,7 +12,7 @@ Completa los siguientes filtros:
 
 :::danger IMPORTANTE:
 Selecciona solo los filtros necesarios.
-
+:::
 Podrá exportar los reportes, seleccionando el botón correspondiente.
 
 Luego seleccione el botón **Buscar**. Se observan los siguientes movimientos:

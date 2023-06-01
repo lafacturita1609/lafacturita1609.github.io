@@ -202,7 +202,7 @@ Al activar esta opción, les aparecerá lo siguiente:
 * **N° de puntos:** Inserta el número de puntos que acumulara según el monto de venta.
 * **Redondear al obtener puntos:** Si desea redondear los puntos que se acumulo.
 
-# Usuario
+## Usuario
 
 ![Alt text](img/avanzado16.jpg)
 
