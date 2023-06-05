@@ -64,7 +64,7 @@ Posteriormente se encontrará el formulario de **Agregar Producto o Servicio**.
 
 Se procederá a ingresar los siguientes datos:
 
-- **Producto/Servicio:** Si el producto se creó previamente, se visualizará en la lista de opciones,si no lo está,podrá crearlo seleccionando el botón [+Nuevo]
+- **Producto/Servicio:** Si el producto se creó previamente, se visualizará en la lista de opciones,si no lo está,podrá crearlo seleccionando el botón **[+Nuevo]**
 - **Cantidad:** Ingresa la cantidad de productos
 - **Precio unitario**
 - **Nombre del producto en PDF:** Ingresa la descripción del producto

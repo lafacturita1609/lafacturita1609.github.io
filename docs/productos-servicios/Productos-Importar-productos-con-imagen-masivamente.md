@@ -1,4 +1,5 @@
 # Productos: Importar productos con imagen masivamente
+
 En este artículo te enseñaremos a agregar imagenes a tus productos y puedas importarlas masivamente. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo **Productos/Servicios** en la subcategoría **Productos**, selecciona el botón **Importar** seguido selecciona **Productos.**
@@ -9,7 +10,7 @@ Seguido aparecerá la siguiente ventana emergente:
 
 ![img2](img/Productos_Importar-productos-con-imagen-masivamente_02.jpg)
 
-Selecciona **Descargar** formato de ejemplo para importar, seguido se descargará un archivo excel para completar los datos del producto, lo puede ver más detallado en el siguiente [artículo.](#)
+Selecciona **Descargar** formato de ejemplo para importar, seguido se descargará un archivo excel para completar los datos del producto, lo puede ver más detallado en el siguiente **[artículo.](https://fastura.github.io/documentacion/productos-servicios/Productos-Listas-de-Precio-Importar-Masivamente)**
 
 Para agregar una imagen a cada producto, deberá realizar lo siguiente:
 

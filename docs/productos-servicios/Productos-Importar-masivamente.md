@@ -54,7 +54,7 @@ Una vez rellenado el archivo excel, deberá seleccionar en que **almacén** dese
 
 ![Alt text](img/Importar-masivamente_05.jpg)
 
-Finalmente selecciona el botón Procesar, se observará el [Listado de productos](#), donde podrá visualizar su producto agregado.
+Finalmente selecciona el botón Procesar, se observará el **[Listado de productos](https://fastura.github.io/documentacion/productos-servicios/Lista-de-productos)**, donde podrá visualizar su producto agregado.
 
 :::danger IMPORTANTE:
 Si va realizar la importación dos o más veces, aumentará el stock de los productos que se encuentran en sistema.

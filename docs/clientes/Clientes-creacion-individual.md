@@ -55,5 +55,5 @@ Se completarán los siguientes datos:
 * **Sitio Web:** Ingresa página web.
 * **Observaciones:** Ingresa detalle o especificaciones importantes.
 * **Vendedor:** Ingresa el vendedor de la empresa.
-* **Zona [+Nuevo]:** Ingresa la zona o puede agregar otro, seleccionando el botón [+Nuevo].
+* **Zona [+Nuevo]:** Ingresa la zona o puede agregar otro, seleccionando el botón **[+Nuevo]**.
 Posteriormente selecciona el botón **Guardar** y se visualizará la lista de los clientes generados.
