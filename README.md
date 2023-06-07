@@ -1,41 +1,40 @@
-# Website
+# Documentación Facturación Electrónica
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Repositorio de documentación de nuestro sistema de facturación electrónica [Fastura](https://buho.la/fastura/). Aquí encontrarás guías y tutoriales para maximizar el uso de nuestra plataforma. 
 
-### Installation
+Si estas colaborando con nosotros usa los siguientes comandos:
 
-```
-$ yarn
-```
-
-### Local Development
+### Instalación
 
 ```
-$ yarn start
+$ npm install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Iniciar entorno Local
+
+```
+$ npm start
+```
+Este comando inicia un servidor de desarrollo local y abre una ventana del navegador. La mayoría de los cambios se reflejan en vivo sin tener que reiniciar el servidor.
 
 ### Build
 
 ```
-$ yarn build
+$ npm build
 ```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Este comando genera contenido estático en el directorio `build` y se puede usar en cualquier hosting. Esta carpeta es ignorado en el repositorio.
 
 ### Deployment
 
-Using SSH:
+Usando SSH:
 
 ```
-$ USE_SSH=true yarn deploy
+$ USE_SSH=true npm deploy
 ```
 
-Not using SSH:
+Sin usar SSH:
 
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+$ GIT_USER=<Your GitHub username> npm deploy
 ```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Este comando publica el contenido estatico a través de la rama `gh-pages`.
