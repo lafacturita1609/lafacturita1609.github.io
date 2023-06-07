@@ -29,12 +29,12 @@ Este comando genera contenido estático en el directorio `build` y se puede usar
 Usando SSH:
 
 ```
-$ USE_SSH=true npm deploy
+$ USE_SSH=true npm run deploy
 ```
 
 Sin usar SSH:
 
 ```
-$ GIT_USER=<Your GitHub username> npm deploy
+$ GIT_USER=<Your GitHub username> npm run deploy
 ```
 Este comando publica el contenido estatico a través de la rama `gh-pages`.
