@@ -60,10 +60,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Doc',
+        title: 'Documentación',
         logo: {
           alt: 'Documentación de facturación',
-          src: 'img/favicon.ico',
+          src: 'img/fastura.svg',
         },
         items: [
           // {
