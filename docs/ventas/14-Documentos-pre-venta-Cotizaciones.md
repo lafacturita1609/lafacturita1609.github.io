@@ -1,5 +1,7 @@
 # Documentos pre - venta: Cotizaciones
 
+Una cotización es una oferta de precios en la cual se especifican las condiciones, como el tiempo de validez, el tiempo de entrega y los términos de pago.
+
 En esta área podrás generar comprobantes de cotizaciones.Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Ventas** y luego selecciona la subcategoría Cotizaciones.En la parte superior derecha selecciona el botón **Nuevo**.

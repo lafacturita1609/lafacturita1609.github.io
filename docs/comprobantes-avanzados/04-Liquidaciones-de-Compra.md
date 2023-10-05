@@ -1,6 +1,6 @@
 # Liquidaciones de Compra
 
-En este artículo te enseñaremos a crear documentos de liquidaciones de compra. Sigue estos pasos para realizarlo:
+Las liquidaciones de compra son documentos esenciales que respaldan las operaciones comerciales y deben ser emitidas por el proveedor de bienes o servicios. Estos registros son de suma importancia en el contexto de las transacciones comerciales y tributarias. En este artículo, te guiaremos a través de los pasos necesarios para crear y gestionar adecuadamente documentos de liquidaciones de compra, asegurando un cumplimiento óptimo de las regulaciones tributarias. Sigue estos pasos para llevar a cabo este proceso de manera efectiva:
 
 Ingresa al **módulo Comprobantes avanzados** y selecciona la subcategoría **Liquidaciones de Compra**, selecciona el botón selecciona **Nuevo**.
 

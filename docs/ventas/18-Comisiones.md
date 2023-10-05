@@ -1,5 +1,7 @@
 # Comisiones
 
+Las comisiones son pagos adicionales o porcentajes que se aplican a ventas o servicios con el propósito de recompensar a vendedores específicos. Estos pagos extra se utilizan para premiar a los vendedores y motivar a los empleados a alcanzar metas establecidas.
+
 En esta área podrás administrar las comisiones de los vendedores y productos. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Ventas** y luego selecciona la subcategoría Comisiones. Donde podrá elegir **Vendedores y Productos**.

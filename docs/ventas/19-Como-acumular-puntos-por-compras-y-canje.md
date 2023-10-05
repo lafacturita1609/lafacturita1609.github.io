@@ -1,5 +1,7 @@
 # Como acumular puntos por compras y canjear
 
+Los puntos son un sistema de recompensas o incentivos utilizado en varios contextos, siendo uno de ellos generar lealtad en los clientes. Los puntos acumulados pueden canjearse por recompensas específicas o productos.
+
 En este artículo te enseñaremos a conocer como se realiza el proceso de acumulación y canje de puntos por un producto. Sigue estos pasos para realizarlo:
 
 ## 1. Configuración previa para acumular puntos

@@ -1,5 +1,7 @@
 # Anulación de comprobantes Automática
 
+Cuando se presenta la necesidad de anular un comprobante, es esencial contar con un proceso sencillo y efectivo que permita llevar a cabo esta tarea de manera precisa.
+
 Si desea anular un comprobante lo que debe hacer es dirigirse a los 3 puntos del lado derecho y dar clic en anular, completar el motivo y clic en **ANULAR**.
 
 ![Alt text](img/anular1.jpg)

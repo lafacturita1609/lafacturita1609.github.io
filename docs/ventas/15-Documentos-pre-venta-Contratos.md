@@ -1,5 +1,7 @@
 # Documentos pre - venta: Contratos
 
+Los contratos son acuerdos vinculantes que establecen los términos para ambas partes involucradas, donde se definen aspectos como los precios de los productos, los terminos de pago, y otros detalles relevantes en una transacción o acuerdo de compra. Podrá cambiar el estado de
+
 En esta área podrás generar contratos, Sigue estos pasos para realizarlo:
 Ingresa al módulo de **ventas** y luego selecciona la subcategoría desplegable **contratos**,donde estará la sección Listado y órdenes de Producción.
 

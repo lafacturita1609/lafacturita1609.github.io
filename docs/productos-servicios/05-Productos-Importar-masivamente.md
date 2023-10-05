@@ -48,8 +48,11 @@ Este listado lo pueden ubicar en el módulo **Configuración** en la sección Su
 **11.   Stock Mínimo:** Ingresa la cantidad mínima de stock; la cantidad mínima de existencias de un producto que se puede permitir tener en su almacén.En en caso no lo consideren coloque 0.
 
 :::danger IMPORTANTE:
-Si en el archivo desea ingresar sus **[categorías](https://fastura.github.io/documentacion/productos-servicios/Gestionar-mis-categorias)** y **[marcas](https://fastura.github.io/documentacion/productos-servicios/Gestionar-mis-marcas)** debe tener en cuenta que en el sistema tiene que estar previamente agregadas.
+- Solo los campos mencionados son obligatorios.
+
+- Si en el archivo desea ingresar sus **[categorías](https://fastura.github.io/documentacion/productos-servicios/Gestionar-mis-categorias)** y **[marcas](https://fastura.github.io/documentacion/productos-servicios/Gestionar-mis-marcas)** debe tener en cuenta que en el sistema tiene que estar previamente agregadas.
 :::
+
 Una vez rellenado el archivo excel, deberá seleccionar en que **almacén** desea importar los productos, después selecciona el botón **Selecciona un archivo (xlsx)**,para subir el archivo pdf correspondiente.
 
 ![Alt text](img/Importar-masivamente_05.jpg)

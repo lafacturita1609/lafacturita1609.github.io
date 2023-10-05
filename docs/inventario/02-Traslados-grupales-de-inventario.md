@@ -22,11 +22,8 @@ Se completarán los siguientes datos:
 
 **5.  Cantidad actual:** Este campo se autocompleta una vez seleccionado el producto.
 
-**6.  Cantidad a trasladar:** Ingresa la cantidad que desea trasladar. 
+**6.  Cantidad a trasladar:** Ingresa la cantidad que desea trasladar.
 
 **7.  Agregar producto:** Selecciona el botón para agregar el producto.
 
- 
-
 Una vez rellenado, selecciona el botón **Guardar**. Aparecerá la lista de traslados.
-

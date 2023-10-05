@@ -1,5 +1,7 @@
 # Comprobantes con afectación Exonerada
 
+Los comprobantes con afectación exonerada tienen un propósito claro en los ámbitos tributario y comercial. Se emplean para documentar transacciones libres de ciertos impuestos, especialmente el Impuesto General a las Ventas (IGV), conforme a las leyes fiscales. Estos comprobantes aseguran la correcta contabilización de operaciones exentas y cumplen con regulaciones tributarias.
+
 En este artículo te enseñaremos a realizar Comprobantes con afectación Exonerada. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Ventas**, y luego selecciona la subcategoría **Comprobante electrónico**. Seguido selecciona cliente y selecciona el botón **Agregar Producto**.

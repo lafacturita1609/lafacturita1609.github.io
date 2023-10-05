@@ -1,5 +1,7 @@
 # Agente de detracción
 
+Los documentos de agente de detracción son esenciales para respaldar y registrar transacciones sujetas a detracción. Mantienen registros precisos, facilitan la relación vendedor-comprador y aseguran la recaudación tributaria adecuada.
+
 En este artículo te enseñaremos a realizar una venta con el **Tipo de Operación: Operación Sujeta a Detracción**.  Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Ventas**, y luego selecciona la subcategoría **Comprobante electrónico**. Seguido selecciona el tipo de operación para cambiarlo, te aparecerá una ventana emergente.

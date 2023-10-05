@@ -27,6 +27,11 @@ Se completarán los siguientes datos:
 * **Tipo de cliente:** Ingresa la clasificación de su cliente, para conocer cómo crearlo, te invitamos a leer nuestro **[artículo](https://fastura.github.io/documentacion/clientes/Configurar-tipos-de-clientes)**.
 * **Código de barra:** Ingresa el código de barra del cliente.
 
+:::info IMPORTANTE:
+Tener en cuenta los siguientes puntos: [artículo](https://fastura.github.io/documentacion/guias-adicionales/Consulta-Api)
+
+:::
+
 ## Dirección
 
 ![Alt text](img/Clientes_Creacion_Individual_03.jpg)

@@ -1,5 +1,7 @@
 # Documentos pre - venta: Oportunidad de Venta
 
+Una oportunidad de venta es una posibilidad de cerrar un trato con un cliente potencial, que surge cuando este muestra interés en un producto o servicio y avanza en el proceso de compra. En una oportunidad de venta, se pueden incluir observaciones o detalles, así como cargar archivos si es necesario.
+
 En esta área podrás generar una Oportunidad de Venta, que puede ser usada para proyectos que requieran el uso de imagenes.
 
 Sigue estos pasos para realizarlo:

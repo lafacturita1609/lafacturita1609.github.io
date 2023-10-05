@@ -14,6 +14,12 @@ En esta sección podrá empezar con la creación de su comprobante electrónico 
 
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
+:::info IMPORTANTE
+
+Se puede crear un comprobante con un día de retaso.
+
+:::
+
 - **Tipo de comprobante:** Selecciona factura o boleta electrónica
 - **Serie:** Establecido por defecto según el tipo de comprobante
 - **Tipo operación:** Seleccione la que más se adecue a la venta.
