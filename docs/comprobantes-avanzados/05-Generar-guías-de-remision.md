@@ -2,7 +2,7 @@
 
 :::danger IMPORTANTE:
 
-**IMPORTANTE:** Por disposición de SUNAT con respécto a las guías de remisión, es necesario agregar tokens de conexión adicionales, tenemos una guia preparada en este **[artículo](https://fastura.github.io/documentacion/configuracion/Configuracion-previa-guia-remision)**.
+ Por disposición de SUNAT con respécto a las guías de remisión, es necesario agregar tokens de conexión adicionales, tenemos una guia preparada en este **[artículo](https://fastura.github.io/documentacion/configuracion/Configuracion-previa-guia-remision)**.
 :::
 
 En este artículo te enseñaremos a como generar tus guías de remisión. Sigue estos pasos para realizarlo:
@@ -39,8 +39,6 @@ Tendrá que rellenar los siguientes campos necesarios:
 
 :::danger IMPORTANTE:
 
-**IMPORTANTE:**
-
 Si el punto de llegada no carga una vez seleccionado el cliente, selecciona el botón **+ Nuevo** y sin necesidad de llenar algún dato seguido selecciona el botón **Buscar** y una vez cargado los datos selecciona el botón **Guardar**
 :::
 
@@ -56,7 +54,6 @@ Si el punto de llegada no carga una vez seleccionado el cliente, selecciona el b
 - Datos del transportista: Selecciona el transportista, también puede crear un nuevo transportista seleccionando el botón **+Nuevo**.
 
 :::info IMPORTANTE
-**IMPORTANTE:**
 * Las unidades de medida según SUNAT, ahora son solo dos: **KGM, TNE.*
 * El sistema agarra por defecto la dirección del cliente seleccionado, si desea poner otra dirección puede agregarla desde el módulo clientes agregando un nuevo campo de dirección.
 * Para registrar la empresa de transportistas es obligatorio el MTC, puede solicitarlo a este link:

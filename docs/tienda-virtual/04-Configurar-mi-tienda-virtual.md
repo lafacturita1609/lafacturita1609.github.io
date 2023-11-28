@@ -12,7 +12,7 @@ En esta sección podrá configurar toda la parte visual y los pagos.
 
 ![Alt text](img/conf21.jpg)
 
-## 1. Información de Contacto
+## 1. Información de contacto
 
 Completa los campos requeridos con la información del establecimiento, y así el cliente podrá contactarse.
 
@@ -42,7 +42,7 @@ Podrá colocar el logo de su empresa y se visualizará en la Tienda virtual, lue
 
 ![Alt text](img/config4.jpg)
 
-## 5. Redes Sociales
+## 5. Redes sociales
 
 Ingrese el enlace de las redes sociales de su empresa. Luego selecciona el botón **Guardar**.
 

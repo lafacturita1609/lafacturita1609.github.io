@@ -16,8 +16,4 @@ Completa los siguientes filtros:
 
 ![Alt text](img/General_Descarga_masiva_documentos03.jpg)
 
-:::danger IMPORTANTE:
-_Reporte General_
-:::
-
 Luego seleccione el botón **Buscar**. Se observarán los documentos encontrados, y seleccionando el botón **Exportar PDF**, podrá exportar todos los documentos en **PDF**.

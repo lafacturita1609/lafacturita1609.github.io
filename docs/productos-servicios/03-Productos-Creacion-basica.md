@@ -1,4 +1,4 @@
-# Productos: Creación Básica
+# Productos: Creación básica
 
 En esta área te ayudaremos a crear productos de una manera sencilla.Sigue estos pasos para realizarlo:
 

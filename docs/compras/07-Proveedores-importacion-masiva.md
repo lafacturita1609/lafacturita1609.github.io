@@ -1,4 +1,4 @@
-# Proveedores: Importación Masiva
+# Proveedores: Importación masiva
 
 En esta área te ayudaremos a crear proveedores de manera masiva. Sigue estos pasos para realizarlo:
 
@@ -47,9 +47,9 @@ Puede buscar el código de ubigeo aquí: **[https://portal.mtc.gob.pe/comunicaci
 
 :::danger IMPORTANTE:
 
--El tipo de cliente a ingresar debe tener en cuenta que en el sistema tiene que estar previamente agregados.
+- El tipo de cliente a ingresar debe tener en cuenta que en el sistema tiene que estar previamente agregados.
 
--Todos los campos que cuentan con (*) son obligatorios.
+- Todos los campos que cuentan con (*) son obligatorios.
 
 :::
 

@@ -1,4 +1,4 @@
-# Notas de Ventas
+# Notas de ventas
 
 En esta área podrás conocer como generar una nota de venta.
 Ingresa al **módulo de ventas** y luego ir a subcategoría **Notas de venta**.

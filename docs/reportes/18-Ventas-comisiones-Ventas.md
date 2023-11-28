@@ -15,7 +15,7 @@ Completa los siguientes filtros:
 ![Alt text](img/Ventas_Comisiones_Ventas_03.jpg)
 
 :::info IMPORTANTE:
-_Selecciona solo los filtros que requiera._
+Selecciona solo los filtros que requiera.
 :::
 
 Podrá exportar los reportes, seleccionando el botón correspondiente.

@@ -1,4 +1,4 @@
-# Ventas: Consolidado de Items
+# Ventas: Consolidado de ítem
 
 En este artículo te ayudaremos a visualizar el consolidado de ítems de los productos: incluye código interno del producto, la unidad, producto,categoría y el total de venta de acuerdo al periodo que haya seleccionado. Sigue estos pasos para realizarlo:
 

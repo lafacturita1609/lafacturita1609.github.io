@@ -1,4 +1,4 @@
-# Liquidaciones de Compra
+# Liquidaciones de compra
 
 Las liquidaciones de compra son documentos esenciales que respaldan las operaciones comerciales y deben ser emitidas por el proveedor de bienes o servicios. Estos registros son de suma importancia en el contexto de las transacciones comerciales y tributarias. En este artículo, te guiaremos a través de los pasos necesarios para crear y gestionar adecuadamente documentos de liquidaciones de compra, asegurando un cumplimiento óptimo de las regulaciones tributarias. Sigue estos pasos para llevar a cabo este proceso de manera efectiva:
 

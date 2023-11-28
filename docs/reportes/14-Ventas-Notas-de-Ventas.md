@@ -1,4 +1,4 @@
-# Ventas: Notas de Ventas
+# Ventas: Notas de ventas
 
 En este artículo te mostraremos como revisar los reportes de notas de ventas. Sigue estos pasos para realizarlo:
 

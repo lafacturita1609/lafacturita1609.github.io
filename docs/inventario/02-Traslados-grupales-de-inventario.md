@@ -1,4 +1,4 @@
-# Traslados Grupales de Inventario
+# Traslados grupales de inventario
 
 En esta área te ayudaremos a trasladar productos de manera grupal de un almacén a otro. Sigue estos pasos para realizarlo:
 

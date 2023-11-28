@@ -12,7 +12,7 @@ Encontrarás facturas y boletas que no han sido enviadas a la SUNAT.
 - Por defecto deben aparecer solo las Boletas del día, ya que estas se envían a través de resúmenes diarios. De encontrar otros comprobantes aparte por favor notificar a Soporte. Asimismo, en caso nosotros le hayamos indicado desactivar el botón **“envío de comprobantes automático”**,*(Ubicado en configuración, en la sección empresa y subcategoría avanzado)*. Siempre posteriormente, cuando esté en funcionamiento las respuestas de SUNAT, se procederá a notificar habilitarlo nuevamente.
 :::
 
-## Envia tus Facturas Pendientes
+## Envia tus facturas pendientes
 
 Se enviarán manualmente las facturas, seleccionando el botón azul para enviarlo. Y aparecerá el siguiente mensaje **"La factura/boleta ha sido aceptada"**
 
@@ -28,6 +28,6 @@ Finalmente selecciona el boton naranja Consultar y  se habrá enviado la boleta.
 
 ![Alt text](img/5_noenviado.jpg)
 
-:::info RECUERDE:
+:::info IMPORTANTE:
 Revisar periódicamente que los comprobantes electrónicos se hayan enviado a SUNAT dentro del plazo estimado de envío, asimismo lo podrá observar dentro de la **campana de notificaciones** que se encuentra en la parte superior derecha de su plataforma.
 :::

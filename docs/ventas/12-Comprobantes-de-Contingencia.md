@@ -1,4 +1,4 @@
-# Comprobantes de Contingencia
+# Comprobantes de contingencia
 
 Se considera que un comprobante de pago en formato pre impreso se emite en una situación de contingencia, cuando por causas ajenas al emisor electrónico por determinación, es decir circunstancias excepcionales, no puede emitir sus comprobantes de pago de manera electrónica.
 
@@ -50,6 +50,6 @@ Asimismo puedes enviarlo por correo electrónico o WhatsApp, ingresando el dato 
 
 Finalmente puedes seleccionar el botón  ir al listado, donde visualizará los comprobantes generados,  o proceder a crear **nuevo comprobante de contingencia**.
 
-:::info
+:::info IMPORTANTE:
 Para más información acerca de los comprobantes de contingencia: **[https://cpe.sunat.gob.pe/informacion_general/procedimiento_contingencia](https://cpe.sunat.gob.pe/informacion_general/procedimiento_contingencia#:~:text=con%20determinados%20requisitos.-,Procedimiento%20de%20Contingencia,de%20pago%20de%20manera%20electr%C3%B3nica)**, y/o, consulte a su área contable.
 :::

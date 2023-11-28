@@ -1,4 +1,4 @@
-# Documentos pre - venta: Oportunidad de Venta
+# Documentos pre - venta: Oportunidad de venta
 
 Una oportunidad de venta es una posibilidad de cerrar un trato con un cliente potencial, que surge cuando este muestra interés en un producto o servicio y avanza en el proceso de compra. En una oportunidad de venta, se pueden incluir observaciones o detalles, así como cargar archivos si es necesario.
 
@@ -60,7 +60,7 @@ Contaremos con las siguientes opciones o botones:
 - **Editar:** Permite la edición del formulario de la oportunidad de venta
 - **Opciones:** Permite imprimir la oportunidad en formato A4.
 
-## Generar Orden de compra
+## Generar orden de compra
 
 En esta sección te enseñaremos a detalle la funcionalidad del botón de Generar orden de compra, para ello selecciona el botón y se encontrará el siguiente formulario.
 

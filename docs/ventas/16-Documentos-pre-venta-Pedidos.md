@@ -1,4 +1,4 @@
-# Documentos pre-venta Pedidos
+# Documentos pre-venta: Pedidos
 
 En esta área podrás generar pedidos de venta. Sigue estos pasos para realizarlo:
 

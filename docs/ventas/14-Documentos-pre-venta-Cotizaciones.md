@@ -8,7 +8,7 @@ Ingresa al módulo de **Ventas** y luego selecciona la subcategoría Cotizacione
 
 ![Alt text](img/Coti1.jpg)
 
-## Generar Cotización
+## Generar cotización
 
 ![Alt text](img/coti2.jpg)
 

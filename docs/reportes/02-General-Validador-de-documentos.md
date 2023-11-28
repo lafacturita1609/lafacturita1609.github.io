@@ -1,4 +1,4 @@
-# General: Validador de Documentos
+# General: Validador de documentos
 
 En este artículo te mostraremos a como utilizar el validador de documentos .Sigue estos pasos para realizarlo:
 

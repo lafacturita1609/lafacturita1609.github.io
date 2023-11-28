@@ -1,4 +1,4 @@
-# Compras: Producto - Búsqueda Individual
+# Compras: Producto - búsqueda individual
 
 En este artículo te mostraremos como revisar sus compras realizadas sobre un producto especifico. Sigue estos pasos para realizarlo:
 

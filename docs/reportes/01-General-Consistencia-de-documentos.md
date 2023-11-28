@@ -1,4 +1,4 @@
-# General: Consistencia de Documentos
+# General: Consistencia de documentos
 
 En este artículo te mostraremos como revisar la lista de los correlativos de los comprobantes electrónicos .Sigue estos pasos para realizarlo:
 

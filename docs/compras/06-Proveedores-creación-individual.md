@@ -1,4 +1,4 @@
-# Proveedores: Creación Individual
+# Proveedores: Creación individual
 
 En esta área te ayudaremos a crear proveedores de manera individual. Sigue estos pasos para realizarlo:
 
@@ -40,7 +40,7 @@ Se completarán los siguientes datos:
 - **Teléfono:** Ingresa teléfono de contacto.
 - **Correo electrónico:** Ingresa el correo electrónico principal.
 
-## Otros Datos
+## Otros datos
 
 En esta sección se colocarán los datos de el personal encargado, es opcional.
 

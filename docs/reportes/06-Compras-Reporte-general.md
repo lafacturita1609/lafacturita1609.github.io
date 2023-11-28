@@ -1,4 +1,4 @@
-# Compras: Reporte General
+# Compras: Reporte general
 
 En este artículo te mostraremos como revisar sus compras totales realizadas. Sigue estos pasos para realizarlo:
 

@@ -1,4 +1,4 @@
-# Configuración de Series para Movimientos Libres de Inventario
+# Configuración de series para movimientos libres de inventario
 
 Debido a nuevas actualizaciones, se deben configurar estas series adicionales en los establecimientos creados partir de diciembre 2022, para que se permita **[los movimientos libres de inventario:](https://fastura.github.io/documentacion/inventario/Movimientos-libres-de-inventario)**
 

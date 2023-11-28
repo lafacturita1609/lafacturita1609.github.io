@@ -1,4 +1,4 @@
-# Ventas: Estado de Cuenta
+# Ventas: Estado de cuenta
 
 En este artículo te mostraremos como revisar el reporte general del estado de cuenta de cada cliente. Sigue estos pasos para realizarlo:
 

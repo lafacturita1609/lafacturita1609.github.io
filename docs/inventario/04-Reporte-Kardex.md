@@ -33,5 +33,5 @@ Se encontrará la lista enumerada para realizar el reporte.
 7. Visualizarás el reporte completo.
 
 :::info IMPORTANTE:
-_Se exporta el reporte y visualiza los campos solo cuando el usuario que exporte el reporte kardex sea el asignado al establecimiento escogido._
+Se exporta el reporte y visualiza los campos solo cuando el usuario que exporte el reporte kardex sea el asignado al establecimiento escogido.
 :::

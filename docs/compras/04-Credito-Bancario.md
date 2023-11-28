@@ -1,4 +1,4 @@
-# Crédito Bancario
+# Crédito bancario
 
 En esta área te ayudaremos a crear los registros de préstamos bancarios que tu empresa ha solicitado, asimismo esto te permitirá mantener un orden contable. Sigue estos pasos:
 

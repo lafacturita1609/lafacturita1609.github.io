@@ -6,7 +6,7 @@ Ingresa al módulo de **Inventario**, luego selecciona la subcategoría **Movimi
 
 ![Alt text](img/Movimientos_libres_de_Inventario_01.jpg)
 
-## Botón Ingreso
+## Botón ingreso
 
 Este botón registra el ingreso de producto al almacén.
 
@@ -27,7 +27,7 @@ Se completarán los siguientes datos:
   
 Seguidamente selecciona el botón **Aceptar**, para guardar los cambios.
 
-## Botón Salida
+## Botón salida
 
 Este botón registra la salida de producto del almacén.
 
@@ -66,7 +66,7 @@ Los siguientes datos se deben completar de manera obligatoria:
 * **Cantidad a trasladar:** Ingresa la cantidad de producto que desea trasladar al otro almacén.
 * **Almacén final:** Selecciona el almacén a donde se trasladará el producto.
   
-## Botón Remover
+## Botón remover
 
 Este botón es similar al **botón salida**, la diferencia es que en este botón no te pide el motivo de la salida del producto.
 
@@ -82,7 +82,7 @@ El campo que debe completar es:
 
 * **Cantidad a retirar:** Ingresa la cantidad de producto que retirará del almacén.
   
-## Botón Ajuste
+## Botón ajuste
 
 Este botón te ayuda a ajustar tu stock, en caso de que el stock del sistema no cuadre con el stock actual.
 
@@ -122,3 +122,9 @@ En el documento se completará:
 * **Stock real:** Ingresa el stock real del producto.
   
 Una vez rellenado el archivo excel, deberá seleccionar el botón **Seleccione un archivo (xlsx)** ,para subir el archivo correspondiente.
+
+## Tres puntos
+
+Para seleccionar todos los productos de la fila
+
+![Alt text](img/Movimientos11.jpg)

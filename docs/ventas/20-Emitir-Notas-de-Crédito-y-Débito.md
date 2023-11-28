@@ -1,4 +1,4 @@
-# Emitir Notas de Crédito y Débito
+# Emitir notas de crédito y débito
 
 En esta artículo podrás conocer como generar una nota de crédito o débito, según sea la necesidad.
 
@@ -14,13 +14,13 @@ Luego selecciona los tres puntos verticales en la parte derecha y después ingre
 
 ![Alt text](img/2_notas.jpg)
 
-## Nota de Crédito
+## Nota de crédito
 
 Son documentos que el vendedor **emite** para indicarle al cliente que tiene un saldo a su favor, como lo es acreditar la devolución de un valor determinado o para que la empresa pueda corregir errores en las facturas ya emitidas de una forma sencilla.
 
 ![Alt text](img/3_nc.jpg)
 
-## Nota de Débito
+## Nota de débito
 
 Una **nota de débito** es un documento emitido por un vendedor a un comprador para notificarle las obligaciones de deuda en curso.
 

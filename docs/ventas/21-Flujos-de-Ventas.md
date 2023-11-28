@@ -1,4 +1,4 @@
-# Flujos de Ventas
+# Flujos de ventas
 
 En esta lista conocerá los diferentes flujos posibles para concretar ventas:
 

@@ -1,4 +1,4 @@
-# Guías de Transportistas
+# Guías de transportistas
 
 En este artículo te enseñaremos a como generar tus guías de remisión. Sigue estos pasos para realizarlo:
 

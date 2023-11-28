@@ -1,4 +1,4 @@
-# General: Actividades del Sistema
+# General: Actividades del sistema
 
 En este artículo te mostraremos como revisar las acciones del sistema de manera general. Sigue estos pasos para realizarlo:
 
