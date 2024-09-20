@@ -1,5 +1,13 @@
 # Listado de tipo de motivos de transferencias, para productos o servicios
 
+El **Listado de Tipos de Motivos de Transferencias** de la SUNAT especifica los códigos que identifican los diversos motivos por los cuales se realiza la transferencia de productos o servicios. Estos códigos son fundamentales para registrar correctamente las operaciones en los documentos tributarios, tales como facturas y guías de remisión.
+
+Cada motivo está asociado a un **código** y una **descripción**, lo que facilita la clasificación de las transferencias según su naturaleza, como ventas, compras, importaciones, exportaciones y otros tipos de movimiento.
+
+Para agregar más tipo de motivos de transferencias, dirígete a **Configuración y más**, luego selecciona **Configuraciones Globales** y, a continuación, haz clic en **Tipos de motivos de transferencias**.
+
+![alt text](img/listodetransferencias.jpg)
+
 Leyenda:
 
 * **CÓDIGO → Descripción**
@@ -19,7 +27,9 @@ Leyenda:
 * 07 → Recojo de bienes transformados
 * 17 → Traslado de bienes para transformación
 
-:::danger IMPORTANTE:
-*Para crear un nuevo tipo de detracción, ingresa al módulo Configuración, en la subcategoría SUNAT, selecciona Tipos de motivos de transferencias, seguido selecciona el botón Nuevo, previamente averiguado el código que corresponde al tipo de transferencia.*
-:::
 ![Alt text](img/Sunat-avanzado-1.jpeg)
+
+:::danger IMPORTANTE:
+Para crear un nuevo tipo de detracción, ingresa al módulo **Configuración** y, en la subcategoría **SUNAT**, selecciona **Tipos de Motivos de Transferencias**. Luego, haz clic en el botón **Nuevo**. Asegúrate de haber verificado previamente el código correspondiente al tipo de transferencia, para garantizar que se registre correctamente de acuerdo a las normativas de la SUNAT.
+:::
+

@@ -1,5 +1,13 @@
 # SUNAT: Listado de Unidades
 
+El **Listado de Unidades de Medida** de SUNAT incluye los códigos que especifican las distintas unidades utilizadas para describir productos o servicios en documentos tributarios. Estas unidades son obligatorias para cumplir con las normativas de facturación electrónica y garantizar la precisión en la descripción de las cantidades.
+
+Cada unidad de medida está representada por un **código** y su correspondiente **descripción**, lo que facilita la correcta identificación y registro de cantidades en los comprobantes de pago electrónicos.
+
+Para agregar más unidades, dirígete a **Configuración y más**, luego selecciona **Configuraciones Globales** y, a continuación, haz clic en **Listado de tipos de unidades**.
+
+![alt text](img/listadounidades.jpg)
+
 Listado de unidades de medida, para productos o servicios:
 
 Leyenda:
@@ -70,8 +78,10 @@ Leyenda:
 * YRD → YARDA
 * YDK → YARDA CUADRADA
 
-:::info importante
+![alt text](img/listadounidades2.jpg)
 
-Para crear un nuevo tipo de detracción, ingresa al módulo **Configuración**, en la subcategoría **SUNAT**, selecciona **Listado de unidades**, seguido selecciona el botón **Nuevo**, previamente averiguado el código que corresponde al tipo de transferencia.
+:::danger IMPORANTE
+
+Puedes crear un nueva nueva unidad seleccionando el botón **Nuevo**, asegurándote previamente de verificar el código correspondiente. Es fundamental utilizar el código correcto para garantizar que el código de la unidad esté correctamente clasificado dentro del sistema y cumpla con los requerimientos de sunat.
 
 :::

@@ -4,7 +4,7 @@ En esta área te ayudaremos a editar tu login de inicio. Sigue estos pasos para 
 
 Ingresa al módulo de **Configuración**, en la subcategoría Visual y selecciona **Login**.
 
-![Alt text](img/Visual-1.jpeg)
+![Alt text](img/Visual-1.jpg)
 
 Podrá modificar los siguientes campos:
 

@@ -1,5 +1,13 @@
 # SUNAT: Listado de Atributos
 
+El **Listado de Atributos** de la SUNAT contiene un conjunto de códigos que permiten especificar información adicional y detallada sobre productos o servicios en diversos sectores, como detracciones, transporte terrestre, hospedajes y otros. Estos atributos son fundamentales para cumplir con las normativas de facturación electrónica y brindar información precisa en los comprobantes tributarios.
+
+Cada atributo está identificado por un código y su correspondiente descripción, que define el tipo de información requerida, como fechas, números de identificación o características específicas del servicio o producto.
+
+Para agregar más atributos, dirígete a **Configuración y más**, luego selecciona **Configuraciones Globales** y, a continuación, haz clic en **Listado de Atributos**.
+
+![alt text](img/listadeatributos-1.jpg)
+
 Listado de atributos, para productos o servicios:
 
 Leyenda:
@@ -101,7 +109,9 @@ Leyenda:
 * 7011 → Créditos Hipotecarios: Dirección del predio - Departamento
 * 7020 →  Partida Arancelaria
 
-:::danger IMPORTANTE:
-  *Puede crear un nuevo tipo de detracción, seleccionando el botón Nuevo, previamente averiguado el código que corresponde al listado de atributos.*
-:::
   ![Alt text](img/listadeatributos-1.jpeg)
+
+:::danger IMPORTANTE:
+  Puedes crear un nuevo tipo de detracción seleccionando el botón **Nuevo**, siempre y cuando hayas verificado previamente el código correspondiente. Asegurarte de usar el código correcto es esencial para garantizar el cumplimiento de las normativas y una correcta asignación del atributo al producto o servicio.
+:::
+

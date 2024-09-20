@@ -4,7 +4,7 @@ En este artículo te ayudaremos a conocer todas las configuraciones que puedes r
 
 Ingresa al módulo de **Configuración** y luego en la subcategoría **Empresa**, selecciona **Avanzado**.
 
-![Alt text](img/avanzado1.jpg)
+![alt text](img/empresaa1.jpg)
 
 Aparecerá las configuraciones posibles por hacer:
 

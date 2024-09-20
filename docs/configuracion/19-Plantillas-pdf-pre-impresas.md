@@ -4,7 +4,7 @@ En este artículo te enseñaremos a cambiar tu plantilla PDF pre impresos. Sigue
 
 Ingresa al módulo de **Configuración**, luego en la categoría **Plantillas PDF** selecciona **Pre Impresos**. Elige la que más se adecue a tu empresa.
 
-![Alt text](img/pdf7.jpg)
+![alt text](img/pdfimpresa.jpg)
 
 Selecciona el establecimiento y activa la plantilla que utilizará en su formato pre impresos.
 
