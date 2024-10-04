@@ -4,15 +4,21 @@ En esta área podrás aperturar una caja chica y descargar reportes.Sigue estos 
 
 Ingresa al módulo de **POS** y luego selecciona la subcategoría **Caja chica POS.**
 
+![Alt text](img/Abrir_una_caja_y_exportar_reportes_01.jpg)
+
 ## Aperturar caja chica POS
 
 Para abrir una caja, en la parte superior derecha selecciona el botón **Aperturar caja chica POS.**
+
+![Alt text](img/Abrir_una_caja_y_exportar_reportes_02.jpg)
 
 :::danger IMPORTANTE:
 IMPORTANTE: No se puede abrir más de una caja por usuario.
 :::
 
 Al seleccionar el botón **Aperturar caja chica POS**, se encontrará el formulario para aperturar caja chica **POS.**
+
+![Alt text](img/Abrir_una_caja_y_exportar_reportes_03.jpg)
 
 Se completarán los siguientes datos:
 
@@ -27,6 +33,8 @@ Después selecciona el botón **Guardar** y se visualizará el **listado de caja
 Para descargar en PDF el reporte general de la caja abierta, seleccione el boton Reporte general.
 
 En este documento podrá observar todos los comprobantes electrónicos que se realizó con la caja activa.
+
+![Alt text](img/Abrir_una_caja_y_exportar_reportes_04.jpg)
 
 ## Lista de cajas
 
@@ -54,3 +62,5 @@ Se encontrará una sección de botones, con las siguientes funciones:
 Editar: Esta opción aparece solo cuando la caja está abierta.Puede editar los campos rellenados.
 * **Eliminar:** Esta opción aparece solo cuando la caja está abierta.este botón te permitirá eliminar la caja cuando lo requiera.
 * **C.Electrónico (Correo electrónico):** Podrá enviar todo el resumen a un correo electrónico.
+
+![Alt text](img/Abrir_una_caja_y_exportar_reportes_05.jpg)

@@ -12,10 +12,11 @@ Para el resumen de los productos, tenemos que llenar los siguientes filtros.
 ![Alt text](img/Reporte_Kardex_valorizado_02.jpg)
 1. **Periodo:** Selecciona uno de los filtros de tu preferencia.
 
-* Por mes
-* Entre meses
-* Por fecha
-* Entre fechas
+* **Por mes**: Útil para ver el movimiento de productos en un mes específico.
+* **Entre meses**: Para comparar el inventario y ventas entre dos meses diferentes.
+* **Por fecha**: Si deseas ver un solo día de operaciones.
+* **Entre fechas**: Para observar el rendimiento de los productos en un rango de fechas específicas.
+
 
 2. **Fecha:** Ingresa la fecha.
 
@@ -38,5 +39,6 @@ Visualizaremos lo siguiente en la lista:
 * **Valor de ventas:** El total de la ganancia bruta.
 * **Costo de productos:** El costo total del producto vendido.
 * **Unidad valorizada:** El total de la ganancia neta.
+* **Costo ponderado:** Es el costo promedio por unidad, calculado dividiendo el costo total de los productos vendidos entre la cantidad de unidades físicas vendidas.
 * **Stock:** Al seleccionar el botón se puede observar cuanto de stock queda.
 * **Exportar:** Al seleccionar el botón, descarga un reporte detallado del producto.
