@@ -2,7 +2,7 @@
 
 En esta área te ayudaremos a crear establecimientos o locales. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Usuarios/Locales & Series** luego selecciona la subcategoría **Establecimientos**.
+Ingresa al módulo de **Configuración y más** luego selecciona la subcategoría **Locales y series**.
 
 ## Nuevo establecimiento
 
@@ -28,8 +28,7 @@ Aparecerá el formulario para llenar los datos del **Nuevo Establecimiento**.
 * **Cambiar logo del establecimiento:** Selecciona para poder cambiar el logo de tu establecimiento.
 * **Casilla de verificación:**
     * **Sujeto al IGV - Ley 31556:** Si perteneces al sector de: restaurantes, hoteles y agencias de turismo, selecciona esta casilla para aplicar el IGV que te corresponde.
-
-Después seleccione el botón Guardar. Aparecerá la lista de establecimientos.
+* **Dirección secundaria:** Esta opción se utiliza principalmente para generar guías de remisión con una dirección diferente a la que está asignada como principal. Es útil para manejar múltiples ubicaciones de despacho, almacenes temporales o cuando necesitas enviar mercancías desde una dirección distinta a la fiscal. 
 
 ![alt text](img/establecimientos3.jpg)
 
