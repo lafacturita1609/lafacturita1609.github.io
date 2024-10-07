@@ -18,7 +18,6 @@ En este artículo te ayudaremos a crear productos desde la **App Factúralo.** S
 - **Nombre:**  Ingresa el nombre del producto.
 - **Precio unitario (venta):** Ingresa el precio del producto.
 - **Interruptor IGV:** En caso el producto incluye **IGV**, déjelo activado.
-- **Cargar imagen:** Ingresa una imagen del producto si es de su preferencia.
 
 :::danger IMPORTANTE:
 

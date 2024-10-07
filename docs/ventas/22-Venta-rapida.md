@@ -4,6 +4,15 @@ La funcionalidad de Venta Rápida te permitirá agilizar tus transacciones, redu
 
 ![alt text](img/ventarapida2.jpg)
 
+### Visualización de Información del Producto
+
+En la **Venta Rápida**, se mostrará toda la información necesaria para concretar la venta de un producto. Esto incluye:
+
+- **Código interno**: Identificador único del producto.
+- **Nombre**: El nombre del producto para facilitar su identificación.
+- **Precio**: El precio del producto que se aplicará en la transacción.
+- **Imagen del producto**: Una vista visual del artículo que ayudará en su reconocimiento rápido.
+
 ## Pasos para Activar la Venta Rápida
 
 Sigue los pasos a continuación para activar la opción de venta rápida en tu sistema:

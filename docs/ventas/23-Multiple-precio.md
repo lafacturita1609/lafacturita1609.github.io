@@ -10,6 +10,10 @@ El selector de precios se encuentra en el **panel lateral derecho** del sistema 
 
 ## Módulo ventas
 
+En el **módulo de ventas**, el **selector de precios** se encuentra junto al buscador de productos. Esta funcionalidad te permite elegir de forma sencilla el precio que aplicarás al producto que estás vendiendo, ofreciendo flexibilidad según las condiciones de la venta.
+
+![alt text](multipleprecio4-1.jpg)
+
 ## Crear un Producto con Varios Precios
 
 Sigue estos pasos para configurar un producto con múltiples precios:

@@ -1,19 +1,30 @@
-# Cómo iniciar sesión
+# Iniciar Sesión
 
-En este artículo te ayudaremos a ingresar a tu cuenta desde la App Facturalo. Sigue estos pasos para realizarlo:
+En este artículo te guiaremos para ingresar a tu cuenta desde la App **Facturalo**. Sigue estos pasos para comenzar:
 
-1. **Descargar la App**
-Actualmente la App se encuentra disponible para sistema android. **Descárgala** con este enlace: **[https://buho.la/fastura.apk](https://buho.la/fastura.apk)**
+## 1. Descargar la App
 
-2. **Iniciar sesión**
-Una vez **instalada** la app, la abrimos y colocamos los accesos que le fue brindado. Seguido selecciona el botón **Iniciar sesión**.
+La aplicación está disponible para dispositivos **Android** y **iOS**.
 
-![Alt text](img/app1.jpeg)
+- Para **Android**, descárgala utilizando el siguiente enlace: [https://buho.la/download](https://buho.la/download).
+- Para **iOS**, búscala en la App Store bajo el nombre **FacturaloPeruPremium**.
 
-Podrá tener acceso a todos los módulos disponibles en la App.
+## 2. Iniciar Sesión
+
+Una vez que hayas **instalado** la aplicación, ábrela e ingresa las credenciales que te fueron proporcionadas. Luego, selecciona el botón **Iniciar sesión**.
+
+![Pantalla de Inicio de Sesión](img/app1.jpg)
+
+## Accesos según el tipo de usuario
+
+- **Usuarios Administradores**: Solo los usuarios con rol de **Administrador** tendrán acceso completo a todos los módulos disponibles en la app.
+- **Usuarios Vendedores**: Los usuarios vendedores tendrán permisos limitados. Para ajustar sus accesos, es necesario que el administrador ingrese a **Configuraciones y más**, y luego seleccione **APP 3.0** para revisar y configurar los permisos específicos.
+
+## Importante
+
+Al iniciar sesión, asegúrate de lo siguiente:
 
 :::danger IMPORTANTE:
-
-- Tomar en cuenta que el URL no cuenta con **"/login"** al final.
-- Asegúrese de ingresar bien el usuario y la contraseña.
+- La URL de acceso **no** debe contener **"/login"** al final.
+- Verifica que el usuario y la contraseña sean ingresados correctamente.
 :::

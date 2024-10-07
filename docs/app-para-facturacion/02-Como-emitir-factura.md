@@ -1,38 +1,60 @@
-# Cómo emitir factura
+# Cómo emitir una factura
 
-En este artículo te ayudaremos a emitir factura desde la **App Factúralo.** Sigue estos pasos para realizarlo:
+En este artículo te explicaremos cómo emitir una factura desde la **App Factúralo**. Sigue los pasos a continuación:
 
-1. Ingresar al módulo **Factura electrónica.**
+Actualmente, existen **dos formas** de emitir una factura:
 
-![Alt text](img/Fact.jpg)
+1. **Desde el módulo POS**.
+2. **Desde el módulo Factura electrónica**.
 
-2. Completa los siguientes campos necesarios:
+A continuación, describimos el proceso para ambos casos.
 
-![Alt text](img/app3.jpeg)
+## 1. Emitir una factura desde el módulo Factura Electrónica
 
-- **Cliente:** Selecciona **CLIENTE** y aparecerá una lista de todos sus clientes ya registrados, elija al que le realizará la factura. En caso desee crear un nuevo cliente, en la parte superior derecha selecciona el **"+" Nuevo** ,y sigue los pasos en este **[https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente)**.
+### Paso 1: Ingresar al módulo **Factura Electrónica**
 
-![Alt text](img/app4.jpeg)
+![Factura Electrónica](img/Fact.jpg)
 
-- **Añadir producto:** Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto,puede agregar las cantidades; en la parte inferior derecha selecciona el botón  con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el botón **"+"** ,y sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-un-producto)**.
+### Paso 2: Completar los campos necesarios
 
-![Alt text](img/app6.jpeg)
+![Formulario de Factura](img/app3.jpeg)
+
+#### Campos principales:
+
+- **Cliente**: Selecciona **CLIENTE** y se desplegará una lista con todos tus clientes previamente registrados. Elige al cliente para el que emitirás la factura. Si necesitas agregar un nuevo cliente, selecciona el botón **"+" Nuevo** en la esquina superior derecha y sigue los pasos indicados en este [artículo](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente).
+
+  ![Selección de Cliente](img/app4.jpeg)
+
+- **Añadir producto**: Haz clic en **Añadir producto** y se abrirá el **Listado de Productos**. Selecciona el producto que deseas facturar y ajusta las cantidades. Luego, en la parte inferior derecha, selecciona el botón con el ícono del carrito de compras para añadirlo. Si necesitas agregar un nuevo producto, selecciona el botón **"+"** en la esquina superior derecha y sigue los pasos en este [artículo](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-un-producto).
+
+  ![Selección de Producto](img/app6.jpeg)
 
 :::danger IMPORTANTE:
-
-Todos los campos no mencionados son opcionales, según su necesidad.
-
+Todos los campos no mencionados son opcionales y puedes completarlos según tus necesidades.
 :::
 
-Una vez que los que los campos estén rellenados, selecciona el botón **Aceptar**.
+### Paso 3: Finalizar la emisión
 
-![Alt text](img/appfinal.jpeg)
+Una vez que todos los campos estén completados, selecciona el botón **Aceptar**.
 
-Seguido, aparecerá un mensaje de comprobante registrado. Tendrá cuatro opciones:
+![Confirmación de Factura](img/appfinal.jpeg)
 
-- **Imprimir:** Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo **PDF**.
-- **Descargar A4:** Al seleccionar esta opción podrá descargar el archivo del comprobante electrónico en tamaño **A4**.
-- **Descargar Ticket:** Al seleccionar esta opción podrá descargar el archivo del comprobante electrónico en tamaño ticket.
-- **Continuar:** Al seleccionar esta opción podrá seguir generando facturas.
+### Paso 4: Opciones al registrar el comprobante
 
-![Alt text](img/app7.jpeg)
+Después de registrar la factura, aparecerá un mensaje de confirmación y tendrás cuatro opciones para proceder:
+
+- **Imprimir**: Imprime o guarda el comprobante en formato **PDF**.
+- **Descargar A4**: Descarga el comprobante en tamaño **A4**.
+- **Descargar Ticket**: Descarga el comprobante en formato ticket.
+- **Continuar**: Continúa emitiendo facturas.
+
+![Opciones de Comprobante](img/app7.jpeg)
+
+## 2. Emitir una factura desde el módulo POS
+
+Además de la opción desde **Factura Electrónica**, también puedes emitir una factura directamente desde el **módulo POS**. El proceso es similar en cuanto a la selección de cliente y productos, con la ventaja de que se adapta mejor a operaciones rápidas.
+
+---
+
+Con estos pasos, puedes gestionar la emisión de facturas de manera flexible según tus necesidades, ya sea desde el módulo **Factura Electrónica** o **POS**.
+
