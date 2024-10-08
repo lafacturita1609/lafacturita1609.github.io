@@ -16,8 +16,8 @@ Ingresa al módulo de **Inventario**, luego selecciona la subcategoría **Report
 * **Todos**
 * **Stock < 0:** Stock menor a cero.
 * **Stock = 0:** Stock igual a vero.
-* **0 < Stock <= Stock mínimo:** Mayor a cero y menor al stock mínimo.
-* **Stock > Stock mínimo:** Stock mayor al stock mínimo.
+* **0 {'<'} Stock {'<='} Stock mínimo:** Mayor a cero y menor al stock mínimo.
+* **Stock {'>'} Stock mínim    o:** Stock mayor al stock mínimo.
   
 ## Resultados
 Una vez ingresado los datos, aparecerá una tabla con los siguientes datos:
