@@ -21,10 +21,12 @@ Completa los siguientes campos:
 * **N° Cuenta de detracción:** Inserta su número de cuenta de detracción si lo desea.
 * **Rúbrica (Firma digital):** Puede subir su firma digital, seleccionando el botón azul.
 Favicon: Puede subir su favicon, es la imagen que aparece en la pestaña de navegación, seleccionando el botón azul.
+* **Título (nombre web):**  Permite definir el nombre que aparecerá en la pestaña del navegador al acceder a la plataforma.
 * **Logo APP:** Puede subir su logo para que se visualice en su app, seleccionando el botón azul.
   
 **Entorno del sistema**
 
+* **Código de observación DIGEMID:**  Ingrese el código proporcionado por DIGEMID para garantizar el cumplimiento normativo en la comercialización de productos farmacéuticos.
 * **SOAP TIPO:** Para habilitar tu sistema, deberá cambiarlo de Demo a Producción.
 * **SOAP Envio:** Seleccionar el SOAP de envío a Sunat.
 * Colocar **SOAP** usuario y contraseña del **usuario secundario** creado previamente(Sigue los pasos en este **[video](https://www.youtube.com/watch?v=PZ028aDpR3A&ab_channel=DigitalBuho)**), tener en cuenta que al colocar el usuario debe agregar el RUC previamente, como la imagen indicada.
@@ -93,3 +95,41 @@ Se necesita hacer una configuración previa para enviar los pdf por whatsapp api
 ![Alt text](img/datosempresaa22.jpg)
 
 Para activarlo puede seguir la siguiente documentación: **[https://docs.google.com/document/d1BW6EQBPH-JQNwoUEQQaFndRteTpNLLVM7w9YIqhKzdM/edit](https://docs.google.com/document/d/1BW6EQBPH-JQNwoUEQQaFndRteTpNLLVM7w9YIqhKzdM/edit)**
+
+## 7.  Envio de mensajes a través de QR Api
+
+Esta opción permite enviar los comprobantes generados en formato PDF utilizando un servicio de mensajería que integra QR API. Para activar esta funcionalidad, es necesario:
+
+  Habilitar la opción seleccionando "Sí".
+
+* **A continuación, te mostramos los pasos necesarios para activar y configurar correctamente el envío de mensajes a través de QR API:**
+    * 1. Inicia sesión en QR API: Ingrese su correo electrónico y su contraseña en la pantalla de inicio de sesión.
+
+    * 2. Dashboard: Una vez dentro, podrás ver todos tus dispositivos registrados y el estado de cada uno.
+
+    * 3. Agregar Dispositivo: Haz clic en "Nuevo" e ingresa el nombre del dispositivo y el número de teléfono móvil que deseas vincular.
+
+    * 4. Escanea el Código QR: Sigue las instrucciones en la pantalla para escanear el código QR con la aplicación de WhatsApp en tu móvil.
+
+    * 5. Ver detalles del dispositivo: Luego de escanear el código QR, tendrás que redirigirte a la página de detalles del dispositivo, donde podrás ver la información del número registrado, su estado, y el API Token necesario para integrarlo, esto se hace dándole clik a tu numero.
+
+    * 6. Utiliza el API Token: Copia el API Token mostrado en la pantalla. Este será necesario para realizar las integraciones de mensajería con tu sistema.
+
+    * 7. Ingresa la URL de la página del servicio, que será proporcionada por QR API al registrarte. La URL es la dirección web específica donde se llevará a cabo la integración.
+
+* **Posterior a los pasos antes mencionados**
+
+  Ingresar la URL del Cliente y el API Key proporcionados por el servicio QR API.
+
+![Alt text](img/datosempresaa33.jpg)
+
+Para más detalles sobre cómo hacer la configuración, puedes consultar el video tutorial para tener mayor información:
+**[https://www.youtube.com/live/37rW8jwIEkU?si=g6-5-De-IKufPFwb](https://www.youtube.com/live/37rW8jwIEkU?si=g6-5-De-IKufPFwb)**
+
+:::danger importante
+
+Recuerde que debe registrarse en el servicio antes de usar esta opción para obtener las credenciales necesarias.
+:::
+
+
+

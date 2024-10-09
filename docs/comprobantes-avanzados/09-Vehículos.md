@@ -18,4 +18,6 @@ Completa los siguientes campos para crear un nuevo vehículo:
 
 **4. Predeterminado**: Activa si el vehículo es de manera frecuente.
 
+**5. Certificado de habilitación vehicular:** Campo donde se debe ingresar el número del certificado que acredita la habilitación del vehículo para operar.
+
 Seguido seleccione el botón **Guardar**. Y podrá visualizar al transportista creado.

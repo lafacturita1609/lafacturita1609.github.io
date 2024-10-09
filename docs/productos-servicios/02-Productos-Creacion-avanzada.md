@@ -8,6 +8,8 @@ Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría P
 
 En la parte superior derecha selecciona el botón **Nuevo.**
 
+![img01](img/Creacion-avanzada_00.jpg)
+
 Posteriormente aparecerá el formulario para llenar los datos del **Nuevo producto.**
 
 ## Sección general
@@ -68,20 +70,24 @@ Insertar el código si la **SUNAT** lo requiere.
 
 **19.  Línea de producto:** Inserta la línea de producto, grupo de productos que tienen relación directa entre sí.
 
-**20.  Código de fábrica:** Inserta el código de fábrica, en el caso de productos tecnológicos cuentan con un código de fábrica.
+**20.  Registro Sanitario::** Inserte la autorización emitida por una autoridad sanitaria competente (como DIGESA o DIGEMID, dependiendo del tipo de producto) que certifique que su producto, ya sea alimenticio, cosmético o farmacéutico, cumple con todos los requisitos legales y técnicos necesarios para su comercialización.
 
-**21.  Incluye percepción:** Selecciona la casilla de selección si el producto incluye percepción; algunos productos cuentan con percepción adicional al IGV. Añada el porcentaje de percepción de acuerdo a su régimen en caso lo requiera.
+**21.  Código DIGEMID:**  Inserte el identificador único otorgado por la Dirección General de Medicamentos, Insumos y Drogas (DIGEMID) del Ministerio de Salud de Perú. Este código es esencial para identificar productos farmacéuticos, dispositivos médicos y otros insumos de salud.
 
-**22.  ¿Maneja lotes?:** Selecciona la casilla de selección para añadir el código de lote que se encuentra en el producto.
+**22.  Código de fábrica:** Inserta el código de fábrica, en el caso de productos tecnológicos cuentan con un código de fábrica.
 
-**23.  ¿Maneja series?:** Selecciona la casilla de selección para añadir el código de serie que se encuentra en el producto.
+**23.  Incluye percepción:** Selecciona la casilla de selección si el producto incluye percepción; algunos productos cuentan con percepción adicional al IGV. Añada el porcentaje de percepción de acuerdo a su régimen en caso lo requiera.
 
-**24.  Este producto, ¿requiere insumos?:** Selecciona la casilla si el producto va a ser utilizado en el módulo de producción.
+**24.  ¿Maneja lotes?:** Selecciona la casilla de selección para añadir el código de lote que se encuentra en el producto.
 
-**25.  Incluye ISC (Impuesto selectivo al consumo):** Selecciona la casilla de selección para aplicar ISC; elija el Tipo de sistema ISC que requiera; ingrese el porcentaje.
+**25.  ¿Maneja series?:** Selecciona la casilla de selección para añadir el código de serie que se encuentra en el producto.
+
+**26.  Este producto, ¿requiere insumos?:** Selecciona la casilla si el producto va a ser utilizado en el módulo de producción.
+
+**27.  Incluye ISC (Impuesto selectivo al consumo):** Selecciona la casilla de selección para aplicar ISC; elija el Tipo de sistema ISC que requiera; ingrese el porcentaje.
 ![Alt text](img/Creacion-avanzada_02.jpg)
 
-**26.  Sujeto a detracción:** Selecciona la casilla si el producto está sujeto a detracción.
+**28.  Sujeto a detracción:** Selecciona la casilla si el producto está sujeto a detracción.
 
 ## Sección almacenes
 
@@ -136,3 +142,35 @@ Deberá escribir el nombre de la marca que desee crear y después seleccionar el
 **4.  Incluye ISC (Impuesto selectivo al consumo):** Selecciona la casilla de selección si **corresponde a su rubro**.Seguido selecciona el Tipo de sistema **ISC**; el porcentaje **ISC.**
 
 Después selecciona el botón **Guardar**, y se observará el Listado de productos, donde podrá visualizar su producto agregado.
+
+## Sección Informacion Adicional
+
+![Alt text](img/Creacion-avanzada_10.jpg)
+
+**1. Tamaños:** Permite seleccionar las dimensiones disponibles para el producto.
+
+**2. Propiedades del molde:** Define las características específicas del molde utilizado en la fabricación del producto.
+
+**3. Unidaddes Medida:** Seleccione la unidad de medida aplicable al producto.
+
+**4. Colores:** Eliga el color disponible para el producto.
+
+**5. Unidades de Negocio:** Asigna el producto a una unidad de negocio específica dentro de la organización.
+
+**6. Cavidades del model:**
+
+**7. Cantidad de unidades por empaque:** Determina cuántas unidades del producto se incluyen en un empaque estándar.
+
+**8. Estatus del Item:**  Indica el estado actual del producto.
+
+**9. Familia de Productos:** Agrupa el producto bajo una categoría o línea de productos que tienen características comunes.
+
+:::danger IMPORTANTE:
+No es recomentable cambiar las dimensiones del producto por las siguientes razones:
+
+* **Fabricación:** Cambiar las dimensiones puede requerir nuevos moldes o ajustes en las máquinas, lo que implica un costo adicional y tiempo de adaptación.
+* **Normativas:** Los productos deben cumplir con estándares específicos. Cambiar las dimensiones podría incumplir esas normas, afectando la comercialización.
+* **Empaque y transporte:** Las dimensiones están diseñadas para ajustarse a empaques y transporte. Modificarlas podría causar problemas logísticos.
+* **Inventario:** Los productos en stock ya tienen dimensiones predefinidas. Cambiar estos datos afectaría la gestión de inventarios.
+* **Sistemas de software:** Las dimensiones están configuradas en el sistema y están vinculadas a otros atributos. Modificarlas requiere ajustes en todo el sistema, lo que puede ser complejo y costoso.
+:::
