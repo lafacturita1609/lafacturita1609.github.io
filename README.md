@@ -4,6 +4,10 @@ Repositorio de documentación de nuestro sistema de facturación electrónica [F
 
 Si estas colaborando con nosotros usa los siguientes comandos:
 
+# Requerimiento
+
+- NodeJS <= v18
+
 ### Instalación
 
 ```
