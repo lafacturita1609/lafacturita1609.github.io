@@ -30,12 +30,13 @@ Tendrá que rellenar los siguientes campos:
 
  Si el punto de llegada no carga una vez seleccionado el cliente, selecciona el botón +Nuevo y sin necesidad de llenar algún dato seguido selecciona el botón Buscar y una vez cargado los datos selecciona el botón **Guardar**.
 
-![Alt text](img/guiactualizada4.jpg)
+![Alt text](img/guiactualizada5.jpg)
 
 :::
 
-- **Datos del vehículo:** Selecciona el número de placa del vehículo que realizará el traslado, también puede crear un nuevo vehículo seleccionando el botón +Nuevo.
-- **Datos del conductor:** Selecciona el conductor, también puede crear un nuevo conductor seleccionando el botón +Nuevo.
+- **Datos del vehículo:** Selecciona uno o varios vehículos y sus números de placas correspondientes, o crea un nuevo vehículo con el botón **+Nuevo**.
+- **Datos del conductor:** Selecciona uno o varios conductores, también puedes crear un nuevo conductor con el botón **+Nuevo**.
+
 
 ## Agregar producto
 

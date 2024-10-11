@@ -1,88 +1,106 @@
-# Generar guías de remisión
+# Generar Guías de Remisión
 
 :::danger IMPORTANTE:
-
- Por disposición de SUNAT con respécto a las guías de remisión, es necesario agregar tokens de conexión adicionales, tenemos una guia preparada en este **[artículo](https://fastura.github.io/documentacion/configuracion/Configuracion-previa-guia-remision)**.
+Por disposición de SUNAT con respecto a las guías de remisión, es necesario agregar tokens de conexión adicionales. Tenemos una guía preparada en este **[artículo](https://fastura.github.io/documentacion/comprobantes-avanzados/Generar-guías-de-remision)**.
 :::
 
-En este artículo te enseñaremos a como generar tus guías de remisión. Sigue estos pasos para realizarlo:
+En este artículo te enseñaremos cómo generar tus guías de remisión. Sigue estos pasos para realizarlo:
 
-## Crear guía de remisión: Botón nuevo
+## Crear Guía de Remisión: Botón Nuevo
 
-Ingresa al módulo de **Comprobantes avanzados** en la subcategoría **Guías de remisión** y selecciona **G.R Remitente**. En la parte superior derecha selecciona el botón **Nuevo**.
+1. Ingresa al módulo de **Comprobantes Avanzados** en la subcategoría **Guías de Remisión** y selecciona **G.R Remitente**.
+2. En la parte superior derecha, selecciona el botón **Nuevo**.
 
 ![Alt text](img/guiactualizada1.jpg)
 
-Tendrá que rellenar los siguientes campos necesarios:
+Tendrás que rellenar los siguientes campos necesarios:
 
-![Alt text](img/guiatransportista2.jpg)
+![Alt text](img/guiactualizada2.jpg)
 
 - **Establecimiento:** Selecciona el establecimiento.
-- **Serie:** Selecciona la serie.
+- **Serie:** Selecciona la serie correspondiente.
 - **Fecha de emisión:** Ingresa la fecha de emisión.
 - **Fecha de traslado:** Ingresa la fecha de traslado.
-- **Cliente:** Selecciona el cliente, si no está creado, podrá realizarlo paso a paso en este [artículo](#Clientes : Creación Individual) artículo, también puede crear un nuevo cliente seleccionando el botón **+Nuevo**.
-- **Modo de traslado:** Selecciona si el modo es transporte privado o público.
-
-:::danger IMPORTANTE:
- El transporte privado es cuando cuenta con una movilidad para el traslado, si usted va a realizar el envío por agencia selecciona transporte público.
-:::
-- **Motivo de traslado:** Selecciona el motivo que más se acomode a sus requerimientos.
-- **Unidad de medida:** Selecciona la unidad de medida que más se acomode a sus requerimientos.
+- **Cliente:** Selecciona el cliente, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/clientes/Clientes-creacion-individual)** artículo, también puede crear un nuevo cliente seleccionando el botón **+Nuevo.**
+- **Modo de traslado:** Selecciona si el modo es **transporte privado o público**.
+- **Motivo de traslado:** Selecciona el motivo más adecuado, entre opciones como:
+  - Venta
+  - Compra
+  - Traslado entre establecimientos de la misma empresa
+  - Importación
+  - Exportación
+  - Otros no comprendidos en ningún código del catálogo
+  - Venta sujeta a confirmación del comprador
+- **Unidad de medida:** Selecciona entre las dos unidades disponibles por SUNAT: **KGM** (Kilogramos) o **TNE** (Toneladas).
 - **Peso total:** Ingresa el peso total del producto.
-- **Número de paquetes:** Ingresa el número de paquetes que va a trasladar.
+- **Número de paquetes:** Ingresa el número total de paquetes que se trasladarán.
 
-**Datos de envío :**
+## Datos de Envío:
 
-- **Punto de partida:** Selecciona el punto de partida correspondiente, también puede crear un nuevo punto de partida seleccionando el botón **+ Nuevo.**
-- **Punto de llegada:** Selecciona el punto de llegada, también puede crear un nuevo punto de llegada seleccionando el botón **+Nuevo**.
+
+- **Punto de partida:** Selecciona o crea un nuevo punto de partida con el botón **+Nuevo**.
+- **Punto de llegada:** Selecciona o crea un nuevo punto de llegada con el botón **+Nuevo**.
 
 :::danger IMPORTANTE:
-
-Si el punto de llegada no carga una vez seleccionado el cliente, selecciona el botón **+ Nuevo** y sin necesidad de llenar algún dato seguido selecciona el botón **Buscar** y una vez cargado los datos selecciona el botón **Guardar**
+Si el punto de llegada no carga correctamente, usa el botón **+Nuevo** y selecciona **Buscar** seguido de **Guardar** sin necesidad de llenar todos los campos.
 :::
 
-![Alt text](img/guiactualizada4.jpg)
+![Alt text](img/guiactualizada5.jpg)
 
-## Datos modo de traslado: En caso sea  transporte privado
+# DATOS DE MODELO DE TRASLADO 
 
-- **Datos del conductor:** Selecciona el conductor, también puede crear un nuevo conductor seleccionando el botón **+Nuevo**.
-- **Datos del vehículo:** Selecciona el número de placa del vehículo que realizará el traslado, también puede crear un nuevo vehículo seleccionando el botón **+Nuevo**.
 
-## Datos modo de traslado: En caso sea  transporte público
 
-- Datos del transportista: Selecciona el transportista, también puede crear un nuevo transportista seleccionando el botón **+Nuevo**.
+## Datos del Modo de Traslado: Transporte Privado
+
+![Alt text](img/guiactualizada6.jpg)
+
+- **Datos del conductor:** Selecciona uno o varios conductores, también puedes crear un nuevo conductor con el botón **+Nuevo**.
+- **Datos del vehículo:** Selecciona uno o varios vehículos y sus números de placas correspondientes, o crea un nuevo vehículo con el botón **+Nuevo**.
+
+## Datos del Modo de Traslado: Transporte Público
+
+![Alt text](img/guiactualizada3.jpg)
+
+- **Datos del transportista:** Selecciona el transportista o crea uno nuevo con el botón **+Nuevo**.
 
 :::info IMPORTANTE
-* Las unidades de medida según SUNAT, ahora son solo dos: **KGM, TNE.*
-* El sistema agarra por defecto la dirección del cliente seleccionado, si desea poner otra dirección puede agregarla desde el módulo clientes agregando un nuevo campo de dirección.
-* Para registrar la empresa de transportistas es obligatorio el MTC, puede solicitarlo a este link:
-**[https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx.)***
-* La placa del vehículo no puede contener guiones ni minúsculas.*
-
+- Las unidades de medida válidas según SUNAT son: **KGM y TNE**.
+- El sistema usa por defecto la dirección del cliente seleccionado, pero puedes agregar una nueva dirección desde el módulo de clientes.
+- Para registrar una empresa de transportistas, es obligatorio contar con el MTC, que puedes solicitar en el siguiente link:
+  **[https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx](https://www.mtc.gob.pe/tramitesenlinea/tweb_tLinea/tw_consultadgtt/Frm_rep_intra_mercancia.aspx)**.
+- La placa del vehículo no puede contener guiones ni minúsculas.
+- En caso de elegir esta opción, tendrá que especificar la fecha de entrega al transportista.
 :::
 
-## Agregar producto
+## Agregar Producto:
 
-Para agregar el producto que va a trasladar
+1. Para agregar el producto a trasladar:
 
 ![Alt text](img/remisin3%20(1).jpg)
 
-- **Producto:** Ingresa el nombre del producto en descripción, selecciona, en caso desee crear un nuevo producto, selecciona el botón **Nuevo** y sigue los pasos en este [artículo](#Productos: Creación Básica).
-- **Cantidad:** Ingresa la cantidad del producto.
+   - **Producto:** Ingresa el nombre del producto en la descripción. Si necesitas crear uno nuevo, selecciona el botón **+Nuevo** y sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Creacion-basica).**
+   - **Cantidad:** Ingresa la cantidad del producto.
 
-Una vez completado los campos de producto, selecciona el botón Agregar, selecciona el botón **Generar**.
+2. Una vez completado, selecciona el botón **Agregar** y luego **Generar**.
 
-## Crear guía de remisión a partir de un comprobante
+---
 
-En este caso usaremos una factura desde la lista de comprobantes.
+## Crear Guía de Remisión a partir de un Comprobante
+
+**1. Si necesitas generar una guía de remisión a partir de una factura:**
+
+Ingresa al módulo de **VENTAS** en la subcategoría **Listado de Comprobantes**.
+
+Selecciona los tres puntos a la derecha de la factura en la lista de comprobantes y selecciona **Guía**.
 
 ![Alt text](img/remisin4.jpg)
 
-Selecciona los tres puntos de la parte derecha y seguido selecciona Guía. Nos redirigirá a Guías de remisión.
+2. Te redirigirá automáticamente a la sección de **Guías de Remisión**.
 
 ![Alt text](img/remisin5.jpg)
+![Alt text](img/remisin6.jpg)
 
-Algunos campos se completarán con la información de la factura.
+3. Algunos campos se completarán automáticamente con la información de la factura, y solo tendrás que completar los campos faltantes de la manera ya explicada anteriormente.
 
-Se rellenará los campos faltantes de la misma manera ya explicada anteriormente.
+---
