@@ -24,7 +24,7 @@ Se puede crear un comprobante con un día de retaso.
 - **Serie:** Establecido por defecto según el tipo de comprobante
 - **Tipo operación:** Seleccione la que más se adecue a la venta.
 - **Moneda:** Seleccione moneda en dólares americanos o Soles
-- Tipo de cambio: Es el tipo de cambio extraído por la SUNAT
+- **Tipo de cambio:** Es el tipo de cambio extraído por la SUNAT
 - **Fecha de emisión:** Es el día que se emite el comprobante
 - **Fecha de vencimiento:** Es el día que se tiene que pagar el comprobante.
 
