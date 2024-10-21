@@ -26,7 +26,9 @@ Todos los campos no mencionados son opcionales, según su necesidad.
 
 Una vez que los que los campos estén rellenados, selecciona el botón **Aceptar.**
 
-![Alt text](img/nota_de_ventas.jpg)
+
+![Alt text](img/Nota_venta_2.jpeg)
+
 
 Seguido, aparecerá un mensaje de comprobante registrado. Tendrá tres opciones:
 

@@ -14,6 +14,8 @@ En este artículo te ayudaremos a observar tu listado de comprobantes electróni
 - Pedidos
 - Compras
 - Cotización
+- G.R Remitente
+- G.R Trasportista
 
 ![Alt text](img/app_lista_de_comprobantes.jpeg)
 

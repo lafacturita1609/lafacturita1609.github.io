@@ -16,7 +16,7 @@ En este artículo te ayudaremos a generar una cotización desde la App Facturalo
 
 - **Añadir producto:** Selecciona el botón **Añadir producto**, aparecerá el **Listado de Productos**, elija el producto,puede agregar las cantidades; en la parte inferior derecha selecciona el botón con el icono del carrito de compras para añadir el producto. En caso desee agregar un nuevo producto, en la parte superior derecha selecciona el botón **"+"** ,y sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-un-producto)**.
 
-![Alt text](img/app5.jpeg)
+![Alt text](img/app20.jpeg)
 
 :::danger IMPORTANTE:
 
