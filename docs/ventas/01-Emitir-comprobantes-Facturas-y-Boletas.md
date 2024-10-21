@@ -108,6 +108,7 @@ Selecciona el tipo de condición de pago que mejor se acomode a tus requerimient
 
 ![Alt text](img/cond_02.jpg)
 
+
 - **Crédito a cuotas:** Deberá escoger la fecha de pago y el monto,asimismo también es factible añadir la cantidad de cuotas que requiera.
 
 ![Alt text](img/cond_03.jpg)
