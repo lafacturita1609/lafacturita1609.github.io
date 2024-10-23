@@ -1,4 +1,5 @@
-# Lo importante de realizar correctamente el usuario secundario
+# Importancia de Configurar Correctamente el Usuario Secundario
+
 
 Para pasar a demo a producción en el sistema de facturación se deben realizar configuraciones previas, lo puede ver más detallado en el siguiente artículo; una de esas configuraciones es crear el **usuario secundario**.
 

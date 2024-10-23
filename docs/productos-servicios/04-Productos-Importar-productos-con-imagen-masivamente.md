@@ -1,4 +1,4 @@
-# Productos: Importar productos con imagen masivamente
+# Importar productos con imagen masivamente
 
 En este artículo te enseñaremos a agregar imagenes a tus productos y puedas importarlas masivamente. Sigue estos pasos para realizarlo:
 

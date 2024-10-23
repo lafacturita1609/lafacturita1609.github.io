@@ -1,4 +1,5 @@
-# Productos: Listas de Precio Importar Masivamente
+# Importar Listas de Precio
+
 En esta área te ayudaremos a crear Listas de precios de manera masiva. Sigue estos pasos para realizarlo:
 
 Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría **Productos.** En la parte superior derecha selecciona el botón **Importar** después selecciona **L.Precios.**

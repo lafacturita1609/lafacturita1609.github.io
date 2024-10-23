@@ -1,4 +1,5 @@
-# ¿Con cuantos días de anterioridad se puede emitir un comprobante?
+# Días de Anticipación para Emitir Comprobantes
+
 
 En este artículo te enseñaremos a realizar comprobantes con días de anterioridad. Sigue estos pasos para realizarlo:
 

@@ -1,4 +1,5 @@
-# Productos: Actualizar precios importar masivamente
+# # Actualizar Precios de Productos
+
 
 En esta área te ayudaremos a actualizar los precios de tus productos de manera masiva. Sigue estos pasos para realizarlo:
 

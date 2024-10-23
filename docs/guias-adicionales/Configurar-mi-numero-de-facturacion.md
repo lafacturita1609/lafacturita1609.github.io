@@ -1,4 +1,5 @@
-# ¿Que hacer si me equivoque en configurar mi número de facturación?
+# Corregir Configuración del Número de Facturación
+
 
 En este artículo te enseñaremos a que realizar en caso la configuración de número de facturación fue errónea. Sigue estos pasos para realizarlo:
 

@@ -1,4 +1,5 @@
-# Emitir comprobane con descuento global
+# Comprobante con Descuento Global
+
 
 Los descuentos globales son reducciones de precio aplicadas a un conjunto de productos o a una transacción completa en lugar de artículos individuales, utilizados en el comercio para incentivar compras o liquidar inventario.
 

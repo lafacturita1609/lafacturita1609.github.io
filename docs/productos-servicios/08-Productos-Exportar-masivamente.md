@@ -1,4 +1,4 @@
-# Productos: Exportar masivamente
+# Exportar masivamente
 
 En esta área te ayudaremos a exportar productos de manera masiva. Sigue estos pasos para realizarlo:
 

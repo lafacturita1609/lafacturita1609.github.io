@@ -1,4 +1,5 @@
-# Movimientos libres de inventario
+# Movimientos de Inventario
+
 
 En esta área te ayudaremos a utilizar los diferentes botones dentro del **Listado de Inventario**. Sigue estos pasos para realizarlo:
 

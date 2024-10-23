@@ -1,4 +1,4 @@
-# Productos: Importar masivamente
+# Importar masivamente
 
 En esta área te ayudaremos a crear productos de manera masiva. Sigue estos pasos para realizarlo:
 

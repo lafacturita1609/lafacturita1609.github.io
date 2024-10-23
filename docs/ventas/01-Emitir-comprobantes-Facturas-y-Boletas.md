@@ -1,4 +1,5 @@
-# Emitir comprobantes: Facturas y Boletas
+# Emitir Facturas y Boletas
+
 
 En esta área podrás generar comprobantes electrónicos y crear nuevos clientes.Sigue estos pasos para realizarlo:
 

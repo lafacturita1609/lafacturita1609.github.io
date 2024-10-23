@@ -1,4 +1,4 @@
-# Configurar tipos de clientes
+# Tipos de clientes
 
 En este artículo podrás conocer cómo crear **Tipos de clientes.** Sigue estos pasos para realizarlo:
 

@@ -1,4 +1,4 @@
-# Lista de compras: Acciones
+# Lista de compras
 
 En este artículo podrás conocer cómo gestionar la lista de compras y otras funciones importantes. Sigue estos pasos para realizarlo:
 

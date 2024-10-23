@@ -1,4 +1,5 @@
-# La importancia de tener un usuario secundario para el sistema de facturación
+# Importancia de un Usuario Secundario en el Sistema de Facturación
+
 
 Los contribuyentes pueden crear usuarios adicionales en su Clave SOL para permitir a otros realizar trámites tributarios específicos en su nombre, sin tener acceso a todos sus datos tributarios. Debido a que la Clave SOL es la entrada a muchos trámites aduaneros y tributarios, las empresas necesitan delegar la responsabilidad de su ejecución a diferentes personas, incluso a terceros.
 

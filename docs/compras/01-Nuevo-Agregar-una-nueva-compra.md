@@ -1,4 +1,4 @@
-# Nuevo: Agregar una nueva compra
+# Nueva compra
 
 En esta artículo te ayudaremos a ingresar las compras realizadas. Sigue estos pasos para realizarlo:
 

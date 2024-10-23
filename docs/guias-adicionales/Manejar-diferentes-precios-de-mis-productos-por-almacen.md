@@ -1,4 +1,5 @@
-# ¿Cómo puedo manejar diferentes precios de mi producto con diferentes presentaciones por almacén?
+# Manejo de Precios por Presentación y Almacén
+
 
 En este artículo te enseñaremos a manejar diferentes precios de un producto con diferentes presentaciones. Sigue estos pasos para realizarlo:
 

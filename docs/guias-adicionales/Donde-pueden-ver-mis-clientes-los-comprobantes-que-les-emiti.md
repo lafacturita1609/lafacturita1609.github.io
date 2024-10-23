@@ -1,4 +1,5 @@
-# ¿Donde pueden ver mis clientes los comprobantes que le emití?
+# Visualización de Comprobantes para Clientes
+
 
 Para poder observar sus comprobantes recibidos.
 

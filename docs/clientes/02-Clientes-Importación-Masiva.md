@@ -1,4 +1,4 @@
-# Clientes: Importación Masiva
+# Importación Masiva
 
 En esta artículo te ayudaremos a crear **clientes de manera masiva**. Sigue estos pasos para realizarlo:
 
