@@ -37,3 +37,5 @@ Seguido, aparecerá un mensaje de comprobante registrado. Tendrá 3 opciones:
 - **Imprimir:** Al seleccionar esta opción podrá imprimir o guardar el comprobante electrónico en archivo PDF.
 - **Ir a listado:** Al seleccionar esta opción podrá dirigirse al módulo listado de comprobantes,
 - **Continuar:** Al seleccionar esta opción podrá seguir generando notas de venta.
+
+![Alt text](img/pedido3.jpg)

@@ -25,6 +25,9 @@ En caso desee crear un nuevo proveedor, en la parte superior derecha selecciona 
 
 - **Tipo Doc. Identidad:** Selecciona RUC,DNI.
 - **Número:** Ingresa el número que corresponde al tipo de documento Identidad. Después selecciona el botón SUNAT o RUC (esto depende de que tipo de documento selecciono), para que se autocomplete el nombre y la dirección.
+
+![Alt text](img/compra20app.jpg)
+
 - **Nombre comercial:**  Ingresa la denominación que identifica a la empresa.
 - **Teléfono:** Ingresa el teléfono del cliente.
 - **Correo electrónico:** Ingresa el correo electrónico del cliente.
