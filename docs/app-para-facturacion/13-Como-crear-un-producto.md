@@ -8,7 +8,7 @@ En este artículo te ayudaremos a crear productos desde la **App Factúralo.** S
 
 2. En la parte superior derecha selecciona el **"+" Nuevo.**
 
-![Alt text](img/app15.jpeg)
+![Alt text](img/app6.jpeg)
 
 3. Completar los siguientes datos:
 
@@ -18,6 +18,9 @@ En este artículo te ayudaremos a crear productos desde la **App Factúralo.** S
 - **Nombre:**  Ingresa el nombre del producto.
 - **Precio unitario (venta):** Ingresa el precio del producto.
 - **Interruptor IGV:** En caso el producto incluye **IGV**, déjelo activado.
+- **Categoria:** Perpite añadir una categoria al produccto.
+
+![Alt text](img/app30.jpeg)
 
 :::danger IMPORTANTE:
 

@@ -23,7 +23,6 @@ Selecciona la fecha de emisión del documento haciendo clic en el campo correspo
 ### **Fecha de Traslado:**
 Haz clic en el campo **Fecha de Traslado** y selecciona desde el calendario la fecha en la que se realizará el traslado. Esta fecha debe coincidir con los acuerdos realizados con el cliente.
 
-
 ---
 
 ## 3. Datos del Transportista:
@@ -50,8 +49,15 @@ Haz clic en **+ Documento Relacionado** para vincular documentos adicionales, co
 
 ## 6. Cliente y Punto de Llegada
 
-- **Cliente:** Selecciona el cliente desde la lista desplegable. Si deseas crear un nuevo cliente, selecciona el **"+"** en la parte superior.
-- **Punto de Llegada:** Elige el destino final del traslado.
+- **Cliente:** Selecciona el cliente desde la lista desplegable. Si deseas crear un nuevo cliente, selecciona el **"+"** en la parte superior, mas informacion de la creacion de un cliente en el siguiente **[articulo](https://fastura.github.io/documentacion/app-para-facturacion/Como-crear-cliente)**.
+- **Punto de Llegada:** Elige el destino final del traslado.  
+
+
+:::danger IMPORTANTE:
+
+Es posible añadir múltiples direcciones, las cuales se almacenarán en el historial del cliente para optimizar futuros procesos de envío. Esta funcionalidad permite seleccionar rápidamente destinos ya registrados, reduciendo duplicaciones y errores en los datos. Además, facilita la planificación de rutas al tener todas las direcciones asociadas al cliente en un único lugar.
+
+:::
 
 ---
 
@@ -69,7 +75,6 @@ Después de completar todos los campos necesarios, selecciona el botón **Acepta
 
 ![Guardar Guía](img/guardar_guia.jpeg)
 
-
 ---
 
 :::danger IMPORTANTE:
@@ -86,4 +91,3 @@ Una vez registrada la guía de remisión, tendrás las siguientes opciones:
 - **Imprimir:** Permite imprimir o guardar el documento en PDF.
 - **Ir a Listado:** Dirige al módulo de listado de guías de remisión.
 - **Continuar:** Permite seguir generando guías adicionales.
-

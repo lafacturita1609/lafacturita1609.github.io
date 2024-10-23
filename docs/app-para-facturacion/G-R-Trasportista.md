@@ -64,6 +64,10 @@ Selecciona al **Destinatario** del envío desde la lista de clientes disponibles
 ### **Punto de Llegada:**
 Selecciona el punto de llegada donde se entregará la mercancía.
 
+:::danger IMPORTANTE:
+- Las direcciones ingresadas se guardan automáticamente en el perfil del cliente para futuros envíos, facilitando la selección en nuevas guías.
+:::
+
 ----
 
 ## 8. Añadir Productos:
