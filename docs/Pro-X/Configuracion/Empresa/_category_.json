@@ -1,0 +1,9 @@
+{
+  "label": "Configuración - Empresa",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "prox-x Empresa",
+    "description": "Documentacion del Pro-X - Empresa"
+  }
+}
