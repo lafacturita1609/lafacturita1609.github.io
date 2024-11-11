@@ -43,4 +43,3 @@ La sección **Series** permite gestionar los números de serie asociados a produ
 
 ---
 
-Con estas opciones, podrás gestionar eficazmente las series de productos, asegurando un control preciso sobre el inventario y facilitando el seguimiento individual de cada unidad.

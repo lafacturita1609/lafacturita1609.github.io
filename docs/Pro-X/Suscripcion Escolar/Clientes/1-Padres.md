@@ -112,5 +112,3 @@ Después de crear un cliente, podrás visualizar sus datos en la lista de client
 - **Inhabilitar Cliente:** Si un cliente ya no requiere acceso o uso del sistema, puedes optar por inhabilitarlo. Esto mantendrá el historial del cliente en el sistema sin permitirle acceso.
 
 ---
-
-Esta es la documentación detallada del proceso de creación y administración de clientes en el sistema. Si necesitas más ayuda con alguna sección o una explicación adicional, ¡no dudes en decírmelo!

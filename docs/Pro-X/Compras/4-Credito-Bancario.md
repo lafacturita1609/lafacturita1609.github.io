@@ -84,4 +84,3 @@ En esta sección, puedes ver el historial de todos los préstamos bancarios regi
 
 ---
 
-Esta estructura permite organizar la sección de **Crédito Bancario** en el sistema de administración de manera clara y completa, detallando cada campo y función del formulario para la creación y gestión de préstamos bancarios.

@@ -72,5 +72,3 @@ Los campos a llenar son obligatorios
 :::
 
 ---
-
-Esta documentación cubre los aspectos básicos y funcionales de la sección **Solicitar Cotización**, proporcionando una guía clara y concisa sobre cómo utilizar esta herramienta en el sistema.

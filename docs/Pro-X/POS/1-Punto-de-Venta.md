@@ -62,4 +62,3 @@ El sistema permite la generación de comprobantes de venta en formato de ticket,
 
 ---
 
-Este módulo facilita la gestión de ventas rápidas y el control de inventario en tiempo real, permitiendo al personal de ventas concentrarse en la atención al cliente y la eficiencia operativa.

@@ -42,4 +42,3 @@ La sección **Marcas** permite gestionar las marcas asociadas a los productos y 
 - **Eliminar**: Borra la marca de la lista (esta acción es irreversible).
 
 
-Con estas opciones, podrás gestionar eficientemente las marcas en la plataforma, mejorando la organización de los productos y servicios.

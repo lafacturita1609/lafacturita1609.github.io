@@ -84,4 +84,3 @@ Para más detalles sobre cómo generar una guía de remisión, consulta el artí
 
 ---
 
-Esta estructura organiza la sección de Compras en el módulo de administración de manera clara y completa, detallando cada campo y función del formulario de "Nuevo" en **Compras**.

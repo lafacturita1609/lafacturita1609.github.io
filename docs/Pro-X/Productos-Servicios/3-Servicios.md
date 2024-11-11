@@ -86,4 +86,3 @@ La sección **Servicios** permite gestionar servicios ofrecidos por la empresa, 
 
    ![Acciones de Gestión](img/servicios_acciones.jpg)
 
-Con estos pasos, podrás gestionar eficientemente los servicios ofrecidos por la empresa en la plataforma.

@@ -64,4 +64,4 @@ Después de generar la compra, recibirás una confirmación del registro, que in
 
 ---
 
-Con estos pasos, podrás gestionar de manera detallada cada compra de activos fijos en el sistema, optimizando la administración de los activos de tu empresa en el módulo de **Compras > Activos Fijos**.
+

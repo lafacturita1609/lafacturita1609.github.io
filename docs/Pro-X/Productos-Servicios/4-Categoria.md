@@ -35,4 +35,3 @@ La sección **Categorías** permite gestionar las diferentes categorías de prod
 - **Eliminar**: Borra la categoría de la lista (esta acción es irreversible).
 
 
-Con estas opciones, podrás gestionar eficientemente las categorías en la plataforma, facilitando la organización de productos y servicios.

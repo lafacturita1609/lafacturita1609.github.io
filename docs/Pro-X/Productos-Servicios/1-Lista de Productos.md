@@ -175,4 +175,3 @@ Una vez completados todos los campos necesarios, selecciona **Guardar** para reg
 
 ---
 
-Con estos pasos, podrás configurar de manera detallada cada producto en el sistema, optimizando su administración en el módulo de **Productos/Servicios** según las necesidades específicas de tu negocio.

@@ -46,4 +46,3 @@ La lista de **Hijos** permite ver y gestionar la información de cada hijo regis
 
 ---
 
-Esta es la documentación detallada del proceso de creación y administración de hijos en el sistema. Si necesitas más ayuda con alguna sección o una explicación adicional, ¡no dudes en decírmelo!

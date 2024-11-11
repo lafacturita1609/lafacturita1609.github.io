@@ -156,4 +156,4 @@ Permite trasladar productos de un almacén a otro. Define el almacén de origen 
 
 ---
 
-Con esta guía detallada, se optimiza el control y monitoreo de los movimientos de inventario en cada almacén, asegurando una gestión eficiente y precisa de los productos en la plataforma.
+

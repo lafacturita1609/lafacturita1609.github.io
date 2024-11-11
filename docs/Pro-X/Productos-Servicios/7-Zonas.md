@@ -45,4 +45,3 @@ La sección **Zonas** permite gestionar las diferentes zonas geográficas o áre
 ## **5. Eliminar una Zona**
 - Para eliminar una zona, haz clic en el botón **Eliminar** en la columna de **Acciones**. Ten en cuenta que esta acción es irreversible.
 
-Con estas opciones, podrás gestionar eficientemente las zonas geográficas en la plataforma, facilitando la organización de productos, servicios o clientes por ubicación.

@@ -73,4 +73,3 @@ Esta sección permite gestionar productos compuestos, también conocidos como "p
 
    ![Acciones de Gestión](img/productos_compuestos_acciones.jpg)
 
-Con estos pasos, podrás gestionar eficientemente los productos compuestos en la plataforma, permitiéndote ofrecer conjuntos de productos personalizados a tus clientes.
