@@ -45,7 +45,8 @@ QZ-Tray es una herramienta esencial que permite la impresión directa desde apli
 
 ### Carga de Certificados
 
-1. Acceda a su aplicación web y navegue hasta la sección **DEMO**
+1. Acceda a configuración de empresa, desde **Configuración y más**, **Configuraciones Globales**, seguido **Empresa- Empresa**
+
 2. Localice la opción **Certificado QZ-Tray**
 
 ![Acceso a Demo](img/Demo_QZ.PNG)
