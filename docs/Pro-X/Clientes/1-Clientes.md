@@ -112,7 +112,3 @@ Cada cliente registrado en el sistema permite realizar múltiples acciones para 
 
 
 ---
-
-## Conclusión
-
-La sección **Clientes** te ofrece una gestión centralizada y eficiente de tu base de clientes. Con opciones de importación, exportación, registro y búsqueda avanzada, podrás mantener toda la información organizada y al día para facilitar tus operaciones comerciales.

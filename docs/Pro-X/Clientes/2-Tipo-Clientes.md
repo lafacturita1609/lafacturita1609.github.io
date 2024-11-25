@@ -53,7 +53,4 @@ En esta pantalla encontrarás los tipos de clientes registrados, con las siguien
 
 ---
 
-## Conclusión
-
-La gestión de tipos de clientes te permite organizar mejor a tus clientes, facilitando la administración y el seguimiento de los diferentes perfiles. Esta funcionalidad asegura que puedas adaptar tus procesos comerciales a las necesidades específicas de cada grupo de clientes.
 
