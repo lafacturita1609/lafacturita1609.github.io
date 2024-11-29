@@ -52,5 +52,5 @@ Para agregar una nueva maquinaria, haz clic en el botón **Nuevo**. Esto abrirá
 - **Cancelar**: Cierra el formulario sin guardar cambios.  
 - **Guardar**: Al hacer clic, se guardará la nueva entrada en el listado de maquinaria.  
 
-Para más información sobre cómo gestionar los **tipos de maquinaria**, visualice el siguiente **[artículo](#)**.  
+Para más información sobre cómo gestionar los **tipos de maquinaria**, visualice el siguiente **[artículo](https://fastura.github.io/documentacion/Pro-X/Produccion/Tipos-de-Maquinaria)**.  
 
