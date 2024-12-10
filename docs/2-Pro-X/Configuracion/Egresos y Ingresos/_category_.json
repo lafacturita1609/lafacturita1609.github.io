@@ -1,0 +1,9 @@
+{
+  "label": "Ingresos/Egresos",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "ingresos/egresos Pro-X",
+    "description": "Ingresos/Egresos"
+  }
+}
