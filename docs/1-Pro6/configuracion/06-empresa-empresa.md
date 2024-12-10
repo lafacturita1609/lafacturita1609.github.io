@@ -60,7 +60,7 @@ empresa. Para generarla puede utilizar herramientas externas como: **[https://ww
 
 * Para realizar impresiónes directamente desde aplicaciones web hacia impresoras conectadas localmente.
 * Esta funcionalidad elimina la necesidad de cuadros de diálogo y configuraciones adicionales, facilitando la impresión automatizada de tickets, etiquetas y otros documentos.
-* Como realizar la configuracion **[Aquí](guias-adicionales\Generar-Certificado-QZ-Tray.md)**.
+* Como realizar la configuracion **[Aquí](https://fastura.github.io/documentacion/guias-adicionales/Generar-Certificado-QZ-Tray)**.
 
 ## 4.  Firma digital PSE
 
