@@ -1,4 +1,4 @@
-## Estadísticas de Trámites  
+# Estadísticas de Trámites  
 
 La sección de **Estadísticas de Trámites** proporciona un resumen detallado de los trámites documentales en un período específico. A continuación, se detalla cómo acceder a esta funcionalidad, realizar búsquedas y leer los resultados.  
 

@@ -1,4 +1,4 @@
-## Listado de Trámites  
+# Listado de Trámites  
 
 La sección de **Listado de Trámites** permite gestionar y visualizar todos los trámites documentales registrados en el sistema. A continuación se explican las funcionalidades disponibles y los pasos para buscar, agregar y administrar trámites.  
 
