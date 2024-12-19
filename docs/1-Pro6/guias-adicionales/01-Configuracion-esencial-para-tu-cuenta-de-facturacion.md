@@ -53,7 +53,7 @@ Para descargarlos sigue los pasos en este  **[video](https://www.youtube.com/wat
 
 Se requiere configurar el validador de documentos para que ante cualquier eventualidad con SUNAT se puedan regularizar el estado de sus comprobantes. Sigue los pasos en este **[video](https://www.youtube.com/watch?v=6YqtOrIjaDY&t=3s&ab_channel=DigitalBuho)**. Agrega los token como en la imagen mostrada.
 
-![Alt text](../configuracion/img/datosempresaa4.jpg)
+![Alt text](img/datosempresaa4.jpg)
 
 ## 3. Configuración para las guías electrónicas
 
