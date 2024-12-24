@@ -171,3 +171,9 @@ button.aa-DetachedSearchButton {
     border-right: none !important;
   }
 }
+
+
+.theme-doc-version-banner{
+
+display: none;
+}

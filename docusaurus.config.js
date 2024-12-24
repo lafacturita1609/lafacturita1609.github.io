@@ -38,8 +38,19 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          // sidebarPath: require.resolve('./sidebars.js'),
-          routeBasePath: '/'
+          routeBasePath: '/',
+          includeCurrentVersion: false,
+          lastVersion: 'prox',
+          versions: {
+            prox: {
+              label: 'Pro X',
+              path: 'prox',
+            },
+            pro6: {
+              label: 'Pro 6',
+              path: 'pro6',
+            }
+          },
         },
         // blog: false,
         theme: {
@@ -48,8 +59,39 @@ const config = {
       }),
     ],
   ],
-  plugins: [
-    'plugin-image-zoom',
+  plugins: [  
+    // Plugin para la documentación "Prox"  
+    /*[  
+      '@docusaurus/plugin-content-docs',  
+      {  
+        id: 'Prox', // ID único  
+        path: 'Prox',  
+        routeBasePath: 'Prox',  
+        sidebarPath: require.resolve('./proxsidebar.js'),   
+      },  
+    ],  
+    
+    // Plugin para la documentación "Pro 6"  
+    [  
+      '@docusaurus/plugin-content-docs',  
+      {  
+        id: 'Pro6', // ID único  
+        path: 'Pro6',  
+        routeBasePath: 'Pro6',  
+        sidebarPath: require.resolve('./pro6sidebar.js'),  
+      },  
+    ],*/
+    [  
+      'plugin-image-zoom',   
+      {   
+      },  
+    ],  
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      ({
+        hashed: true,
+      }),
+    ],  
   ],
 
   themeConfig:
@@ -64,18 +106,14 @@ const config = {
           src: 'img/fastura.svg',
         },
         items: [
-          // {
-          //   type: 'docSidebar',
-          //   sidebarId: 'tutorialSidebar',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {type: 'docsVersionDropdown',},
+          //{to: '/pro6', label: 'Pro 6', position: 'left'},
+          //{to: '/prox', label: 'Pro X', position: 'left'},
+          //{
+          // href: 'https://github.com/facebook/docusaurus',
+          // label: 'GitHub',
+          // position: 'right',
+          //},
         ],
       },
       footer: {
@@ -129,6 +167,7 @@ const config = {
       },
       theme: {
         customCss: require.resolve('./src/css/custom.css'),
+        
       },
       imageZoom: {
         selector: '.markdown img',
