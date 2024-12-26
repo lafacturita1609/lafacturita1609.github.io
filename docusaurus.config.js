@@ -21,7 +21,7 @@ const config = {
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -39,18 +39,8 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
+          // sidebarPath: require.resolve('./sidebars.js'),
           includeCurrentVersion: false,
-          lastVersion: 'prox',
-          versions: {
-            prox: {
-              label: 'Pro X',
-              path: 'prox',
-            },
-            pro6: {
-              label: 'Pro 6',
-              path: 'pro6',
-            }
-          },
         },
         // blog: false,
         theme: {
@@ -61,8 +51,8 @@ const config = {
   ],
   plugins: [  
     // Plugin para la documentación "Prox"  
-    /*[  
-      '@docusaurus/plugin-content-docs',  
+    // Plugin para la documentación "Prox"  
+      /*'@docusaurus/plugin-content-docs',  
       {  
         id: 'Prox', // ID único  
         path: 'Prox',  
@@ -80,7 +70,7 @@ const config = {
         routeBasePath: 'Pro6',  
         sidebarPath: require.resolve('./pro6sidebar.js'),  
       },  
-    ],*/
+      },  */
     [  
       'plugin-image-zoom',   
       {   

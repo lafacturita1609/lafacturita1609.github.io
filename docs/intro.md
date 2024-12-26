@@ -23,9 +23,9 @@ No te olvides que más adelante deberás terminar de configurar los siguientes p
 ### Lista de Categorías
 Te recomendamos que visites los artículos más importantes para tu negocios:
 - [Ventas](ventas)
-- [POS](./pro6/pos)
+- [POS](pro6/pos)
 - [Tienda Virtual](tienda-virtual)
-- [Productos y Servicios](.productos-servicios)
+- [Productos y Servicios](productos-servicios)
 - [Clientes](clientes)
 - [Compras](compras)
 - [Inventario](inventario)
