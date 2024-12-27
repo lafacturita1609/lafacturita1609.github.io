@@ -1,4 +1,4 @@
-# Configuración
+# Inicio: Configuración
 
 La sección de **Configuración** permite gestionar todos los aspectos relacionados con la operación del sistema. Está organizada en varias áreas para facilitar la administración de configuraciones generales, empresa, SUNAT, y más.
 
