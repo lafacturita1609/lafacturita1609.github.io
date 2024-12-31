@@ -107,7 +107,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Documentación',
+        title: 'Fastura',
         logo: {
           alt: 'Documentación de facturación',
           src: 'img/fastura.svg',
