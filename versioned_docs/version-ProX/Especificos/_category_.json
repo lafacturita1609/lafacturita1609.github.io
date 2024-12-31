@@ -1,0 +1,9 @@
+{
+    "label": "Específicos",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "slug": "especificos-x",
+      "description": "Obtén detalles sobre los módulos específicos."
+    }
+  }
