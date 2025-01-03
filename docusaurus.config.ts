@@ -65,8 +65,8 @@ const config: Config = {
     ],
   ],
 
-  /*plugins: [
-    [
+  plugins: [
+    /*[
       '@docusaurus/plugin-content-docs',
       {
         id: 'prox',
@@ -83,8 +83,9 @@ const config: Config = {
         sidebarPath: require.resolve('./pro6.ts'),
         includeCurrentVersion: true,  // Asegúrate de incluir la versión actual
       },
-    ],
-  ],*/
+    ],*/
+    'plugin-image-zoom',
+  ],
 
   themes: [
     // ... Your other themes.
@@ -177,6 +178,10 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
+    },
+    imageZoom: {
+      // CSS selector to apply the plugin to, defaults to '.markdown img'
+      selector: '.markdown img',
     },
     scripts: [
       {
