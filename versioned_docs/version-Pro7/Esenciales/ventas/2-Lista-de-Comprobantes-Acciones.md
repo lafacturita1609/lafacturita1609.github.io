@@ -82,7 +82,6 @@ Puedes descargar los comprobantes en diferentes formatos:
 
 - **XML,** un archivo encriptado emitido por SUNAT(✓)
 - **PDF,** archivo pdf del documento seleccionado (✓)
-- **CDR,** constancia de recepción  emitido por SUNAT(✓)
 
 ![Alt text](img/9_comprobantes_de_sunat.jpg)
 
@@ -90,7 +89,7 @@ Puedes descargar los comprobantes en diferentes formatos:
 
 ![Alt text](img/12_3puntitos.jpg)
 
-- **Guía:** En esta sección podrás emitir guías de remisión y quedarán enlazadas con el comprobante, asimismo se completaran automáticamente los campos Cliente y Productos.
+- **Guía:** En esta sección seras rediccionado al modulo **Guias de Remision** donde podrás emitir guías de remisión y quedarán enlazadas con el comprobante, asimismo se completaran automáticamente los campos Cliente y Productos.
 
 ![Alt text](img/13_guia_de_remision.jpg)
 

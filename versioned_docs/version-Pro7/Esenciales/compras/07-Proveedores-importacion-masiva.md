@@ -16,8 +16,6 @@ Se descargará un archivo en formato excel.
 
 En este archivo tendrá que completar los siguientes campos:
 
-![Alt text](img/provedores5.jpg)
-
 1. **Código documento de identidad:** Ingresa el código según corresponda.
 
 - 1 para DNI

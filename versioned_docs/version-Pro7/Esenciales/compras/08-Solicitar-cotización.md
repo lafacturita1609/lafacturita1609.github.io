@@ -1,4 +1,4 @@
-# Proveedores: Solicitar cotización
+# Solicitar cotización
 
 En esta área te ayudaremos a solicitar una cotización a tus proveedores. Sigue estos pasos para realizarlo:
 
@@ -31,3 +31,27 @@ Complete los siguientes campos:
 Luego presione el botón **Agregar**, observará los productos añadidos en el comprobante.
 
 Finalmente presione el botón **Generar**. Podrá imprimir el comprobante si así lo desea.
+ 
+## Listado de Cotizaciones
+
+![Alt text](img/proveedores10_listado.jpg)
+
+### Filtrar por  
+
+1. **Filtro de búsqueda:** Permite buscar por **Fecha de emisión**. Ingrese la fecha deseada para filtrar las cotizaciones.  
+
+### Tabla de Cotizaciones    
+  
+- **Fecha Emisión:** Muestra la fecha en la que se emitió cada cotización. Esta información es clave para el seguimiento. `[2]`  
+  
+- **Estado:** Refleja el estado de la cotización, indicando si está **Registrado** u otro. `[3]`  
+  
+- **Documento:** Indica el número de documento asociado a la cotización, como **COTC-1** o **COTC-2**. `[4]`  
+  
+- **Descarga:** Proporciona una opción de descarga en formato **PDF** para cada cotización. `[5]`  
+
+### Acciones  `[5]` 
+
+- **Generar OC:** Permite generar una orden de compra a partir de la cotización seleccionada.  
+- **Editar:** Opción para editar la cotización si es necesario.  
+- **Opciones:** Ofrece opciones adicionales para gestionar la cotización.

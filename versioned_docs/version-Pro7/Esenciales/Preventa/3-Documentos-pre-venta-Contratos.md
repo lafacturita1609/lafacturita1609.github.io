@@ -15,30 +15,18 @@ Se encontrará el formulario de contrato y se completarán los siguientes datos:
 
 ![Alt text](img/33_contratos.jpg)
 
-**1. Datos del cliente**
+**Datos del cliente**
 Se deben añadir los siguientes campos:
 
-- **Cliente:** Ingresa el cliente  para la creación de la oportunidad.
-- **Fec. Emisión:** Es la fecha en la que se expide un contrato.
-- **Fec. Vencimiento:** Es la fecha en la que se culmina un contrato.
-- **Fec. Entrega:** Es la fecha en la que se entrega el servicio/producto.
-- **Dirección de envío:** Coloca la dirección del destinatario.
-- **Término de pago:** Selecciona la opción que más se amolde a sus requerimientos
-- **Número de cuenta:** Añada el número de cuenta donde se realizarán los depósitos bancarios.
-- **Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles
-- **Vendedor:** Nombre del vendedor
-- **Descripción:** Añada alguna descripción o carácterística del servicio/producto.
+- **1. Cliente:** Ingresa el cliente  para la creación de la oportunidad.
+- **2. Fec. Emisión:** Es la fecha en la que se expide un contrato.
+- **3. Fec. Vencimiento:** Es la fecha en la que se culmina un contrato.
+- **4. Fec. Entrega:** Es la fecha en la que se entrega el servicio/producto.
+- **5. Término de pago:** Selecciona la opción que más se amolde a sus requerimientos
+- **6. Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles
+- **7. Tipo de cambio:** Indica el tipo de cambio aplicable.
 
-**2. Métodos de pago:**
-Se deben añadir los siguientes campos:
-
-- **Método de pago:** Selecciona la opción que más se amolde a sus requerimientos
-- **Destino:**Ubicación donde ingresará el dinero.
-- **Referencia:** Campo de texto, podría colocar el # operación de la transferencia.
-- **Monto:** Cantidad de pago.
-- **[+Agregar]:** Puede añadir otros métodos de pago.
-
-**3. Agregar producto:**
+**8. Agregar producto:**
 Posteriormente selecciona el botón **Agregar producto** y encontrará el formulario de **Agregar producto o servicio**.
 
 ![Alt text](img/3_oport.jpg)
@@ -53,9 +41,29 @@ Después selecciona el botón **Agregar**, donde visualizará la descripción de
 
 ![Alt text](img/4_contratos.jpg)
 
+**9. Informacion adicional**
+Campos de informacion adicionales:
+![alt text](<Captura de pantalla 2025-01-04 110452.png>)
+
+- **Vendedor:** Nombre del vendedor
+- **Descripción:** Añada alguna descripción o carácterística del servicio/producto.
+- **Número de cuenta:** Añada el número de cuenta donde se realizarán los depósitos bancarios.
+- **Dirección de envío:** Coloca la dirección del destinatario.
+
+**Métodos de pago:**
+Se deben añadir los siguientes campos:
+
+![alt text](<Captura de pantalla 2025-01-04 110537-1.png>)
+
+- **Método de pago:** Selecciona la opción que más se amolde a sus requerimientos
+- **Destino:** Ubicación donde ingresará el dinero.
+- **Referencia:** Campo de texto, podría colocar el # operación de la transferencia.
+- **Monto:** Cantidad de pago.
+- **[+Agregar]:** Puede añadir otros métodos de pago.
+
 Asimismo, completados estos pasos, procede a seleccionar el boton **Generar** y se creará el contrato.
 
-Por consiguiente, aparecerá una ventana de la **oportunidad registrada**, donde tendrá la opción de imprimir o descargar en formato A4.
+Por consiguiente, aparecerá una ventana de la **Contrato registrado**, donde tendrá la opción de imprimir o descargar en formato A4.
 
 ![Alt text](img/5_contratos.jpg)
 
@@ -71,6 +79,10 @@ Contaremos con las siguientes opciones o botones:
 - **Opciones:** Permite imprimir o descargar la oportunidad en formato A4.
 
 ## Órdenes de producción
+
+Para listar las ordenas de produccion, seleccione el boton **Listar Ordenes de Produccion**
+
+![Alt text](img/70_contratos.jpg)
 
 En esta sección se visualizarán todos los contratos que tengan una fecha estimada de entrega.
 

@@ -18,27 +18,13 @@ Ingresa al módulo de **Ventas** y luego selecciona la subcategoría Cotizacione
 
 **3. Tiempo de Validez:** Una referencia al tiempo que dura la cotización generada.
 
-**4. Tiempo de Entrega:** Una referencia de cuando se realizará la entrega del producto o el servicio.
+**4. Término de pago:** Seleccione el tipo de condición de pago que mejor se acomode a tus requerimientos.
 
-**5. Dirección de envío:** Se autocompletará con la dirección adicional del cliente seleccionado.
+**5. Moneda:** Podrá seleccionar si desea el pago sea en dólares o soles.
 
-**6. Término de pago:** Seleccione el tipo de condición de pago que mejor se acomode a tus requerimientos.
+**6. Tipo de cambio:** El tipo de cambio varía según la SUNAT.
 
-**7. Número de cuenta:** Inserte su número de cuenta donde desee que le depositen el dinero.
-
-**8. Moneda:** Podrá seleccionar si desea el pago sea en dólares o soles.
-
-**9. Tipo de cambio:** El tipo de cambio varía según la SUNAT.
-
-**10. Vendedor:** El vendedor que se está realizando la cotización.
-
-**11. Pagos:** En caso el cliente quisiera hacer un adelanto al monto de la cotización.
-
-**13. Información Adicional:** En esta área podrá  agregar información adicional de la cotización.
-
-![Alt text](img/Coti3.jpg)
-
-**14. Agregar productos:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
+**7. Agregar productos:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
 
 Después selecciona el botón Generar y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 
@@ -114,6 +100,8 @@ En esta sección podrás reimprimir la cotización, de la misma manera podrá de
 
 **6. Botones de Acción**
 Se encontrará una sección de botones, con las siguientes funciones
+
+![Alt text](img/botones_acciones.png)
 
 - **Generar comprobante:** Genera  un comprobante electrónico (Factura o Boleta).
 

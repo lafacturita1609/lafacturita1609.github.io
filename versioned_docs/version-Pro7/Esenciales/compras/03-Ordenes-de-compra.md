@@ -14,26 +14,21 @@ Se encontrará el formulario de la solicitud de orden compra y se completarán l
 
 ![Alt text](img/3_ordenes.jpg)
 
-1. **Datos del proveedor:**
+## Orden de Compra  
 
-Se deben añadir los siguientes campos:
+### 1. Datos del proveedor  
 
-- **Proveedor:** Ingresa el proveedor para la creación de la nueva compra.
-- **Fec Emisión:** Es la fecha en la que se expide un documento.
-- **Fec Vencimiento:** Es la fecha en la que se culmina un contrato.
-- **Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles.
+- **Proveedor:** Ingresa el proveedor para la creación de la nueva compra. `[1]`  
+- **Fec Emisión:** Es la fecha en la que se expide un documento. `[2]`  
+- **Fec Vencimiento:** Es la fecha en la que se culmina un contrato. `[3]`  
+- **Forma de pago:** Selecciona la opción que más se amolde a sus requerimientos. `[4]`  
+- **Moneda:** Selecciona el tipo de moneda en dólares americanos o Soles. `[5]`  
+- **Tipo de cambio:** Es el tipo de cambio del día, extraído de SUNAT. `[6]`  
+- **Seleccione un archivo (PDF/JPG):** Selecciona un archivo que se adjuntará con la orden de compra. `[7]`  
 
-2. **Métodos de pago:**
+### 2. Agregar producto  
 
-Se deben añadir los siguientes campos:
-
-- **Forma de pago:** Selecciona la opción que más se amolde a sus requerimientos.
-- **Tipo de cambio:** Es el tipo de cambio del día, extraído de SUNAT.
-- **Seleccione un archivo(PDF/JPG):** Selecciona un archivo que se adjuntará con la orden compra.
-
-3. **Agregar producto:**
-
-Posteriormente selecciona el botón **Agregar producto** y encontrará el formulario de **Agregar producto o servicio.**
+Posteriormente, selecciona el botón **Agregar producto** para encontrar el formulario de **Agregar producto o servicio.** `[8]`
 
 ![Alt text](img/3_ordenes.png)
 

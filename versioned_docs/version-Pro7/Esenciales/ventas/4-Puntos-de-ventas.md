@@ -30,11 +30,13 @@ Nos redirigirá a otra ventana:
 
 11. Podrás aplicar el descuento seleccionando el botón deslizable **aplicar descuento,** luego añade el monto o cantidad de descuento
 
-12. Podrás agregar el tipo de pago o añadir el monto en efectivo
+12. Podrás aplicar el N° de Placa al producto
 
-13. En esta sección se visualizará el subtotal, igv y el total a pagar
+13. Podrás agregar el tipo de pago o añadir el monto en efectivo
 
-14. Un vez se hayan realizado los pasos anteriores, podrá proceder a pagar o cancelar.
+14. En esta sección se visualizará el subtotal, igv y el total a pagar
+
+15. Un vez se hayan realizado los pasos anteriores, podrá proceder a pagar o cancelar.
 
 Posteriormente al seleccionar el botón **Pagar,** aparecerá una nueva venta indicando que la venta ha sido exitosa.
 

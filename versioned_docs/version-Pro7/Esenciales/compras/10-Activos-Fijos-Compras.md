@@ -1,4 +1,4 @@
-# Activos fijos: Compras
+# Comprar activo fijo
 
 En esta área te ayudaremos a ingresar tus activos fijos de compras. Sigue estos pasos para realizarlo:
 

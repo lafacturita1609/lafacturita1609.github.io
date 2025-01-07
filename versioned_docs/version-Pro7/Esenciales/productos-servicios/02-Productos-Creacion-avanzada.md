@@ -89,6 +89,8 @@ Insertar el código si la **SUNAT** lo requiere.
 
 **28.  Sujeto a detracción:** Selecciona la casilla si el producto está sujeto a detracción.
 
+**29.  ¿Se puede canjear puntos?:** Selecciona la casilla si el producto está sujeto a canje de puntos.
+
 ## Sección almacenes
 
 Podrá colocar diferentes precios del producto según el almacén.Es decir el mismo producto podrá tener diferentes precios en diferentes almacenes.
@@ -120,13 +122,10 @@ Selecciona la **casilla de confirmación** si desea agregar el producto.
 
 Deberá escribir el nombre de la categoría que desee crear y después seleccionar el botón  **[+Guardar].**
 
-![Alt text](img/Creacion-avanzada_07.jpg)
-
 **3.  Marca:** Selecciona la marca del producto, caso contrario deberá crearlo seleccionando el botón **[+Nuevo].**
 
 Deberá escribir el nombre de la marca que desee crear y después seleccionar el botón  **[+Guardar].**
 
-![Alt text](img/Creacion-avanzada_08.jpg)
 **4.  Listado:** Selecciona el botón **[+Agregar]** para agregar una lista de atributos, selecciona el tipo y añada una descripción si lo cree necesario.
 
 ## Sección compra
@@ -140,6 +139,8 @@ Deberá escribir el nombre de la marca que desee crear y después seleccionar el
 **3.  Aplica ganancia:** Selecciona la casilla de selección si desea sacar un porcentaje de ganancia; seguido inserte el porcentaje de ganancia que desee adquirir.
 
 **4.  Incluye ISC (Impuesto selectivo al consumo):** Selecciona la casilla de selección si **corresponde a su rubro**.Seguido selecciona el Tipo de sistema **ISC**; el porcentaje **ISC.**
+
+**5.  Porcentaje ganancia:** Inserta el porcentaje de ganancia del producto.
 
 Después selecciona el botón **Guardar**, y se observará el Listado de productos, donde podrá visualizar su producto agregado.
 

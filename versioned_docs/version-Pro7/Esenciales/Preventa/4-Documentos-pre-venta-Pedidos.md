@@ -22,17 +22,11 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 
 4. **Fec.Entrega:** Colocar la fecha en la que se entregará el pedido.
 
-5. **Dirección de envío:** Colocar la dirección en la que se realizará el pedido.
+5. **Moneda:** Podrá seleccionar si desea el pago en dólares o soles.
 
-6. **Término de pago:** Seleccione el tipo de condición de pago que mejor se acomode a tus requerimientos.
+6. **Tipo de cambio:** El tipo de cambio varía según la SUNAT.
 
-7. **Moneda:** Podrá seleccionar si desea el pago en dólares o soles.
-
-8. **Tipo de cambio:** El tipo de cambio varía según la SUNAT.
-
-9. **Observación:** Si desea colocar alguna observación acerca del pedido.
-
-10. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
+7. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
 
 Después selecciona el botón **Generar** y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 

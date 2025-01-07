@@ -10,7 +10,7 @@ Ingresa al **módulo de ventas** y luego selecciona subcategoría **comprobantes
 
 En esta sección podrá empezar con la creación de su comprobante electrónico y realizar otras importantes configuraciones.
 
-![Alt text](img/22_em.jpg)
+![Alt text](img/22_em_1.jpg)
 
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
@@ -37,7 +37,7 @@ Puede emitir boletas electrónicas por montos menores a 700 soles con el cliente
 **2. Crear nuevo cliente**
 En esta sección escogerá el cliente para la creación del comprobante, caso contrario deberá crearlo seleccionando el botón **[+Nuevo]**.
 
-![Alt text](img/33_em.jpg)
+![Alt text](img/33_em_1.jpg)
 
 Posteriormente aparecerá el formulario de **Nuevo cliente**.
 

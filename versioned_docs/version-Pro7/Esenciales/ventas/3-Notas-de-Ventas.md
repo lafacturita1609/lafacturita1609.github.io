@@ -22,20 +22,21 @@ Colocar la fecha de emisión
 **3. Fecha de vencimiento**
 Colocar fecha de vencimiento.
 
-**4. Tipo periodo**
-Si es un monto recurrente se selecciona si es anual o mensual, caso contrario sea un caso único no se selecciona nada.
-
-**5. Orden de compra**
-Un dato adicional, coloque aquí el número de la orden de compra en caso se requiera.
-
-**6. Observación**
-Un dato adicional, puede usarse para hacer un comentario de la empresa u otros.
-
-**7. Vendedor**
-Un dato adicional, el vendedor que realiza la nota.
-
-**8. Agregar Producto**
+**4. Agregar Producto**
 Luego deberá escoger el producto para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
+
+
+**5. Informacion Adicional**
+Panel de datos adicionales, opcionales, los campos son los siguientes: 
+
+![Alt text](img/info_adicional_nota_de_venta.jpg)
+
+- **Vendedor** Un dato adicional, el vendedor que realiza la nota.
+- **Tipo periodo** Si es un monto recurrente se selecciona si es anual o mensual, caso contrario sea un caso único no se selecciona nada.
+- **Cant. Periodos**: Indique la cantidad de periodos si el tipo de periodo es recurrente. Este campo se activa dependiendo de la selección anterior.  
+- **Placa**: Este campo puede ser utilizado para ingresar el número de placa del vehículo relacionado con la venta, si aplica.  
+- **Orden de compra** Un dato adicional, coloque aquí el número de la orden de compra en caso se requiera.
+- **Observación** Un dato adicional, puede usarse para hacer un comentario de la empresa u otros.
 
 **9. Método de pago Destino**
 Selecciona el tipo de método de pago que mejor se acomode a tus requerimientos.
