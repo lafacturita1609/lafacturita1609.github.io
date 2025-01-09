@@ -23,12 +23,13 @@ En este archivo tendrá que completar los siguientes campos necesarios:
 **2.  Descripción:** Ingresa una breve descripción.
 
 **3.  Código Tipo de Unidad:** Ingresa el código según corresponda el producto o el servicio.
+- Para ver los códigos, dirígete a **Configuraciones y más** > **Configuraciones Globales**, luego ubica el submódulo de **Sunat** y selecciona la subcategoría **Listado de Unidades**.
 
 :::danger IMPORTANTE:
 Si no cuenta con un código interno en su empresa puede agregar por ejemplo 001, 002, etc.
 :::
 
-![Alt text](img/Listas-de-Precio-Importar-Masivamente_05.jpg)
+![Alt text](img/Importar-masivamente_05.jpg)
 
 **4.  Factor:** La cantidad del producto a descontar del inventario.
 

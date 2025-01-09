@@ -28,6 +28,10 @@ Si no cuenta con un código interno en su empresa puede configurar automáticame
 :::
 **3.  Código tipo de Unidad:** Ingresa el código según corresponda el producto o el servicio.
 
+- Para ver los códigos, dirígete a **Configuraciones y más** > **Configuraciones Globales**, luego ubica el submódulo de **Sunat** y selecciona la subcategoría **Listado de Unidades**.
+
+![Alt text](img/Importar-masivamente_05.jpg)
+
 :::danger IMPORTANTE:
 Este listado lo pueden ubicar en el módulo **Configuración** en la sección Sunat en la subcategoría **Listado de unidades.**
 :::
@@ -54,8 +58,6 @@ Este listado lo pueden ubicar en el módulo **Configuración** en la sección Su
 :::
 
 Una vez rellenado el archivo excel, deberá seleccionar en que **almacén** desea importar los productos, después selecciona el botón **Selecciona un archivo (xlsx)**,para subir el archivo pdf correspondiente.
-
-![Alt text](img/Importar-masivamente_05.jpg)
 
 Finalmente selecciona el botón Procesar, se observará el **[Listado de productos](https://fastura.github.io/documentacion/productos-servicios/Lista-de-productos)**, donde podrá visualizar su producto agregado.
 
