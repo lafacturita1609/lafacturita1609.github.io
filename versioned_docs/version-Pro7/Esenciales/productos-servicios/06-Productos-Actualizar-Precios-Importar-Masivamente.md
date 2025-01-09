@@ -7,7 +7,7 @@ Ingresa al módulo de **Productos/Servicios** y luego selecciona subcategoría *
 
 ![Alt text](img/Actualizar-Precios-Importar-Masivamente_01.jpg)
 
-Posteriormente aparecerá una ventana de **Actualizar** precio de los productos. Selecciona **Descargar** formato de ejemplo para importar.
+Posteriormente aparecerá una ventana de **Actualizar** precio de los productos. Selecciona **Descargar formato de ejemplo para importar.**
 
 ![Alt text](img/Actualizar-Precios-Importar-Masivamente_02.jpg)
 

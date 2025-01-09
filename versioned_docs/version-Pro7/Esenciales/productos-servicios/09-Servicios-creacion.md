@@ -45,7 +45,7 @@ Consulte con su contador si tiene dudas sobre que tipo de afectación deberá ut
 
 ## Atributos
 
-![Alt text](img/Servicios-creacion_02.jpg)
+![Alt text](img/Servicios-creacion_03.jpg)
 
 **1.  Imagen:** Inserta la imagen del servicio.
 

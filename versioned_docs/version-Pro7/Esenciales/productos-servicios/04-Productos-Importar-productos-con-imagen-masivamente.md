@@ -22,4 +22,7 @@ Implementar un campo, llamado image como se observa en la imagen. Y agregar el l
 * La imagen debe encontrarse en Internet.
 * El link de la imagen debe acabar en el formato jpg o png, no acepta otro tipo de formatos.
 :::
-Seguido suba el archivo excel, y selecciona el botón **Procesar.**
+
+![alt text](img/Productos_Importar-productos-con-imagen-masivamente_04.jpg)
+
+Seguido seleccione el **Establecimiento**, suba el archivo excel, y selecciona el botón **Procesar.**
