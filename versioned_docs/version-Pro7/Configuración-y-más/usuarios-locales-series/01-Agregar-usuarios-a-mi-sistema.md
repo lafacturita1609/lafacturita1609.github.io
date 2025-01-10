@@ -20,13 +20,12 @@ Aparecerá el formulario para llenar los datos del **Nuevo usuario**.
 
 Se completarán los siguientes datos:
 
-* **Nombre:** Ingresa el nombre del nuevo usuario.
-* **Correo electrónico:** Ingresa el correo electrónico del usuario.
-* **Establecimiento:**  Selecciona el establecimiento en el que el usuario estará asignado.
-* **Contraseña:**  Crea una contraseña para el usuario.
-* **Confirmar contraseña:**  Ingresa nuevamente la contraseña para confirmarla.
-* **Perfil:**  Selecciona el perfil del usuario.
-* **Pin: (Opcional)** Establece un código PIN adicional si es requerido.
+* **1. Nombre:** Ingresa el nombre del nuevo usuario.
+* **2. Correo electrónico:** Ingresa el correo electrónico del usuario.
+* **3. Establecimiento:**  Selecciona el establecimiento en el que el usuario estará asignado.
+* **4. Contraseña:**  Crea una contraseña para el usuario.
+* **5. Confirmar contraseña:**  Ingresa nuevamente la contraseña para confirmarla.
+* **6. Perfil:**  Selecciona el perfil del usuario.
 
 ## Permisos
 
