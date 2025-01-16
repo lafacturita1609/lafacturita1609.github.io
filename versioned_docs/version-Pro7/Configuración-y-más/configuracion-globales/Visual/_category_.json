@@ -1,0 +1,9 @@
+{
+  "label": "Visual",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "slug": "visual",
+    "description": "Documentacion del modulo Visual."
+  }
+}

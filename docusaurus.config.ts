@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Documentación Facturador electrónico',
-  tagline: 'Guia oficial completa y definitiva del facturador Pro 6 y Pro X',
+  tagline: 'Guía Absoluta del Facturador Pro: Pro 6, Pro X y Pro 7 para Todos',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

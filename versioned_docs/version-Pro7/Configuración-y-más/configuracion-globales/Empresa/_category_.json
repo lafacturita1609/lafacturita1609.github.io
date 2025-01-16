@@ -1,0 +1,9 @@
+{
+  "label": "Empresa",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "empresa",
+    "description": "Documentacion del modulo de Empresa."
+  }
+}
