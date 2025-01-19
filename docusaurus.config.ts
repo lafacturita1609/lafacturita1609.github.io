@@ -40,6 +40,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           includeCurrentVersion: false,
+          docItemComponent: "@theme/ApiItem", // Derived from docusaurus-theme-openapi
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
@@ -68,29 +69,118 @@ const config: Config = {
   ],
 
   plugins: [
-    /*[
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'prox',
-        path: 'prox',
-        sidebarPath: require.resolve('./prox.ts'),
-        includeCurrentVersion: true,  // Asegúrate de incluir la versión actual
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
-        id: 'pro6',
-        path: 'pro6',
-        sidebarPath: require.resolve('./pro6.ts'),
-        includeCurrentVersion: true,  // Asegúrate de incluir la versión actual
-      },
-    ],*/
     'plugin-image-zoom',
+
+    [
+      'docusaurus-plugin-openapi-docs',
+      {
+        id: "facturador", // plugin id
+        docsPluginId: "classic", // configured for preset-classic
+        config: {
+          anulacion_boleta : {
+            specPath: "apifacturador/AnulacionBoletas",
+            outputDir: "docs/facturador/Anulacion-Boletas",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "anulacion-boletas",
+            },
+          },
+          anulacion_facturas: {
+            specPath: "apifacturador/AnulaciónFacturasNotas",
+            outputDir: "docs/facturador/Anulacion-facturas",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "anulacion-facturas",
+            },
+          },
+          generar_boleta: {
+            specPath: "apifacturador/GenerarBoleta",
+            outputDir: "docs/facturador/Generar-boleta",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "generar-boleta",
+            },
+          },
+          generar_cotización: {
+            specPath: "apifacturador/GenerarCotizacion",
+            outputDir: "docs/facturador/Generar-cotizacion",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "generar-cotizacion",
+            },
+          },
+          generar_factura: {
+            specPath: "apifacturador/GenerarFactura",
+            outputDir: "docs/facturador/Generar-factura",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "generar-factura",
+            },
+          },
+          generar_notas: {
+            specPath: "apifacturador/GenerarNotas",
+            outputDir: "docs/facturador/Generar-notas",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "generar-notas",
+            },
+          },
+          generar_resumenes: {
+            specPath: "apifacturador/GenerarResúmenes",
+            outputDir: "docs/facturador/Generar-resumenes",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "generar-resumenes",
+            },
+          },
+          guia_remision: {
+            specPath: "apifacturador/GuiaDeRemision",
+            outputDir: "docs/facturador/Guia-remision",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "guia-remision",
+            },
+          },
+          inventario: {
+            specPath: "apifacturador/Inventario",
+            outputDir: "docs/facturador/inventario",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "inventario",
+            },
+          },
+          productos: {
+            specPath: "apifacturador/Productos",
+            outputDir: "docs/facturador/productos",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "productos",
+            },
+          },
+          retencion: {
+            specPath: "apifacturador/Retencion",
+            outputDir: "docs/facturador/retencion",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "retencion",
+            },
+          },
+          Clientes: {
+            specPath: "apifacturador/Clientes",
+            outputDir: "docs/facturador/clientes",
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "retencion",
+            },
+          },
+        }
+      },
+    ]
   ],
 
   themes: [
     // ... Your other themes.
+    'docusaurus-theme-openapi-docs',
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
