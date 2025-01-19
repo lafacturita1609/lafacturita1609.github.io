@@ -16,11 +16,11 @@ Aparecerá la siguiente formulario **Nuevo Ingreso**:
 
 Completa los siguientes campos necesarios:
 
-- **Tipo comprobantes:** Selecciona el tipo de comprobante que se acomode más a sus requerimientos.
-- **Cliente:** Ingresa al cliente.
-- **Método de ingreso:** Selecciona el método de ingreso que más se acomode a sus requerimientos.
-- **Destino:** Selecciona el destino del dinero.
-- **Agregar detalle:** Selecciona el botón **Agregar detalle**, aparecerá la siguiente ventana emergente.
+- **1. Tipo comprobantes:** Selecciona el tipo de comprobante que se acomode más a sus requerimientos.
+- **2. Cliente:** Ingresa al cliente.
+- **3. Método de ingreso:** Selecciona el método de ingreso que más se acomode a sus requerimientos.
+- **4. Destino:** Selecciona el destino del dinero.
+- **5. Agregar detalle:** Selecciona el botón **Agregar detalle**, aparecerá la siguiente ventana emergente.
 
 ![Alt text](img/ingresos4.jpg)
 
