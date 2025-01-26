@@ -17,20 +17,25 @@
   "dependencies": {
     "@apidevtools/json-schema-ref-parser": "^11.7.3",
     "@docusaurus/core": "^3.7.0",
+    "@docusaurus/mdx-loader": "^3.7.0",
     "@docusaurus/plugin-content-blog": "^3.7.0",
     "@docusaurus/plugin-content-docs": "^3.7.0",
     "@docusaurus/plugin-content-pages": "^3.7.0",
     "@docusaurus/preset-classic": "^3.7.0",
     "@easyops-cn/docusaurus-search-local": "^0.46.1",
     "@mdx-js/react": "^3.0.0",
+    "acorn": "^8.14.0",
+    "browserslist": "^4.24.4",
     "clsx": "^2.0.0",
     "docusaurus-plugin-openapi-docs": "^4.3.1",
     "docusaurus-theme-openapi-docs": "^4.3.1",
+    "micromark-extension-mdx-expression": "^3.0.0",
     "plugin-image-zoom": "github:flexanalytics/plugin-image-zoom",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "theme-openapi-writedocs": "^0.0.1"
+    "theme-openapi-writedocs": "^0.0.1",
+    "webpack": "^5.97.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",
