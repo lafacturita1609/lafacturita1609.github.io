@@ -4,7 +4,7 @@ En este artículo te enseñaremos a como crear categorías para las habitaciones
 
 Ingresa al módulo de **Hoteles** y luego selecciona la subcategoría **Categorías**.
 
-![Alt text](img/categoras1.jpg)
+![Alt text](img/Hoteles_3.png)
 
 ## Crear categorías
 

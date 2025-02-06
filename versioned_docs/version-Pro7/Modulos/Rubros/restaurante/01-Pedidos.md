@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a manejar los pedidos de manera online. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Restaurante**, selecciona **Pedidos** y la subcategoría **Ver Menu.**
+Ingresa al módulo de **Restaurante**, selecciona **Pedidos Delivery** y la subcategoría **Ver Pedidos en Linea.**
 
 ![Alt text](img/pedidos_01.jpg)
 
@@ -10,7 +10,7 @@ Al seleccionar se abrirá la web para que los clientes externos puedan realizar 
 
 ![Alt text](img/pedidos_02.jpg)
 
-El pedido aparecerá en su **Listado de Pedidos Restaurante**, puede cambiar el estado del producto según lo solicitado. 
+El pedido aparecerá en su **Listado de Pedidos**, puede cambiar el estado del producto según lo solicitado. 
 
 ![Alt text](img/pedidos_03.jpg)
 

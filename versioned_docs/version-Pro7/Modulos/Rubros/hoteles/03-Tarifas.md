@@ -4,7 +4,7 @@ En este artículo te enseñaremos a crear tarifas para tus habitaciones. Sigue e
 
 Ingresa al módulo de **Hoteles** y luego selecciona la subcategoría **Tarifas**.
 
-![Alt text](img/tarifa1.jpg)
+![Alt text](img/Hoteles_4.png)
 
 ## Crear tarifas
 
@@ -19,6 +19,6 @@ Completa:
 
 Seguido selecciona el botón **Guardar**.
 
-Se mostrará el listado de tarifas:
+Se mostrará el **Registro de tarifas:**
 
 ![Alt text](img/tarifa3.jpg)

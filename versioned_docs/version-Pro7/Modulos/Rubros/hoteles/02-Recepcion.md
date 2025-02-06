@@ -14,11 +14,12 @@ Para rentar una habitación, selecciona el botón azul.
 
 Aparecerá lo siguiente:
 
-![Alt text](img/recepcincuartos.jpg)
+![Alt text](img/recepcincuartos_1.jpg)
+![Alt text](img/recepcincuartos_2.jpg)
 
 Completa:
 
-* **Cliente:** Selecciona al cliente que ocupará la habitación, caso contrario, cree uno nuevo **[aquí](https://fastura.github.io/documentacion/clientes/Clientes-creacion-individual)**.
+* **Cliente:** Selecciona al cliente que ocupará la habitación, caso contrario, cree uno nuevo **[aquí](https://fastura.github.io/documentacion/docs/Pro7/Modulos/Esenciales/clientes/Clientes-creacion-individual)**.
 * **Tarifa:** Selecciona la tarifa correspondiente.
 Selecciona el botón Guardar.
 
@@ -37,6 +38,18 @@ Podrá agregar producto, seleccionando el botón **Agregar Producto**.
 Seguido seleccione el producto, y selecciona el botón **Guardar**.
 
 ![Alt text](img/agregarproducto2.jpg)
+
+
+## Extender Tiempo 
+
+Si el cliente desea extender su estancia, deberá seleccionar el botón **"+"**.
+
+![Alt text](img/añadir_tiempo_1.jpg)
+
+Podrá seleccionar el tiempo adicional y/o editar la información de la habitación del huésped.
+
+![Alt text](img/añadir_tiempo_2.jpg)
+
 
 ## Retiro del huésped
 

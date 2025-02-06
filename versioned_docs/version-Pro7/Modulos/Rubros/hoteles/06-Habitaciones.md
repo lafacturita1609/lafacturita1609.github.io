@@ -22,7 +22,7 @@ Seguido selecciona el botón **Guardar**.
 
 Se mostrará el listado de habitaciones:
 
-![Alt text](img/listadodehabitaciones2.jpg)
+![Alt text](img/Hoteles_7.png)
 
 1. **Tarifas:** Al seleccionar podrá agregar tarifas a la habitación.
 

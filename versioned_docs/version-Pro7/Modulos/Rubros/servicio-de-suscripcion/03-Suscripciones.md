@@ -2,7 +2,7 @@
 
 En esta área te ayudaremos a cómo ingresar suscripciones. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Suscripción Servicios SAAS** y luego selecciona subcategoría Suscripciones En la parte superior derecha selecciona el botón Nuevo.
+Ingresa al módulo de **Suscripción Servicios SAAS** y luego selecciona subcategoría Suscripciones En la parte superior derecha selecciona el botón **Nuevo**.
 
 ![Alt text](img/ServiciosSAAS9.jpg)
 

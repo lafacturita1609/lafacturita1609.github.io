@@ -4,13 +4,13 @@ En este artículo te enseñaremos a como pisos. Sigue estos pasos para realizarl
 
 Ingresa al módulo de **Hoteles** y luego selecciona la subcategoría **Pisos**.
 
-![Alt text](img/pisos1.jpg)
+![Alt text](img/Hoteles-2.jpg)
 
 ## Crear pisos
 
 En la parte superior derecha selecciona el botón **Nuevo**. Aparecerá el siguiente formulario:
 
-![Alt text](img/pisos2.jpg)
+![Alt text](img/Hoteles-1.jpg)
 
 Completa:
 

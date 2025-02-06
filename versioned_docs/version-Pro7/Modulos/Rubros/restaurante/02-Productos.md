@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a agregar productos. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Restaurante** y luego selecciona la subcategoría **Productos.**
+Ingresa al módulo de **Restaurante** y luego selecciona la subcategoría **Productos**.En la parte superior derecha, selecciona el botón **Nuevo.**
 
 ![Alt text](img/restaurante5.jpg)
 
@@ -14,10 +14,11 @@ En la parte superior derecha, selecciona el botón **Nuevo.**
 
 Completa los siguientes campos obligatorios:
 
-**Nombre:** Ingresa el nombre del producto.
-**Precio Unitario:** Ingresa el precio unitario.
-**Código Interno:**  Identifica el producto, ayuda a la gestión de inventarios.Es importante colocar el código interno para que los productos puedan visualizarse en su Tienda Virtual.
-**Imagen:** Inserte una imagen referencial de su producto.
+**1. Nombre:** Ingresa el nombre del producto.
+**2. Precio Unitario:** Ingresa el precio unitario.
+**3. Código Interno:**  Identifica el producto, ayuda a la gestión de inventarios. Es importante colocar el código interno para que los productos puedan visualizarse en su Tienda Virtual y Restaurante. Puede 
+**4. Stock Inicial:** Este apartado describe el stock inicial de productos en el módulo de restaurante. Aquí se detallan las cantidades iniciales de cada producto disponible en el inventario.
+**5. Imagen:** Inserte una imagen referencial de su producto.
 
 :::info IMPORTANTE:
 
