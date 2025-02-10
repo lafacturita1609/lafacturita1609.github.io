@@ -6,7 +6,10 @@ Sigue estos pasos para realizarlo:
 
 ## Configuración
 
-Ingresa al módulo de **Tienda Virtual** y luego selecciona la subcategoría **Configuración**.
+Ingresa al módulo de **Configuracion y mas** y luego selecciona la subcategoría **Configuraciones Globales**. Ubicara la seccion de **Empresa** y seleccione la opcion de **Tienda Virtual/Restaurante**
+
+![alt text](img/config_tienda.jpg)
+
 
 En esta sección podrá configurar toda la parte visual y los pagos.
 
@@ -107,7 +110,7 @@ Posteriormente para enlazar el tag con los productos correspondientes, ingresa a
 
 Se visualizará el formulario **Editar producto** y en la sección **Tags** añada el tag que corresponde al producto.
 
-![Alt text](img/6_configurar_tienda.jpg)
+![Alt text](img/6_configurar_tienda_tags.jpg)
 
 :::danger RECUERDA:
 Para que se visualicen los productos en la tienda virtual, es importante añadir el código interno dentro de cada producto.
@@ -115,4 +118,3 @@ Para que se visualicen los productos en la tienda virtual, es importante añadir
 
 Después selecciona el botón **Guardar**, y finalmente para visualizar los tags añadidos con sus productos, deberás ingresar a la **Tienda Virtual**, donde se mostrarán los cambios realizados.
 
-![Alt text](img/9_configurar_tienda.jpg)

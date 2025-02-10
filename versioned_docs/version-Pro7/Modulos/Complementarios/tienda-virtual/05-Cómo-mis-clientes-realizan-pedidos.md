@@ -4,7 +4,7 @@ En esta área podrás conocer cómo tus clientes deben registrarse, añadir prod
 
 ## Registrarse
 
-Ingresa a la **tienda virtual** *(subdominio/ecommerce)*, luego dirígete al botón Login que está ubicado en la parte superior derecha de la página.
+Ingresa a la **tienda virtual** *(subdominio/ecommerce)*, luego dirígete al botón **Login** que está ubicado en la parte superior derecha de la página.
 
 ![Alt text](img/1_realizarpedidos.jpg)
 
@@ -14,13 +14,13 @@ Después aparecerá una ventana para realizar el **nuevo registro** o puedes **i
 
 ## Añadir productos
 
-Luego añade el producto que deseas comprar, seleccionando el botón verde de Añadir al carrito [🛒].
+Luego añade el producto que deseas comprar, seleccionando el botón anaranjado de Añadir al carrito [🛒].
 
-![Alt text](img/2_realizarpedidos.jpg)
+![Alt text](img/4_realizarpedidos.jpg)
 
 Posteriormente para visualizar los productos agregados, deberá ingresar a la sección de carrito de compras y seleccionar el botón **Ver carrito**.
 
-![Alt text](img/4_realizarpedidos.jpg)
+![Alt text](img/3_realizarpedidos.jpg)
 
 ## Carrito de compras
 
@@ -30,6 +30,8 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas:
 
 1. **Lista de productos**
 Encontrarás las siguientes secciones:
+
+![Alt text](img/11_realizarpedidos.jpg)
 
 - **Producto:** Se mostrarán todos los productos que añadiste a tu carrito de compras
 - **Precio:** Es el precio unitario de los productos
@@ -42,6 +44,8 @@ Encontrarás las siguientes secciones:
 2. **Tipo de comprobante**
 Encontrarás los siguientes campos:
 
+![Alt text](img/12_realizarpedidos.jpg)
+
 * **Comprobante:** Selecciona el tipo de comprobante que requieras
 * **Tipo de documento:** Selecciona el documento
 * **Número de documento:** Agrega el número de documento según el tipo de documento seleccionado.
@@ -49,10 +53,15 @@ Encontrarás los siguientes campos:
 3. **Datos de contacto y envío**
 Encontrarás los siguientes campos:
 
+![Alt text](img/13_realizarpedidos.jpg)
+
 - Teléfono: Agrega el número de contacto
 - Dirección: Agrega la dirección del domicilio donde desee recibir el pedido.
 
 4. **Resumen y Pago**
+
+![Alt text](img/14_realizarpedidos.jpg)
+
 En esta sección se visualizará el total de la compra y posteriormente,  para realizar el pago, se deberá seleccionar el método de pago correspondiente. Luego aparecerá un mensaje de **confirmación de pago exitoso**.
 
 ![Alt text](img/9_realizarpedidos.jpg)

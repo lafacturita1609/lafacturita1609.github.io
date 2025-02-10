@@ -19,6 +19,6 @@ Completa los siguientes campos:
 
 ![Alt text](img/Tdocumentos10.jpg)
 
-- **Requisitos:** Selecciona un requisito, creado previamente si aún no lo creo, Sigue todos los pasos en este **[artículo](https://fastura.github.io/documentacion/tramite-documentario/Listado-de-requisitos)**.
+- **Requisitos:** Selecciona un requisito, creado previamente si aún no lo creo, Sigue todos los pasos en este **[artículo](https://fastura.github.io/documentacion/docs/Pro7/Modulos/Rubros/tramite-documentario/Listado-de-requisitos)**.
 
 Seguido selecciona el botón **Guardar**. Y podrá visualizar el trámite creado en la lista de tipos de trámites.

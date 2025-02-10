@@ -2,14 +2,14 @@
 
 En esta área se visualizarán los comprobantes que no se han enviado debido a un inconveniente en el sistema de la SUNAT u otras casuísticas.
 
-Ingresa al módulo **ventas** y luego dirígete a la subcategoría **Comprobantes no enviados**.
+Ingresa al módulo **Comprobantes Pendientes** y luego dirígete a la subcategoría **Comprobantes no enviados**.
 
 Encontrarás facturas y boletas que no han sido enviadas a la SUNAT.
 
 ![Alt text](img/1.jpg)
 
 :::danger IMPORTANTE:
-- Por defecto deben aparecer solo las Boletas del día, ya que estas se envían a través de resúmenes diarios. De encontrar otros comprobantes aparte por favor notificar a Soporte. Asimismo, en caso nosotros le hayamos indicado desactivar el botón **“envío de comprobantes automático”**,*(Ubicado en configuración, en la sección empresa y subcategoría avanzado)*. Siempre posteriormente, cuando esté en funcionamiento las respuestas de SUNAT, se procederá a notificar habilitarlo nuevamente.
+- Por defecto deben aparecer solo las Boletas del día, ya que estas se envían a través de resúmenes diarios. De encontrar otros comprobantes aparte por favor notificar a Soporte. Asimismo, en caso nosotros le hayamos indicado desactivar el botón **“envío de comprobantes automático”**,*(Ubicado en **Configuración y más**, en **Configuraciones Globales**, en la sección **Empresa** y subcategoría **Avanzado**)*. Siempre posteriormente, cuando esté en funcionamiento las respuestas de SUNAT, se procederá a notificar habilitarlo nuevamente.
 :::
 
 ## Envia tus facturas pendientes

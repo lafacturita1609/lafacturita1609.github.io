@@ -10,13 +10,13 @@ Completa los siguientes campos:
 
 ![Alt text](img/Tdocumentos12.jpg)
 
-- **Cliente:** Selecciona el cliente, si aún no lo creo, sigue todos los pasos en este artículo.
-- **Tipos de tramite:** Selecciona el tipo de trámite creado anteriormente, si aún no lo creo, sigue todos los pasos en este **[artículo](https://fastura.github.io/documentacion/tramite-documentario/Tipos-de-tr%C3%A1mites)** .
-- **Código de expediente (Interno):** Inserta el código de expediente.
-- **Fecha de registro:** Selecciona la fecha de registro.
-- **Hora de registro:** Selecciona la hora de registro.
+- **1. Cliente:** Selecciona el cliente, si aún no lo creo, sigue todos los pasos en este artículo.
+- **2. Tipos de tramite:** Selecciona el tipo de trámite creado anteriormente, si aún no lo creo, sigue todos los pasos en este **[artículo](https://fastura.github.io/documentacion/tramite-documentario/Tipos-de-tr%C3%A1mites)** .
+- **3. Código de expediente (Interno):** Inserta el código de expediente.
+- **4. Fecha de registro:** Selecciona la fecha de registro.
+- **5. Hora de registro:** Selecciona la hora de registro.
 
-**Agregar etapa**, selecciona agregar etapa y completa los siguientes campos:
+**6. Agregar etapa**, selecciona agregar etapa y completa los siguientes campos:
 
 ![Alt text](img/etapa01.jpg)
 
