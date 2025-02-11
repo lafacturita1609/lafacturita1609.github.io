@@ -2,7 +2,7 @@
 
 En este artículo te enseñaremos a crear maquinarias para tu producción; con este articulo podrá agregar la maquina en especifico, como la marca, modelo, fuerza de cierre. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo **Producción**, y luego en la subcategoría **Maquinaria**, en la parte superior lateral, hay dos botones: Nueva máquina, **[Nuevo tipo de maquina](https://fastura.github.io/documentacion/produccion/Tipo-de-maquinaria)**.
+Ingresa al módulo **Producción**, y luego en la subcategoría **Maquinaria**, en la parte superior lateral, hay dos botones: Nueva máquina, **[Nuevo tipo de maquina](https://fastura.github.io/documentacion/docs/Pro7/Modulos/Especificos/produccion/Tipo-de-maquinaria)**.
 
 ## Nueva máquina
 

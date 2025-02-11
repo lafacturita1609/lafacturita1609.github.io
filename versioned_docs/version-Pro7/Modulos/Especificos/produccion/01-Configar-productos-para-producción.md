@@ -2,7 +2,7 @@
 
 En esta área te ayudaremos a configurar productos para producción. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **Productos** luego selecciona la subcategoría **Productos**.En la parte lateral derecha selecciona los tres puntos.
+Ingresa al módulo de **Productos** luego selecciona la subcategoría **Productos**.En la parte lateral derecha selecciona los **tres puntos.**
 
 ![Alt text](img/productoproducir.jpg)
 
