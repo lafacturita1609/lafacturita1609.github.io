@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 title: Empieza a facturar
+slug: /
 ---
 
 # ¿Que necesito para empezar a emitir comprobantes electrónicos?
