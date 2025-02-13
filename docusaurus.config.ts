@@ -213,8 +213,6 @@ const config: Config = {
           label: 'Documentacion',
         },
         {type: 'docsVersionDropdown', position: 'right'},
-        //{to: '/blog', label: 'Blog', position: 'left'},
-        //{to: 'prox', label: 'Pro X', position: 'left'},
         //{
         //  href: 'https://github.com/facebook/docusaurus',
         //  label: 'GitHub',
