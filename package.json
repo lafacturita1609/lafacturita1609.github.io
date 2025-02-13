@@ -2,7 +2,8 @@
   "name": "documentation",
   "version": "0.0.0",
   "private": true,
-  "scripts": {
+  "scripts": { 
+    "predeploy": "npm run build && echo manual.uio.la > ./build/CNAME",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
