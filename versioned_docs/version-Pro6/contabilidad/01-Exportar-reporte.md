@@ -4,11 +4,11 @@ En este articulo te ayudaremos a exportar reporte de venta y compra. Sigue estos
 
 Ingresa al módulo de **Contabilidad** y luego selecciona subcategoría **Exportar reporte**.
 
-![Alt text](img/exportarreporte1.jpg)
+![Alt text](img/Exportarreporte1.jpg)
 
 Completa lo siguiente:
 
-![Alt text](img/exportarreporte2.jpg)
+![Alt text](img/Exportarreporte2.jpg)
 
 * **Periodo:** Selecciona el periodo del que deseas generar un reporte.
 * **Tipo:** Selecciona entre Venta, Compra, Venta (Grifo).

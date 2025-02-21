@@ -61,7 +61,7 @@ Este paso es necesario para poder enviar tus guías y sean aceptados por **SUNAT
 
 Ingresa al módulo de **configuración**,luego a la sección **empresa** y selecciona subcategoría **empresa**.
 
-Sigue todos los pasos en este **[artículo](https://fastura.github.io/documentacion/configuracion/Configuracion-previa-guia-remision)**.
+Sigue todos los pasos en este **[artículo](https://manual.uio.la/Pro7/Modulos/Complementarios/guias-de-remision/Configuracion-previa-guia-remision)**.
 
 ## 4. Configuración para el envió automático de boletas y facturas a SUNAT
 
@@ -89,8 +89,8 @@ Ingresa al módulo de **Productos/Servicios**, luego a sección **Productos**.
 
 Existen dos maneras para agregar productos en el sistema:
 
-* De manera individual, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Creacion-basica)**.
-* De manera masiva, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Importar-masivamente)**.
+* De manera individual, sigue los pasos en este **[artículo](https://manual.uio.la/Pro7/Modulos/Esenciales/productos-servicios/Productos-Creacion-basica)**.
+* De manera masiva, sigue los pasos en este **[artículo](https://manual.uio.la/Pro7/Modulos/Esenciales/productos-servicios/Productos-Importar-productos-con-imagen-masivamente)**.
 
 ## 6.  Agregar clientes
 
@@ -98,14 +98,14 @@ Ingresa al módulo de **Clientes**, luego a sección **Clientes**.
 
 Existen dos maneras para agregar productos en el sistema:
 
-* De manera individual, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/clientes/Clientes-creacion-individual)**.
-* De manera masiva, sigue los pasos en este **[artículo](https://fastura.github.io/documentacion/clientes/Clientes-Importaci%C3%B3n-Masiva)**.
+* De manera individual, sigue los pasos en este **[artículo](https://manual.uio.la/Pro7/Modulos/Esenciales/clientes/Clientes-creacion-individual)**.
+* De manera masiva, sigue los pasos en este **[artículo](https://manual.uio.la/Pro7/Modulos/Esenciales/clientes/Clientes-Importaci%C3%B3n-Masiva)**.
 
 ## 7.  Establecimientos y series
 
 En caso de contar con más de un local o establecimiento, debe configurar las series de los comprobantes correspondientes con cada uno. Sigue estos pasos para realizarlo.
 
-Ingresa al módulo de **Usuarios/Locales & Series**, luego a la sección Establecimientos.
+Ingresa al módulo de **Configuraciones y más**, selecciona el módulo de  **Sucursales & Series**.
 
 Para agregar las series, los pasos están este **[artículo](https://fastura.github.io/documentacion/usuarios-locales-series/Crear-establecimiento-y-gestionar-series)**.
 

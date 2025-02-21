@@ -4,9 +4,9 @@ Para empezar a utilizar el módulo de hoteles, es necesario configurar cada elem
 
 * **Pisos:** Donde indicaremos la cantidad de pisos que conforman nuestro hotel. Para agregar cada piso hacer clic en el botón “Nuevo”, completar el formulario con el nombre y si es visible, hacer clic en “Guardar”.
 
-![Alt text](img/Hoteles-2.jpg)
+![Alt text](img/hoteles-2.jpg)
 
-![Alt text](img/Hoteles-1.jpg)
+![Alt text](img/hoteles-1.jpg)
 
 * **Categorías:** Aqui agregaremos los tipos de suite con las que contamos, de la misma manera que en pisos, agregaremos desde el botón nuevo.
 

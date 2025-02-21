@@ -2,7 +2,7 @@
 
 En la sección de **Reportes** se muestra un conjunto de informes clave relacionados con las cuentas y los usuarios del sistema, permitiendo un seguimiento detallado de estados críticos como cuentas bloqueadas o contraseñas desactualizadas.
 
-![Reportes](img/reportes_1.jpg)
+![Reportes](img/Reportes_1.jpg)
 
 ## General
 
@@ -24,7 +24,7 @@ Este reporte muestra los clientes con cuentas bloqueadas, junto con detalles rel
 
 ### Filtrar Cuentas Bloqueadas
 
-![Filtrar Cuentas](img/reportes_3.jpg)
+![Filtrar Cuentas](img/Reportes_3.jpg)
 
 Este panel permite filtrar las cuentas bloqueadas por diferentes criterios:
 - **Fecha y Hora:** Ordena los eventos según su registro cronológico.

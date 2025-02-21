@@ -4,7 +4,7 @@ En este articulo te ayudaremos a realizar un reporte resumido de ventas. Sigue e
 
 Ingresa al módulo de **Contabilidad** y luego selecciona subcategoría **Reporte resumido - Ventas**.
 
-![Alt text](img/exportarformato5.jpg)
+![Alt text](img/Exportarformato5.jpg)
 
 Completa lo siguiente:
 

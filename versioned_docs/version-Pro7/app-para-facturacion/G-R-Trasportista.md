@@ -10,7 +10,7 @@ En esta guía te mostraremos cómo completar la **Guía de Remisión Transportis
 
 Accede al módulo de **Guía de Remisión Transportista** desde el menú principal.
 
-![img](img/guia_trasportista_1.jpeg)
+![img](img/Guia_trasportista_1.jpeg)
 ---
 
 ## 2. Fechas y Datos del Traslado:

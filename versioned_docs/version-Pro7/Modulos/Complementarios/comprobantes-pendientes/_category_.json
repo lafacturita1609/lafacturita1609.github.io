@@ -1,0 +1,9 @@
+{
+  "label": "Comprobantes Pendientes",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "comprobantes-pendientes",
+    "description": "Encuentra ayuda sobre el módulo de Contabilidad."
+  }
+}

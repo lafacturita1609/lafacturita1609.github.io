@@ -47,7 +47,7 @@ QZ-Tray es una herramienta esencial que permite la impresión directa desde apli
 
 1. Acceda a configuración de empresa, desde **Configuración y más**, **Configuraciones Globales**, seguido **Empresa- Empresa**
 
-![alt text](img/Demo_QZ.png)
+![alt text](img/Demo_QZ.PNG)
 
 2. Localice la opción **Certificado QZ-Tray**
 

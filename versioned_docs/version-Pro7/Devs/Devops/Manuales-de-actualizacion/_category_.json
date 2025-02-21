@@ -1,0 +1,9 @@
+{
+  "label": "Manuales de actualizacion",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "slug": "manuales-de-actualizacion",
+    "description": "Encuentra ayuda sobre el módulo Devops."
+  }
+}
