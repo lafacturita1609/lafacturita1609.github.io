@@ -1,0 +1,9 @@
+{
+  "label": "Ventas/Comisiones",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "ventas-comisiones-x",
+    "description": "Encuentra ayuda sobre el submódulo de Ventas/Comisiones en Reportes."
+  }
+}
