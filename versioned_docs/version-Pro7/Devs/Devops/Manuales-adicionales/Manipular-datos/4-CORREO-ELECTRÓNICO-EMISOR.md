@@ -1,4 +1,4 @@
-# CORREO ELECTRÓNICO EMISOR  
+# Correo electrico emisor
 
 ## Requisitos previos
 

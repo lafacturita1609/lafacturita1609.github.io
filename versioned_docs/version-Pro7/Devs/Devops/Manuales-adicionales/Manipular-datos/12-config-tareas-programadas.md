@@ -1,4 +1,4 @@
-# CONFIGURACIÓN TAREAS PROGRAMADAS
+# Configuracion tareas programadass
 
 ## LAMP | Linux
 
