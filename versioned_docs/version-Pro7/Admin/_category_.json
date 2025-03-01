@@ -1,9 +1,0 @@
-{
-  "label": "Admin Reseller",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "slug": "admin-reseller",
-    "description": "Documentacion del Panel (Reseller) del sistema de facturacion Pro 6"
-  }
-}
