@@ -45,8 +45,10 @@ const config: Config = {
           docItemComponent: "@theme/ApiItem", // Derived from docusaurus-theme-openapi
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          //editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: ({ version, docPath }) => {
+            const basePath = version === 'current' ? 'docs' : `versioned_docs/version-${version}`;
+            return `https://github.com/fastura/documentacion/tree/master/${basePath}/${docPath}`;
+          }
         },
         blog: false,
         theme: {

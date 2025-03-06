@@ -43,3 +43,34 @@
 - Es posible eliminar la contraseña de aplicación si no se desea usar, sin necesidad de cambiar la contraseña de la cuenta principal.
 - Si las credenciales son correctas y aún no envía correo, desbloquea el acceso de aplicaciones mediante el enlace [DisplayUnlockCaptcha](https://accounts.google.com/DisplayUnlockCaptcha).
 
+---
+
+
+## Configurar contraseña en el sistema 
+
+Una vez ya generada la contraseña vamos a importarla. Para hacerlo siga los siguientes pasos: 
+
+1. Entre al panel Administrador de su sistema.
+
+![alt text](img/correo_emisor_cliente_9.png)
+
+2. Ubique la opción de **Listado de Clientes**, y ubique el cliente al que le va agregar la contraseña.
+
+![alt text](img/correo_emisor_cliente_10.png)
+
+3. Una vez ya ubicado el **Cliente**, tendrá que desplazarse todo a la derecha y seleccionar el ícono de los **3 puntos** y elegir la alternativa de **Editar**.
+
+![alt text](img/correo_emisor_cliente_11.png)
+
+4. Aparecerá el siguiente modal:
+
+![alt text](img/correo_emisor_cliente_12.png)
+
+Donde tendrá que elegir la opción de **Configuración de correo**.
+
+5. Por último, tendrá que introducir sus datos y la contraseña creada previamente en el campo **Contraseña del usuario de correo**.
+
+![alt text](img/correo_emisor_cliente_13.png)
+
+6. Finalmente, haga clic en **Guardar** para aplicar los cambios.
+
