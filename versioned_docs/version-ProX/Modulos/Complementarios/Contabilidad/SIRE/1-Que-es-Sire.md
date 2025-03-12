@@ -107,4 +107,4 @@ Declarar correctamente las ventas y compras es crucial para evitar problemas con
 
 ---
 
-Para mayor informacion puede recurrir al siguiente **[video](https://youtu.be/glj8d-io3YM?si=yNhXV3gN89LFyW1A)** 
+

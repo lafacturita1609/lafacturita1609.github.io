@@ -173,13 +173,17 @@ const config: Config = {
   themes: [
     // ... Your other themes.
     'docusaurus-theme-openapi-docs',
-    //[
-    //  require.resolve("@easyops-cn/docusaurus-search-local"),
-    //  /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-    //  ({
-    //    hashed: true,
-    //  }),
-    //],
+    /*[
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      /*({
+        hashed: true,
+        indexDocs: true,
+        indexPages: true,
+        docsRouteBasePath: '/', // Asegura que el buscador indexe correctamente
+      }),
+    ],*/
+    
   ],
 
   themeConfig: {
@@ -265,6 +269,11 @@ const config: Config = {
         src: 'https://static.buho.la/fastura/documentacion.js',
         async: true,
       },
+      //{
+      // Script to reload the page on version change
+      //  src: '/js/reload-on-version-change.js',
+      //  async: true,
+      //},
     ],
   } satisfies Preset.ThemeConfig,
 };
