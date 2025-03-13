@@ -30,3 +30,6 @@ Las liquidaciones de compra son documentos esenciales que respaldan las operacio
 
 ---  
 
+:::danger IMPORTANTE:
+Todos los comprobantes emitidos seran enviados a Sunat
+:::

@@ -23,3 +23,7 @@ Completa los siguientes datos:
 - **Almacén de destino:** Selecciona el almacén de destino para el producto.
 
 Seguido selecciona el botón **Agregar** y después **Generar**.
+
+:::danger IMPORTANTE:
+Todos los comprobantes emitidos seran enviados a Sunat
+:::
