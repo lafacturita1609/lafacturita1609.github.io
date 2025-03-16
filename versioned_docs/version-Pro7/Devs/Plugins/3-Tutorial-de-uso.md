@@ -1,4 +1,4 @@
-# Documentación de uso del Plugin
+# Tutorial de uso del Plugin
 
 ## 1. Página principal de la tienda 
 
