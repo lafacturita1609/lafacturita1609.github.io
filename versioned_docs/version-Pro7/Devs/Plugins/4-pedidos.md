@@ -1,4 +1,4 @@
-# Documentación de Uso del Plugin - Pedidos  
+# Tutorial Uso del Plugin - Pedidos  
 
 ## 1. Vista de Pedidos  
 
