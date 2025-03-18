@@ -6,7 +6,7 @@ En esta área podrás generar una Oportunidad de Venta, que puede ser usada para
 
 Sigue estos pasos para realizarlo:
 
-Ingresa al **módulo de ventas** y luego selecciona la subcategoría **Oportunidad de venta**.
+Ingresa al **módulo de Pre Venta** y luego selecciona la subcategoría **Oportunidad de venta**.
 
 En la parte superior derecha selecciona el botón **Nuevo**.
 

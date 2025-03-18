@@ -4,7 +4,7 @@ En esta área podrás generar fichas de soporte técnico.
 
 Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de **ventas** y luego selecciona la subcategoría **Servicio de soporte técnico**.
+Ingresa al **módulo de Pre Venta** y luego selecciona la subcategoría **Servicio de soporte técnico**.
 
 En la parte superior derecha selecciona el botón Nuevo.
 

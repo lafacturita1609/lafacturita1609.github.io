@@ -2,7 +2,7 @@
 
 En esta área podrás generar pedidos de venta. Sigue estos pasos para realizarlo:
 
-Ingresa al módulo de ventas y luego selecciona la subcategoría **Pedidos**.En la parte superior derecha selecciona el botón **Nuevo**.
+Ingresa al **módulo de Pre Venta** y luego selecciona la subcategoría **Pedidos**.En la parte superior derecha selecciona el botón **Nuevo**.
 
 ![Alt text](img/pedidos1.jpg)
 
