@@ -46,4 +46,4 @@ Copiamos esos accesos y lo pegamos en:
 
 ![Alt text](img/nuevaguia.jpg)
 
-Selecciona el botón **Guardar** y ya puede generar su guía. Conoce como en el siguiente **[artículo](https://fastura.github.io/documentacion/comprobantes-avanzados/Generar-gu%C3%ADas-de-remision)**.
+Selecciona el botón **Guardar** y ya puede generar su guía. Conoce como en el siguiente **[artículo](https://manual.uio.la/Pro7/Modulos/Complementarios/guias-de-remision/Generar-gu%C3%ADas-de-remision)**.
