@@ -120,6 +120,3 @@ Una vez que todos los datos estén completos, selecciona el botón **Generar**.
 ![alt text](img/tipo_comprobante_.jpg)
 ---
 
-## Conclusión
-
-Con esta guía, podrás gestionar de manera eficiente la emisión de comprobantes electrónicos. Además, puedes personalizar los métodos de pago y realizar seguimiento del estado de los pagos para optimizar tu proceso de ventas.
