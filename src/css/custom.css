@@ -88,8 +88,20 @@ html[data-theme='dark'] .theme-doc-markdown.markdown {
   background: #142845;
 }
 
-footer{
+/* Modificado para permitir que se muestre el botón de editar página */
+footer {
+  display: block;
+}
+
+/* Ocultar elementos específicos del footer que no queremos mostrar */
+.footer__links, .footer__bottom {
   display: none;
+}
+
+/* Asegurar que el botón de editar página sea visible */
+.theme-edit-this-page {
+  display: flex;
+  align-items: center;
 }
 
 @media (max-width: 996px){

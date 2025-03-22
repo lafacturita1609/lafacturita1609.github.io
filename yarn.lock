@@ -1589,7 +1589,7 @@
 
 "@docusaurus/plugin-content-docs@*", "@docusaurus/plugin-content-docs@^2 || ^3", "@docusaurus/plugin-content-docs@^3.5.0", "@docusaurus/plugin-content-docs@^3.7.0", "@docusaurus/plugin-content-docs@3.7.0":
   version "3.7.0"
-  resolved "https://registry.npmjs.org/@docusaurus/plugin-content-docs/-/plugin-content-docs-3.7.0.tgz"
+  resolved "https://registry.npmmirror.com/@docusaurus/plugin-content-docs/-/plugin-content-docs-3.7.0.tgz"
   integrity sha512-GXg5V7kC9FZE4FkUZA8oo/NrlRb06UwuICzI6tcbzj0+TVgjq/mpUXXzSgKzMS82YByi4dY2Q808njcBCyy6tQ==
   dependencies:
     "@docusaurus/core" "3.7.0"

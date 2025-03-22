@@ -43,12 +43,13 @@ const config: Config = {
           routeBasePath: '/',
           includeCurrentVersion: false,
           docItemComponent: "@theme/ApiItem", // Derived from docusaurus-theme-openapi
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: ({ version, docPath }) => {
-            const basePath = version === 'current' ? 'docs' : `versioned_docs/version-${version}`;
-            return `https://github.com/fastura/documentacion/tree/master/${basePath}/${docPath}`;
-          }
+          editUrl:
+            'https://github.com/fastura/documentacion/tree/master/',
+            
         },
         blog: false,
         theme: {

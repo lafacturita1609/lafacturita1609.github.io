@@ -117,6 +117,6 @@ Una vez que todos los datos estén completos, selecciona el botón **Generar**.
 - **Ir al Listado:** Visualiza todos los comprobantes generados o selecciona **Crear Nuevo Comprobante** para iniciar otro.
 
 
-![alt text](img/tipo_comprobante_.jpg)
----
+![opciones Adicionales](img/tipo_comprobante_.jpg)
+
 
