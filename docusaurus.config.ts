@@ -61,8 +61,79 @@ const config: Config = {
 
   plugins: [
     'plugin-image-zoom',
+    './synonyms-plugin.js',
 
-    require.resolve('docusaurus-lunr-search'),
+    [
+      require.resolve('docusaurus-lunr-search'),
+      {
+        // Habilitar el idioma español
+        languages: ['es', 'en'],
+        
+        // Personalizar campos para mejorar la relevancia
+        fields: {
+          title: { boost: 200 },
+          content: { boost: 2 },
+          keywords: { boost: 150 }, // Aumentado para darle más peso a keywords
+          headings: { boost: 100 }  // Asegurar que los encabezados tengan buen peso
+        },
+        
+        // Palabras a excluir (stop words en español)
+        stopWords: [
+          'a', 'al', 'algo', 'algunas', 'algunos', 'ante', 'antes', 'como',
+          'con', 'contra', 'cual', 'cuando', 'de', 'del', 'desde', 'donde',
+          'durante', 'e', 'el', 'ella', 'ellas', 'ellos', 'en', 'entre',
+          'era', 'erais', 'eran', 'eras', 'eres', 'es', 'esa', 'esas',
+          'ese', 'eso', 'esos', 'esta', 'estaba', 'estabais', 'estaban',
+          'estabas', 'estad', 'estada', 'estadas', 'estado', 'estados',
+          'estamos', 'estando', 'estar', 'estaremos', 'estará', 'estarán',
+          'estarás', 'estaré', 'estaréis', 'estaría', 'estaríais',
+          'estaríamos', 'estarían', 'estarías', 'estas', 'este', 'estemos',
+          'esto', 'estos', 'estoy', 'estuve', 'estuviera', 'estuvierais',
+          'estuvieran', 'estuvieras', 'estuvieron', 'estuviese', 'estuvieseis',
+          'estuviesen', 'estuvieses', 'estuvimos', 'estuviste', 'estuvisteis',
+          'estuviéramos', 'estuviésemos', 'estuvo', 'está', 'estábamos',
+          'estáis', 'están', 'estás', 'esté', 'estéis', 'estén', 'estés',
+          'fue', 'fuera', 'fuerais', 'fueran', 'fueras', 'fueron', 'fuese',
+          'fueseis', 'fuesen', 'fueses', 'fui', 'fuimos', 'fuiste', 'fuisteis',
+          'fuéramos', 'fuésemos', 'ha', 'habéis', 'había', 'habíais', 'habíamos',
+          'habían', 'habías', 'han', 'has', 'hasta', 'hay', 'haya', 'hayáis',
+          'hayamos', 'hayan', 'hayas', 'he', 'hemos', 'hube', 'hubiera',
+          'hubierais', 'hubieran', 'hubieras', 'hubieron', 'hubiese', 'hubieseis',
+          'hubiesen', 'hubieses', 'hubimos', 'hubiste', 'hubisteis', 'hubiéramos',
+          'hubiésemos', 'hubo', 'la', 'las', 'le', 'les', 'lo', 'los', 'me', 'mi',
+          'mis', 'mucho', 'muchos', 'muy', 'más', 'mí', 'mía', 'mías', 'mío',
+          'míos', 'nada', 'ni', 'no', 'nos', 'nosotras', 'nosotros', 'nuestra',
+          'nuestras', 'nuestro', 'nuestros', 'o', 'os', 'otra', 'otras', 'otro',
+          'otros', 'para', 'pero', 'poco', 'por', 'porque', 'que', 'quien',
+          'quienes', 'qué', 'se', 'sea', 'seamos', 'sean', 'seas', 'sentid',
+          'sentida', 'sentidas', 'sentido', 'sentidos', 'seremos', 'será',
+          'serán', 'serás', 'seré', 'seréis', 'sería', 'seríais', 'seríamos',
+          'serían', 'serías', 'seáis', 'si', 'sido', 'siendo', 'sin', 'sobre',
+          'sois', 'somos', 'son', 'soy', 'su', 'sus', 'suya', 'suyas', 'suyo',
+          'suyos', 'sí', 'también', 'tanto', 'te', 'tendremos', 'tendrá',
+          'tendrán', 'tendrás', 'tendré', 'tendréis', 'tendría', 'tendríais',
+          'tendríamos', 'tendrían', 'tendrías', 'tened', 'tenemos', 'tenga',
+          'tengamos', 'tengan', 'tengas', 'tengo', 'tengáis', 'tenida', 'tenidas',
+          'tenido', 'tenidos', 'teniendo', 'tenéis', 'tenía', 'teníais',
+          'teníamos', 'tenían', 'tenías', 'ti', 'tiene', 'tienen', 'tienes',
+          'todo', 'todos', 'tu', 'tus', 'tuve', 'tuviera', 'tuvierais',
+          'tuvieran', 'tuvieras', 'tuvieron', 'tuviese', 'tuvieseis', 'tuviesen',
+          'tuvieses', 'tuvimos', 'tuviste', 'tuvisteis', 'tuviéramos',
+          'tuviésemos', 'tuvo', 'tuya', 'tuyas', 'tuyo', 'tuyos', 'tú', 'un',
+          'una', 'uno', 'unos', 'vosotras', 'vosotros', 'vuestra', 'vuestras',
+          'vuestro', 'vuestros', 'y', 'ya', 'yo', 'él', 'éramos'
+        ],
+
+        searchResultLimits: 15, 
+        searchResultContextMaxLength: 100, // Más contexto en los resultados
+        highlightSearchTermsOnTargetPage: true, // Resaltar términos de búsqueda
+        
+        // Activar resaltado en los resultados
+        highlightResult: true
+      }
+    ],
+  
+
 
     [
       'docusaurus-plugin-openapi-docs',
@@ -172,19 +243,33 @@ const config: Config = {
   ],
 
   themes: [
-    // ... Your other themes.
+
     'docusaurus-theme-openapi-docs',
-    /*[
+
+    /*
+    [
       require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      /*({
+      {
+        // Configuraciones para búsqueda global
         hashed: true,
         indexDocs: true,
         indexPages: true,
-        docsRouteBasePath: '/', // Asegura que el buscador indexe correctamente
-      }),
-    ],*/
-    
+        docsRouteBasePath: '/', // Importante: cambia esto para buscar en todas las rutas de docs
+        language: ["es", "en"], // Idiomas que quieres indexar
+        searchContextByPaths: ["docs"], // Asegura búsqueda global en docs
+        useAllContextsWithNoSearchContext: true, // Compartir índices entre contextos
+        
+        // Opcional: Buscar en todas las versiones
+        docsPluginIdForPreferredVersion: "classic", // Si tienes múltiples instancias de docs
+        
+        // Límites y configuraciones de búsqueda
+        searchResultLimits: 15, // Aumenta el número de resultados
+        searchResultContextMaxLength: 100, // Más contexto en los resultados
+        highlightSearchTermsOnTargetPage: true, // Resaltar términos de búsqueda
+      },
+    ],
+  ]
+    */
   ],
 
   themeConfig: {

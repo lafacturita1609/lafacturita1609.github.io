@@ -1,0 +1,7 @@
+{
+    "factura": ["facturas", "facturacion", "facturación", "invoice", "billing", "boleta", "voleta"],
+    "producto": ["productos", "item", "items", "mercancia", "mercancía"],
+    "cliente": ["clientes", "customer", "customers", "comprador"],
+    "venta": ["ventas", "sale", "sales", "comercio"],
+    "cotizacion": ["cotización", "cotizaciones", "presupuesto", "estimate", "quote"]
+  }
