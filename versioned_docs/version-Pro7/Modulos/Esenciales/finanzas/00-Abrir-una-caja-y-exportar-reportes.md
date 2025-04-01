@@ -64,3 +64,8 @@ Editar: Esta opción aparece solo cuando la caja está abierta.Puede editar los 
 * **C.Electrónico (Correo electrónico):** Podrá enviar todo el resumen a un correo electrónico.
 
 ![Alt text](img/Abrir_una_caja_y_exportar_reportes_05.jpg)
+
+:::danger IMPORTANTE:
+IMPORTANTE: Cuando la caja con la que creo el gasto esta cerrada, no puede editar el gasto.
+:::
+
