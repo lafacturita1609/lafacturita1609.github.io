@@ -75,6 +75,13 @@ En esta pantalla se muestran los establecimientos registrados junto con su **des
 
 Cada serie puede ser eliminada haciendo clic en el icono de **basura** correspondiente.
 
+:::danger IMPORTANTE:
+IMPORTANTE: Es Importante agregar lkas series de entrada y salida.
+
+![alt text](img/serie-entrada-salida.png)
+
+:::
+
 ---
 
 ## Observaciones Importantes
