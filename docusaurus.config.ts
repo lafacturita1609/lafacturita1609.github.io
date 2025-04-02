@@ -167,8 +167,24 @@ const config: Config = {
             },
           },
           enviar_pdf: { 
-            specPath: "apifacturador/Enviarpdf/enviarPDF.yaml",  
+            specPath: "apifacturador/Enviarpdf",  
             outputDir: "docs/facturador/Enviar-pdf",  
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "retencion",
+            },
+          },
+          enviar_mensaje: { 
+            specPath: "apifacturador/Enviarmensaje",  
+            outputDir: "docs/facturador/Enviar-mensaje",  
+            baseUrl: "/facturador",
+            sidebarOptions: {
+              // groupPathsBy: "retencion",
+            },
+          },
+          enviar_multimedia: { 
+            specPath: "apifacturador/Enviarmultimedia",  
+            outputDir: "docs/facturador/Enviar-multimedia",  
             baseUrl: "/facturador",
             sidebarOptions: {
               // groupPathsBy: "retencion",

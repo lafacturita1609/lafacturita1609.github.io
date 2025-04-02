@@ -1,8 +1,8 @@
 openapi: 3.0.3
 info:
   title: API de Mensajería
-  description: Endpoint para enviar archivos PDF a través de WhatsApp.
-  version: 1.0.11
+  description: Endpoint para enviar mensajes de texto a través de WhatsApp.
+  version: 1.0.0
 
 servers:
   - url: https://apievo.qr.buho.la
@@ -10,28 +10,28 @@ servers:
 
 tags:
   - name: api
-    description: Enviar PDFs
+    description: Enviar Mensajes
     externalDocs:
       description: Más
       url: https://apievo.qr.buho.la
 
 paths:
-  /api/message/send/pdf:
+  /api/message/send-text:
     post:
       tags:
         - api
-      summary: Enviar PDF por WhatsApp
-      operationId: enviarPdf
-      description: Permite enviar un archivo PDF a un número de WhatsApp.
+      summary: Enviar mensaje de texto por WhatsApp
+      operationId: enviarMensaje
+      description: Permite enviar un mensaje de texto a un número de WhatsApp.
       requestBody:
-        description: Datos necesarios para enviar el PDF.
+        description: Datos necesarios para enviar el mensaje.
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/EnviarPDFRequest"
+              $ref: "#/components/schemas/EnviarMensajeRequest"
       responses:
         "200":
-          description: PDF enviado correctamente
+          description: Mensaje enviado correctamente
           content:
             application/json:
               schema:
@@ -63,7 +63,7 @@ components:
       bearerFormat: JWT
   
   schemas:
-    EnviarPDFRequest:
+    EnviarMensajeRequest:
       type: object
       properties:
         number:
@@ -72,17 +72,8 @@ components:
           description: Número de teléfono en formato internacional sin el "+".
         message:
           type: string
-          example: "File PDF"
-          description: Mensaje de texto acompañando el PDF.
-        file:
-          type: string
-          format: byte
-          example: "JVBERi0xLjQKJeLjz9MK...."
-          description: Archivo en formato Base64.
-        filename:
-          type: string
-          example: "file.pdf"
-          description: Nombre del archivo.
+          example: "Plain text message"
+          description: Mensaje de texto a enviar.
     
     SuccessResponse:
       type: object
@@ -105,24 +96,19 @@ components:
             message:
               type: object
               properties:
-                documentMessage:
+                extendedTextMessage:
                   type: object
                   properties:
-                    url:
+                    text:
                       type: string
-                      example: "https://mmg.whatsapp.net/..."
-                    mimetype:
-                      type: string
-                      example: "application/pdf"
-                    fileName:
-                      type: string
-                      example: "file.pdf"
-                    caption:
-                      type: string
-                      example: "File PDF"
+                      example: "Plain text message"
+                    contextInfo:
+                      type: array
+                      items:
+                        type: object
             messageTimestamp:
               type: string
-              example: "1723397000"
+              example: "1726586899"
             status:
               type: string
               example: "PENDING"

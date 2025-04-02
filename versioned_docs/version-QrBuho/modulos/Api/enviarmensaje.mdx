@@ -1,0 +1,71 @@
+---
+id: enviar-mensaje
+title: "Enviar mensaje de texto por WhatsApp"
+description: "Permite enviar un mensaje de texto a un número de WhatsApp."
+sidebar_label: "Enviar mensaje de texto por WhatsApp"
+hide_title: true
+hide_table_of_contents: true
+api: eJzVVktTG0cQ/itbc0oqWA9iYdApMsgpXAWhQCkfMIfWboMG786Me2ZllC39IB9yys1X/TF37wMJbQCn4kPCgRrN9uvr/nq6CxXgxqvhpQKn1dWOsg4JgrbmOFFDhWaugU7QeLhFtaMS9DFpJ9/56xlSpgNGlVSUmyirJKMEo4B3wUYgt2b1JUOycvtuBsGPnOuwMcKPOfrw2iYLNSy2bB9BsD4yGKMH0nx0QNB4wrTxJHZiawKaIDbAuVTHZfzdWy+GCuXjGWYgp7BwyKbt9BbjwIqOBG3Q6OWrybMp0oacD6TNDcvhHWQulav+7s8vB3uv9g9auThdYwyYrj5fW2M53OjaUsZQIs0xkoGYpSGNvDYC4r366b3qqOWOytB7uMGnvZ+lwHqS2KiR3w7jpF2AKmfshd0EHUpL4826nld1YAERIfTOGl/lZLfXa5em8VEaTmwUWyJOKHBJAn6/eiQQvkHqAy6eFyLMbMC3Onk6v4P+fX1/8Z1PQlUG0DEYpETXZLOTzQpNrU0RzKaJQDmy6HOOXo/Gg/7hbr8/GI/33hz2VJn5NgcegcOFRZNgMuHDybcqCR3+Mb2WdTXvwrG5thvqQAQL1ub2z3zb+XK53IQ00XxggrhnuuvV7t5gf2//4EAcs0LI/TMhj0+Pjk9/ranbsPsij/nZ8Oc1k+uvL/+Oy2MiS9KnKUTeMld1yJPvx2EU809DOKriifXqL8Ntm0aVzoNulZsWmn4bzSn3ex4s6T+kL3+Y2A+MTJu6QW0kn7106Y//B4iDxwtWvaa2NOaR5jphe/95SGVDhJmVyeqsLx1DmPGvLk/fbt0sXa5Q8qJsV24CBockA7pQOaUsOgvB+WFXNHBuOx+pM81ntpNCaxZc1ImRYcAAE+4KCVctr8RunJMOiwtJSYV6ikBIo1wCuocu3iSMUkzevFKIb6rDm3K68f3bd5MSvKT6fD3Xx03C1uP1wQy9f/IeeXx08+rUOR2dHQuaegLR6s826rFJnGV+PFgY6m3Bb87FQDBfffbbW4mku7LU7/Q6PYlCapVBSSED2Xp+ttcdx9lujG1HVqzp+W83p7o4Ith1kjiJsqRHUTOq2ufWCZaKN6zi8s+EfSxUFFPw+Duly6Vcc92Ix+klH+e8dcFUkn55xcZnCIlU77KeuOqwwvJiIqGIeJqXc2G77ZY7jcaIH2UXnpS92miQs98uJsKzejvMbCI6BJ9kc+T/Q6VkWxXtasbLXaFSMDd5RanKpvx9BeJMycA=
+sidebar_class_name: "post api-method"
+info_path: facturador/Enviar-mensaje/api-de-mensajeria
+custom_edit_url: null
+---
+
+import MethodEndpoint from "@theme/ApiExplorer/MethodEndpoint";
+import ParamsDetails from "@theme/ParamsDetails";
+import RequestSchema from "@theme/RequestSchema";
+import StatusCodes from "@theme/StatusCodes";
+import OperationTabs from "@theme/OperationTabs";
+import TabItem from "@theme/TabItem";
+import Heading from "@theme/Heading";
+
+<Heading
+  as={"h1"}
+  className={"openapi__heading"}
+  children={"Enviar mensaje de texto por WhatsApp"}
+>
+</Heading>
+
+<MethodEndpoint
+  method={"post"}
+  path={"/api/message/send-text"}
+  context={"endpoint"}
+>
+  
+</MethodEndpoint>
+
+
+
+Permite enviar un mensaje de texto a un número de WhatsApp.
+
+<Heading
+  id={"request"}
+  as={"h2"}
+  className={"openapi-tabs__heading"}
+  children={"Request"}
+>
+</Heading>
+
+<ParamsDetails
+  parameters={undefined}
+>
+  
+</ParamsDetails>
+
+<RequestSchema
+  title={"Body"}
+  body={{"description":"Datos necesarios para enviar el mensaje.","content":{"application/json":{"schema":{"type":"object","properties":{"number":{"type":"string","example":"123456789","description":"Número de teléfono en formato internacional sin el \"+\"."},"message":{"type":"string","example":"Plain text message","description":"Mensaje de texto a enviar."}},"title":"EnviarMensajeRequest"}}}}}
+>
+  
+</RequestSchema>
+
+<StatusCodes
+  id={undefined}
+  label={undefined}
+  responses={{"200":{"description":"Mensaje enviado correctamente","content":{"application/json":{"schema":{"type":"object","properties":{"data":{"type":"object","properties":{"key":{"type":"object","properties":{"remoteJid":{"type":"string","example":"51123456789@s.whatsapp.net"},"fromMe":{"type":"boolean","example":true},"id":{"type":"string","example":"BAE51C2115EE6FC0"}}},"message":{"type":"object","properties":{"extendedTextMessage":{"type":"object","properties":{"text":{"type":"string","example":"Plain text message"},"contextInfo":{"type":"array","items":{"type":"object"}}}}}},"messageTimestamp":{"type":"string","example":"1726586899"},"status":{"type":"string","example":"PENDING"}}}},"title":"SuccessResponse"}}}},"400":{"description":"Error en la solicitud","content":{"application/json":{"schema":{"type":"object","properties":{"error":{"type":"string","example":"Descripción del error"}},"title":"ErrorResponse"}}}},"401":{"description":"No autorizado (Token incorrecto o ausente)","content":{"application/json":{"schema":{"type":"object","properties":{"error":{"type":"string","example":"Descripción del error"}},"title":"ErrorResponse"}}}},"500":{"description":"Error interno del servidor","content":{"application/json":{"schema":{"type":"object","properties":{"error":{"type":"string","example":"Descripción del error"}},"title":"ErrorResponse"}}}}}}
+>
+  
+</StatusCodes>
+
+
+      

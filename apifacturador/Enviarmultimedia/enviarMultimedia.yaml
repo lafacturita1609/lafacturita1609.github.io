@@ -1,8 +1,8 @@
 openapi: 3.0.3
 info:
   title: API de Mensajería
-  description: Endpoint para enviar archivos PDF a través de WhatsApp.
-  version: 1.0.11
+  description: Endpoint para enviar archivos multimedia a través de WhatsApp.
+  version: 1.0.0
 
 servers:
   - url: https://apievo.qr.buho.la
@@ -10,28 +10,25 @@ servers:
 
 tags:
   - name: api
-    description: Enviar PDFs
-    externalDocs:
-      description: Más
-      url: https://apievo.qr.buho.la
+    description: Enviar Multimedia
 
 paths:
-  /api/message/send/pdf:
+  /api/message/send-media:
     post:
       tags:
         - api
-      summary: Enviar PDF por WhatsApp
-      operationId: enviarPdf
-      description: Permite enviar un archivo PDF a un número de WhatsApp.
+      summary: Enviar archivo multimedia por WhatsApp
+      operationId: enviarMultimedia
+      description: Permite enviar imágenes, videos o audios a un número de WhatsApp.
       requestBody:
-        description: Datos necesarios para enviar el PDF.
+        description: Datos necesarios para enviar el archivo multimedia.
         content:
           application/json:
             schema:
-              $ref: "#/components/schemas/EnviarPDFRequest"
+              $ref: "#/components/schemas/EnviarMultimediaRequest"
       responses:
         "200":
-          description: PDF enviado correctamente
+          description: Multimedia enviado correctamente
           content:
             application/json:
               schema:
@@ -63,26 +60,26 @@ components:
       bearerFormat: JWT
   
   schemas:
-    EnviarPDFRequest:
+    EnviarMultimediaRequest:
       type: object
       properties:
+        media:
+          type: string
+          enum: [image, video, audio]
+          example: "image"
+          description: Tipo de archivo multimedia.
+        caption:
+          type: string
+          example: "Plain Text message"
+          description: Mensaje de texto acompañando el archivo.
+        link:
+          type: string
+          example: "https://...."
+          description: URL o Base64 del archivo multimedia.
         number:
           type: string
-          example: "123456789"
+          example: "51123456789"
           description: Número de teléfono en formato internacional sin el "+".
-        message:
-          type: string
-          example: "File PDF"
-          description: Mensaje de texto acompañando el PDF.
-        file:
-          type: string
-          format: byte
-          example: "JVBERi0xLjQKJeLjz9MK...."
-          description: Archivo en formato Base64.
-        filename:
-          type: string
-          example: "file.pdf"
-          description: Nombre del archivo.
     
     SuccessResponse:
       type: object
@@ -101,11 +98,11 @@ components:
                   example: true
                 id:
                   type: string
-                  example: "BAE51C2115EE6FC0"
+                  example: "3EB0CAF5AF1C92781BFD84"
             message:
               type: object
               properties:
-                documentMessage:
+                imageMessage:
                   type: object
                   properties:
                     url:
@@ -113,16 +110,35 @@ components:
                       example: "https://mmg.whatsapp.net/..."
                     mimetype:
                       type: string
-                      example: "application/pdf"
-                    fileName:
-                      type: string
-                      example: "file.pdf"
+                      example: "image/png"
                     caption:
                       type: string
-                      example: "File PDF"
+                      example: "Plain Text message"
+                    fileSha256:
+                      type: string
+                      example: "ti3hY4w6Rx9QNRhaqBLENIrjB2cam5UzGCJZQRCU1Eo="
+                    fileLength:
+                      type: integer
+                      example: 4397
+                    mediaKey:
+                      type: string
+                      example: "4WrvwBFE0olXpJOct8eQGKK0pcdgt9dHAinXy9nyCnE="
+                    fileEncSha256:
+                      type: string
+                      example: "1aNj9y6YoNDz4jblhGqRXDCxHGZBf4HCwPNL4wC8kkI="
+                    directPath:
+                      type: string
+                      example: "/o1/v/t62...."
+                    mediaKeyTimestamp:
+                      type: string
+                      example: "1731950781"
+                    contextInfo:
+                      type: array
+                      items:
+                        type: object
             messageTimestamp:
               type: string
-              example: "1723397000"
+              example: "1731950893"
             status:
               type: string
               example: "PENDING"
