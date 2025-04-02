@@ -1,0 +1,10 @@
+{
+    "label": "Qr Buho",
+    "position": 5,
+    "link": {
+      "type": "generated-index",
+      "slug": "qrbuho",
+      "description": "Documentacion del sistema de generación de QR"
+    }
+  }
+  

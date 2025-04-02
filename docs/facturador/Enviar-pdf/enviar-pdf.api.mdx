@@ -1,0 +1,71 @@
+---
+id: enviar-pdf
+title: "Enviar PDF por WhatsApp"
+description: "Permite enviar un archivo PDF a un número de WhatsApp."
+sidebar_label: "Enviar PDF por WhatsApp"
+hide_title: true
+hide_table_of_contents: true
+api: eJzVVsly20YQ/RVUn5IKApJaI5xCSVRKskUzEhMfZB6aQEscGbN4ZkCJZuGDfMghlVuu/LFUA+AmypSq4kOCE2pmenv9epmCxzsH8Q2gETAIQRuy6IVW5ynEQGos0PbSWwghJZdYYfgOYuiRlcJTUL0IchWgTUZirIPe6VmAfKBmf0uyOkgpeD9C79rGRBCCpU85OX+s0wnE0ydqT9FrFyhKyKEV2gUGLc6NUMbKWUeilSflWR6NyURSuty4d6xkCi4ZkUT+8xNDEIMe3lPiIQRjOUAvyPGtyuWQ7Mo7561QdxACPaI0GR+1dnb39g8OfzragKC7jM9TNvtyq5UOSAW32kr0OhDKk1WYCK0wC5xQHMAH+OEDRFCEIMk5vKPt1s9ERhz0hvFLUg7vqTL+6HWAiZYGZ3+iSvUCqSKEW5E9a6PyEmIYTjyt2bz4/bhzJZqPb+9/fXNBb+8/H12+iaIo2vChXWd8JeZjdHSwtzCsUL4QIL+KzDME62o5tBxfNmdWBEURghe+FOxU1Dw9u6r4BEXB15ac0cpV+d1pNjcpxvwsCZXqINHWUuJRkipB+Ea8StG/4tVHmrz8yJLUni5Euh3G/daCpz+76IHLDY2JFPkyFVbLy9VEDLXOCNWqCm9zKkJ4ydBxu7PfOtlptfY7nYOzkyaUqG9y+WvI6CRnsC9fK5DbbLtDI++NixsNKe/W4m4wY9k1IamS3qZlNdvMxpq/3dfztwghwZpjr6rooliFri8kOY/SvNCNDnd2d48Om80mG3Qefe62S/Q63dPz7i91ecyr5zpPEnLuqq6W+nbvuXrpWKst13iGgdOZSITP029XK8Tqt4dwWvmTiNlfqmwIlcxaN+CTjWham9F0dYC511Z85vr/rq8/kgqEqhuBDvjacTf4/v8Q4v7XE1ZNH10qc2THItX2vx9SWRB+pHn5MNqVhtGPIIYGGtGoi6XhSKWNampwbGR5hambxaIjkDSWHLailKTeNVYfRGKYR4Y2Zs11jQ9PU2N1miel11AMWH+SW+En14xMFfyQ0JJt5+zXAgG2yu6Uz7jFlo8grH/O5uP24n2/xIARv1quQp05bsutZG31WHTY1ZWgmu3bBvZyCK91KqFudel7nYh275xjr5cKO/sDNzDqqNRoofzaRlZPZlcvfd7iePbFPd34OD+VklbUjFot9oCTK7HkXO1fNdBLTUbbhYKnjkyXFP4XS2idNF6dGiZDodinetZUhKs24iXwzATFfY8hHIQwYnbGNzCdDtHRbzYrCj7+lJOdQHwzCGGMVuCQ8b0ZFCGMCFNO6009+eGkiuPH/qSk5Biz/OkoKsuyCOcS7SQh47e+HawUUO/ddZ8JWG/aUqcsY/GBt3B8gBiAF36WrnYNPptChuour7hW6eTvH6MVK68=
+sidebar_class_name: "post api-method"
+info_path: facturador/Enviar-pdf/api-de-mensajeria
+custom_edit_url: null
+---
+
+import MethodEndpoint from "@theme/ApiExplorer/MethodEndpoint";
+import ParamsDetails from "@theme/ParamsDetails";
+import RequestSchema from "@theme/RequestSchema";
+import StatusCodes from "@theme/StatusCodes";
+import OperationTabs from "@theme/OperationTabs";
+import TabItem from "@theme/TabItem";
+import Heading from "@theme/Heading";
+
+<Heading
+  as={"h1"}
+  className={"openapi__heading"}
+  children={"Enviar PDF por WhatsApp"}
+>
+</Heading>
+
+<MethodEndpoint
+  method={"post"}
+  path={"/api/message/send/pdf"}
+  context={"endpoint"}
+>
+  
+</MethodEndpoint>
+
+
+
+Permite enviar un archivo PDF a un número de WhatsApp.
+
+<Heading
+  id={"request"}
+  as={"h2"}
+  className={"openapi-tabs__heading"}
+  children={"Request"}
+>
+</Heading>
+
+<ParamsDetails
+  parameters={undefined}
+>
+  
+</ParamsDetails>
+
+<RequestSchema
+  title={"Body"}
+  body={{"description":"Datos necesarios para enviar el PDF.","content":{"application/json":{"schema":{"type":"object","properties":{"number":{"type":"string","example":"123456789","description":"Número de teléfono en formato internacional sin el \"+\"."},"message":{"type":"string","example":"File PDF","description":"Mensaje de texto acompañando el PDF."},"file":{"type":"string","format":"byte","example":"JVBERi0xLjQKJeLjz9MK....","description":"Archivo en formato Base64."},"filename":{"type":"string","example":"file.pdf","description":"Nombre del archivo."}},"title":"EnviarPDFRequest"}}}}}
+>
+  
+</RequestSchema>
+
+<StatusCodes
+  id={undefined}
+  label={undefined}
+  responses={{"200":{"description":"PDF enviado correctamente","content":{"application/json":{"schema":{"type":"object","properties":{"data":{"type":"object","properties":{"key":{"type":"object","properties":{"remoteJid":{"type":"string","example":"51123456789@s.whatsapp.net"},"fromMe":{"type":"boolean","example":true},"id":{"type":"string","example":"BAE51C2115EE6FC0"}}},"message":{"type":"object","properties":{"documentMessage":{"type":"object","properties":{"url":{"type":"string","example":"https://mmg.whatsapp.net/..."},"mimetype":{"type":"string","example":"application/pdf"},"fileName":{"type":"string","example":"file.pdf"},"caption":{"type":"string","example":"File PDF"}}}}},"messageTimestamp":{"type":"string","example":"1723397000"},"status":{"type":"string","example":"PENDING"}}}},"title":"SuccessResponse"}}}},"400":{"description":"Error en la solicitud","content":{"application/json":{"schema":{"type":"object","properties":{"error":{"type":"string","example":"Descripción del error"}},"title":"ErrorResponse"}}}},"401":{"description":"No autorizado (Token incorrecto o ausente)","content":{"application/json":{"schema":{"type":"object","properties":{"error":{"type":"string","example":"Descripción del error"}},"title":"ErrorResponse"}}}},"500":{"description":"Error interno del servidor","content":{"application/json":{"schema":{"type":"object","properties":{"error":{"type":"string","example":"Descripción del error"}},"title":"ErrorResponse"}}}}}}
+>
+  
+</StatusCodes>
+
+
+      

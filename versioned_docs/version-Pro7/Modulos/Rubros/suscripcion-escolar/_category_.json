@@ -1,0 +1,9 @@
+{
+  "label": "Suscripción Escolar",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "suscripcion-escolar",
+    "description": "Encuentra ayuda sobre el módulo de Suscripción Escolar."
+  }
+}

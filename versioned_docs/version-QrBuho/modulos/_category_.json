@@ -1,0 +1,10 @@
+{
+    "label": "Modulos",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "slug": "Modulos",
+      "description": "Documentación de los módulos y funciones de QR API"
+    }
+  }
+  

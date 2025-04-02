@@ -1,0 +1,10 @@
+{
+    "label": "Contactos",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "slug": "Contactos",
+      "description": "Agrega, importa y etiqueta contactos para facilitar el envío de mensajes masivos."
+    }
+  }
+  

@@ -1,0 +1,9 @@
+{
+  "label": "Suscripción",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "servicio-suscripcion",
+    "description": "Encuentra ayuda sobre el módulo de Suscripción."
+  }
+}

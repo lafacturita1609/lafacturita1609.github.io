@@ -1,0 +1,9 @@
+{
+  "label": "Rubros",
+      "position": 3,
+      "link": {
+        "type": "generated-index",
+        "slug": "rubro-x",
+        "description": "Accede a la sección de Rubro"
+      }
+    }

@@ -1,0 +1,9 @@
+{
+  "label": "Restaurante",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "slug": "restaurante",
+    "description": "Encuentra ayuda sobre el módulo de Restaurante."
+  }
+}

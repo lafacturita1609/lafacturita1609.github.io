@@ -1,0 +1,9 @@
+{
+  "label": "Informacion",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "slug": "informacion",
+    "description": "Documentacion del modulo de Informacion"
+  }
+}

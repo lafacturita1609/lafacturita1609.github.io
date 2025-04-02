@@ -1,0 +1,9 @@
+{
+  "label": "Pedidos",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "pedidos-x",
+    "description": "Encuentra ayuda sobre el submódulo de Pedidos en Reportes."
+  }
+}
