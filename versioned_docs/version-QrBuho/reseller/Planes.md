@@ -7,15 +7,22 @@ sidebar_position: 3
 En esta sección, aprenderás cómo crear, gestionar y administrar planes. Los planes permiten establecer distintos niveles de acceso y uso del sistema para las cuentas de empresa.
 
 ## Acceder a la sección de Planes
+
+![Descripción de la imagen](/img/Admin_Planes.png)
+
 1. Inicia sesión en el sistema reseller.
 2. En el menú lateral, selecciona la opción **Planes**.
 3. Se mostrará una lista con todos los planes creados.
 
 ## Crear un nuevo Plan
+
 Para crear un nuevo plan, sigue estos pasos:
 
 1. Dentro de la sección **Planes**, haz clic en el botón **Nuevo (+ New)**.
 2. Se abrirá un formulario con los siguientes campos:
+
+![Descripción de la imagen](/img/Admin_Crearplan.png)
+
    - **Nombre del plan**: Ingresa un nombre representativo para el plan.
    - **Precio**: Define el precio del plan. Si es un plan gratuito, activa la opción correspondiente.
    - **Descripción**: Escribe una breve descripción del plan.
@@ -26,6 +33,9 @@ Para crear un nuevo plan, sigue estos pasos:
 
 ## Administrar los planes existentes
 En la sección **Planes**, puedes visualizar y administrar los planes creados. Para cada plan se muestra:
+
+![Descripción de la imagen](/img/Admin_Crearpla.png)
+
 - **Estado**: Indica si el plan está activo o inactivo.
 - **Nombre del plan**.
 - **Límite de dispositivos**.

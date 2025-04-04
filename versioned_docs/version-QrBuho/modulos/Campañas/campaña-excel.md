@@ -9,9 +9,11 @@ El sistema permite crear campañas mediante la carga de un archivo Excel con la 
 
 ### Acceder a la sección de campañas
 
-**1.** En el menú lateral, seleccionar Campañas.
+**1.** En el menú lateral, seleccionar **Campañas.**
 
-**2.** Hacer clic en el botón Crear Campaña.
+![Descripción de la imagen](/img/Cliente_DashCampaña.png)
+
+**2.** Hacer clic en el botón **Crear Campaña.**
 
 ### Seleccionar el tipo de campaña
 
@@ -20,6 +22,8 @@ El sistema permite crear campañas mediante la carga de un archivo Excel con la 
 **4.** Se abrirá un formulario para adjuntar el archivo y configurar la campaña.
 
 ### Configurar los detalles de la campaña
+
+![Descripción de la imagen](/img/Cliente_CrearCampañaExcel.png)
 
 * **Nombre de la campaña:** Escribir un título representativo.
 

@@ -10,15 +10,21 @@ Para crear una campaña manualmente, el usuario debe seguir los siguientes pasos
 
 **1.** En el menú lateral, hacer clic en la opción **Campañas**.
 
+![Descripción de la imagen](/img/Cliente_DashCampaña.png)
+
 **2.** Pulsar el botón **Crear Campaña**.
 
 ### Seleccionar el tipo de campaña
 
 **3.** En la ventana emergente, elegir **Crear manualmente.**
 
+![Descripción de la imagen](/img/Cliente_CrearCampaña.png)
+
 **4.** Esto permitirá redactar el mensaje directamente en el sistema y seleccionar los grupos de clientes a los que se enviará.
 
 ### Configurar los detalles de la campaña
+
+![Descripción de la imagen](/img/Cliente_CrearCampañaManual.png)
 
 * **Nombre de la campaña:** Especificar un título representativo.
 
@@ -31,6 +37,8 @@ Para crear una campaña manualmente, el usuario debe seguir los siguientes pasos
 ### Opciones adicionales
 
 **Programar envío:** Si se desea enviar la campaña en una fecha específica, habilitar esta opción y seleccionar la fecha y hora.
+
+![Descripción de la imagen](/img/programarenvio.png)
 
 ### Finalizar la campaña
 

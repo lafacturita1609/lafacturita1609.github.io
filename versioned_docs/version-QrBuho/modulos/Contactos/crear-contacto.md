@@ -20,9 +20,13 @@ Para cada contacto, se deben ingresar los siguientes datos:
 
 Ingrese a la sección de **Contactos** y siga las siguientes instrucciones
 
+![Descripción de la imagen](/img/crearcontacto.png)
+
 **1.** Hacer clic en el botón **Crear contacto**.
 
 **2.** Completar el formulario con el **nombre**, **número de WhatsApp** y **etiquetas**.
+
+![Descripción de la imagen](/img/crearcontactomodal.png)
 
 **3.** Hacer clic en **Submit** para guardar el contacto.
 

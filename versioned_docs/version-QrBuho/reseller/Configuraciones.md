@@ -2,30 +2,22 @@
 sidebar_position: 5
 ---
 
-# Configuraciones
+# Configuración Reseller
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+La sección de configuración del reseller permite gestionar los parámetros esenciales para la conexión con la API de QrBuho. Desde aquí, se pueden establecer las credenciales necesarias para que el sistema funcione correctamente.
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+## Acceso a la Configuración
+Para acceder a la configuración, dirígete al menú lateral y selecciona **Configurations**. Esto te llevará a la pantalla de configuración donde podrás gestionar los siguientes parámetros:
 
-## Build your site
+![Descripción de la imagen](/img/Admin_Configuracion.png)
 
-Build your site **for production**:
+### Parámetros de Configuración
 
-```bash
-npm run build
-```
+- **API URL**: Dirección del endpoint al que se conectará el sistema. Ejemplo: `https://apievo.qr.buho.la`.
+- **API TOKEN**: Clave de autenticación que permite validar las solicitudes a la API.
 
-The static files are generated in the `build` folder.
+### Guardar Cambios
+Una vez ingresados los datos, presiona el botón **Save** para almacenar la configuración. Esto asegurará que el sistema utilice las credenciales correctas para la integración con la API.
 
-## Deploy your site
+Esta configuración es fundamental para garantizar la comunicación entre el sistema del reseller y la API de QrBuho, permitiendo el correcto funcionamiento de todas sus funcionalidades.
 
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).

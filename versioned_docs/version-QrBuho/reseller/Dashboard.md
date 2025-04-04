@@ -2,46 +2,52 @@
 sidebar_position: 1
 ---
 
-<div className="mi-cuadro">
+# Dashboard Reseller
 
-# Dashboard
+![Descripción de la imagen](/img/Admin_Dashboard.png)
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+El dashboard del reseller es la pantalla principal desde donde se gestionan las cuentas de empresa, dispositivos, mensajes y contactos. A continuación, se detallan sus secciones y funcionalidades:
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+### Panel de métricas principales
 
-## Create your first React Page
+En la parte superior del dashboard, se encuentran cuatro tarjetas con información clave:
 
-Create a file at `src/pages/my-react-page.js`:
+![Descripción de la imagen](/img/Admin_Dashboard1.png)
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+- **Mensajes:** Muestra la cantidad total de mensajes enviados.
+- **Cuentas:** Indica el número de empresas registradas en el sistema.
+- **Dispositivos:** Representa la cantidad de dispositivos vinculados a las cuentas.
+- **Contactos:** Total de contactos almacenados en el sistema.
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+### Gestión de Cuentas
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+Debajo de las métricas principales, hay una tabla que lista todas las cuentas registradas en el sistema. La tabla contiene las siguientes columnas:
 
-## Create your first Markdown Page
+![Descripción de la imagen](/img/Admin_Dashboard2.png)
 
-Create a file at `src/pages/my-markdown-page.md`:
+- **Activar:** Permite habilitar o deshabilitar una cuenta.
+- **Cuenta:** Muestra el nombre y dominio asociado.
+- **Correo:** Dirección de correo electrónico del administrador de la cuenta.
+- **Plan:** Indica el plan al que está suscrita la cuenta.
+- **Vencimiento:** Fecha de expiración del plan de la cuenta.
+- **Acciones:** Contiene opciones para editar o eliminar la cuenta.
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+### Menú Lateral
 
-This is a Markdown page
-```
+En el lado izquierdo, el menú proporciona accesos directos a diferentes secciones:
 
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+![Descripción de la imagen](/img/Admin_Dashboard3.png)
 
-</div>
+- **Cuentas:** Vista principal donde se administran las empresas registradas.
+- **Planes:** Sección para gestionar los planes disponibles en la plataforma.
+- **Configuraciones:** Área donde se ajustan parámetros generales del reseller.
+
+### Barra Superior
+
+En la parte superior derecha del dashboard, hay herramientas adicionales:
+- **Búsqueda rápida:** Permite encontrar cuentas o información dentro del sistema.
+- **Configuraciones de usuario:** Acceso a ajustes personales y del sistema.
+- **Modo oscuro/claro:** Opción para cambiar la apariencia del dashboard.
+- **Notificaciones:** Muestra alertas relevantes sobre la actividad del sistema.
+
+Este dashboard facilita la administración del reseller de manera intuitiva y eficiente, permitiendo el control total de las cuentas, planes y dispositivos asociados.

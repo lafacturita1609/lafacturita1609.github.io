@@ -13,6 +13,8 @@ Aquí describiremos el proceso detallado para vincular el sistema de facturació
 
 1. Iniciar sesión en el sistema de facturación.
 
+![Descripción de la imagen](/img/panelfastura.png)
+
 2. En el menú lateral, hacer clic en **Configuración**.
 
 3. Dentro de la configuración, buscar la sección **Empresa**.
@@ -35,7 +37,11 @@ Aquí describiremos el proceso detallado para vincular el sistema de facturació
 
 8. En la lista de dispositivos, hacer clic sobre el número vinculado.
 
+![Descripción de la imagen](/img/numerosvinculados.png)
+
 9. En la nueva pantalla, se mostrará el **Token de Autenticación** y la **URL** de Integración.
+
+![Descripción de la imagen](/img/tokenurl.png)
 
 ---
 
