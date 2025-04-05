@@ -12,14 +12,14 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://manual.uio.la',
+  url: 'https://Jenny-Santiago1.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fastura',
+  organizationName: 'Jenny-Santiago1',
   projectName: 'documentacion',
 
   onBrokenLinks: 'throw',
@@ -48,7 +48,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/fastura/documentacion/tree/master/',
+            'https://github.com/Jenny-Santiago1/manual.uio.la/tree/master/',
             
         },
         blog: false,
