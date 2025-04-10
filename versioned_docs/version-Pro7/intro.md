@@ -104,7 +104,9 @@ Hay miles de usuarios de Pro 7 en todo Perú. Aquí hay algunas formas de unirte
 
 - <a href="https://www.linkedin.com/company/buho-la" target="_blank">LinkedIn:</a> Un excelente lugar para hacer preguntas y compartir ideas.
 - <a href="https://x.com/Digitalbuhoperu" target="_blank">Twitter:</a> Donde publicamos actualizaciones y compartimos contenido de la comunidad de Pro 7.
-- <a href="https://github.com/fastura/documentacion" target="_blank">GitHub:</a> Para reportar errores o solicitar nuevas funciones, crea un issue aquí. ¡PRs bienvenidos!
+- <a href="https://www.facebook.com/buho.la/" target="_blank">Facebook:</a> Donde publicamos actualizaciones, promociones y novedades sobre los servicios que ofrecemos a nuestros clientes.
+- <a href="https://github.com/fastura/documentacion" target="_blank">GitHub:</a> Para reportar errores o solicitar nuevas funciones, crea un issue aquí. ¡Sean bienvenidos!
+
 
 ## Licencia
 
