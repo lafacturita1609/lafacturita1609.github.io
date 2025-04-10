@@ -25,13 +25,14 @@ Comienza ahora siguiendo nuestra [Guía de Instalación](/Pro7/guias-adicionales
 <intro-end />
 
 <DocsCards>
-  <DocsCard header="Guía de Instalación" href="/Pro7/instalaciones" hoverIcon="/image/buho-4-hover.svg">
+  <DocsCard header="Guía de Instalación" href="/Pro7/instalaciones" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
     <p>Guías paso a paso para configurar instalar el Sistema de Facturacion Pro 7.</p>
   </DocsCard>
 
   <DocsCard
     header="Aplicacion para Facturación"
     href="/Pro7/app-para-facturacion"
+    icon="/image/buho-4-hover.svg"
     hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Manual del aplicativo movil del sistema de facturacion.</p>
@@ -40,12 +41,13 @@ Comienza ahora siguiendo nuestra [Guía de Instalación](/Pro7/guias-adicionales
   <DocsCard
     header="Manuales Adicionales"
     href="/Pro7/manuales-adicionales"
+    icon="/image/buho-4-hover.svg"
     hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Guia de configuraciones del sistema, para los procesos de configuracion primerios.</p>
   </DocsCard>
 
-  <DocsCard header="Mozo APP" href="/Pro7/mozo" hoverIcon="/image/buho-4-hover.svg">
+  <DocsCard header="Mozo APP" href="/Pro7/mozo" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
     <p>Encuentra ayuda en este seccion sobre nuestra aplicacion Mozo, una extecion de nuestro sistema Pro 7, diseñada explesamente para restaurantes.</p>
   </DocsCard>
 </DocsCards>
