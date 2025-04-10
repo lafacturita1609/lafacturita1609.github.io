@@ -44,11 +44,11 @@ Comienza ahora siguiendo nuestra [Guía de Instalación](/Pro7/guias-adicionales
     icon="/image/buho-4-hover.svg"
     hoverIcon="/image/buho-4-hover.svg"
   >
-    <p>Guia de configuraciones del sistema, para los procesos de configuracion primerios.</p>
+    <p>Guia de configuraciones del sistema, para los procesos de configuracion primarios.</p>
   </DocsCard>
 
   <DocsCard header="Mozo APP" href="/Pro7/mozo" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
-    <p>Encuentra ayuda en este seccion sobre nuestra aplicacion Mozo, una extecion de nuestro sistema Pro 7, diseñada explesamente para restaurantes.</p>
+    <p>Encuentra ayuda en esta seccion sobre nuestra aplicacion Mozo, una extencion de nuestro sistema Pro 7, diseñada expresamente para restaurantes.</p>
   </DocsCard>
 </DocsCards>
 
