@@ -30,6 +30,7 @@
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
     "docusaurus-plugin-openapi-docs": "^4.3.1",
+    "docusaurus-plugin-sass": "^0.2.6",
     "docusaurus-theme-openapi-docs": "^4.3.1",
     "micromark-extension-mdx-expression": "^3.0.0",
     "plugin-image-zoom": "github:flexanalytics/plugin-image-zoom",
@@ -43,8 +44,10 @@
     "@docusaurus/module-type-aliases": "^3.7.0",
     "@docusaurus/tsconfig": "^3.7.0",
     "@docusaurus/types": "^3.7.0",
-    "sass": "^1.83.4",
-    "sass-loader": "^16.0.4",
+    "css-loader": "^7.1.2",
+    "sass": "^1.86.3",
+    "sass-loader": "^16.0.5",
+    "style-loader": "^4.0.0",
     "typescript": "~5.6.2"
   },
   "browserslist": {

@@ -20,7 +20,7 @@ Para empezar a usar la plataforma, las empresas deben cumplir con una serie de r
 ## Precios basados en conversaciones
 
 :::info NOTA:
-A partir del **1 Junio del 2023** los cargos de conversación cambiarán, revisa nuestro **[artículo](../whatsapp-api-facebook/Actualizaciones-de-precios-basados%20-en-conversaciones-WhatsApp-API-a-partir-del-1-de-Abril-de-2023.md).**
+A partir del **1 Junio del 2023** los cargos de conversación cambiarán, revisa nuestro **[artículo](../whatsapp-api-facebook/Actualizaciones-de-precios-basados-en-conversaciones-WhatsApp-API-a-partir-del-1-de-Abril-de-2023.md).**
 
 :::
 

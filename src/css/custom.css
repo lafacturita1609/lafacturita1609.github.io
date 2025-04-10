@@ -260,3 +260,58 @@ button.aa-DetachedSearchButton {
 .openapi-explorer__code-block-lines.openapi-explorer__code-block-lines-numbering {
   background-color: rgba(256, 256, 256, 0.1); /* Para modo claro */  
 }
+
+/* Estilos para el modo oscuro */
+
+/* Estilos específicos para las tarjetas en el contenido markdown */
+.markdown .docs-cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+/* Estilo específico para las tarjetas dentro del contenido */
+.markdown .docs-card {
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  padding: 2rem;
+  transition: all 0.3s ease;
+  background-color: var(--pro7-card-bg, #081b38);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  color: var(--pro7-light-text, #ffffff);
+}
+
+.markdown .docs-card:hover {
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px);
+  border-color: var(--pro7-turquoise, #34dbc3);
+}
+
+/* Estilos para el encabezado de la tarjeta */
+.markdown .docs-card .card-header {
+  margin-bottom: 0.8rem;
+  font-size: 1.5rem;
+  color: var(--pro7-turquoise, #34dbc3);
+  font-weight: 600;
+}
+
+/* Estilos para el contenido de la tarjeta */
+.markdown .docs-card .card-content {
+  color: var(--pro7-light-text, #ffffff);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  flex-grow: 1;
+}
+
+/* Ícono de la tarjeta */
+.markdown .docs-card .card-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 1.2em;
+  border-radius: 50%;
+  object-fit: contain;
+}

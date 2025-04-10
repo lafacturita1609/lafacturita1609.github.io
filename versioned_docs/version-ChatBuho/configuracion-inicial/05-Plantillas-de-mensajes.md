@@ -16,7 +16,7 @@ Para comprender bien el funcionamiento de los modelos de mensajes, es necesario 
 
 :::danger IMPORTANTE:
 
-A partir del 1 de Junio del 2023, se cambiarán las categorías, por favor revisar el **[artículo](../whatsapp-api-facebook/Actualizaciones-de-precios-basados%20-en-conversaciones-WhatsApp-API-a-partir-del-1-de-Abril-de-2023.md).**
+A partir del 1 de Junio del 2023, se cambiarán las categorías, por favor revisar el **[artículo](../whatsapp-api-facebook/Actualizaciones-de-precios-basados-en-conversaciones-WhatsApp-API-a-partir-del-1-de-Abril-de-2023.md).**
 
 
 :::

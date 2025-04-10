@@ -24,7 +24,7 @@ Te brindaremos de manera resumida los pasos a realizar:
 
 **10.** Activa el modo del App a producción.
 
-**11.** Configura el método de pago,**[más información](../whatsapp-api-facebook/Como-agregar-una-tarjeta-de-crédito-o-débito-a-la-plataforma-de-WhatsApp-Business.md)**.
+**11.** Configura el método de pago,**[más información](../whatsapp-api-facebook/Como-agregar-una-tarjeta-de-credito-o-debito-a-la-plataforma-de-WhatsApp-Business.md)**.
 
 **12.** Configura el perfil de tu cuenta de WhatsApp API, **[más información](../whatsapp-api-facebook/Añadir-foto-perfil.md)**.
 
