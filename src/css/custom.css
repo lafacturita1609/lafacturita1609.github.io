@@ -263,7 +263,7 @@ button.aa-DetachedSearchButton {
 
 /* Estilos para el modo oscuro */
 
-/* Estilos específicos para las tarjetas en el contenido markdown */
+/* Estilos para las tarjetas en el contenido markdown */
 .markdown .docs-cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -314,4 +314,11 @@ button.aa-DetachedSearchButton {
   margin-bottom: 1.2em;
   border-radius: 50%;
   object-fit: contain;
+}
+
+/* Variables específicas para el modo claro */
+html[data-theme="light"] {
+  --pro7-card-bg: #ffffff;      /* Fondo claro para las tarjetas */
+  --pro7-light-text: #086d3a;    /* Texto oscuro para una lectura óptima */
+  --pro7-turquoise: #205c80;     /* Puedes ajustar este color para el encabezado */
 }
