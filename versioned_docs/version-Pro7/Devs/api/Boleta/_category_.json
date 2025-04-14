@@ -1,6 +1,6 @@
 {
-    "label": "Generar Boleta",
-    "position": 4,
+    "label": "Boleta",
+    "position": 2,
     "link": {
       "type": "generated-index",
       "slug": "generar-boleta",

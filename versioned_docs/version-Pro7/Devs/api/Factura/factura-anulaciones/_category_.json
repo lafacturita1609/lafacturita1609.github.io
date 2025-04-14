@@ -1,9 +1,9 @@
 {
-    "label": "Anulacion Facturas",
-    "position": 2,
+    "label": "Anulacion de Facturas",
+    "position": 1,
     "link": {
       "type": "generated-index",
       "slug": "anulacion-facturas",
       "description": "Encuentra ayuda sobre acerca del modulo de Anulacion de Facturas."
     }
-  }
+}
