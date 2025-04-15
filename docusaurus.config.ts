@@ -12,14 +12,14 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://Jean-ZR.github.io/',
+  url: 'https://manual.uio.la',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: 'documentacion',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Jean-ZR', // Usually your GitHub org/user name.
+  organizationName: 'fastura',
   projectName: 'documentacion',
 
   onBrokenLinks: 'throw',
@@ -48,7 +48,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Jean-ZR/manual.uio.la/tree/master/',
+            'https://github.com/fastura/documentacion/tree/main/',
             
         },
         blog: false,
