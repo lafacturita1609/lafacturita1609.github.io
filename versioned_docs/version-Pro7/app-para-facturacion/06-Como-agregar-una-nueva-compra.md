@@ -1,4 +1,4 @@
-# Cómo agregar una nueva compra
+# Nueva compra
 
 En este artículo te ayudaremos a ingresar las compra realizadas desde la **App Facturalo**. Sigue estos pasos para realizarlo:
 

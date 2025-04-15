@@ -1,4 +1,4 @@
-# Cómo crear un producto
+# Productos
 
 En este artículo te ayudaremos a crear productos desde la **App Factúralo.** Sigue estos pasos para realizarlo:
 

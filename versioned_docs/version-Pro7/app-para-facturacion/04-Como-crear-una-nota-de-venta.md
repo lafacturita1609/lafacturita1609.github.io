@@ -1,4 +1,4 @@
-# Cómo crear una nota de venta
+# Nota de venta
 
 En este artículo te ayudaremos a emitir nota de venta desde la **App Factúralo.** Sigue estos pasos para realizarlo:
 
