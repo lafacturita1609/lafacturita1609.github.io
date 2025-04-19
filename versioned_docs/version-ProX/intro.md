@@ -24,13 +24,13 @@ ProX es un sistema completo de facturación electrónica diseñado específicame
 Comienza ahora explorando las funcionalidades principales del sistema.
 
 <DocsCards>
-<DocsCard header="Guía de Instalación" href="/Reseller/instalaciones" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
+<DocsCard header="Guía de Instalación" href="/ProX/instalaciones" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
     <p>Guías paso a paso para configurar e instalar el Sistema de Facturación Reseller.</p>
   </DocsCard>
 
   <DocsCard
     header="Aplicación para Facturación"
-    href="/Reseller/app-para-facturacion"
+    href="/ProX/app-para-facturacion"
     icon="/image/buho-4-hover.svg"
     hoverIcon="/image/buho-4-hover.svg"
   >
