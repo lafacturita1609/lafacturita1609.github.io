@@ -1,4 +1,4 @@
-# Cómo crear cliente
+# Clientes
 
 En este artículo te ayudaremos a crear clientes desde la **App Factúralo**. Sigue estos pasos para realizarlo:
 

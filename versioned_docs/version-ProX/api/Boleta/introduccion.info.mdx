@@ -1,8 +1,8 @@
 ---
 id: introduccion
-title: "Antes de empezar"
-description: "En ocasiones, se producen **errores en la emisión de facturas** a compradores o clientes. Esto provoca que estos errores se deban solventar con diferentes mecanismos, ya que la Ley prohíbe la eliminación de facturas ya emitidas."
-sidebar_label: Antes de empezar
+title: "Introducción"
+description: "Para la implementación de la **Facturación Electrónica**, la SUNAT ha puesto a su disposición diversos manuales y documentos técnicos, los cuales inicialmente son complejos de entender y utilizar."
+sidebar_label: Introduction
 sidebar_position: 0
 hide_title: true
 custom_edit_url: null
@@ -29,7 +29,9 @@ import Export from "@theme/ApiExplorer/Export";
 
 
 
-En ocasiones, se producen **errores en la emisión de facturas** a compradores o clientes. Esto provoca que estos errores se deban solventar con diferentes mecanismos, ya que la Ley prohíbe la eliminación de facturas ya emitidas.
+Para la implementación de la **Facturación Electrónica**, la SUNAT ha puesto a su disposición diversos manuales y documentos técnicos, los cuales inicialmente son complejos de entender y utilizar.
+
+La api le permitirá generar diversos documentos electrónicos, y de cada uno obtendrá los 3 archivos indispensables **(XML Firmado, Documento PDF, y CDR)**.
 
 Los documentos que se encuentran contemplados son:
 
@@ -57,8 +59,8 @@ Los documentos que se encuentran contemplados son:
     className={"openapi-tabs__security-schemes"}
   >
     <TabItem
-      label={"OAuth 2.0: fastura_auth"}
-      value={"fastura_auth"}
+      label={"OAuth 2.0: petstore_auth"}
+      value={"petstore_auth"}
     >
       
       
@@ -83,9 +85,9 @@ Los documentos que se encuentran contemplados son:
                   Scopes:
                 </span><ul>
                   <li>
-                    write: Modificar...
+                    write:pets: modify pets in your account
                   </li><li>
-                    read: Leer..
+                    read:pets: read your pets
                   </li>
                 </ul>
               </td>

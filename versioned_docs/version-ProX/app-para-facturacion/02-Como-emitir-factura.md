@@ -1,4 +1,4 @@
-# Cómo emitir una factura
+# Factura
 
 En este artículo te explicaremos cómo emitir una factura desde la **App Factúralo**. Sigue los pasos a continuación:
 

@@ -1,4 +1,4 @@
-# Cómo generar una Guía de Remisión Remitente
+# Guía de Remisión Remitente
 
 En este artículo te explicaremos cómo generar una **Guía de Remisión Remitente** desde la **App Factúralo**. Sigue estos pasos:
 
