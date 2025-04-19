@@ -22,7 +22,7 @@ import DocsCards from '/src/components/global/DocsCards';
 
 Pro 7 es un sistema completo de facturación electrónica diseñado específicamente para cumplir con los requerimientos fiscales de SUNAT en Perú. Nuestra plataforma permite emitir comprobantes electrónicos de manera eficiente, gestionar inventarios, controlar ventas y administrar tu negocio desde cualquier dispositivo.
 
-Comienza ahora siguiendo nuestra [Guía de Instalación](/Pro7/guias-adicionales/Configuracion-esencial-para-tu-cuenta-de-facturacion) o explorando las funcionalidades principales del sistema.
+Comienza ahora siguiendo nuestra [Guía de Configuracion esencial para tu cuenta](/Pro7/guias-adicionales/Configuracion-esencial-para-tu-cuenta-de-facturacion) o explorando las funcionalidades principales del sistema.
 
 <DocsCards>
   <DocsCard header="Guía de Instalación" href="/Pro7/instalaciones" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
@@ -98,6 +98,10 @@ El sistema también aprovecha Vue 2, una biblioteca de JavaScript moderna y prog
 ### Node.js
 
 Node.js 12.22 se utiliza para manejar tareas del lado del servidor y construir herramientas de desarrollo. Esta versión de Node.js es estable y compatible con muchas bibliotecas modernas, lo que permite ejecutar scripts, manejar dependencias y realizar tareas como la compilación de activos front-end.
+
+## Compatibilidad con Ecosistema
+
+Pro 7 es compatible con **VendeYa.pe** y **Mozo.pe**, ampliando sus capacidades para adaptarse a diferentes necesidades comerciales y puntos de venta.
 
 ## Comunidad
 
