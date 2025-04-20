@@ -1,0 +1,9 @@
+{
+  "label": "Multi Empresa",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "multi-empresa",
+    "description": "Guía para gestionar empresas en el sistema."
+  }
+}

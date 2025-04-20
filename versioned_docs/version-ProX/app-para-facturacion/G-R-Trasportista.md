@@ -1,4 +1,4 @@
-# Cómo generar una Guía de Remisión Transportista
+# Guía de Remisión Transportista
 
 En esta guía te mostraremos cómo completar la **Guía de Remisión Transportista** en la **App Factúralo**. Sigue los pasos a continuación:
 
