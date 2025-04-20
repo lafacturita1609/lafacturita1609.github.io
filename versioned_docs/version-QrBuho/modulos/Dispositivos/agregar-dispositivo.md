@@ -12,7 +12,7 @@ Para poder enviar los archivos PDF generados desde el sistema de facturación, e
 
 En la sección **Dispositivos Añadidos**, se muestra una lista de los números registrados junto con la siguiente información:
 
-![Descripción de la imagen](/img/Cliente_Dispositivos.png)
+![Descripción de la imagen](img/Cliente_Dispositivos.png)
 
 **1. Dispositivos:** Identificación del dispositivo o persona que enviará los mensajes.
 
@@ -28,15 +28,17 @@ En la sección **Dispositivos Añadidos**, se muestra una lista de los números 
 
 Para añadir un nuevo número de WhatsApp al sistema:
 
-![Descripción de la imagen](/img/Cliente_Dispositivos2.png)
+![Descripción de la imagen](img/Cliente_Dispositivos2.png)
 
 **1.** Hacer clic en **Agregar dispositivo**.
 
 **2.** Ingresar un **nombre** para identificarlo y el **número** de WhatsApp.
 
-![Descripción de la imagen](/img/Cliente_Dispositivos3.png)
+![Descripción de la imagen](img/Cliente_Dispositivos3.png)
 
 **3.** Seguir las instrucciones para **escanear el código QR** desde la aplicación de WhatsApp.
+
+![escanear qr ](img/Cliente_Dispositivos3_1.png)
 
 **4.** Confirmar la conexión.
 
@@ -46,13 +48,15 @@ Para añadir un nuevo número de WhatsApp al sistema:
 
 Al hacer clic en un número de la lista, se accede a una página con la información detallada del dispositivo. Aquí se pueden ver:
 
-![Descripción de la imagen](/img/Cliente_Detalles1.png)
+![Descripción de la imagen](img/Cliente_Detalles1.png)
 
 **1.** **Opciones de gestión:** Reconectar, desconectar o eliminar el dispositivo.
 
 **2.** **Token de autenticación:** Clave necesaria para conectar el dispositivo con el sistema de facturación.
 
-**3.** **URL de integración:** Dirección que debe utilizarse para la conexión con la API del sistema.
+:::danger IMPORTANTE:
+ **URL de integración:** Dirección que debe utilizarse para la conexión con la API del sistema, es la direccion de la **url** del sistema.
+:::
 
 ---
 
@@ -60,7 +64,7 @@ Al hacer clic en un número de la lista, se accede a una página con la informac
 
 En la pestaña **Settings**, se pueden modificar las siguientes opciones para personalizar el comportamiento del dispositivo:
 
-![Descripción de la imagen](/img/Cliente_DetallesDis2.png)
+![Descripción de la imagen](img/Cliente_DetallesDis2.png)
 
 * **Rechazar llamadas:** Si está activo, el dispositivo ignorará las llamadas entrantes.
 * **Siempre en línea:** Mantiene el estado del dispositivo activo para evitar desconexiones.

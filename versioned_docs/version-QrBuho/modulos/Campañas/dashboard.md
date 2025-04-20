@@ -17,13 +17,13 @@ El panel muestra un listado con todas las campañas creadas, clasificadas en dif
 * **Pending:** Campañas que están programadas para enviarse en el futuro.
 * **Completed:** Campañas que ya han sido enviadas.
 
-![Descripción de la imagen](/img/Cliente_DashCampaña.png)
+![Descripción de la imagen](img/Cliente_DashCampaña.png)
 
 ### Información de cada campaña
 
 Cada campaña en el listado incluye los siguientes datos:
 
-![Descripción de la imagen](/img/Cliente_DashCampañamax.png)
+![Descripción de la imagen](img/Cliente_DashCampañamax.png)
 
 * Nombre de la campaña.
 * Fecha de creación.

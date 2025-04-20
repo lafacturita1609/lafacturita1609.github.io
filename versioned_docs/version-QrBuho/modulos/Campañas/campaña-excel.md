@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Crear Campaña subiendo un Excel
+# Crear Campaña 
 
 El sistema permite crear campañas mediante la carga de un archivo Excel con la lista de contactos. A continuación, se detallan los pasos para realizarlo correctamente.
 
@@ -11,9 +11,9 @@ El sistema permite crear campañas mediante la carga de un archivo Excel con la 
 
 **1.** En el menú lateral, seleccionar **Campañas.**
 
-![Descripción de la imagen](/img/Cliente_DashCampaña.png)
-
 **2.** Hacer clic en el botón **Crear Campaña.**
+
+![Descripción de la imagen](img/Cliente_DashCampaña_New.png)
 
 ### Seleccionar el tipo de campaña
 
@@ -23,7 +23,7 @@ El sistema permite crear campañas mediante la carga de un archivo Excel con la 
 
 ### Configurar los detalles de la campaña
 
-![Descripción de la imagen](/img/Cliente_CrearCampañaExcel.png)
+![Descripción de la imagen](img/Cliente_CrearCampañaExcel.png)
 
 * **Nombre de la campaña:** Escribir un título representativo.
 
@@ -34,6 +34,8 @@ El sistema permite crear campañas mediante la carga de un archivo Excel con la 
 ### Opciones adicionales
 
 **Programar envío:** Si se desea enviar en una fecha específica, habilitar esta opción y seleccionar la fecha y hora.
+
+![alt text](img/programar_envio.png)
 
 ### Finalizar la campaña
 

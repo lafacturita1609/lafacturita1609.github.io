@@ -1,15 +1,15 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
-# Configuración Reseller
+# Configuración
 
 La sección de configuración del reseller permite gestionar los parámetros esenciales para la conexión con la API de QrBuho. Desde aquí, se pueden establecer las credenciales necesarias para que el sistema funcione correctamente.
 
 ## Acceso a la Configuración
 Para acceder a la configuración, dirígete al menú lateral y selecciona **Configurations**. Esto te llevará a la pantalla de configuración donde podrás gestionar los siguientes parámetros:
 
-![Descripción de la imagen](/img/Admin_Configuracion.png)
+![Descripción de la imagen](img/Admin_Configuracion.png)
 
 ### Parámetros de Configuración
 

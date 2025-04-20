@@ -2,13 +2,13 @@
 sidebar_position: 3
 ---
 
-# Crear Planes
+# Planes
 
 En esta sección, aprenderás cómo crear, gestionar y administrar planes. Los planes permiten establecer distintos niveles de acceso y uso del sistema para las cuentas de empresa.
 
 ## Acceder a la sección de Planes
 
-![Descripción de la imagen](/img/Admin_Planes.png)
+![Descripción de la imagen](img/Admin_Planes.png)
 
 1. Inicia sesión en el sistema reseller.
 2. En el menú lateral, selecciona la opción **Planes**.
@@ -21,20 +21,20 @@ Para crear un nuevo plan, sigue estos pasos:
 1. Dentro de la sección **Planes**, haz clic en el botón **Nuevo (+ New)**.
 2. Se abrirá un formulario con los siguientes campos:
 
-![Descripción de la imagen](/img/Admin_Crearplan.png)
+![Descripción de la imagen](img/Admin_Crearplan.png)
 
-   - **Nombre del plan**: Ingresa un nombre representativo para el plan.
-   - **Precio**: Define el precio del plan. Si es un plan gratuito, activa la opción correspondiente.
-   - **Descripción**: Escribe una breve descripción del plan.
-   - **Límite de dispositivos**: Define cuántos dispositivos pueden usar este plan.
-   - **Límite de mensajes**: Establece la cantidad de mensajes permitidos.
-   - **Límite de contactos**: Indica cuántos contactos se pueden registrar con este plan.
+   - **1. Nombre del plan**: Ingresa un nombre representativo para el plan.
+   - **2. Precio**: Define el precio del plan. Si es un plan gratuito, activa la opción correspondiente.
+   - **3. Descripción**: Escribe una breve descripción del plan.
+   - **4. Límite de dispositivos**: Define cuántos dispositivos pueden usar este plan.
+   - **5. Límite de mensajes**: Establece la cantidad de mensajes permitidos.
+   - **6. Límite de contactos**: Indica cuántos contactos se pueden registrar con este plan.
 3. Una vez completados los datos, haz clic en **Submit (Enviar)** para guardar el plan.
 
 ## Administrar los planes existentes
 En la sección **Planes**, puedes visualizar y administrar los planes creados. Para cada plan se muestra:
 
-![Descripción de la imagen](/img/Admin_Crearpla.png)
+![Descripción de la imagen](img/Admin_Crearpla.png)
 
 - **Estado**: Indica si el plan está activo o inactivo.
 - **Nombre del plan**.
