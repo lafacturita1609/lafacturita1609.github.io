@@ -5,7 +5,7 @@ info:
   version: 1.0.0
 
 servers:
-  - url: https://apievo.qr.buho.la
+  - url: https://demo.qr.uio.la
     description: Servidor de producción
 
 tags:
@@ -13,7 +13,7 @@ tags:
     description: Enviar Mensajes
     externalDocs:
       description: Más
-      url: https://apievo.qr.buho.la
+      url: https://demo.qr.uio.la
 
 paths:
   /api/message/send-text:

@@ -30,6 +30,12 @@ import Export from "@theme/ApiExplorer/Export";
 
 La API de QrBuho ofrece un conjunto de endpoints que permiten interactuar con el sistema de generación y gestión de códigos QR, el envío de mensajes masivos y la transferencia de archivos a través de WhatsApp. A continuación, se detallan los principales archivos y sus respectivas funcionalidades.
 
+:::danger IMPORTANTE:
+ **URL para integración:** Dirección que debe utilizarse para la conexión con la API del sistema, es la direccion de la **url** del sistema.
+    
+    Ejemplo de URL: https://demo.qr.uio.la
+:::
+
 ## 1. **Enviar PDF por WhatsApp**
 Este endpoint permite enviar archivos PDF a un número de WhatsApp en formato Base64. Se requiere proporcionar el número de teléfono en formato internacional, un mensaje acompañante y el archivo PDF que se desea enviar. Esta funcionalidad es útil para la automatización del envío de documentos directamente a través de WhatsApp.
 

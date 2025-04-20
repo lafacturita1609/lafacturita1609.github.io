@@ -47,7 +47,8 @@ function getIconForItem(item) {
     if (item.label.includes('Mozo.pe')) return <Utensils size={18} />;
     if (item.label.includes('Plan')) return <ClipboardPen  size={18} />;
     if (item.label.includes('Instalación en Windows')) return <Package  size={18} />;
-    if (item.label.includes('Crear Cuenta - Cliente')) return <UserRoundPlus  size={18} />;  // Icono de utensilios para el sistema de restaurantes
+    if (item.label.includes('Crear Cuenta - Cliente')) return <UserRoundPlus  size={18} />;
+    if (item.label.includes('Multi Empresa')) return <Users  size={18} />;   // Icono de utensilios para el sistema de restaurantes
   }
   return null;
 }

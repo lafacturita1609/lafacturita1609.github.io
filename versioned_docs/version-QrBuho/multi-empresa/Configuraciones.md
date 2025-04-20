@@ -13,7 +13,11 @@ Para acceder a la configuración, dirígete al menú lateral y selecciona **Conf
 
 ### Parámetros de Configuración
 
-- **API URL**: Dirección del endpoint al que se conectará el sistema. Ejemplo: `https://apievo.qr.buho.la`.
+- **API URL**: Dirección del endpoint al que se conectará el sistema. 
+
+    Ejemplo: `apiwhatsapp.qr.uio.la`.
+
+
 - **API TOKEN**: Clave de autenticación que permite validar las solicitudes a la API.
 
 ### Guardar Cambios

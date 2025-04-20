@@ -1,10 +1,30 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Agregar nuevo dispositivo
+# Dispositivos
 
 Para poder enviar los archivos PDF generados desde el sistema de facturación, es necesario vincular un dispositivo (número de WhatsApp) al sistema. En esta sección se detallan los pasos para agregar y gestionar los dispositivos.
+
+---
+
+### Agregar un dispositivo
+
+Para añadir un nuevo número de WhatsApp al sistema:
+
+**1.** Hacer clic en **Agregar dispositivo**.
+
+![Descripción de la imagen](img/Cliente_Dispositivos2.png)
+
+**2.** Ingresar un **nombre** para identificarlo y el **número** de WhatsApp.
+
+![Descripción de la imagen](img/Cliente_Dispositivos3.png)
+
+**3.** Seguir las instrucciones para **escanear el código QR** desde la aplicación de WhatsApp.
+
+![escanear qr ](img/Cliente_Dispositivos3_1.png)
+
+**4.** Confirmar la conexión.
 
 ---
 
@@ -23,27 +43,6 @@ En la sección **Dispositivos Añadidos**, se muestra una lista de los números 
 **4. Acciones disponibles:** Editar, ver detalles o eliminar el dispositivo.
 
 ---
-
-### Agregar un dispositivo
-
-Para añadir un nuevo número de WhatsApp al sistema:
-
-![Descripción de la imagen](img/Cliente_Dispositivos2.png)
-
-**1.** Hacer clic en **Agregar dispositivo**.
-
-**2.** Ingresar un **nombre** para identificarlo y el **número** de WhatsApp.
-
-![Descripción de la imagen](img/Cliente_Dispositivos3.png)
-
-**3.** Seguir las instrucciones para **escanear el código QR** desde la aplicación de WhatsApp.
-
-![escanear qr ](img/Cliente_Dispositivos3_1.png)
-
-**4.** Confirmar la conexión.
-
----
-
 ## Detalles del dispositivo
 
 Al hacer clic en un número de la lista, se accede a una página con la información detallada del dispositivo. Aquí se pueden ver:
