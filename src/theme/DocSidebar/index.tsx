@@ -87,10 +87,6 @@ function DocSidebarWrapper(props: WrapperProps<typeof DocSidebarType>): JSX.Elem
         align-items: center;
         gap: 10px;
       }
-      .sidebar-icon {
-        color: var(--ifm-color-primary);
-        min-width: 20px;
-      }
     `;
     document.head.appendChild(style);
     

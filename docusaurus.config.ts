@@ -30,8 +30,8 @@ const config: Config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -215,10 +215,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/logo_buho.png',
       navbar: {
-        title: 'Fastura',
+        title: 'Manual de uso',
         logo: {
-          alt: 'Documentación de facturación',
-          src: 'img/fastura.svg',
+          alt: 'Manual de uso de diversos sistemas',
+          src: 'img/manual.svg',
       },
       items: [
         //{
@@ -234,6 +234,12 @@ const config: Config = {
         //  position: 'right',
         //},
       ],
+    },
+    docs: {
+      sidebar: {
+        autoCollapseCategories: true,
+        // hideable: true, 
+      },
     },
     footer: {
       style: 'dark',

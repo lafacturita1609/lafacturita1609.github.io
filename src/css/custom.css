@@ -1,107 +1,259 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-/* You can override the default Infima variables here. */
+* {
+  scrollbar-color: var(--ifm-color-emphasis-0) transparent;
+}
+
+*:hover {
+  scrollbar-color: var(--ifm-toc-border-color) transparent;
+}
+
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
-  --ifm-code-font-size: 95%;
+  --ifm-color-primary: #00187a;
+  --ifm-color-primary-dark: #00166e;
+  --ifm-color-primary-darker: #001468;
+  --ifm-color-primary-darkest: #001155;
+  --ifm-color-primary-light: #001a86;
+  --ifm-color-primary-lighter: #001c8c;
+  --ifm-color-primary-lightest: #001f9f;
+  --ifm-color-content: #000c34;
+  --ifm-menu-color-background-active: #eff0f4;
+  --ifm-card-background-color: #f6f7f9;
+  --ifm-navbar-shadow: none;
+  --ifm-code-font-size: 100%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-font-family-base: 'Inter';
+  --ifm-color-danger-contrast-background: #ffeeee;
+  --ifm-color-danger-contrast-foreground: #ff0066;
+  --ifm-color-info-contrast-background: #e6f0ff;
+  --ifm-color-info-contrast-foreground: #0077ff;
+  --ifm-color-success-contrast-background: #eaf9f1;
+  --ifm-color-success-contrast-foreground: #00c666;
+  /* --ifm-heading-color: #020f3c;
+  --ifm-color-gray-900: #031863;
+  --ifm-hover-overlay: #f6f8fe;
+  --ifm-color-emphasis-700: #031863; */
+  --ifm-toc-border-color: #e2e5ee;
+  --ifm-menu-link-sublist-icon: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16px' height='16px' viewBox='0 0 24 24'><path fill='rgba(75,88,122,1)' d='M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z'></path></svg>");
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+html[data-theme='dark'] {
+  --ifm-color-primary: #648dff;
+  --ifm-background-color: #0c121e;
+  --ifm-navbar-background-color: #0c121e;
+  --ifm-code-background: #181a25;
+  --ifm-toc-border-color: #22222d;
+  --ifm-menu-color-background-active: #eff0f40f;
+  --ifm-card-background-color: #eff0f40f;
 }
 
+.navbar {
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+}
+.navbar__logo {
+  background: #fff;
+  padding: 5px;
+  border-radius: 20px;
+}
 
 .theme-doc-version-banner {
   display: none;
 }
 
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
-
-/* You can override the default Infima variables here. */
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
-:root {
-  --ifm-color-primary: #2346E8;
-  --ifm-color-primary-dark: #0730C5;
-  --ifm-color-primary-darker: #031863;
-  --ifm-color-primary-darkest: #020E3C;
-  --ifm-color-primary-light: #4665EC;
-  --ifm-color-primary-lighter: #6B84EF;
-  --ifm-color-primary-lightest: #6B84EF;
-  --ifm-code-font-size: 100%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-font-family-base: 'Inter';
-  --ifm-heading-color: #020f3c;
-  --ifm-color-gray-900: #031863;
-  --ifm-hover-overlay: #f6f8fe;
-  --ifm-color-emphasis-700: #031863;
-  --ifm-menu-link-sublist-icon: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16px' height='16px' viewBox='0 0 24 24'><path fill='rgba(75,88,122,1)' d='M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z'></path></svg>");
+.theme-doc-sidebar-container{
+  border-right: none !important;
 }
 
+.theme-doc-markdown.markdown {
+  padding: 30px;
+}
+.markdown p img{
+  margin: 3rem auto;
+  display: block;
+  text-align: center;
+  border-radius: 12px;
+  border: 1px solid var(--ifm-toc-border-color);
+  padding: 5px;
+}
+.menu{
+  font-weight: 400;
+}
+.menu__list-item-collapsible,
+.menu__link, .menu__caret {
+  border-radius: 6px;
+}
+.menu__caret {
+  transform: scale(.6);
+}
+.menu__link {
+  font-size: .85rem;
+  color: var(--ifm-color-content);
+}
+
+.menu__link:hover, .menu__caret:hover,
+.menu__list-item-collapsible:hover,
+.menu__list-item-collapsible--active,
+.menu__link--active:not(.menu__link--sublist),
+.breadcrumbs__item--active .breadcrumbs__link {
+  background: var(--ifm-menu-color-background-active);
+}
+
+span.sidebar-icon svg {
+  background: var(--ifm-menu-color-background-active);
+  padding: 5px;
+  width: 25px;
+  height: 25px;
+  border-radius: 20px;
+}
+.menu__list-item-collapsible:hover span.sidebar-icon svg,
+.menu__list-item-collapsible:hover .menu__caret {
+  background: var(--ifm-card-background-color);
+}
+.table-of-contents__left-border {
+  border-left: none;
+}
+
+.menu__list .menu__list {
+  border-left: 1px solid var(--ifm-toc-border-color);
+  padding-left: 0;
+  margin-left: 24px;
+}
+
+.api-method > .menu__link::before,
+.schema > .menu__link::before {
+  font-size: 10px;
+  font-weight: bold;
+  padding: 2px 4px;
+  border-radius: 4px;
+  margin-right: 4px;
+}
+
+.get > .menu__link::before {
+  content: "GET";
+  background-color: var(--ifm-color-info-contrast-background);
+  color: var(--ifm-color-info-contrast-foreground);
+  border-color: var(--ifm-color-info-dark);
+}
+
+.post > .menu__link::before {
+  content: "POST";
+  background-color: var(--ifm-color-success-contrast-background);
+  color: var(--ifm-color-success-contrast-foreground);
+  border-color: var(--ifm-color-success-dark);
+}
+
+.delete > .menu__link::before {
+  content: "DEL";
+  background-color: var(--ifm-color-danger-contrast-background);
+  color: var(--ifm-color-danger-contrast-foreground);
+  border-color: var(--ifm-color-danger-dark);
+}
+
+.put > .menu__link::before {
+  content: "PUT";
+  background-color: var(--ifm-color-warning-contrast-background);
+  color: var(--ifm-color-warning-contrast-foreground);
+  border-color: var(--ifm-color-warning-dark);
+}
+
+.patch > .menu__link::before {
+  content: "PATCH";
+  background-color: var(--ifm-color-success-contrast-background);
+  color: var(--ifm-color-success-contrast-foreground);
+  border-color: var(--ifm-color-success-dark);
+}
+
+.head > .menu__link::before {
+  content: "HEAD";
+  background-color: var(--ifm-color-secondary-contrast-background);
+  color: var(--ifm-color-secondary-contrast-foreground);
+  border-color: var(--ifm-color-secondary-dark);
+}
+
+.event > .menu__link::before {
+  content: "EVENT";
+  background-color: var(--ifm-color-secondary-contrast-background);
+  color: var(--ifm-color-secondary-contrast-foreground);
+  border-color: var(--ifm-color-secondary-dark);
+}
+
+.schema > .menu__link::before {
+  content: "SCHEMA";
+  background-color: var(--ifm-color-secondary-contrast-background);
+  color: var(--ifm-color-secondary-contrast-foreground);
+  border-color: var(--ifm-color-secondary-dark);
+}
+.tabs.openapi-tabs__code-list-container li.tabs__item {
+  display: none;
+}
+li.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--javascript,
+li.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--nodejs,
+li.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--php,
+li.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--python,
+li.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--variant {
+  display: inline-flex;
+}
+.openapi-tabs__code-item--javascript.active,
+.openapi-tabs__code-item--nodejs.active,
+.openapi-tabs__code-item--php.active,
+.openapi-tabs__code-item--python.active {
+  box-shadow: none !important;
+}
+
+.card {
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.openapi-tabs__code-container:not(.openapi-tabs__code-container-inner),
+.openapi-tabs__code-container:hover,
+.openapi-explorer__request-form,
+.openapi-explorer__request-form:hover,
+.openapi-explorer__response-container,
+.openapi-explorer__response-container:hover {
+  box-shadow: unset !important;
+}
+
+.navbar__item.dropdown {
+  border: 1px solid var(--ifm-toc-border-color);
+  margin: 0 15px;
+  border-radius: 20px;
+  padding: 4px 20px;
+}
+.navbar__item.dropdown ul.dropdown__menu li:first-child {
+  display: none;
+}
+
+.clean-btn.toggleButton_gllP {
+  border: 1px solid var(--ifm-toc-border-color);
+}
+
+.navbar__search-input{
+  height: 2.25rem;
+}
+.alert{
+  border-left-width: 0;
+  box-shadow: unset;
+}
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.25rem;
+}
+
+.menu__link--active {
+  font-weight: bold;
+}
+
+/* ####################################################################### */
+/* 
 pre {
   background-color: #010f3c;
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  --ifm-heading-color: #25c2a0;
-}
-
-html[data-theme='dark'] {
-  --ifm-background-color: #00122e;
-  --ifm-navbar-background-color: #00122e;
-}
-
 html[data-theme='dark'] .theme-doc-markdown.markdown {
   background: #142845;
-}
-
-/* Modificado para permitir que se muestre el botón de editar página */
-footer {
-  display: block;
-}
-
-/* Ocultar elementos específicos del footer que no queremos mostrar */
-.footer__links, .footer__bottom {
-  display: none;
-}
-
-/* Asegurar que el botón de editar página sea visible */
-.theme-edit-this-page {
-  display: flex;
-  align-items: center;
 }
 
 @media (max-width: 996px){
@@ -116,44 +268,6 @@ footer {
   }
 }
 
-.markdown p img{
-  margin: 3rem auto;
-  display: block;
-  text-align: center;
-  border-radius: 12px;
-  border: 1px solid #e7ebf0;
-  padding: 5px;
-  background: #fff;
-  /* box-shadow: 0 0 30px rgb(0 27 65 / 10%); */
-}
-
-.navbar {
-  box-shadow: unset;
-  border-bottom: 1px solid #e7ebf0;
-}
-
-main {
-  font-size: 14px;
-  line-height: 21px;
-}
-
-.menu__link {
-  font-size: .85rem;
-}
-
-.menu__list {
-  padding-right: 8px;
-}
-
-.menu__list-item-collapsible,
-.menu__link, .menu__caret {
-  border-radius: 6px;
-}
-
-.menu__caret {
-  transform: scale(.6);
-}
-
 .aa-Form:focus-within {
   border-color: rgb(36 70 232) !important;
   box-shadow: 0 0 0px 3px rgb(36 70 232 / 15%) !important;
@@ -161,30 +275,6 @@ main {
 
 .aa-Label svg, .aa-LoadingIndicator svg {
   color: rgb(36 70 232);
-}
-
-::-webkit-scrollbar {
-  width: 10px;
-}
-.menu.thin-scrollbar::-webkit-scrollbar {
-  width: 5px;
-}
-::-webkit-scrollbar-track,
-.menu.thin-scrollbar::-webkit-scrollbar-track {
-  background-color: transparent;
-}
-::-webkit-scrollbar-thumb,
-.menu.thin-scrollbar::-webkit-scrollbar-thumb {
-  background-color: #e4e6ea;
-  border-radius: 12px;
-}
-::-webkit-scrollbar-thumb:hover,
-.menu.thin-scrollbar::-webkit-scrollbar-thumb:hover {
-  background-color: #b1b8c2;
-}
-
-.markdown h1:first-child {
-  --ifm-h1-font-size: 2.5rem;
 }
 
 button.aa-DetachedSearchButton {
@@ -220,50 +310,18 @@ button.aa-DetachedSearchButton {
   }
 }
 
-
 .hero__title{
   display: none;
 }
-
 
 .openapi__method-endpoint {
   background-color: rgba(0, 0, 0, 0.25);
 }
 
-
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--csharp,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--curl, 
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--ruby,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--dart,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--go,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--http,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--java,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--kotlin,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--rust,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--c,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--objective-c,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--ocaml,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--powershell,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--r,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--shell,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--swift {
-  display: none;
-}
-
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--go.active,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--objective-c.active,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--ruby.active,
-.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--rust.active {
-  display: none;
-}
-
 .openapi-explorer__code-block-lines.openapi-explorer__code-block-lines-numbering {
-  background-color: rgba(256, 256, 256, 0.1); /* Para modo claro */  
+  background-color: rgba(256, 256, 256, 0.1);  
 }
 
-/* Estilos para el modo oscuro */
-
-/* Estilos para las tarjetas en el contenido markdown */
 .markdown .docs-cards-container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
@@ -271,7 +329,6 @@ button.aa-DetachedSearchButton {
   margin: 2rem 0;
 }
 
-/* Estilo específico para las tarjetas dentro del contenido */
 .markdown .docs-card {
   border-radius: 8px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
@@ -291,7 +348,6 @@ button.aa-DetachedSearchButton {
   border-color: var(--pro7-turquoise, #34dbc3);
 }
 
-/* Estilos para el encabezado de la tarjeta */
 .markdown .docs-card .card-header {
   margin-bottom: 0.8rem;
   font-size: 1.5rem;
@@ -299,7 +355,6 @@ button.aa-DetachedSearchButton {
   font-weight: 600;
 }
 
-/* Estilos para el contenido de la tarjeta */
 .markdown .docs-card .card-content {
   color: var(--pro7-light-text, #ffffff);
   margin-bottom: 1.5rem;
@@ -307,7 +362,6 @@ button.aa-DetachedSearchButton {
   flex-grow: 1;
 }
 
-/* Ícono de la tarjeta */
 .markdown .docs-card .card-icon {
   width: 48px;
   height: 48px;
@@ -316,103 +370,16 @@ button.aa-DetachedSearchButton {
   object-fit: contain;
 }
 
-/* Variables específicas para el modo claro */
 html[data-theme="light"] {
-  --pro7-card-bg: #ffffff;      /* Fondo claro para las tarjetas */
-  --pro7-light-text: #086d3a;    /* Texto oscuro para una lectura óptima */
-  --pro7-turquoise: #205c80;     /* Puedes ajustar este color para el encabezado */
+  --pro7-card-bg: #ffffff;      
+  --pro7-light-text: #086d3a;   
+  --pro7-turquoise: #205c80;    
 }
 
-
-/* Variables específicas para el modo oscuro */
 .api-method > .menu__link,
 .schema > .menu__link {
   align-items: center;
   justify-content: start;
-}
-
-.api-method > .menu__link::before,
-.schema > .menu__link::before {
-  width: 55px;
-  height: 20px;
-  font-size: 12px;
-  line-height: 20px;
-  text-transform: uppercase;
-  font-weight: 600;
-  border-radius: 0.25rem;
-  border: 1px solid;
-  border-inline-start-width: 5px;
-  margin-right: var(--ifm-spacing-horizontal);
-  text-align: center;
-  flex-shrink: 0;
-}
-
-.get > .menu__link::before {
-  content: "get";
-  background-color: var(--ifm-color-info-contrast-background);
-  color: var(--ifm-color-info-contrast-foreground);
-  border-color: var(--ifm-color-info-dark);
-}
-
-.post > .menu__link::before {
-  content: "post";
-  background-color: var(--ifm-color-success-contrast-background);
-  color: var(--ifm-color-success-contrast-foreground);
-  border-color: var(--ifm-color-success-dark);
-}
-
-.delete > .menu__link::before {
-  content: "del";
-  background-color: var(--ifm-color-danger-contrast-background);
-  color: var(--ifm-color-danger-contrast-foreground);
-  border-color: var(--ifm-color-danger-dark);
-}
-
-.put > .menu__link::before {
-  content: "put";
-  background-color: var(--ifm-color-warning-contrast-background);
-  color: var(--ifm-color-warning-contrast-foreground);
-  border-color: var(--ifm-color-warning-dark);
-}
-
-.patch > .menu__link::before {
-  content: "patch";
-  background-color: var(--ifm-color-success-contrast-background);
-  color: var(--ifm-color-success-contrast-foreground);
-  border-color: var(--ifm-color-success-dark);
-}
-
-.head > .menu__link::before {
-  content: "head";
-  background-color: var(--ifm-color-secondary-contrast-background);
-  color: var(--ifm-color-secondary-contrast-foreground);
-  border-color: var(--ifm-color-secondary-dark);
-}
-
-.event > .menu__link::before {
-  content: "event";
-  background-color: var(--ifm-color-secondary-contrast-background);
-  color: var(--ifm-color-secondary-contrast-foreground);
-  border-color: var(--ifm-color-secondary-dark);
-}
-
-.schema > .menu__link::before {
-  content: "schema";
-  background-color: var(--ifm-color-secondary-contrast-background);
-  color: var(--ifm-color-secondary-contrast-foreground);
-  border-color: var(--ifm-color-secondary-dark);
-}
-
-.card {
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  padding: 16px;
-  text-align: center;
-  transition: box-shadow 0.3s ease;
-}
-
-.card:hover {
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 .card img {
@@ -428,4 +395,4 @@ html[data-theme="light"] {
 .card p {
   font-size: 0.9em;
   color: #555;
-}
+} */
