@@ -24,15 +24,15 @@ ProX es un sistema completo de facturación electrónica diseñado específicame
 Comienza ahora explorando las funcionalidades principales del sistema.
 
 <DocsCards>
-<DocsCard header="Guía de Instalación" href="/ProX/instalaciones" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
+<DocsCard 
+  header="Guía de Instalación" 
+  href="/ProX/instalaciones">
     <p>Guías paso a paso para configurar e instalar el Sistema de Facturación Reseller.</p>
   </DocsCard>
 
   <DocsCard
     header="Aplicación para Facturación"
     href="/ProX/app-para-facturacion"
-    icon="/image/buho-4-hover.svg"
-    hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Manual del aplicativo móvil del sistema de facturación.</p>
   </DocsCard>
@@ -40,8 +40,6 @@ Comienza ahora explorando las funcionalidades principales del sistema.
   <DocsCard
     header="Mozo APP"
     href="/ProX/mozo"
-    icon="/image/buho-4-hover.svg"
-    hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Guía de configuraciones del sistema, para los procesos de configuración primarios.</p>
   </DocsCard>
@@ -49,8 +47,6 @@ Comienza ahora explorando las funcionalidades principales del sistema.
   <DocsCard 
     header="Panel Reseller" 
     href="/ProX/admin-reseller" 
-    icon="/image/buho-4-hover.svg" 
-    hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Encuentra ayuda sobre el panel Administrador.</p>
   </DocsCard>

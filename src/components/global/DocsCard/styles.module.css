@@ -214,7 +214,7 @@ docs-card[disabled]::after {
     grid-area: title;
   }
 
-  aside .Card-header::after {
+  /* aside .Card-header::after {
     background-image: url('/image/buho-5.svg');
     display: inline-block;
     height: 13px;
@@ -222,7 +222,7 @@ docs-card[disabled]::after {
     background-size: 13px 13px;
     margin-left: 4px;
     content: '';
-  }
+  } */
 
   aside .Card-content {
     grid-area: body;

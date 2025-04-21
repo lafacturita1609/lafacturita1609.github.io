@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
 * {
   scrollbar-color: var(--ifm-color-emphasis-0) transparent;
@@ -22,7 +22,7 @@
   --ifm-navbar-shadow: none;
   --ifm-code-font-size: 100%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-font-family-base: 'Inter';
+  --ifm-font-family-base: 'Manrope';
   --ifm-color-danger-contrast-background: #ffeeee;
   --ifm-color-danger-contrast-foreground: #ff0066;
   --ifm-color-info-contrast-background: #e6f0ff;
@@ -246,6 +246,36 @@ li.tabs__item.openapi-tabs__code-item.openapi-tabs__code-item--variant {
   font-weight: bold;
 }
 
+.openapi-left-panel__container {
+  border-right: none !important;
+}
+
+.docs-card {
+  background-color: var(--ifm-menu-color-background-active) !important;
+  padding: 10px 20px;
+  border: 1px solid var(--ifm-toc-border-color);
+}
+.docs-card:hover {
+  background: var(--ifm-toc-border-color) !important;
+}
+
+header.Card-header {
+  font-size: 1.15rem;
+  font-weight: bold;
+  color: var(--ifm-color-primary);
+}
+
+header.Card-header:before {
+  content: '📖';
+  display: block;
+  font-size: 2rem;
+}
+
+.icon-manual{
+  color:red;
+}
+
+
 /* ####################################################################### */
 /* 
 pre {
@@ -320,60 +350,6 @@ button.aa-DetachedSearchButton {
 
 .openapi-explorer__code-block-lines.openapi-explorer__code-block-lines-numbering {
   background-color: rgba(256, 256, 256, 0.1);  
-}
-
-.markdown .docs-cards-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
-}
-
-.markdown .docs-card {
-  border-radius: 8px;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
-  padding: 2rem;
-  transition: all 0.3s ease;
-  background-color: var(--pro7-card-bg, #081b38);
-  border: 1px solid rgba(255, 255, 255, 0.1);
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  color: var(--pro7-light-text, #ffffff);
-}
-
-.markdown .docs-card:hover {
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
-  transform: translateY(-5px);
-  border-color: var(--pro7-turquoise, #34dbc3);
-}
-
-.markdown .docs-card .card-header {
-  margin-bottom: 0.8rem;
-  font-size: 1.5rem;
-  color: var(--pro7-turquoise, #34dbc3);
-  font-weight: 600;
-}
-
-.markdown .docs-card .card-content {
-  color: var(--pro7-light-text, #ffffff);
-  margin-bottom: 1.5rem;
-  line-height: 1.6;
-  flex-grow: 1;
-}
-
-.markdown .docs-card .card-icon {
-  width: 48px;
-  height: 48px;
-  margin-bottom: 1.2em;
-  border-radius: 50%;
-  object-fit: contain;
-}
-
-html[data-theme="light"] {
-  --pro7-card-bg: #ffffff;      
-  --pro7-light-text: #086d3a;   
-  --pro7-turquoise: #205c80;    
 }
 
 .api-method > .menu__link,

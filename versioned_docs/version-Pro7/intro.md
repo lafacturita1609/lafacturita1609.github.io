@@ -25,15 +25,16 @@ Pro 7 es un sistema completo de facturación electrónica diseñado específicam
 Comienza ahora siguiendo nuestra [Guía de Configuracion esencial para tu cuenta](/Pro7/guias-adicionales/Configuracion-esencial-para-tu-cuenta-de-facturacion) o explorando las funcionalidades principales del sistema.
 
 <DocsCards>
-  <DocsCard header="Guía de Instalación" href="/Pro7/instalaciones" icon="/image/buho-4-hover.svg" hoverIcon="/image/buho-4-hover.svg">
+  <DocsCard 
+    header="Guía de Instalación"
+    href="/Pro7/instalaciones"
+  >
     <p>Guías paso a paso para configurar e instalar el Sistema de Facturación Pro 7.</p>
   </DocsCard>
 
   <DocsCard
     header="Aplicación para Facturación"
     href="/Pro7/app-para-facturacion"
-    icon="/image/buho-4-hover.svg"
-    hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Manual del aplicativo móvil del sistema de facturación.</p>
   </DocsCard>
@@ -41,8 +42,6 @@ Comienza ahora siguiendo nuestra [Guía de Configuracion esencial para tu cuenta
   <DocsCard
     header="Manuales Adicionales"
     href="/Pro7/manuales-adicionales"
-    icon="/image/buho-4-hover.svg"
-    hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Guía de configuraciones del sistema, para los procesos de configuración primarios.</p>
   </DocsCard>
@@ -50,8 +49,6 @@ Comienza ahora siguiendo nuestra [Guía de Configuracion esencial para tu cuenta
   <DocsCard 
     header="Mozo APP" 
     href="/Pro7/mozo" 
-    icon="/image/buho-4-hover.svg" 
-    hoverIcon="/image/buho-4-hover.svg"
   >
     <p>Encuentra ayuda sobre nuestra aplicación Mozo, una extensión del sistema Pro 7 diseñada para restaurantes.</p>
   </DocsCard>
