@@ -27,6 +27,7 @@ Comienza ahora explorando las funcionalidades principales del sistema.
 <DocsCard 
   header="Guía de Instalación" 
   href="/ProX/instalaciones">
+  >
     <p>Guías paso a paso para configurar e instalar el Sistema de Facturación Reseller.</p>
   </DocsCard>
 
