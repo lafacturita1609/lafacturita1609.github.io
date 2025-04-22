@@ -1,8 +1,8 @@
 ---
-id: introduccion
-title: "Introducción"
-description: "Para la implementación de la **Facturación Electrónica**, la SUNAT ha puesto a su disposición diversos manuales y documentos técnicos, los cuales inicialmente son complejos de entender y utilizar."
-sidebar_label: Introduction
+id: introduccion-boleta
+title: "Boleta Electrónica"
+description: "API para la emisión de Boletas Electrónicas en el Sistema Pro 7, cumpliendo con los requisitos de SUNAT para Perú."
+sidebar_label: Antes de empezar
 sidebar_position: 0
 hide_title: true
 custom_edit_url: null
@@ -23,28 +23,37 @@ import Export from "@theme/ApiExplorer/Export";
 <Heading
   as={"h1"}
   className={"openapi__heading"}
-  children={"Introducción"}
+  children={"Boleta Electrónica"}
 >
 </Heading>
 
+## Descripción General
 
+La API de Boletas Electrónicas permite la generación, validación y envío de boletas de venta para consumidores finales que cumplen con las especificaciones técnicas de SUNAT. Las boletas se envían mediante resúmenes diarios y proporcionan los documentos reglamentarios: XML firmado digitalmente, representación impresa en PDF y la Constancia de Recepción (CDR).
 
-Para la implementación de la **Facturación Electrónica**, la SUNAT ha puesto a su disposición diversos manuales y documentos técnicos, los cuales inicialmente son complejos de entender y utilizar.
+## Tipos de Boletas Disponibles
 
-La api le permitirá generar diversos documentos electrónicos, y de cada uno obtendrá los 3 archivos indispensables **(XML Firmado, Documento PDF, y CDR)**.
+En esta sección encontrará endpoints para los siguientes tipos de boletas:
 
-Los documentos que se encuentran contemplados son:
+- **Boleta Gravada** - Para operaciones afectas a IGV con consumidores finales
+- **Boleta Gravada Contingencia** - Para emisión durante caídas del sistema de SUNAT
+- **Boleta Exportación** - Para ventas a turistas o no domiciliados
+- **Boleta con Resumen** - Para envío mediante resúmenes diarios
 
-1. Factura  
-2. Boleta  
-3. Nota de Débito  
-4. Nota de Crédito  
-5. Resúmenes  
-6. Anulaciones  
-7. Guia de remisión  
-8. Cotización  
-9. Inventarios  
-10. Productos
+## Funcionalidades Principales
+
+- Emisión de boletas con múltiples ítems y diferentes tasas impositivas
+- Generación automática de resúmenes diarios para envío a SUNAT
+- Cálculo automático de impuestos según normativa vigente
+- Soporte para consumidores sin documento de identidad
+- Historial y trazabilidad de documentos emitidos
+
+## Beneficios
+
+- Simplificación en la emisión de comprobantes a consumidores finales
+- Envío consolidado mediante resúmenes diarios
+- Menor carga operativa gracias al envío por lotes
+- Generación automática de archivos reglamentarios
 
 <div
   style={{"marginBottom":"2rem"}}
@@ -53,69 +62,32 @@ Los documentos que se encuentran contemplados son:
     id={"authentication"}
     as={"h2"}
     className={"openapi-tabs__heading"}
-    children={"Authentication"}
+    children={"Autenticación"}
   >
-  </Heading><SchemaTabs
+  </Heading>
+  <SchemaTabs
     className={"openapi-tabs__security-schemes"}
   >
     <TabItem
-      label={"OAuth 2.0: petstore_auth"}
-      value={"petstore_auth"}
-    >
-      
-      
-      
-      
-      <div>
-        <table>
-          <tbody>
-            <tr>
-              <th>
-                Security Scheme Type:
-              </th><td>
-                oauth2
-              </td>
-            </tr><tr>
-              <th>
-                OAuth Flow (implicit):
-              </th><td>
-                <p>
-                  Authorization URL: https://empresa1.demo3pro6.ibu.pe
-                </p><span>
-                  Scopes:
-                </span><ul>
-                  <li>
-                    write:pets: modify pets in your account
-                  </li><li>
-                    read:pets: read your pets
-                  </li>
-                </ul>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </TabItem><TabItem
-      label={"API Key: api_key"}
+      label={"API Key"}
       value={"api_key"}
     >
-      
-      
-      
-      
       <div>
         <table>
           <tbody>
             <tr>
               <th>
-                Security Scheme Type:
-              </th><td>
+                Tipo de esquema de seguridad:
+              </th>
+              <td>
                 apiKey
               </td>
-            </tr><tr>
+            </tr>
+            <tr>
               <th>
-                Header parameter name:
-              </th><td>
+                Nombre del parámetro en header:
+              </th>
+              <td>
                 api_key
               </td>
             </tr>
@@ -125,4 +97,71 @@ Los documentos que se encuentran contemplados son:
     </TabItem>
   </SchemaTabs>
 </div>
-      
+
+## Implementación
+
+Para implementar la emisión de boletas electrónicas en su sistema, siga estos pasos:
+
+1. **Obtener Credenciales**: Solicite sus credenciales de API en el panel de administración
+2. **Preparar Payload**: Estructure los datos según el tipo de boleta a emitir
+3. **Realizar Petición**: Envíe la solicitud al endpoint correspondiente
+4. **Procesar Respuesta**: Almacene los archivos generados (XML, PDF)
+5. **Enviar Resumen**: Las boletas se envían mediante resúmenes diarios a SUNAT
+
+## Estructura Base de Petición
+
+```json
+{
+  "serie_documento": "B001",
+  "numero_documento": "#",
+  "fecha_de_emision": "2023-04-22",
+  "hora_de_emision": "13:05:00",
+  "codigo_tipo_operacion": "0101",
+  "codigo_tipo_documento": "03",
+  "codigo_tipo_moneda": "PEN",
+  "datos_del_cliente": {
+    "codigo_tipo_documento_identidad": "1",
+    "numero_documento": "00000000",
+    "apellidos_y_nombres_o_razon_social": "CLIENTE GENÉRICO",
+    "codigo_pais": "PE",
+    "ubigeo": "150101",
+    "direccion": "Lima, Perú"
+  },
+  "totales": {
+    "total_operaciones_gravadas": 100.00,
+    "total_igv": 18.00,
+    "total_impuestos": 18.00,
+    "total_valor": 100.00,
+    "total_venta": 118.00
+  },
+  "items": [
+    {
+      "codigo_interno": "P001",
+      "descripcion": "Producto de prueba",
+      "unidad_de_medida": "NIU",
+      "cantidad": 2,
+      "valor_unitario": 50,
+      "codigo_tipo_precio": "01",
+      "precio_unitario": 59,
+      "codigo_tipo_afectacion_igv": "10",
+      "total_base_igv": 100.00,
+      "porcentaje_igv": 18,
+      "total_igv": 18.00,
+      "total_impuestos": 18.00,
+      "total_valor_item": 100.00,
+      "total_item": 118.00
+    }
+  ]
+}
+```
+
+## Consideraciones Especiales para Boletas
+
+- Las boletas se envían a SUNAT mediante resúmenes diarios, no individualmente
+- Para identificar consumidores sin documento, use código "1" y número "00000000"
+- El registro de ventas menores a S/. 700 puede realizarse con cliente genérico
+- Las boletas rechazadas en el resumen deben corregirse y reenviarse
+
+## Resúmenes Diarios
+
+Las boletas emitidas deben incluirse en un resumen diario que se envía a SUNAT. Para este proceso, utilice el endpoint específico de resúmenes con la información consolidada de las boletas del día.
