@@ -30,7 +30,7 @@ Se explicará como poder descargar y poder ejecutar el facturador dentro de su m
         2. Si tienes otros proyectos entonces debes colocar el número correlativo al anterior:
 
             ![alt text](img/number-service-2.png)
-    * Luego le preguntará que versión es la que necesita, en el script va encontrar entre el Pro6 [1] o el ProX [2]
+    * Luego le preguntará que versión es la que necesita, en el script va encontrar entre el Pro7 [1] o el ProX [2]
 
      ![alt text](img/instalacion-facturador-linux.png)
     * Si es la primera vez que se está instalando entonces empezará a actualizar el sistema y a descargar los programas necesarios, esto puede tardar unos minutos. Deberá clonar el repositorio donde deberá colocar su cuenta de usuario con contraseña (verificar que este bien la cuenta de usuario y contraseña porque puede saltar error y por consecuente fallar la instalación).
