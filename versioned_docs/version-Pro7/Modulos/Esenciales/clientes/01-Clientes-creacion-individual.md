@@ -24,11 +24,11 @@ Se completarán los siguientes datos:
 * **Nombre comercial:** Ingresa la denominación que identifica a la empresa.
 * **Días de crédito**
 * **Código Interno:** Ingresa el código del cliente.
-* **Tipo de cliente:** Ingresa la clasificación de su cliente, para conocer cómo crearlo, te invitamos a leer nuestro **[artículo](https://fastura.github.io/documentacion/clientes/Configurar-tipos-de-clientes)**.
+* **Tipo de cliente:** Ingresa la clasificación de su cliente, para conocer cómo crearlo, te invitamos a leer nuestro **[artículo](https://manual.uio.la/Pro7/modulos/Esenciales/clientes/Configurar-tipos-de-clientes)**.
 * **Código de barra:** Ingresa el código de barra del cliente.
 
 :::info IMPORTANTE:
-Tener en cuenta los siguientes puntos: [artículo](https://fastura.github.io/documentacion/guias-adicionales/Consulta-Api)
+Tener en cuenta los siguientes puntos: [artículo](https://manual.uio.la/Pro7/guias-adicionales/Consulta-Api)
 
 :::
 

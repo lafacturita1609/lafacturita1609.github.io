@@ -3,7 +3,7 @@ sidebar_position: 4
 
 ---
 
-# Ingresos/Egresos: Tipos de comprobantes INGRESOS Y GASTOS
+# Tipos de comprobantes INGRESOS Y GASTOS
 
 En este artículo te enseñaremos a agregar los tipos de comprobantes de ingresos y gastos. Sigue estos pasos para realizarlo:
 

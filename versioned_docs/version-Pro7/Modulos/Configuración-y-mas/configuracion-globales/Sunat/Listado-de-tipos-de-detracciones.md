@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# SUNAT: Listado de tipos de detracciones
+# Listado de tipos de detracciones
 
 El **Listado de Tipos de Detracciones** de la SUNAT especifica los códigos asociados a productos o servicios sujetos al sistema de detracciones. Las detracciones son un mecanismo mediante el cual se retiene un porcentaje del pago por determinados bienes y servicios, con el fin de asegurar el cumplimiento de las obligaciones tributarias.
 

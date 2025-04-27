@@ -14,7 +14,7 @@ En esta sección podrá empezar con la creación de su formulario de pedido.
 
 Se encontrará el formulario del tipo de comprobante y se completarán los siguientes datos:
 
-1. **Cliente:** Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
+1. **Cliente:** Luego deberá escoger el cliente para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://manual.uio.la/Pro7/modulos/Esenciales/clientes/Clientes-creacion-individual)**.
 
 2. **Fec.Emisión:** Colocar la fecha en la que se realiza el pedido.
 
@@ -26,7 +26,7 @@ Se encontrará el formulario del tipo de comprobante y se completarán los sigui
 
 6. **Tipo de cambio:** El tipo de cambio varía según la SUNAT.
 
-7. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
+7. **Agregar producto:** Luego deberá escoger el producto para la creación de la cotización, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://manual.uio.la/Pro7/modulos/Esenciales/productos-servicios/Productos-Creacion-basica)**.
 
 Después selecciona el botón **Generar** y aparecerá una ventana,indicando que la cotización ha sido aceptada.
 

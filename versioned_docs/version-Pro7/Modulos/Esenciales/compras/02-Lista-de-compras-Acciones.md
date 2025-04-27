@@ -12,7 +12,7 @@ Ingresa al módulo de **Compras** y luego selecciona subcategoría **Listado**.
 
 Se visualizarán diferentes funcionalidades de las secciones enumeradas:
 
-1. **Nuevo:** Permite crear una nueva compra, créelo paso a paso en este **[artículo](https://fastura.github.io/documentacion/compras/Nuevo-Agregar-una-nueva-compra)**.
+1. **Nuevo:** Permite crear una nueva compra, créelo paso a paso en este **[artículo](https://manual.uio.la/Pro7/modulos/Esenciales/compras/nueva-compra)**.
 
 2. **Importar:** Permite importar comprobantes de compra.
 

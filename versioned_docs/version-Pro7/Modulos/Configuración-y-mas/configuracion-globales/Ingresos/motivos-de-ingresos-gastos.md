@@ -3,7 +3,7 @@ sidebar_position: 2
 
 ---
 
-# Ingresos/Egresos: Motivos de Ingresos / Gastos
+# Motivos de Ingresos / Gastos
 
 En este artículo te enseñaremos a agregar motivos de gastos y motivos de ingresos. Sigue estos pasos para realizarlo:
 

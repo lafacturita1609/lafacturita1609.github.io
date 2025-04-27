@@ -1,4 +1,7 @@
-# General: Plataformas
+---
+sidebar_position: 5
+---
+# Plataformas
 
 En este artículo te enseñaremos a agregar plataformas. Sigue estos pasos para realizarlo:
 

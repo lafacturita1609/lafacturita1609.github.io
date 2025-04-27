@@ -1,4 +1,7 @@
-# General: Listado de tarjetas
+---
+sidebar_position: 4
+---
+# Listado de tarjetas
 
 En este artículo te enseñaremos a agregar cuentas bancarias. Sigue estos pasos para realizarlo:
 

@@ -2,7 +2,7 @@
 sidebar_position: 3
 
 ---
-# Avanzado: Numeración de facturación
+# Numeración de facturación
 
 Si estas migrando desde otro proveedor a nuestra plataforma, para poder continuar con la numeración del correlativo de tus comprobantes,tenemos esta opción para ti. Sigue estos pasos para realizarlo:
 

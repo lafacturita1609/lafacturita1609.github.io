@@ -2,7 +2,7 @@
 sidebar_position: 2
 
 ---
-# Avanzado: Modo offline
+# Modo offline
 
 En este artículo te enseñaremos a activar el modo offline de nuestro sistema. Sigue estos pasos para realizarlo:
 

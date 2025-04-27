@@ -3,7 +3,7 @@ sidebar_position: 3
 
 ---
 
-# Ingresos/Egresos: Listado de métodos de pago
+# Listado de métodos de pago
 
 En este artículo te enseñaremos a agregar métodos de pago. Sigue estos pasos para realizarlo:
 

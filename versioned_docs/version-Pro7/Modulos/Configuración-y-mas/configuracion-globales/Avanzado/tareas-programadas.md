@@ -2,7 +2,7 @@
 sidebar_position: 1
 
 ---
-# Avanzado: Tareas programadas
+# Tareas programadas
 
 En este artículo te enseñaremos a realizar la configuración necesaria para enviar las boletas mediante un resumen. Sigue estos pasos para realizarlo:
 

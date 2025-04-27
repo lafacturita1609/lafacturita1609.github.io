@@ -1,4 +1,7 @@
-# Empresa - Avanzado
+---
+sidebar_position: 3
+---
+# Avanzado
 
 En este artículo te ayudaremos a conocer todas las configuraciones que puedes realizar. Sigue estos pasos para realizarlo:
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 
 ---
-# Ingresos/Egresos: Métodos de pago - Ingreso / Gasto
+# Métodos de pago - Ingreso / Gasto
 
 En este artículo te enseñaremos a agregar métodos de gasto y métodos de pago. Sigue estos pasos para realizarlo:
 

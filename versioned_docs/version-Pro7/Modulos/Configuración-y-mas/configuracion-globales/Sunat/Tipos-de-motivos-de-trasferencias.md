@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# SUNAT: Tipos de motivos de transferencias
+# Tipos de motivos de transferencias
 
 El **Listado de Tipos de Motivos de Transferencias** de la SUNAT especifica los códigos que identifican los diversos motivos por los cuales se realiza la transferencia de productos o servicios. Estos códigos son fundamentales para registrar correctamente las operaciones en los documentos tributarios, tales como facturas y guías de remisión.
 

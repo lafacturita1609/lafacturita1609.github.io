@@ -54,7 +54,7 @@ Se visualizarán diferentes funcionalidades de las secciones enumeradas.
 * Bartender: Herramienta avanzada que permite generar e imprimir etiquetas personalizadas para productos. A través de la Generación de TXT para Bartender, se puede exportar información clave como Código Interno, Nombre, Código de Barras, Categoría, Unidad, Marca y Precio en formato de texto (CSV).
 
 :::info RECOMENDACIÓN:
-Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro **[artículo](https://fastura.github.io/documentacion/productos-servicios/Productos-Exportar-masivamente)**.
+Para conocer cómo exportar de forma masiva, te invitamos a leer nuestro **[artículo](https://manual.uio.la/Pro7/modulos/Esenciales/productos-servicios/Productos-Exportar-masivamente)**.
 :::
 
 **8.  Importar:**
@@ -75,4 +75,4 @@ Al seleccionar el botón desplegable, encontraremos otras opciones:
 Para conocer cómo importar de forma masiva, te invitamos a leer nuestro **[artículo.](https://fastura.github.io/documentacion/productos-servicios/Productos-Importar-masivamente)**
 :::
 
-**9.  Nuevo:** Permite crear un producto nuevo, creelo paso a paso en este **[artículo.](https://fastura.github.io/documentacion/productos-servicios/Productos-Creacion-basica)**
+**9.  Nuevo:** Permite crear un producto nuevo, creelo paso a paso en este **[artículo.](https://manual.uio.la/Pro7/modulos/Esenciales/productos-servicios/Productos-Creacion-basica)**

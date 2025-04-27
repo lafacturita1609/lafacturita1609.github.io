@@ -14,7 +14,7 @@ Para crear una nueva máquina, completa:
 
 ![Alt text](img/maquinaria2.jpg)
 
-- **Tipo de maquina:** Selecciona el tipo de maquina creada previamente, si aún no creaste una, aprende como **[aquí](https://fastura.github.io/documentacion/produccion/Tipo-de-maquinaria)**.
+- **Tipo de maquina:** Selecciona el tipo de maquina creada previamente, si aún no creaste una, aprende como **[aquí](https://manual.uio.la/Pro7/modulos/Especificos/produccion/Tipo-de-maquinaria)**.
 - **Nombre:**  Inserta el nombre de la maquina.
 - **Marca:** Inserta la marca de la maquina.
 - **Modelo:** Inserta el modelo de la maquina.

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 ---
-# SUNAT: Listado de Unidades
+# Listado de Unidades
 
 El **Listado de Unidades de Medida** de SUNAT incluye los códigos que especifican las distintas unidades utilizadas para describir productos o servicios en documentos tributarios. Estas unidades son obligatorias para cumplir con las normativas de facturación electrónica y garantizar la precisión en la descripción de las cantidades.
 

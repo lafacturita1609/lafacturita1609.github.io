@@ -1,4 +1,7 @@
-# General: Listado de bancos
+---
+sidebar_position: 1
+---
+# Listado de bancos
 
 En este artículo te enseñaremos a agregar nuevos bancos. Sigue estos pasos para realizarlo:
 

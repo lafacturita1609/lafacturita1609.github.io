@@ -1,4 +1,7 @@
-# General: Listado de cuentas bancarias
+---
+sidebar_position: 2
+---
+# Listado de cuentas bancarias
 
 En este artículo te enseñaremos a agregar cuentas bancarias. Sigue estos pasos para realizarlo:
 

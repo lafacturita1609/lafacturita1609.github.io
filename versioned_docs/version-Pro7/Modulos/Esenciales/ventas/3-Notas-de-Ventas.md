@@ -23,7 +23,7 @@ Colocar la fecha de emisión
 Colocar fecha de vencimiento.
 
 **4. Agregar Producto**
-Luego deberá escoger el producto para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://fastura.github.io/documentacion/ventas/Emitir-comprobantes-Facturas-y-Boletas)**.
+Luego deberá escoger el producto para la creación del comprobante, si no está creado, podrá realizarlo paso a paso en este **[artículo](https://manual.uio.la/Pro7/modulos/Esenciales/productos-servicios/Productos-Creacion-basica)**.
 
 
 **5. Informacion Adicional**

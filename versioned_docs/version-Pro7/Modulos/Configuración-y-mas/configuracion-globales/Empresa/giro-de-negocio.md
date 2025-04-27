@@ -1,4 +1,7 @@
-# Empresa - Giro de Negocio
+---
+sidebar_position: 2
+---
+# Giro de Negocio
 
 En este artículo te ayudaremos a activar tu giro de negocio. Sigue estos pasos para realizarlo:
 

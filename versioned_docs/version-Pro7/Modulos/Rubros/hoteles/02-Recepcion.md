@@ -19,7 +19,7 @@ Aparecerá lo siguiente:
 
 Completa:
 
-* **Cliente:** Selecciona al cliente que ocupará la habitación, caso contrario, cree uno nuevo **[aquí](https://fastura.github.io/documentacion/docs/Pro7/Modulos/Esenciales/clientes/Clientes-creacion-individual)**.
+* **Cliente:** Selecciona al cliente que ocupará la habitación, caso contrario, cree uno nuevo **[aquí](https://manual.uio.la/Pro7/modulos/Esenciales/clientes/Clientes-creacion-individual)**.
 * **Tarifa:** Selecciona la tarifa correspondiente.
 Selecciona el botón Guardar.
 

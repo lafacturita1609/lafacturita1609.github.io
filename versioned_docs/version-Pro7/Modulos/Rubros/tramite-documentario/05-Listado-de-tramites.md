@@ -25,7 +25,7 @@ Completa los siguientes campos:
 - **Etapa:** Selecciona una etapa, creado previamente si aún no lo creo, selecciona +Nuevo, sigue todos los pasos en este artículo.
 - **Fecha cuando se toma la etapa:** Se autocompleta, pero se puede seleccionar otra fecha si lo requiere.
 - **Días que toma el etapa:** Inserta los días que toma la etapa.
-- **Estado de etapa:**  Selecciona el estado de la etapa, creado previamente si aún no lo creo, selecciona +Nuevo, sigue todos los pasos en este **[artículo](https://fastura.github.io/documentacion/tramite-documentario/Listado-de-Etapas)**.
+- **Estado de etapa:**  Selecciona el estado de la etapa, creado previamente si aún no lo creo, selecciona +Nuevo, sigue todos los pasos en este **[artículo](https://manual.uio.la/Pro7/modulos/Rubros/tramite-documentario/Listado-de-Etapas)**.
 - **Responsable:** Selecciona el responsable.
 - **Observaciones:** Inserta alguna observación si lo requiere.
 - **Check box- Calculo por días Hábiles:** Te permite elegir si quieres calcular los días por días hábiles o fecha calendario.

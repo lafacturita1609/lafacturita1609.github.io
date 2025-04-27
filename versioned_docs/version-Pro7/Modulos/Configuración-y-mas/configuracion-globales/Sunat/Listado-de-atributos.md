@@ -3,7 +3,7 @@ sidebar_position: 1
 
 ---
 
-# SUNAT: Listado de Atributos
+# Listado de Atributos
 
 El **Listado de Atributos** de la SUNAT contiene un conjunto de códigos que permiten especificar información adicional y detallada sobre productos o servicios en diversos sectores, como detracciones, transporte terrestre, hospedajes y otros. Estos atributos son fundamentales para cumplir con las normativas de facturación electrónica y brindar información precisa en los comprobantes tributarios.
 

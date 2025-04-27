@@ -1,4 +1,7 @@
-# General: Lista de monedas
+---
+sidebar_position: 3
+---
+# Lista de monedas
 
 En este artículo te enseñaremos verificar el listado de monedas. Sigue estos pasos para realizarlo:
 

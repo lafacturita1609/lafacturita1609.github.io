@@ -2,7 +2,7 @@
 sidebar_position: 4
 
 ---
-# Avanzado: Inventarios
+# Inventarios
 
 En este artículo te enseñaremos a realizar configuraciones previas acerca de Inventarios. Sigue estos pasos para realizarlo:
 

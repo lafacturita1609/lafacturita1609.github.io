@@ -1,5 +1,7 @@
-
-# Empresa - Empresa
+---
+sidebar_position: 1
+---
+# Empresa
 
 En este artículo te enseñaremos los pasos para configurar tu plataforma de facturación, conectarte a SUNAT y empezar a facturar:
 
