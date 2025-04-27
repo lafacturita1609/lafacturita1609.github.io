@@ -1,7 +1,7 @@
 ---
 id: introduccion
-title: "Antes de empezar"
-description: "En ocasiones, se producen **errores en la emisión de facturas** a compradores o clientes. Esto provoca que estos errores se deban solventar con diferentes mecanismos, ya que la Ley prohíbe la eliminación de facturas ya emitidas."
+title: "Guía de Remisión Electrónica"
+description: "API para la emisión de Guías de Remisión Electrónicas en el Sistema Pro 7, cumpliendo con los requisitos de SUNAT para Perú."
 sidebar_label: Antes de empezar
 sidebar_position: 0
 hide_title: true
@@ -23,26 +23,39 @@ import Export from "@theme/ApiExplorer/Export";
 <Heading
   as={"h1"}
   className={"openapi__heading"}
-  children={"Introducción"}
+  children={"Guía de Remisión Electrónica"}
 >
 </Heading>
 
+## Descripción General
 
+La API de Guías de Remisión Electrónicas permite la generación, validación y envío de guías que cumplen con las especificaciones técnicas de SUNAT. Por cada operación, obtendrá los tres archivos reglamentarios: XML firmado digitalmente, representación impresa en PDF y la Constancia de Recepción (CDR).
 
-En ocasiones, se producen **errores en la emisión de facturas** a compradores o clientes. Esto provoca que estos errores se deban solventar con diferentes mecanismos, ya que la Ley prohíbe la eliminación de facturas ya emitidas.
+## Tipos de Guías Disponibles
 
-Los documentos que se encuentran contemplados son:
+En esta sección encontrará endpoints para los siguientes tipos de guías:
 
-1. Factura  
-2. Boleta  
-3. Nota de Débito  
-4. Nota de Crédito  
-5. Resúmenes  
-6. Anulaciones  
-7. Guia de remisión  
-8. Cotización  
-9. Inventarios  
-10. Productos
+- **Guía de Remisión Remitente** - Para el traslado de bienes por parte del remitente
+- **Guía de Remisión Transportista** - Para el traslado de bienes por parte del transportista
+- **Guía de Remisión sin Enviar** - Generación sin envío inmediato a SUNAT
+- **Guía de Remisión de Contingencia** - Para emisión durante caídas del sistema de SUNAT
+- **Guía de Remisión Generada Offline** - Para emisión sin conexión a internet
+
+## Funcionalidades Principales
+
+- Emisión de guías con múltiples ítems y diferentes motivos de traslado
+- Soporte para direcciones y rutas detalladas
+- Registro de vehículos y conductores autorizados
+- Generación de representación impresa personalizable
+- Historial y trazabilidad de documentos emitidos
+- Consulta de estado de documentos enviados a SUNAT
+
+## Beneficios
+
+- Cumplimiento de la normativa vigente de traslado de mercancías
+- Agilización del proceso logístico y control de inventario
+- Reducción de errores en información de transportes
+- Integración sencilla con su sistema logístico o ERP existente
 
 <div
   style={{"marginBottom":"2rem"}}
@@ -97,10 +110,6 @@ Los documentos que se encuentran contemplados son:
       label={"API Key: api_key"}
       value={"api_key"}
     >
-      
-      
-      
-      
       <div>
         <table>
           <tbody>
@@ -123,4 +132,117 @@ Los documentos que se encuentran contemplados son:
     </TabItem>
   </SchemaTabs>
 </div>
-      
+
+
+
+
+## Implementación
+
+Para implementar la emisión de guías de remisión electrónicas en su sistema, siga estos pasos:
+
+1. **Obtener Credenciales**: Solicite sus credenciales de API en el panel de administración de Pro 7
+2. **Validar Conexión**: Utilice el endpoint de prueba para verificar la correcta configuración
+3. **Preparar Payload**: Estructure los datos según el tipo de guía a emitir
+4. **Realizar Petición**: Envíe la solicitud al endpoint correspondiente
+5. **Procesar Respuesta**: Almacene los archivos generados (XML, PDF, CDR)
+
+## Estructura Base de Petición
+
+Todas las solicitudes de guías comparten una estructura base similar:
+
+```json
+{
+  "serie_documento": "T001",
+  "numero_documento": "#",
+  "fecha_de_emision": "2023-04-22",
+  "hora_de_emision": "13:05:00",
+  "codigo_tipo_documento": "09",
+  "codigo_tipo_motivo_traslado": "01",
+  "descripcion_motivo_traslado": "VENTA",
+  "peso_bruto_total": 2000.00,
+  "unidad_de_medida_peso_bruto": "KGM",
+  "numero_de_bultos": 10,
+  "datos_del_remitente": {
+    "codigo_tipo_documento_identidad": "6",
+    "numero_documento": "20100066603",
+    "apellidos_y_nombres_o_razon_social": "EMPRESA REMITENTE S.A.C.",
+    "codigo_pais": "PE",
+    "ubigeo": "150101",
+    "direccion": "Av. República de Panamá 3650",
+    "correo_electronico": "contacto@remitente.com",
+    "telefono": "01-6135500"
+  },
+  "datos_del_destinatario": {
+    "codigo_tipo_documento_identidad": "6",
+    "numero_documento": "20600695771",
+    "apellidos_y_nombres_o_razon_social": "EMPRESA DESTINATARIO S.A.C.",
+    "codigo_pais": "PE",
+    "ubigeo": "150101",
+    "direccion": "Av. República de Argentina 2530",
+    "correo_electronico": "contacto@destinatario.com",
+    "telefono": "01-4503400"
+  },
+  "direccion_partida": {
+    "ubigeo": "150101",
+    "direccion": "Calle Los Olivos 234, San Isidro",
+    "codigo_pais": "PE"
+  },
+  "direccion_llegada": {
+    "ubigeo": "150122",
+    "direccion": "Av. Benavides 1555, Miraflores",
+    "codigo_pais": "PE"
+  },
+  "transportista": {
+    "codigo_tipo_documento_identidad": "6",
+    "numero_documento": "20505688903",
+    "apellidos_y_nombres_o_razon_social": "TRANSPORTES SEGUROS S.A.C.",
+    "placa_vehiculo": "ABC-123",
+    "chofer": {
+      "codigo_tipo_documento_identidad": "1",
+      "numero_documento": "40505050",
+      "apellidos_y_nombres_o_razon_social": "PEDRO RUIZ GOMEZ",
+      "licencia": "Q40505050"
+    }
+  },
+  "items": [
+    {
+      "codigo_interno": "PRD001",
+      "descripcion": "Laptop Avanzada XPS",
+      "unidad_de_medida": "NIU",
+      "cantidad": 50,
+      "codigo_producto_sunat": "43211503",
+      "descripcion_producto_sunat": "Computadora portátil"
+    }
+  ]
+}
+```
+
+## Ejemplos por Tipo de Guía
+
+### Guía de Remisión Remitente
+
+Esta guía es emitida por el propietario de los bienes que realiza el traslado. Para su emisión, utilice el endpoint `/api/dispatches` con el método POST.
+
+### Guía de Remisión Transportista
+
+Cuando el traslado lo realiza un tercero, debe emitirse este tipo de guía. Para su emisión, utilice el endpoint `/api/dispatch_carrier` con el método POST.
+
+### Guía de Remisión de Contingencia
+
+Se utiliza cuando SUNAT presenta problemas en sus servicios. Requiere incluir en su payload:
+- `is_contingencia`: true
+- `motivo_contingencia`: "Caída de servicios de SUNAT"
+
+## Consideraciones Importantes
+
+- Verifique siempre el código de respuesta de SUNAT en el CDR
+- Las guías rechazadas deben ser corregidas y reenviadas
+- Conserve los tres archivos (XML, PDF, CDR) según la normativa vigente
+- Las guías pueden ser consultadas posteriormente mediante el endpoint `/api/dispatches/{id}`
+- Asegúrese de que los datos del vehículo y conductor estén actualizados y sean válidos
+
+## Referencias y Soporte
+
+Para más información sobre códigos de producto SUNAT, motivos de traslado y otros catálogos requeridos, consulte la sección de Referencias.
+
+Si experimenta problemas con la implementación, contacte a nuestro equipo de soporte a través del canal oficial indicado en su panel de administración.

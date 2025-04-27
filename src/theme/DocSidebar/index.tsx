@@ -20,7 +20,9 @@ import {
   Utensils,
   Coffee,
   ClipboardPen,
-  UserRoundPlus 
+  UserRoundPlus,
+  LayoutDashboard,
+  Sparkles 
 } from 'lucide-react';
 
 function getIconForItem(item) {
@@ -48,7 +50,9 @@ function getIconForItem(item) {
     if (item.label.includes('Plan')) return <ClipboardPen  size={18} />;
     if (item.label.includes('Instalación en Windows')) return <Package  size={18} />;
     if (item.label.includes('Crear Cuenta - Cliente')) return <UserRoundPlus  size={18} />;
-    if (item.label.includes('Multi Empresa')) return <Users  size={18} />;   // Icono de utensilios para el sistema de restaurantes
+    if (item.label.includes('Multi Empresa')) return <Users  size={18} />; 
+    if (item.label.includes('Dashboard')) return <LayoutDashboard  size={18} />;
+    if (item.label.includes('Introducción')) return <Sparkles  size={18} />;
   }
   return null;
 }

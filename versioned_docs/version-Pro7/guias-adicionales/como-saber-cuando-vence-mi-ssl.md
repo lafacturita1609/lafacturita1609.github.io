@@ -3,7 +3,7 @@ sidebar_position: 5
 ---
 
 
-# ¿Cómo evito que mi certificado digital (SSL) venza?
+# ¿Cómo saber cuando se vence mi Certificado SSL?
 
 Evita que tu SSL (certificado de seguridad) caduque antes de tiempo. Debes estar atento a su fecha de vencimiento. Sigue estos pasos para saber cuándo se vence tu certificado y asegurar una renovación oportuna:  
 
@@ -54,6 +54,6 @@ Mantener tu certificado SSL actualizado es crucial para la seguridad de tus dato
 
 
 :::danger IMPORTANTE:
-Para mantener tu SSL actualizado y evitar interrupciones en el servicio, puedes seguir las instrucciones detalladas en el siguiente **[articulo](../Reseller/instalacion/04-Instalar-SSL.md)**
+Para mantener tu SSL actualizado y evitar interrupciones en el servicio, puedes seguir las instrucciones detalladas en el siguiente **[articulo](../multi-empresa/instalacion/04-Instalar-SSL.md)**
 
 :::
