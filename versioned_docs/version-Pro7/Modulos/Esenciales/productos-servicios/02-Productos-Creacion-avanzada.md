@@ -112,6 +112,15 @@ De esta manera podrá emitir el comprobante electrónico de la manera más fáci
 
 Selecciona la **casilla de confirmación** si desea agregar el producto.
 
+:::danger IMPORTANTE:
+
+Es **obligatorio** ingresar la **descripción** y el **factor** para cada presentación.  
+Estos campos son fundamentales para el correcto funcionamiento del sistema y los cálculos relacionados.
+
+![Presentaciones](img/presentaciones-1.png)  
+
+:::
+
 ## Sección atributos
 
 ![Alt text](img/Creacion-avanzada_06.jpg)

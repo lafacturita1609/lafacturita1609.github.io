@@ -137,6 +137,15 @@ Define distintas unidades o niveles de precios para el mismo producto, útil par
 - **Precio Predeterminado**:  
   Selecciona el precio que será el predeterminado para esta presentación.
 
+:::danger IMPORTANTE:
+
+Es **obligatorio** ingresar la **descripción** y el **factor** para cada presentación.  
+Estos campos son fundamentales para el correcto funcionamiento del sistema y los cálculos relacionados.
+
+![Presentaciones](img/presentaciones-1.png)  
+
+:::
+
 ---
 
 ## **4. Atributos**  

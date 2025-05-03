@@ -1,0 +1,9 @@
+{
+  "label": "Panel de administración",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "panel-admin",
+    "description": "Documentacion del panel de administración de Pro X"
+  }
+}

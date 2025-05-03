@@ -22,7 +22,9 @@ import {
   ClipboardPen,
   UserRoundPlus,
   LayoutDashboard,
-  Sparkles 
+  Sparkles,
+  MonitorDown,
+  LayoutGrid 
 } from 'lucide-react';
 
 function getIconForItem(item) {
@@ -53,6 +55,8 @@ function getIconForItem(item) {
     if (item.label.includes('Multi Empresa')) return <Users  size={18} />; 
     if (item.label.includes('Dashboard')) return <LayoutDashboard  size={18} />;
     if (item.label.includes('Introducción')) return <Sparkles  size={18} />;
+    if (item.label.includes('Instalaciones')) return <MonitorDown  size={18} />;
+    if (item.label.includes('Panel de administración')) return <LayoutGrid  size={18} />;
   }
   return null;
 }
