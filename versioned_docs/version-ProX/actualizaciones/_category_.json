@@ -1,0 +1,9 @@
+{
+  "label": "Actualizaciones ",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "slug": "actualizaciones",
+    "description": "Documentacion de las actualizaciones del sistema de facturacion Pro X"
+  }
+}
