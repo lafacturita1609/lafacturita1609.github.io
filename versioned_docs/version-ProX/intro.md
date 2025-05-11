@@ -1,5 +1,5 @@
 ---
-title: Sistema de Facturación ProX
+title: Sistema de Facturación Pro X
 slug: /
 sidebar_position: 0
 ---
@@ -7,13 +7,13 @@ sidebar_position: 0
 import DocsCard from '/src/components/global/DocsCard';
 import DocsCards from '/src/components/global/DocsCards';
 
-# Sistema de Facturación ProX
+# Sistema de Facturación Pro X
 
 <head>
-  <title>Sistema de Facturación ProX - Facturalo Perú</title>
+  <title>Sistema de Facturación Pro X - Facturalo Perú</title>
   <meta
     name="description"
-    content="Sistema de Facturación ProX: Solución completa de facturación electrónica para empresas peruanas que cumple con los requisitos de SUNAT."
+    content="Sistema de Facturación Pro X: Solución completa de facturación electrónica para empresas peruanas que cumple con los requisitos de SUNAT."
   />
 </head>
 

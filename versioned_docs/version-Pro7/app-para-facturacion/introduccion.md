@@ -1,5 +1,5 @@
 ---
-title: Introduccion
+title: Introducción
 description: "Manual de uso para la aplicación móvil del Sistema de Facturación Pro 7: versión compacta y optimizada para gestionar tus operaciones desde cualquier lugar."
 sidebar_position: 0
 ---

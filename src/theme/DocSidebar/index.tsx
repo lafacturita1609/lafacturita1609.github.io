@@ -24,7 +24,12 @@ import {
   LayoutDashboard,
   Sparkles,
   MonitorDown,
-  LayoutGrid 
+  LayoutGrid ,
+  ShoppingCart,
+  KeyRound ,
+  Route  ,
+  SquaresExclude,
+  CreditCard 
 } from 'lucide-react';
 
 function getIconForItem(item) {
@@ -57,6 +62,12 @@ function getIconForItem(item) {
     if (item.label.includes('Introducción')) return <Sparkles  size={18} />;
     if (item.label.includes('Instalaciones')) return <MonitorDown  size={18} />;
     if (item.label.includes('Panel de administración')) return <LayoutGrid  size={18} />;
+    if (item.label.includes('VendeYa')) return <ShoppingCart  size={18} />;
+    if (item.label.includes('Iniciar Sesión')) return <KeyRound  size={18} />;
+    if (item.label.includes('Navegación')) return <SquaresExclude  size={18} />;
+    if (item.label.includes('Flujo de Venta')) return <CreditCard  size={18} />;
+    if (item.label.includes('Sistema de Facturación Pro 7')) return <Package  size={18} />;
+    if (item.label.includes('Sistema de Facturación Pro X')) return <Package  size={18} />;
   }
   return null;
 }
