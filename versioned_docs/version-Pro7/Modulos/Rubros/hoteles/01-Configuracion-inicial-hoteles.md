@@ -1,4 +1,4 @@
-# Configuración Inicial - Hoteles
+# Configuración Inicial
 
 Para empezar a utilizar el módulo de hoteles, es necesario configurar cada elemento en el siguiente orden:
 

@@ -1,8 +1,8 @@
 ---
-sidebar_position: 0
+sidebar_position: 1
 ---
 
-# Introducción
+# Iniciar Sesión
 
 El **Sistema para Mozo** es una solución integral diseñada para agilizar y optimizar las operaciones de restaurantes, bares y cafeterías. Este sistema facilita el trabajo del personal de servicio, permitiéndoles gestionar de manera eficiente mesas, pedidos y comandas, a la vez que interactúan directamente con un módulo de Punto de Venta (POS) para la facturación y cobro.
 

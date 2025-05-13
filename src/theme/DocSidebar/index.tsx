@@ -29,7 +29,13 @@ import {
   KeyRound ,
   Route  ,
   SquaresExclude,
-  CreditCard 
+  CreditCard,
+  BadgeDollarSign,
+  Building,
+  BedDouble,
+  Tags,
+  ConciergeBell,
+  UtensilsCrossed 
 } from 'lucide-react';
 
 function getIconForItem(item) {
@@ -68,6 +74,19 @@ function getIconForItem(item) {
     if (item.label.includes('Flujo de Venta')) return <CreditCard  size={18} />;
     if (item.label.includes('Sistema de Facturación Pro 7')) return <Package  size={18} />;
     if (item.label.includes('Sistema de Facturación Pro X')) return <Package  size={18} />;
+
+    // Modulo Hotel 
+    if (item.label.includes('Recepción')) return <ConciergeBell    size={18} />;
+    if (item.label.includes('Tarifas')) return <BadgeDollarSign   size={18} />;
+    if (item.label.includes('Pisos')) return <Building   size={18} />;
+    if (item.label.includes('Categorías')) return <Tags  size={18} />;
+    if (item.label.includes('Habitaciones')) return <BedDouble   size={18} />;
+
+    // Mozo.APP
+
+    if (item.label.includes('Mesas')) return <UtensilsCrossed size={18} />;
+    if (item.label.includes('POS')) return <CreditCard size={18} />;
+
   }
   return null;
 }

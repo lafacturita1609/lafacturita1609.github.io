@@ -18,8 +18,44 @@ La interfaz de VendeYa.pe está diseñada para ser intuitiva y fácil de usar, e
 Solo los productos que tengan un código interno asignado en el Sistema de Facturación serán visibles en VendeYa.pe. Asegúrese de que todos los productos que desea mostrar tengan un código interno configurado.
 :::
 
+### Búsqueda por Código de Barras
 
+![Búsqueda por código de barras](img/busqueda-por-barras.png)
+
+Al activar esta opción se listarán todos los productos que cuenten con un código de barras previamente registrado en el sistema. 
+
+### Favoritos  
+
+Puedes marcar productos como favoritos para destacarlos y tenerlos siempre visibles en la parte superior del listado de productos.
+
+Para hacerlo, selecciona el icono de estrella ⭐ en la parte superior derecha de cada producto.
+
+![Seleccionar Favoritos](img/favoritos.png)
+
+Una vez marcados, estos productos se mostrarán primero en el listado, facilitando su acceso en ventas rápidas o productos de alta demanda.
+
+:::note
+Los favoritos se pueden activar y desactivar en cualquier momento tocando nuevamente el ícono de estrella.
+:::
+
+
+### Listado de Precios
+
+![Listado de Precios](img/listado-de-precios.png)
+
+Al seleccionar esta opción se mostrará una vista detallada que incluye:
+
+- Lista completa de productos disponibles
+- Código interno de cada producto
+- Precios actuales configurados
+
+Esta vista es especialmente útil para revisar y gestionar el catálogo completo de productos y sus precios de manera eficiente.
+
+---
+
+:::note
 La pantalla principal también cuenta con una barra de búsqueda que permite encontrar productos rápidamente por nombre o código.
+:::
 
 ### Menú de Configuración
 
