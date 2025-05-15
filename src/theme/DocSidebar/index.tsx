@@ -35,7 +35,9 @@ import {
   BedDouble,
   Tags,
   ConciergeBell,
-  UtensilsCrossed 
+  UtensilsCrossed ,
+  MessageCircleQuestion,
+  CircleX  
 } from 'lucide-react';
 
 function getIconForItem(item) {
@@ -86,6 +88,16 @@ function getIconForItem(item) {
 
     if (item.label.includes('Mesas')) return <UtensilsCrossed size={18} />;
     if (item.label.includes('POS')) return <CreditCard size={18} />;
+
+    // Preguntas Comunes 
+
+    if (item.label.includes('Preguntas Comunes')) return <MessageCircleQuestion size={18} />;
+
+    // Errores Sunat 
+
+    if (item.label.includes('Errores Sunat')) return <CircleX size={18} />;
+
+     
 
   }
   return null;
