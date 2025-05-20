@@ -1,4 +1,4 @@
-# Ingreso a la Base de Datos
+# Cómo realizar el cambio de estados de comprobantes desde la base de datos
 
 :::info Requisitos Previos
 Antes de proceder, asegúrese de tener acceso a:
